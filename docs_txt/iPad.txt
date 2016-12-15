@@ -1,0 +1,551 @@
+iPad
+From Wikipedia, the free encyclopedia
+This article is about the line of tablet computers by Apple Inc. For other uses, see iPad (disambiguation).
+This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: It has a major layout problem. On a 1600×900 screen, the infobox (which is supposed to be a summary) is ten screens deep, while the comparison table, which is naturally comprehensive, is cropped off. Please help improve this article if you can. (December 2015) (Learn how and when to remove this template message)
+iPad
+9.7" iPad Pro in GoldDeveloperApple Inc.ManufacturerFoxconn (on contract[1])
+PegatronTypeTablet computer[show]Further information
+This article is part of a series on theiPad* iPad
+* 2
+* 3
+* 4
+* Air
+* Air 2
+
+* Mini
+* 2
+* 3
+* 4
+
+* ProList of iPad models* v
+* t
+* eThe iPad (/?a?pæd/ EYE-pad) is an iOS-based line of tablet computers designed and marketed by Apple Inc. The first iPad was released on April 3, 2010; the most recent iPad models are the 9.7-inch iPad Pro released on March 31, 2016 and the iPad Mini 4, released on September 9, 2015. Theuser interface is built around the device's multi-touch screen, including a virtual keyboard. The iPad includes built-in Wi-Fi and cellular connectivity on select models. As of January 2015, there have been over 250 million iPads sold.[7] IPad tablets are second most popular, by sales, against Android-based ones, since 2013, when Android tablet sales increased by 127%.[18]
+An iPad can shoot video, take photos, play music, and perform Internet functions such as web-browsing and emailing. Other functions – games,reference, GPS navigation, social networking, etc. – can be enabled by downloading and installing apps. As of October 2013, the App Store has more than 475,000 native apps by Apple and third parties.[19]
+There have been six versions of the iPad. The first generation established design precedents, such as the 9.7-inch screen size and button placement, that have persisted through all models. The 2nd generation iPad (iPad 2) introduced a whole new design which also added a dual-core Apple A5processor and VGA front-facing and 720p rear-facing cameras designed for FaceTime video calling, and dramatically reduced the thickness of the device. The third generation added a Retina Display, the new Apple A5X processor with a quad-core graphics processor, a 5-megapixel camera, HD1080p video recording, voice dictation, and 4G (LTE). The fourth generation added the Apple A6X processor and replaces the 30-pin connector with an all-digital Lightning connector. The iPad Air added the Apple A7 processor and the Apple M7 motion coprocessor, and reduced the thickness for the first time since the iPad 2. The iPad Air 2 added the Apple A8X processor, the Apple M8 motion coprocessor, an 8-megapixel camera, and the Touch IDfingerprint sensor, and further reduced the thickness.
+There have been four versions of the iPad Mini. The first generation features a reduced screen size of 7.9 inches and features similar internal specifications as the iPad 2 except it uses the Lightning connector. The iPad Mini 2 features the Retina Display, the Apple A7 processor and the Apple M7 motion coprocessor, closely matching the internals specifications of the iPad Air. The iPad Mini 3 features the Touch ID fingerprint sensor. The iPad Mini 4 features the Apple A8 and the Apple M8 motion coprocessor.
+Contents
+  [hide] 
+* 1History
+* 2Hardware
+o 2.1Screen and input
+o 2.2Audio and output
+o 2.3Battery
+o 2.4Storage
+o 2.5Cellular connectivity
+o 2.6Accessories
+* 3Software
+o 3.1Interface
+o 3.2Multimedia
+o 3.3Internet connectivity
+o 3.4Applications
+o 3.5iBooks
+* 4Model comparison
+o 4.1IPad series
+o 4.2IPad Mini series
+o 4.3IPad Pro series
+* 5Restrictions
+o 5.1Digital rights management
+o 5.2Jailbreaking
+o 5.3Censorship
+* 6Reception
+o 6.1Reaction to the announcement
+o 6.2Reviews
+o 6.3Recognition
+* 7Usage
+o 7.1Market share
+o 7.2Business
+o 7.3Education and healthcare
+o 7.4Consumer usage
+* 8Timeline
+* 9See also
+* 10References
+* 11External links
+History
+
+Steve Jobs, Apple's thenCEO, introducing the iPad.
+
+Apple's first tablet from 1993
+Apple co-founder Steve Jobs said in a 1983 speech[20] that the company's
+strategy is really simple. What we want to do is we want to put an incredibly great computer in a book that you can carry around with you and learn how to use in 20 minutes ... and we really want to do it with a radio link in it so you don’t have to hook up to anything and you’re in communication with all of these larger databases and other computers.
+Apple's first tablet computer was the Newton MessagePad 100,[21][22] introduced in 1993, powered by an ARM6 processor core developed by ARM, a 1990 spinout of Acorn Computers in which Apple invested. Apple also developed a prototype PowerBook Duo based tablet, the PenLite, but decided not to sell it in order to avoid hurting MessagePad sales.[23] Apple released several more Newton-based PDAs; the final one, the MessagePad 2100, was discontinued in 1998.
+Apple re-entered the mobile-computing markets in 2007 with the iPhone. Smaller than the iPad, but featuring a camera and mobile phone, it pioneered the multi-touch finger-sensitive touchscreen interface of Apple's iOS mobile operating system. By late 2009, the iPad's release had been rumored for several years. Such speculation mostly talked about "Apple's tablet"; specific names included iTablet and iSlate.[24] The iPad was announced on January 27, 2010, by Steve Jobs at an Apple press conference at the Yerba Buena Center for the Arts in San Francisco.[25][26]
+Jobs later said that Apple had begun developing the iPad before the iPhone.[27][28] Jonathan Ive in 1991 had created an industrial design for a stylus-based tablet, the Macintosh Folio, as his first project for Apple; by 2004 his studio at the company was participating in the development of a large tablet prototype, which he later described as "very crude, involving projectors". Ive stated that after seeking to produce the tablet first, he came to agree with Jobs that the phone was more important,[29] as the tablet's innovations would work as well in it.[30] The iPad's internal codename was K48, which was revealed in the court case surrounding leaking of iPad information before launch.[31]
+Apple began taking pre-orders for the first-generation iPad on March 12, 2010.[3] The only major change to the device between its announcement and being available to pre-order was the change of the behavior of the side switch to perform either sound muting or screen rotation locking (user selectable).[32] The Wi-Fi version of the iPad went on sale in the United States on April 3, 2010.[3][33] The Wi-Fi + 3G version was released on April 30.[3][4][4] 3G service in the United States is provided by AT&T and was initially sold with two prepaid contract-free data plan options: one for unlimited data and the other for 250 MB per month at half the price.[34][35] On June 2, 2010, AT&T announced that effective June 7 the unlimited plan would be replaced for new customers with a 2 GB plan at slightly lower cost; existing customers would have the option to keep the unlimited plan.[36] The plans are activated on the iPad itself and can be cancelled at any time.[37]
+Initially, the iPad was only available to order at the Apple Store, but has since become available for purchase through retailers including Amazon, Walmart, and network operators. The iPad was launched in countries including Australia, Canada, France, Germany, Japan and the United Kingdom on May 28.[38][39] Online pre-orders in those countries began on May 10.[4] Apple released the iPad in Hong Kong, Ireland, Mexico, New Zealand and Singapore on July 23, 2010.[40][41][42] Israel briefly prohibited importation of the iPad because of concerns that its Wi-Fi might interfere with other devices.[43] On September 17, 2010, the iPad was officially launched in China.[44]
+300,000 iPads were sold on their first day of availability.[45] By May 3, 2010, Apple had sold a million iPads;[46] this was in half the time it took Apple to sell the same number of first-generation iPhones.[47] After passing the one million mark they continued selling rapidly reaching 3 million sales after 80 days.[48] During the October 18, 2010, financial conference call, Steve Jobs announced that Apple had sold more iPads than Macs for the fiscal quarter.[49] In total, Apple sold more than 15 million first-generation iPads prior to the launch of the iPad 2[50] – selling more than all other tablet PCs combined since the iPad's release.[51] and reaching 75% of tablet PC sales at the end of 2010.[52]
+Jobs unveiled the iPad 2 at a March 2, 2011, press conference.[53][54] About 33% thinner than its predecessor and 15% lighter, the iPad 2 has a better processor, a dual core Apple A5 that Apple says is twice as fast as its predecessor for CPU operations and up to nine times as fast for GPU operations. The iPad 2 includes front and back cameras that support the FaceTime videophoneapplication, as well as a three-axis gyroscope. It retained the original's 10hour battery life and had a similar pricing scheme.
+The successor to the iPad 2 was unveiled on March 7, 2012, by Apple CEO Tim Cook at the Yerba Buena Center for the Arts.[55][56] The new iPad contained a new dual core A5X processor with quad-core graphics, and a Retina Display with a resolution of 2048 by 1536 pixels,[57] more than 50 percent more pixels than a standard 1,920 by 1,080 high definition TV screen. A brief controversy erupted when it was revealed that the LTE advertised did not work in some countries.[58]
+On October 23, 2012, Apple announced the fourth generation iPad, which began shipping on November 2, 2012. The new hardware includes an A6X processor, HD FaceTime camera, improved LTE compatibility, and the all-digital Lightning connector. It is available in the same storage increments and pricing structure as the third generation.[59][60] Following the announcement of the fourth-generation iPad, the previous generation was discontinued.
+Alongside the launch of the 4th generation hardware, Apple announced the iPad Mini. With a screen measuring 7.9 inches, it is aimed at the emerging sector of smaller tablets such as the Kindle Fire and Nexus 7. The hardware of the new iPad Mini is similar to the iPad 2, with a 1024 by 768 pixel resolution screen and a dual core A5 processor, but is 53% lighter and 7.2 mm thick. It was released on November 2, 2012, in 16 GB, 32 GB, and 64 GB capacities and WiFi or WiFi + Cellular versions.[60]
+On October 22, 2013, Apple introduced the fifth generation of iPad, called the iPad Air, and the second generation of iPad Mini, called iPad Mini 2 that comes with a Retina Display. The iPad Air went on sale on November 1, 2013, starting at $499, while the iPad Mini 2 was released on November 12, 2013, starting at $399.
+In October 2014, Apple released the iPad Air 2 and the iPad Mini 3. The iPad Air 2 is the first iOS device to feature a triple core CPU and 2GB of RAM. As well as being thinner and faster than its predecessor, the iPad Air, it features Touch ID and is available with a gold color option. The iPad Mini 3 is similar than the iPad Mini 2 in design and hardware, but also includes Touch ID and available in gold color.
+In September 2015, the iPad Pro was announced, which included a 12.9-inch screen.[61]
+In March 2016, the 9.7-inch iPad Pro was announced. And Apple added a new 256 GB of storage for both the iPad Pro 9.7- & 12.9-inch.
+Hardware
+Screen and input
+The iPad's (first two generations) touchscreen display is a 1024 by 768 pixel, 7.75×5.82 in (197×148 mm) liquid-crystal display (diagonal 9.7 in (246.4 mm)), with fingerprint- and scratch-resistant glass. Steve Jobs said a 7-inch screen would be "too small to express the software" and that 10 inches was the minimum for a tablet screen.[62] Like the iPhone, the iPad is designed to be controlled by bare fingers; normal, non-conductive gloves and styli do not work,[63] although there are special gloves and capacitive styli designed for this use.[64][65]
+The display responds to other sensors: an ambient light sensor to adjust screen brightness and a 3-axis accelerometer to sense iPad orientation and switch between portrait and landscape modes. Unlike the iPhone and iPod Touch's built-in applications, which work in three orientations (portrait, landscape-left and landscape-right), the iPad's built-in applications support screen rotation in all four orientations, including upside-down. Consequently, the device has no intrinsic "native" orientation; only the relative position of the home button changes.[66]
+There are four physical switches on the iPad, including a home button near the display that returns the user to the main menu, and three plastic physical switches on the sides: wake/sleep andvolume up/down, plus a software-controlled switch whose function has changed with software updates. Originally the switch locked the screen to its current orientation, but the iOS 4.2 changed it to a mute switch, with rotation lock now available in an onscreen menu.[67] In the iOS 4.3 update, released with the iPad 2, a setting was added to allow the user to specify whether the side switch was used for rotation lock or mute.[8]
+The first generation iPad had no camera; the iPad 2 has a front VGA camera and a rear-facing 720p camera, both capable of still images (but these are only taken at a low quality 0.3 megapixels) and 30fps video. The rear-facing camera has a 5× digital zoom for still images only. Both shoot photo and video in a 4:3 fullscreen aspect ratio, unlike the iPhone 4, which shoots in a 16:9widescreen aspect ratio. Unlike the iPhone, the iPad does not support tap to focus, but does allow a tap to set auto exposure.[68] The cameras allow FaceTime video messaging with iPhone 4, fourth generation iPod Touch, and Snow Leopard, Lion, and Mountain Lion Macs.[69]
+Audio and output
+The iPad has two internal speakers reproducing left and right channel audio located on the bottom-right of the unit. In the original iPad, the speakers push sound through two small sealed channels leading to the three audio ports carved into the device,[15] while the iPad 2 has its speakers behind a single grill.[11] A volume switch is on the right side of the unit. A 3.5-mm TRRS connector audio-out jack on the top-left corner of the device provides stereo sound for headphones with or without microphones and/or volume controls. The iPad also contains a microphone that can be used forvoice recording.
+The built-in Bluetooth 2.1 + EDR interface allows wireless headphones and keyboards to be used with the iPad.[70] However iOS does not currently support file transfer via Bluetooth.[71] IPad also features 1024×768 VGA video output for limited applications,[72] screen capture,[73] connecting an external display or television through an accessory adapter.
+Battery
+The iPad uses an internal rechargeable lithium-ion polymer (LiPo) battery. The batteries are made in Taiwan by Simplo Technology (60%) and Dynapack International Technology.[74] The iPad is designed to be charged with a high current of 2 amperes using the included 10 W USB power adapter and USB cord with a USB connector at one end and a 30-pin dock connector at the other end. While it can be charged by a standard USB port from a computer, these are limited to 500 milliamperes (0.5 amps). As a result, if the iPad is running while powered by a normal USB computer port, it may charge very slowly, or not at all. High-power USB ports found in newer Apple computers and accessories provide full charging capabilities.[75]
+Apple claims that the battery for both generations of iPad can provide up to 10 hours of video, 140 hours of audio playback, or one month on standby. Like any rechargeable battery technology, the iPad's battery loses capacity over time, but is not designed to be user-replaceable. In a program similar to the battery-replacement program for the iPod and the original iPhone, Apple will replace an iPad that does not hold an electrical charge with a refurbished iPad for a fee of US$99 plus $6.95 shipping.[76][77] As a different unit is supplied, user data is not preserved. The refurbished unit will have a new case.[78] The warranty on the refurbished unit may vary between jurisdictions.
+Independent companies also provide a battery replacement service, returning the original unit with new battery but original case. Alternatively it is possible for a technically competent user to buy and install a new battery. The task does not require soldering, but is technically challenging.[79]
+Storage
+The iPad was released with three capacity options for storage: 16, 32, or 64 GB of internal flash memory. On January 29, 2013, Apple announced a 128 GB model of the fourth generation iPad, which was released on February 5.[14] All data is stored on the internal flash memory, with no option to expand storage. Apple sells a "camera connection kit" with an SD card reader, but it can only be used to transfer photos and videos.[80] On March 21, Apple announced a 256 GB model of the iPad Pro, which was released on March 31.
+Cellular connectivity
+IPad models come in two basic variants: Wi-Fi only and Wi-Fi with cellular support. The cellular variants however do not support circuit-switched voice calls and texts, only data connectivity. The side of the Wi-Fi + 3G iPad had a micro-SIM slot (not mini-SIM). The 3G iPad can be used with any compatible GSM carrier, unlike the iPhone, which is usually sold 'locked' to specific carriers.[81]On the first generations of the iPad in the U.S., data network access via T-Mobile's network was limited to slower EDGE cellular speeds because T-Mobile's 3G Network at the time used different frequencies.[82][83]
+The second generation iPad introduced a third tier of models with CDMA support for Verizon Wireless in the United States, available separately from the AT&T capable version.[84]
+The iPad up to the 4th generation uses a Micro-SIM, while the first generation iPad Mini uses a nano-SIM as introduced with the iPhone 5. The iPad mini is available with two different frequency bands worldwide. Both devices support the same quad-band GSM and quad-band UMTS frequencies, but one variant also supports LTE bands 4 and 17 (principally intended for use on the U.S. AT&T network), while the other adds support for LTE bands 1, 3, 5, 13, 25 and CDMA EV-DO Rev. A and Rev. B.
+The 5th generation iPad and 2nd generation iPad mini introduced support for many additional LTE bands worldwide. The iPad Air and Mini with Retina display cellular models come in two variants each, all of which support nano-SIMs, quad-band GSM, penta-band UMTS, and dual-band CDMA EV-DO Rev. A and B. Additionally, one variant of each iPad also supports LTE bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 18, 19, 20, 25 and 26 while the other variant supports LTE bands 1, 2, 3, 5, 7, 8, 18, 19, 20 and TD-LTE bands 38, 39 and 40. Apple's ability to handle many different bands in one device allowed it to offer, for the first time, a single iPad variant which supports all the cellular bands and technologies deployed by all the major North American wireless providers at the time of the device's introduction. Moreover, with T-Mobile USA selling the iPad Air and Mini with Retina display, these models became the first iPads that were made available for purchase directly from all four nationwide U.S. wireless carriers (and, as previously indicated, with all U.S. carriers now selling the same hardware variant of the device).
+Accessories
+Main article: iPad accessories
+Apple offers several iPad accessories,[85] most of which are adapters for the proprietary 30-pin dock connector, the iPad's only port besides the headphone jack.[8] A dock holds the iPad upright at an angle, and has a dock connector and audio line out port. Each generation of iPad requires a corresponding dock. A dock that included a physical keyboard was only supported for the original iPad,[86] but all generations are compatible with Bluetooth keyboards that also work with Macs and PCs. The iPad can be charged by a standalone power adapter ("wall charger") also used for iPods and iPhones, and a 10 W charger is included with the iPad.
+Apple sells a camera connection kit that consists of two separate adapters for the dock connector, one to USB Type A, the other an SD card reader. Adapter can be used to transfer photos and videos and to plug USB audio card or MIDI keyboard.[87] A third party sells an adapter that includes USB, SD, and microSD on a single unit.[88] An adapter to VGA connectors allows the iPad to work with external monitors and projectors. Another adapter mirrors the screen onto HDMI compatible devices in 1080p and works with all apps and rotations. Unlike other adapters, it allows the iPad to charge through another dock connector.[89] While the HDMI adapter was released with and advertised for the second generation iPad, it also works with the first-generation iPad, the iPhone 4, and the fourth generation iPod Touch.[90]
+Smart Covers are screen protectors that magnetically attach and align to the face of the iPad 2, 3, or 4. The cover has three folds which allow it to convert into a stand, which is also held together by magnets.[91] While original iPad owners could purchase a black case that included a similarly folding cover, the Smart Cover is meant to be more minimal, easily detachable, and protects only the screen. Smart Covers have a microfiber bottom that cleans the front of the iPad, which wakes up when the cover is removed. There are five different colors of both polyurethane and leather, with leather being more expensive. Smart Covers are not compatible with the original iPad.[92] In June 2012, Apple started selling the Smart Case - a case with the combined function of a smart cover and a back protection case which is compatible with the iPad 2, and iPad 3rd & 4th generation devices.[93]
+Software
+Main articles: iOS and iOS version history
+Like the iPhone, with which it shares a development environment[94] the iPad only runs its own software, software downloaded from Apple's App Store, and software written by developers who have paid for a developer's license on registered devices.[95][not in citation given] The iPad runs almost all third-party iPhone applications, displaying them at iPhone size or enlarging them to fill the iPad's screen.[96] Developers may also create or modify apps to take advantage of the iPad's features.[97] Application developers use iOS SDK for developing applications for iPad.[98] The iPad originally shipped with a customized iPad-only version of iPhone OS, dubbed v3.2. On September 1, it was announced the iPad would get iOS 4.2 by November 2010;[99] to fulfill this Apple released iOS 4.2.1 to the public on November 22.[100]
+Interface
+The interface is centred around the home screen, a graphical list of available applications. The home screen can be accessed at any time by a hardware button below the screen, closing an open application in the process.[101]
+Users can also add and delete icons from the dock, which is the same on every home screen. Each home screen holds up to twenty icons, and the dock holds up to six icons. Users can delete Web Clips and third-party applications at any time, and may select only certain applications for transfer from iTunes. Apple's default programs, however, may not be removed.
+Almost all input is given through the touch screen, which understands complex gestures using multi-touch. The iPad's interaction techniques enable the user to move the content up or down by a touch-drag motion of the finger. For example, zooming in and out of web pages and photos is done by placing two fingers on the screen and spreading them farther apart or bringing them closer together, a gesture known as "pinching".
+Scrolling through a long list or menu is achieved by sliding a finger over the display from bottom to top, or vice versa to go back. In either case, the list moves as if it is pasted on the outer surface of a wheel, slowly decelerating as if affected by friction. In this way, the interface simulates the physics of a real object.
+Other user-centered interactive effects include horizontally sliding sub-selection, the vertically sliding keyboard and bookmarks menu, and widgets that turn around to allow settings to be configured on the other side. Menu bars are found at the top and bottom of the screen when necessary. Their options vary by program, but always follow a consistent style motif. In menu hierarchies, a "back" button in the top-left corner of the screen displays the name of the parent folder.
+Multimedia
+The layout of the music library is similar to that of an iPod or current Symbian S60 phones. The iPad can sort its media library by songs, artists, albums, videos, playlists, genres, composers,podcasts, audiobooks, and compilations. Options are always presented alphabetically, except in playlists, which retain their order from iTunes. The iPhone uses a large font that allows users plenty of room to touch their selection.
+Users can rotate their device horizontally to landscape mode to access Cover Flow. Like on iTunes, this feature shows the different album covers in a scroll-through photo library. Scrolling is achieved by swiping a finger across the screen. Alternatively, headset controls can be used to pause, play, skip, and repeat tracks.
+The iPad supports gapless playback.[102] Like the fifth-generation iPods introduced in 2005, the iPad can play digital video, allowing users to watch TV shows and movies in widescreen. Double-tapping switches between widescreen and fullscreen video playback.
+The iPad allows users to purchase and download songs from the iTunes Store directly to their iPad. It includes software that allows the user to upload, view, and email photos taken with the camera. The user zooms in and out of photos by sliding two fingers further apart or closer together, much like Safari. The Camera application also lets users view the camera roll, the pictures that have been taken with the iPad's camera. Those pictures are also available in the Photos application, along with any transferred from iPhoto or Aperture on a Mac, or Photoshop on a Windows PC.
+Internet connectivity
+The iPad can use Wi-Fi network trilateration from Skyhook Wireless to provide location information to applications such as Google Maps. The 3G model supports A-GPS to allow its position to be calculated with GPS or relative to nearby cellphone towers; it also has a black strip on the back to aid 3G reception.[103] The iPad has a headphone jack and a proprietary Apple dock connector, but no Ethernet or USB port.[8] However, the Apple Camera Connection Kit accessory provides two dock connector adapters for importing photos and videos via USB and SD memory cards.
+Applications
+The iPad comes with several applications, including Safari, Mail, Photos, Video, iPod, iTunes, App Store, iBooks, Maps, Notes, Calendar, and Contacts.[104] Several are improved versions of applications developed for the iPhone or Mac.
+The iPad syncs with iTunes on a Mac or Windows PC.[25] Apple ported its iWork suite from the Mac to the iPad, and sells pared down versions of Pages, Numbers, and Keynote apps in the App Store.[105] Although the iPad is not designed to replace a mobile phone, a user can use a wired headset or the built-in speaker and microphone and place telephone calls over Wi-Fi or 3G using aVoIP application.[106] As of June 2012, there were about 225,000 iPad specific apps on the App Store.[107]
+In December 2010, Reuters reported that iPhone and iPad users have lodged a lawsuit against Apple alleging that some applications were passing their information to third party advertisers without consent.[108]
+iBooks
+Further information: iBookstore
+The iPad has an optional iBooks application that can be downloaded from the App Store, which displays books and other ePub-format content downloaded from the iBookstore.[109] For the iPad launch on April 3, 2010, the iBookstore is available only in the United States.[3][25][104] Several major book publishers including Penguin Books, HarperCollins, Simon & Schuster and Macmillan have committed to publishing books for the iPad.[110] Despite its being a direct competitor to both the Amazon Kindle and Barnes & Noble Nook,[111] both Amazon.com and Barnes & Noble have made Kindle and Nook apps available for the iPad.[112][113]
+In February 2010, Condé Nast said it would sell iPad subscriptions for several of its magazines by June.[114]
+In April 2010, the New York Times announced that it would begin publishing daily on the iPad.[115] The "Top News" section is available free of charge, and the remainder on payment of asubscription.[116] Major news organizations, including The Wall Street Journal, the BBC, and Reuters have released iPad applications. NewsCorp created an iPad-only publication, The Daily, in February 2011.[117] It ceased operations in December 2012.
+Model comparison
+IPad series
+DiscontinuedCurrent
+ModeliPad
+(1st generation)iPad 2iPad
+(3rd generation)iPad
+(4th generation)iPad AiriPad Air 2ImageInitial operating systemiOS 3.2iOS 4.2.1iOS 5.1iOS 6.0iOS 7.0.3iOS 8.1Highest supported operating systemiOS 5.1.1iOS 9.3.5iOS 10.0.2Model Number[118][119]A1219 (WiFi)
+A1337 (WiFi + 3G)A1395 (WiFi)
+A1397 (WiFi + 3G CDMA)
+A1396 (WiFi + 3G GSM)A1416 (WiFi)
+A1403 (WiFi + Cellular VZ)
+A1430 (WiFi + Cellular)A1458 (WiFi)
+A1459 (WiFi + Cellular)
+A1460 (WiFi + Cellular MM)A1474 (WiFi)
+A1475 (WiFi + Cellular)
+A1476 (Wi-Fi + Cellular TD-LTE)A1566 (WiFi)
+A1567 (WiFi + Cellular)Announcement dateJanuary 27, 2010[25]March 2, 2011[50]March 7, 201216, 32, 64 GB:
+October 23, 2012
+128 GB:
+January 29, 2013October 22, 2013October 16, 2014Release dateApril 3, 2010[3]March 11, 2011[120]March 16, 201216, 32, 64 GB:
+November 2, 2012
+128 GB:
+February 5, 2013
+16 GB re-released:
+March 18, 2014November 1, 2013October 22, 2014[5]DiscontinuedMarch 2, 2011[50]32, 64 GB: March 7, 2012
+16 GB: March 18, 2014October 23, 201216, 32, 64, 128 GB: October 22, 2013
+
+16 GB re-released: October 16, 201464, 128 GB: October 16, 2014
+16, 32 GB: March 21, 2016128 GB (old): March 21, 2016
+16 GB and 64 GB: September 7, 2016
+32 GB and 128 GB (new): In productionLaunch priceWi-Fi models:
+16 GB $499, 32 GB $599, 64 GB $699
+Wi-Fi + 3G models:
+16 GB $629, 32 GB $729, 64 GB $829Wi-Fi models:
+16 GB $499, 32 GB $599, 64 GB $699
+Wi-Fi + 3G models:
+16 GB $629, 32 GB $729, 64 GB $829Wi-Fi models:
+16 GB $499, 32 GB $599, 64 GB $699
+Wi-Fi + Cellular models:
+16 GB $629, 32 GB $729, 64 GB $829Wi-Fi models:
+16 GB $499, 32 GB $599, 64 GB $699, 128 GB $799
+Wi-Fi + Cellular models:
+16 GB $629, 32 GB $729, 64 GB $829, 128 GB $929Wi-Fi models:
+16 GB $499, 32 GB $599, 64 GB $699, 128 GB $799
+Wi-Fi + Cellular models:
+16 GB $629, 32 GB $729, 64 GB $829, 128 GB $929Wi-Fi models:
+16 GB $499, 64 GB $599, 128 GB $699
+Wi-Fi + Cellular models:
+16 GB $629, 64 GB $729, 128 GB $829SoCApple A4[9]Apple A5Apple A5X[121]Apple A6XApple A7Apple A8XMotion coprocessorN/AN/AN/AN/AApple M7Apple M8CPU1 GHz ARM Cortex-A81 GHz dual-core ARM Cortex-A91.4 GHz dual-core Apple Swift1.4 GHz dual-core AppleCyclone1.5 GHz tri-core[122] AppleTyphoonGPUPowerVR SGX535Dual-core PowerVR SGX543MP2Quad-core PowerVR SGX543MP4Quad-core PowerVR SGX554MP4Quad-core PowerVRG6430[123]Octa-core PowerVR GXA6850[17]Memory256 MB DDR RAM built into Apple A4 package[10]512 MB DDR2 RAM (1066 Mbit/s data rate) built into Apple A5 package[11]1 GB LPDDR2 RAM1 GB LPDDR3 RAM2 GB LPDDR3 RAM[13][122]Storage16, 32, or 64 GB[8]16, 32, 64, or 128 GB[8][14]16, 64, or 128 GB[13]Display9.7 inches (250 mm) multi-touch display with LED backlighting and a fingerprint and scratch-resistant coating[8]Additionally: Fully laminated display, Antireflective coating[124]1024×768 pixels at 132 ppi2048×1536 pixels at 264 ppi (Retina Display)CameraBackN/A720 p HD still and video camera
+0.7 MP, 30fps and 5× digital zoom1080p HD still and video camera
+5 MP, 30fps and 5× digital zoom1080p HD still and video camera
+8 MP, 30fps and 3× digital zoomFrontN/AVGA-quality still and videocamera, 0.3 MP1.2 MP still, 720p videoAudio codecCirrus Logic 338S1213[125]WirelessWi-FiWi-Fi (802.11a/b/g/n), Bluetooth 2.1+EDR[8]Wi-Fi (802.11a/b/g/n), Bluetooth 4.0Wi-Fi (802.11a/b/g/n/ac),Bluetooth 4.0Wi-Fi + 3G/CellularIn addition to above:
+3G cellular HSDPA, 2G cellular EDGE on 3G models[8]In addition to above and left:
+3G transitional LTE on Cellular modelGeolocationWi-FiWi-Fi,[8] Apple location databases[126]Additionally: iBeaconmicrolocation[124]Wi-Fi + 3G/CellularAssisted GPS, Apple databases,[126] Cellular network[8]Additionally: GLONASSAdditionally: iBeaconmicrolocation[124]Environmental sensorsAccelerometer, ambient light sensor, magnetometer[8]Additionally: gyroscopeAdditionally: barometer[127]Battery3.75 V 24.8 W·h (6,613 mA·h)[128]3.8 V 25 W·h (6,944 mA·h)[129]3.7 V 43 W·h (11,560 mA·h)[130][131]3.73 V 32.9 W·h(8,820 mA·h)[132]3.76 V 27.62 W·h(7,340 mA·h)[125]Dimensions9.56 in × 7.47 in × 0.528 in (242.8 mm × 189.7 mm × 13.4 mm)[8][133]9.5 in × 7.31 in × 0.346 in (241.3 mm × 185.7 mm × 8.8 mm)[133]9.5 × 7.31 × 0.37 in (241.3 × 185.7 × 9.4 mm)9.4 in × 6.6 in × 0.295 in (238.8 mm × 167.6 mm × 7.5 mm)9.4 in × 6.6 in × 0.24 in (238.8 mm × 167.6 mm × 6.1 mm)WeightWi-Fi model: 1.5 lb (680 g)
+Wi-Fi + 3G model: 1.6 lb (730 g)Wi-Fi model: 1.325 lb (601 g)
+Wi-Fi + 3G GSM (AT&T/global) model: 1.351 lb (613 g)
+Wi-Fi + 3G CDMA (Verizon) model: 1.338 lb (607 g)Wi-Fi model: 1.44 lb (650 g)
+Wi-Fi + Cellular model: 1.46 lb (660 g)Wi-Fi model: 1.034 lb (469 g)
+Wi-Fi + Cellular model: 1.054 lb (478 g)Wi-Fi model: 0.96 lb (437 g)
+Wi-Fi + Cellular model: 0.98 lb (444 g)Mechanical keysHome, sleep, volume rocker, variable function switch (originally screen rotation lock, mute in iOS 4.2, either in 4.3 and later)[8]Without variable function switch[122]Connector30-pin dock connectorLightning ConnectorAdditional FeaturesTouch ID (finger-print scanner in home button)Greenhouse gas emissions130 kg CO2e[134][135]180 kg CO2e[136]170 kg CO2e[137]210 kg CO2e[138]190 kg CO2e[139]IPad Mini series
+DiscontinuedCurrent
+ModeliPad Mini
+(1st generation)iPad Mini 2iPad Mini 3iPad Mini 4ImageInitial operating systemiOS 6.0iOS 7.0iOS 8.1iOS 9.0Highest supported operating systemiOS 9.3.5iOS 10.0.2Model Number[118][119]A1432 (Wi-Fi)
+A1454 (Wi-Fi + Cellular)
+A1455 (Wi-Fi + Cellular MM)A1489 (Wi-Fi)
+A1490 (Wi-Fi + Cellular)
+A1491 (Wi-Fi + Cellular TD-LTE)A1599 (Wi-Fi)
+A1600 (Wi-Fi + Cellular)
+A1601 (Wi-Fi + Cellular TD-LTE)A1538 (Wi-Fi)
+A1550 (Wi-Fi + Cellular)Announcement dateOctober 23, 2012October 22, 2013October 16, 2014September 9, 2015Release dateNovember 2, 2012November 12, 2013October 22, 2014[6]September 9, 2015Discontinued32, 64 GB: October 22, 2013
+16 GB: June 19, 201564, 128 GB: October 16, 2014
+16 GB: September 7, 2016
+32 GB: In ProductionSeptember 9, 201516 GB and 64 GB: October 16, 2014
+32 GB and 128 GB: In ProductionLaunch priceWi-Fi models:
+16 GB US$329, 32 GB US$429, 64 GB US$529
+Wi-Fi + Cellular models:
+16 GB $459, 32 GB $559, 64 GB $659Wi-Fi models:
+16 GB $399, 32 GB $499, 64 GB $599, 128 GB $699
+Wi-Fi + Cellular models:
+16 GB $529, 32 GB $629, 64 GB $729, 128 GB $829Wi-Fi models:
+16 GB $399, 64 GB $499, 128 GB $599
+Wi-Fi + Cellular models:
+16 GB $529, 64 GB $629, 128 GB $729Wi-Fi models:
+16 GB $399, 64 GB $499, 128 GB $599
+Wi-Fi + Cellular models:
+16 GB $529, 64 GB $629, 128 GB $729SoCApple A5Apple A7Apple A8Motion coprocessorN/AApple M7Apple M8CPU1 GHz dual-core ARM Cortex-A91.3 GHz dual-core Apple Cyclone1.5 GHz dual-core Apple Typhoon[140]GPUDual-core PowerVR SGX543MP2Quad-core PowerVR G6430[123]Quad-core PowerVR GX6450[141]Memory512 MB DDR2 RAM built into Apple A5package[142]1 GB LPDDR3 RAM2 GB LPDDR3 RAM[143]Storage16, 32, or 64 GB[8]16, 32, 64, or 128 GB[8]16, 64, or 128 GBDisplay7.9 inches (200 mm) multi-touch display with LED backlighting and a fingerprint and scratch-resistant coating1024×768 pixels at 163 ppi2048×1536 pixels at 326 ppi (Retina Display)CameraBack1080p HD still and video camera
+5 MP, 30fps and 5× digital zoom1080p HD still and video camera
+8 MP, 30fps and 3× digital zoomFront1.2 MP still, 720p videoWirelessWi-FiWi-Fi (802.11a/b/g/n), Bluetooth 4.0Wi-Fi (802.11a/b/g/n/ac), Bluetooth 4.2Wi-Fi + CellularIn addition to above:
+3G transitional LTE on Cellular modelGeolocationWi-FiWi-Fi,[8] Apple location databases[126]Additionally: iBeacon microlocation[144]Wi-Fi + CellularAssisted GPS, GLONASS, Apple databases,[126] Cellular network[8]Additionally: iBeacon microlocation[144]Environmental sensorsAccelerometer, gyroscope, ambient light sensor, magnetometer[8]Additionally: barometerBattery3.72 V 16.5 W·h (4,440 mA·h)[142]3.75 V 24.3 W·h (6,471 mA·h)[145][146]3.82 V 19.32 W·h (5,124 mA·h)[143]Dimensions7.87 in × 5.3 in × 0.28 in (199.9 mm × 134.6 mm × 7.1 mm)7.87 in × 5.3 in × 0.29 in (199.9 mm × 134.6 mm × 7.4 mm)8 in × 5.3 in × 0.24 in (203.2 mm × 134.6 mm × 6.1 mm)WeightWi-Fi model: 0.68 lb (310 g)
+Wi-Fi + Cellular model: 0.69 lb (310 g)Wi-Fi model: 0.73 lb (330 g)
+Wi-Fi + Cellular model: 0.75 lb (340 g)Wi-Fi model: 0.65 lb (290 g)
+Wi-Fi + Cellular model: 0.67 lb (300 g)Mechanical keysHome, sleep, volume rocker, variable function switch (originally screen rotation lock, mute in iOS 4.2, either in 4.3 and later)[8]Without variable function switchConnectorLightningAdditional FeaturesN/ATouch ID (finger-print scanner in home button)Greenhouse gas emissions95 kg CO2e[147]170 kg CO2e[139][148]120 kg CO2e[149]The iPad is assembled by Foxconn, which also manufactures Apple's iPod, iPhone and Mac Mini, in its largest plant in Shenzhen, China.[150] In April 2011, Foxconn announced that it would be moving production of the iPad and other Apple products to Brazil where it could begin production before the end of 2011.[151]
+iSuppli estimated that each first-generation iPad 16 GB Wi-Fi version costs US$259.60 to manufacture, a total that excludes research, development, licensing, royalty and patent costs.[152] Apple does not disclose the makers of iPad components, but teardown reports and analysis from industry insiders indicate that various parts and their suppliers include:
+* Apple A4, A5 and A5X SoC: Samsung.[8][153][154][155]
+* NAND flash RAM chips: Toshiba and Samsung (64 GB model).[156][157]
+* Touch-screen chips: Broadcom.[156]
+* IPS Display (1st & 2nd generation): LG Display.[citation needed]
+* IPS Display (3rd generation): Samsung.[158]
+* Touch panels: Wintek (after TPK Touch Solutions was unable to fulfill its orders, delaying the iPad's release from late March to early April).[159]
+* Case: Catcher Technologies.[160]
+* Batteries: 60% are made in Taiwan by Simplo Technology, 40% by Dynapack International.[74][160]
+* Accelerometer: STMicroelectronics.[161]
+IPad Pro series
+DiscontinuedCurrent
+ModeliPad ProScreen Size12.9-inch9.7-inchImageInitial operating systemiOS 9.1iOS 9.3Highest supported operating systemiOS 10.0.2Model Number[118]A1584 (Wi-Fi)
+A1652 (Wi-Fi + Cellular)A1673 (Wi-Fi)
+A1674 or A1675 (Wi-Fi + Cellular)Announcement dateSeptember 9, 2015March 21, 2016Release dateNovember 11, 2015March 31, 2016DiscontinuedIn productionLaunch priceWi-Fi models:
+32 GB US$799, 128 GB US$949, 256 GB US$1099
+Wi-Fi + Cellular models:
+128 GB US$1079, 256 GB US$1229Wi-Fi models:
+32 GB US$599, 128 GB US$749, 256 GB US$899
+Wi-Fi + Cellular models:
+32 GB US$729, 128 GB US$879, 256 GB US$1029SoCApple A9XMotion coprocessorApple M9CPU2.26 GHz dual-core Apple Twister[162]GPU12-core PowerVR Series 7XT[163]Memory4 GB LPDDR4 RAM[162]2 GB LPDDR4 RAMStorage32, 128 or 256 GBDisplay12.9 inches (330 mm) [diagonal] multi-touch display with LED backlighting
+and an oleophobic, fingerprint and scratch-resistant coating, Antireflective coating9.7 inches (250 mm) [diagonal] multi-touch display with LED backlighting
+and an oleophobic and scratch-resistant coating, Wide color display, True Tone display,
+Fully laminated display, Antireflective coating2732-by-2048 pixel resolution 264 ppi (Retina Display)2048-by-1536 pixel resolution at 264 ppi (Retina Display)CameraiSight8 MP, ƒ/2.4 aperture, HDR for photos, Autofocus, five-element lens, Hybrid IR filter,
+Backside illumination, Face Detection, Exposure control, Panorama (up to 43 MP),Burst mode, Tap to focus, Photo geotagging, Timer mode, Video Recording, 1080pvideo recording (30 fps), Slo-mo video support for 720p at 120 fps, Time-lapsevideo, Video image stabilization, 3× digital zoom, Video geotagging12 MP, ƒ/2.2 aperture, Auto HDR for photos, five-element lens, Hybrid IR filter, Backside illumination,Autofocus with Focus Pixels, Improved face detection, Exposure control, Panorama (up to 63 MP), Burst mode,
+Tap to focus, Photo geotagging, Timer mode, Video Recording, Cinematic video stabilization, 4K video recording (30 fps), 1080p HD video recording at 30 fps or 60 fps, Slo-mo video support for 1080p at 120 fps and 720p at 240 fps, Time-lapse video, 3× digital zoom, Live Photos, True Tone LED flash, Sapphire crystallens cover, Improved local tone mapping, Improved noise reduction, Video geotaggingFaceTime1.2 MP, ƒ/2.2 aperture, 720p HD video recording, Auto HDR for photos and videos,Backside illumination, Exposure control, Burst mode, Timer mode and Face Detection5 MP, ƒ/2.2 aperture, 720p HD video recording, Retina Flash, Auto HDR for photos and videos, Backside illumination, Exposure control, Burst mode, Timer mode and Face DetectionWirelessWi-FiWi-Fi (802.11a/b/g/n/ac); dual channel (2.4 GHz and 5 GHz); HT80 with MIMO
+Bluetooth 4.2 technologyWi-Fi +CellularAbove plus:
+UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz);GSM/EDGE (850, 900, 1800, 1900 MHz), CDMA EV-DO Rev. A and Rev. B (800, 1900 MHz), LTE (Bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 18, 19, 20, 25, 26, 28, 29, 38, 39, 40, 41), Data only, Includes Apple SIM (U.S., UK, and Germany only)Above plus:
+UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz); GSM/EDGE (850, 900, 1800, 1900 MHz), CDMA EV-DO Rev. A and Rev. B (800, 1900 MHz), LTE Advanced (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41), Data only, Embedded Apple SIMGeolocationWi-FiWi-Fi, Apple location databases, iBeacon microlocationWi-Fi + CellularAssisted GPS, GLONASS, Apple databases,
+Cellular network, iBeacon microlocationEnvironmental sensorsAccelerometer, gyroscope, ambient light sensor,
+magnetometer, barometerBattery3.77 V 38.8 W·h (10,307mA·h) rechargeable lithium?polymer battery[164]3.82 V 27.91 W·h (7306mA·h) rechargeable lithium?polymer battery[165]Dimensions305.7 mm (12.04 in) (h)
+220.6 mm (8.69 in) (w)
+6.9 mm (0.27 in) (d)240 mm (9.4 in) (h)
+169.5 mm (6.67 in) (w)
+6.1 mm (0.24 in) (d)WeightWi-Fi model: 1.57 lb (710 g)
+Wi-Fi + Cellular model: 1.59 lb (720 g)Wi-Fi: 437 g (0.963 lb)
+Wi-Fi + Cellular: 444 g (0.979 lb)Mechanical keysHome, sleep, volume rockerConnectorLightning Connector, Apple Smart ConnectorAdditional FeaturesFour speaker audioGreenhouse gas emissions240 kg CO2e[166]210 kg CO2e[167]Restrictions
+Digital rights management
+For more details on the digital rights management restrictions, see iOS (Apple) § Digital rights management.
+The iPad does not employ digital rights management (DRM), but the OS prevents users from copying or transferring certain content outside of Apple's platform without authorization, such as TV shows, movies, and apps. Also, the iPad's development model requires anyone creating an app for the iPad to sign a non-disclosure agreement and pay for a developer subscription. Critics argue Apple's centralized app approval process and control of the platform itself could stifle software innovation. Of particular concern to digital rights advocates is Apple's ability to remotely disable or delete apps on any iPad at any time.[168][169][170]
+Digital rights advocates, including the Free Software Foundation,[171] Electronic Frontier Foundation,[170] and computer engineer and activist Brewster Kahle,[citation needed] have criticized the iPad for its digital rights restrictions. In April 2010, Paul Sweeting, an analyst with GigaOM, was quoted by National Public Radio as saying, "With the iPad, you have the anti-Internet in your hands. ... It offers [the major media companies] the opportunity to essentially re-create the old business model, wherein they are pushing content to you on their terms rather than you going out and finding content, or a search engine discovering content for you." But Sweeting also thought that the limitations imposed by Apple impart the feeling of a safe neighborhood, saying, "Apple is offering you a gated community where there's a guard at the gate, and there's probably maid service, too." Laura Sydell, the article's author, concludes, "As more consumers have fears about security on the Internet, viruses and malware, they may be happy to opt for Apple's gated community."[172] The Russian government has switched from iPads to Android devices over security concerns.[173]
+Jailbreaking
+For more details on iPad jailbreaking, see iOS jailbreaking.
+Like certain iOS devices, the iPad can be "jailbroken", depending on which version of iOS it is running, thus allowing applications and programs that are not authorized by Apple to run on the device.[174][175] Once it is jailbroken, users are able to download many applications previously unavailable through the App Store via unofficial installers such as Cydia, as well as illegally piratedapplications.[175] Apple claims jailbreaking "can" void the factory warranty on the device in the United States even though jailbreaking is legal.[175][176] The iPad, released in April 2010, was first jailbroken in May 2010 with the Spirit jailbreak for iOS version 3.1.2.[177] The iPad can be jailbroken on iOS versions 4.3 through 4.3.3 with the web-based tool JailbreakMe 3.0 (released in July 2011),[178] and on iOS versions including 5.0 and 5.0.1 using redsn0w[179] Absinthe 2.0 was released on May 25, 2012 as the first jailbreak method for all iOS 5.1.1 devices except the 32 nm version of the iPad 2.[180]
+Censorship
+Apple's App Store, which provides iPhone and iPad applications, imposes censorship of content, which has become an issue for book publishers and magazines seeking to use the platform. The Guardian newspaper described the role of Apple as analogous to that of British magazine distributor WH Smith, which for many years imposed content restrictions.[181]
+Due to the exclusion of pornography from the App Store, YouPorn and others changed their video format from Flash to H.264 and HTML5 specifically for the iPad.[182] In an e-mail exchange[183]with Ryan Tate from Valleywag, Steve Jobs claimed that the iPad offers "freedom from porn", leading to many upset replies including Adbustings in Berlin by artist Johannes P. Osterhoff[184] and in San Francisco during WWDC10.[185]
+Reception
+On May 28, 2010, the iPad was released in Australia, Canada, and Japan, as well as in several larger European countries. Media reaction to the launch was mixed. The media noted the positive response from fans of the device, with thousands of people queued on the first day of sale in a number of these countries.[186][187]
+Reaction to the announcement
+Media reaction to the iPad announcement was mixed. Walter Mossberg wrote, "It's about the software, stupid", meaning hardware features and build are less important to the iPad's success than software and user interface, his first impressions of which were largely positive. Mossberg also called the price "modest" for a device of its capabilities, and praised the ten-hour battery life.[188]Others, including PC Advisor and the Sydney Morning Herald, wrote that the iPad would also compete with proliferating netbooks, most of which use Microsoft Windows.[189][190] The base model's $499 price was lower than pre-release estimates by the tech press, Wall Street analysts, and Apple's competitors, all of whom were expecting a much higher entry price point.[191][192][193]
+CNET also criticized the iPad for its apparent lack of wireless sync which other portable devices such as Microsoft's Zune have had for a number of years. The built-in iTunes app is able to download from the Internet as well.[194]
+Reviews
+Reviews of the iPad have been generally favorable. Walt Mossberg then, of The Wall Street Journal called it a "pretty close" laptop killer.[195] David Pogue of The New York Times wrote a "dual" review, one part for technology-minded people, and the other part for non-technology-minded people. In the former section, he notes that a laptop offers more features for a cheaper price than the iPad. In his review for the latter audience, however, he claims that if his readers like the concept of the device and can understand what its intended uses are, then they will enjoy using the device.[196] PC Magazine's Tim Gideon wrote, "you have yourself a winner" that "will undoubtedly be a driving force in shaping the emerging tablet landscape."[197] Michael Arrington of TechCrunch said, "the iPad beats even my most optimistic expectations. This is a new category of device. But it also will replace laptops for many people."[198] PC World criticized the iPad's file sharing and printing abilities,[199] and ArsTechnica said sharing files with a computer is "one of our least favorite parts of the iPad experience."[200]
+The media also praised the quantity of applications, as well as the bookstore and other media applications.[201][202] In contrast they criticized the iPad for being a closed system and mentioned that the iPad faces competition from Android-based tablets,[186] that outsold iPads in 2013, surpassing iPads in the second quarter of 2013,[203] and have overtaken iPad's installed base,[204] and has lost majority of web browsing to Android, by StatCounter estimates, in South America, Africa, most of Asia – many large countries there and in Eastern Europe.[205] The Independent criticized the iPad for not being as readable in bright light as paper but praised it for being able to store large quantities of books.[201] After its UK release, The Daily Telegraph said the iPad's lack of Adobe Flashsupport was "annoying."[206]
+Recognition
+The iPad was selected by Time magazine as one of the 50 Best Inventions of the Year 2010,[207] while Popular Science chose it as the top gadget[208] behind the overall "Best of What's New 2010" winner Groasis Waterboxx.[209]
+Usage
+Market share
+IPad tablets still have a wide margin globally on second most used Android tablets. The market share, however, differs widely by regions; and the iPad has lost market share globally, every year since 2012 (when StatCounter started tracking tablets separately).[210]
+According to StatCounter statistics, that tracks web use and gives operating system/platform share based on it, the iPad has lost majority of use in South America to Android,[211][212] did also lose majority while gaining back in Asia[213] and in Africa has lost by a wide margin, where Android is up to 70%.[214]
+Business
+
+While the iPad is mostly used by consumers, it also has been taken up by business users.[215] Within 90 days of its release, the iPad managed to penetrate 50% of Fortune 100 companies.[216] Some companies are adopting iPads in their business offices by distributing or making available iPads to employees. Examples of uses in the workplace include attorneys responding to clients, medical professionals accessing health records during patient exams, and managers approving employee requests.[217][218][219]
+A survey by Frost & Sullivan shows that iPad usage in office workplaces is linked to the goals of increased employee productivity, reduced paperwork, and increased revenue. The research firm estimates that "The mobile-office application market in North America may reach $6.85 billion in 2015, up from an estimated $1.76 billion [in 2010]."[220]
+Since March 2011, the US Federal Aviation Administration has approved the iPad for in-cockpit use to cut down on the paper consumption in several airlines.[221] In 2011, Alaska Airlines became the first airline to replace pilots' paper manuals with iPads, weighing 0.68 kg compared to 11 kg for the printed flight manuals. It hopes to have fewer back and muscle injuries.[222] More than a dozen airlines have followed suit, including United, which has distributed 11,000 iPads to cockpits.[223] Also, many airlines now offer their inflight magazine as a downloadable application for the iPad.[224][225][226]
+Education and healthcare
+The iPad has several uses in the classroom,[227] and has been praised as a valuable tool for homeschooling.[228][229] Soon after the iPad was released, it was reported that 81% of the top book apps were for children.[230] The iPad has also been called a revolutionary tool to help children with autism learn how to communicate and socialize more easily.[231]
+In the healthcare field, iPads and iPhones have been used to help hospitals manage their supply chain. For example, Novation, a healthcare contracting services company, developed VHA PriceLynx (based on the mobile application platform of business intelligence software vendor MicroStrategy), a business intelligence app to help health care organizations manage its purchasing procedures more efficiently and save money for hospitals. Guillermo Ramas of Novation states, "Doctors won't walk around a hospital with a laptop. With an iPad it's perfect to walk around the hospital with as long as they have the information they need."[232]
+In 2013, Gianna Chien (aged 14) presented to more than 8,000 doctors at the Heart Rhythm Society meeting that Apple iPad 2 can, in some cases, interfere with life-saving heart devices (pace maker) because of the magnets inside.[233] Apple's webpage has advised pacemaker users to keep iPads at least 6-inches away from the pacemaker.
+Consumer usage
+In the United States, fans attending Super Bowl XLV, the first Super Bowl since the iPad was released, could use an official National Football League (NFL) app to navigate Cowboys Stadium.[234]In 2011, the Tampa Bay Buccaneers became the first NFL club to discontinue the use of paper copies of playbooks, and instead distributed all players their playbook and videos in electronic format via an iPad 2.[235]
+The iPad is able to support many music creation applications in addition to the iTunes music playback software. These include sound samplers, guitar and voice effects processors, sequencers for synthesized sounds and sampled loops, virtual synthesizers and drum machines, theremin-style and other touch responsive instruments, drum pads and many more. Gorillaz's 2010 album, The Fall, was created almost exclusively using the iPad by Damon Albarn while on tour with the band.[236] The music video for Luna Sea's 2012 single, "Rouge", was filmed entirely on an iPad.[237]
+The iPad has also greatly increased social television use. Viewers can use the iPad as a convenient second networked computer (or "second screen") for communicating with other viewers or with the television provider. Viewers can use a web browser or specialised applications to discuss a program with other viewers, while it is being broadcast, while content providers may use the second screen to interact with viewers in real time. For example, the latter facility allows content providers to conduct real-time polls or to collect comments about the program, that can be displayed as text on the main television screen. Viewer interaction via a second screen is becoming increasingly popular.[238]
+Timeline
+
+Source: Apple press release library[239]
+See also
+* Apple Inc. portal
+* Book: Apple Inc.* Pen computing for a broad history of gesture-based user interfaces
+* Apple media events for Apple media events in general.
+* Comparison of:
+* Tablet computers
+* iOS devices
+* E-book readers
+References
+1. Jump up^ Wagner, Wieland (May 28, 2010). "iPad Factory in the Firing Line: Worker Suicides Have Electronics Maker Uneasy in China". Der Spiegel. Retrieved May 31, 2010.
+2. Jump up^ Buchanan, Matt (March 5, 2010). "Official: iPad Launching Here April 3, Pre-Orders March 12". Gizmodo. Gawker Media. Retrieved March 4, 2010.
+3. ^ Jump up to:a b c d e f "iPad Available in US on April 3" (Press release).Apple. March 5, 2010. Retrieved March 5, 2010.
+4. ^ Jump up to:a b c d "iPad Wi-Fi + 3G Models Available in US on April 30"(Press release). Apple. April 20, 2010. Retrieved April 20, 2010.
+5. ^ Jump up to:a b "iPad Air 2 goes on sale in 'limited supply' at Apple Stores and John Lewis". The Enquirer. October 22, 2014. RetrievedNovember 16, 2014.
+6. ^ Jump up to:a b "iPad Mini 3 arrives in the UK priced from £319". The Enquirer. October 22, 2014. Retrieved November 16, 2014.
+7. ^ Jump up to:a b "The iPad's 5th anniversary: a timeline of Apple's category-defining tablet". The Verge. Retrieved April 17, 2015.
+8. ^ Jump up to:a b c d e f g h i j k l m n o p q r s t u v w x "iPad – Technical specifications and accessories for iPad". Apple Inc. January 27, 2010. Retrieved January 27, 2010.
+9. ^ Jump up to:a b Crothers, Brooke (January 27, 2010). "Inside the iPad: Apple's new 'A4' chip". CNET. CBS Interactive. RetrievedJanuary 27, 2010.
+10. ^ Jump up to:a b Djuric, Miroslav (April 3, 2010). "iPad Wi-Fi Teardown". Ifixit.com. p. 2. Retrieved April 17, 2010.
+11. ^ Jump up to:a b c "iPad 2 Wi-Fi Teardown". iFixit. Retrieved March 12,2011.
+12. Jump up^ "iPad 3 teardown – iFixit – Page 3". iFixit. RetrievedMarch 16, 2012.
+13. ^ Jump up to:a b c "The Apple iPad Air 2 Review". Anandtech. November 7, 2014. Retrieved November 12, 2014.
+14. ^ Jump up to:a b c Murphy, Samantha (February 5, 2013). "Apple's 128GB iPad Now on Sale". Mashable. Retrieved March 6, 2013.
+15. ^ Jump up to:a b Djuric, Miroslav (April 3, 2010). "Apple A4 Teardown".iFixit. Retrieved April 17, 2010.
+16. Jump up^ "Apple iPad 2 GPU Performance Explored PowerVR SGX543MP2 Benchmarked". Anandtech. RetrievedMarch 12, 2011.
+17. ^ Jump up to:a b "Apple A8X's GPU - GXA6850, Even Better Than I Thought". Anandtech. November 11, 2014. RetrievedNovember 12, 2014.
+18. Jump up^ "Gartner Says Worldwide Tablet Sales Grew 68 Percent in 2013, With Android Capturing 62 Percent of the Market"(Press release). Gartner. March 3, 2014.
+19. Jump up^ "Apple – iPhone 5 – The best of everything. Built right in.". Apple Inc. Retrieved October 1, 2012.
+20. Jump up^ Panzarino, Matthew (October 2, 2012). "Rare full recording of 1983 Steve Jobs speech reveals Apple had been working on iPad for 27 years". The Next Web. Retrieved October 2, 2012.
+21. Jump up^ Gruber, John (January 14, 2010). "The Original Tablet".Daring Fireball. Retrieved March 20, 2010.
+22. Jump up^ Stone, Brad (September 28, 2009). "Apple Rehires a Developer of Its Newton Tablet". The New York Times. The New York Times Company. Retrieved March 20, 2010.
+23. Jump up^ Smykil, Jeff (December 1, 2006). "Four Apple prototypes I've never heard of". Ars Technica. Condé Nast Digital. RetrievedJuly 29, 2012.
+24. Jump up^ June, Laura (January 26, 2010). "The Apple Tablet: a complete history, supposedly". Engadget. AOL. RetrievedJanuary 27, 2010.
+25. ^ Jump up to:a b c d "Apple Launches iPad" (Press release). Apple. January 27, 2010. Retrieved January 27, 2010.
+26. Jump up^ "Apple iPad tablet is unveiled at live press conference". The Star-Ledger. January 27, 2010. Retrieved January 27, 2010.
+27. Jump up^ Cohen, Peter (January 9, 2007). "Macworld Expo Keynote Live Update". Macworld. Retrieved July 29, 2012.
+28. Jump up^ Grossman, Lev (January 12, 2007). "The Apple Of Your Ear". Time. Retrieved July 29, 2012.
+29. Jump up^ Parker, Ian (2015-02-23). "The Shape of Things to Come".The New Yorker. Retrieved 27 August 2015.
+30. Jump up^ "Steve Jobs on Adobe, Gizmodo and why iPad came before iPhone". Guardian. June 2, 2010. Retrieved July 29, 2012.
+31. Jump up^ Ahmed, Azam (July 6, 2010). "Executive Pleads Guilty to Leaking Apple Secrets". The New York Times. The New York Times Company. Retrieved July 29, 2012.
+32. Jump up^ Cheng, Jacqui. "Bed readers rejoice: iPad gains last-minute rotation lock". Ars Technica. Condé Nast Digital. RetrievedJuly 29, 2012.
+33. Jump up^ Lewis, Daniel (March 5, 2010). "iPad Pre-order Update – March 12". Electrobuzz. Retrieved March 5, 2010.
+34. Jump up^ Fleishman, Glenn (February 2, 2010). "Can You Get By with 250 MB of Data Per Month?". TidBits. Retrieved February 23,2010.
+35. Jump up^ Sheth, Niraj (January 28, 2010). "AT&T Gets A Vote Of Confidence From Apple With iPad Win". The Wall Street Journal. Dow Jones & Company. Retrieved January 28, 2010.
+36. Jump up^ "AT&T Announces New Lower-Priced Wireless Data Plans to Make Mobile Internet More Affordable to More People" (Press release). AT&T. June 2, 2010. Archived from the original on July 2, 2010. Retrieved July 29, 2012.
+37. Jump up^ "iPad with ultrafast wireless". Apple. Retrieved July 29,2012.
+38. Jump up^ Menn, Joseph; Bradshaw, Tim (May 27, 2010). "Apple in control of iPad's Europe launch". Financial Times. RetrievedMay 30, 2010.
+39. Jump up^ "iPad Available in Nine More Countries on May 28" (Press release). Apple. May 7, 2010. Retrieved May 9, 2010.
+40. Jump up^ Choo, Evelyn (July 23, 2010). "Eager fans in Singapore snap up iPad". Channel News Asia. Retrieved January 1, 2012.
+41. Jump up^ "Apple announces NZ iPad release date". www.stuff.co.nz. July 20, 2010. Retrieved January 1, 2012.
+42. Jump up^ "iPad Available in Nine More Countries This Friday" (Press release). Apple. July 19, 2010. Retrieved January 1, 2012.
+43. Jump up^ "Israel retira prohibición para importación del iPad | Tecnología" (in Spanish). El Nacional. March 23, 2010. Retrieved May 31, 2010.
+44. Jump up^ "Massive crowds turn out for iPad launch". China Daily. Xinhua. September 18, 2010. Retrieved September 18, 2010.
+45. Jump up^ Harvey, Mike (April 6, 2010). "iPad launch marred by technical glitches". The Times. UK. Retrieved June 26, 2010.
+46. Jump up^ Goldman, Jim (May 3, 2010). "Apple Sells 1 Million iPads".CNBC. Retrieved May 4, 2010.
+47. Jump up^ "iPad sales cross million mark twice as fast as original iPhone". Yahoo!. May 3, 2010. Archived from the originalon May 9, 2010. Retrieved June 13, 2010.
+48. Jump up^ "Apple Sells Three Million iPads in 80 Days" (Press release). Apple. June 22, 2010. Retrieved June 22, 2010.
+49. Jump up^ "Apple Reports Fourth Quarter Results" (Press release).Apple. October 18, 2010. Retrieved October 23, 2010.
+50. ^ Jump up to:a b c "Apple Launches iPad 2 (Announcement)" (Press release). Apple. March 2, 2011. Retrieved May 21, 2011.
+51. Jump up^ "Taking the tablets". The Economist. March 2, 2011. Retrieved July 27, 2011.
+52. Jump up^ "iPad 2 tablet launched by Apple's Steve Jobs". BBC. March 2, 2011. Retrieved March 6, 2011.
+53. Jump up^ Helft, Miguel (January 17, 2011). "Apple Says Steve Jobs Will Take a New Medical Leave". The New York Times. the New York Times Company. Retrieved January 17, 2011.
+54. Jump up^ "IOS 4.3, GarageBand, and IMovie: What You Need to Know". PC World. IDG. Retrieved March 4, 2011.
+55. Jump up^ "The New iPad is Official". Engadget. AOL. February 28, 2012. Retrieved March 1, 2012.
+56. Jump up^ Arthur, Charles; Quinn, Ben (February 28, 2012). "iPad 3 rumoured to launch next week". The Guardian. RetrievedMarch 1, 2012.
+57. Jump up^ "Apple unveils new iPad with high-definition screen". BBC. March 7, 2012. Retrieved July 29, 2012.
+58. Jump up^ Reardon, Marguerite (March 12, 2012). "Will 4G LTE devices ever roam internationally?". CNET/CBS Interactive. RetrievedMarch 21, 2012.
+59. Jump up^ "Apple Introduces iPad mini". Apple. October 23, 2012. Retrieved February 11, 2013.
+60. ^ Jump up to:a b "Apple's new fourth-generation iPad costs the same as the third-generation iPad.". CNET. October 23, 2012. RetrievedFebruary 11, 2013.
+61. Jump up^ Dillet, Roman (9 September 2015). "Apple Unveils The iPad Pro". TechCrunch. Retrieved 9 September 2015.
+62. Jump up^ Bosker, Bianca (October 19, 2010). "Apple's 'iPad 2' Won't Be A Smaller, 7-Inch Version, Steve Jobs Suggests". The Huffington Post. Retrieved January 7, 2011.
+63. Jump up^ Pogue, David (January 13, 2007). "Ultimate iPhone FAQs List, Part 2 – Pogue's Posts Blog – NYTimes.com". Pogue.blogs.nytimes.com. Retrieved May 31, 2010.
+64. Jump up^ "Expo Notes: iPad cases, touch gloves hot items on expo floor | Tablets | MacUser". Macworld. Retrieved May 31, 2010.
+65. Jump up^ Broida, Rick (January 28, 2010). "Want to take notes on an iPad? Here's your stylus". CNET. CBS Interactive. RetrievedMay 31, 2010.
+66. Jump up^ Lal Shimpi, Brian Klug & Vivek Gowri, Anand (April 7, 2010)."Apple's iPad - The AnandTech Review". AnandTech. p. 4. Retrieved August 9, 2012. The display rotates smoothly to orient itself properly regardless of how you’re holding it.
+67. Jump up^ "iPad's 'Mute' Switch Replaced With Screen Rotation Lock.". MacRumors. March 12, 2010. Retrieved March 12,2010.
+68. Jump up^ Klug, Brian; Shimpi, Anand Lal; Gowri, Vivek (March 19, 2011). "The Apple iPad 2 Review". AnandTech. RetrievedJuly 29, 2012. Tapping on the preview exposes for the tapped region, but since the rear camera is fixed focus, focus doesn’t change.
+69. Jump up^ Goldman, David (March 2, 2011). "IPad 2: Thinner, faster, and with a Steve Jobs surprise". CNNMoney. Retrieved March 2,2011.
+70. Jump up^ "iPad - Make your iPad even better with accessories". Apple. Retrieved July 29, 2012.
+71. Jump up^ "iPad's lack of Flash/USB/Bluetooth is all about lock-in (updated)". ZDNet. CBS Interactive. February 1, 2010. Retrieved June 19, 2010.
+72. Jump up^ "iPad: About iPad Dock Connector to VGA Adapter compatibility". Apple Inc. Retrieved June 11, 2010.
+73. Jump up^ "How to Record Video and Images from iPad". RetrievedMarch 2, 2011.
+74. ^ Jump up to:a b Huang, Joyce (June 7, 2010). "Best Under a Billion: Batteries Required?". Forbes. Retrieved June 11, 2010.
+75. Jump up^ "iPad: Charging the battery". Apple. RetrievedDecember 25, 2010.
+76. Jump up^ VanHemert, Kyle (March 13, 2010). "Apple will replace the dead battery of an iPad for $99". Gizmodo. Gawker Media. Retrieved March 15, 2010.
+77. Jump up^ "iPad Battery and Power". Apple Support. RetrievedOctober 12, 2014.
+78. Jump up^ "iPad Battery Replacement Program". Gigaom.com. March 13, 2010. Retrieved August 30, 2011.
+79. Jump up^ "iPad Troubleshooting & Repair Q&A". Everyipod.com. December 8, 2011. Retrieved July 29, 2012.
+80. Jump up^ Horwitz, Jeremy (April 26, 2010). "Apple iPad Camera Connection Kit". iLounge. Retrieved June 19, 2010.
+81. Jump up^ Foresman, Chris (April 27, 2010). "iPad WiFi + 3G day is today; here's our data plan primer". Ars Technica. Condé Nast Digital. Retrieved June 11, 2010.
+82. Jump up^ Kang, Cecilia (January 27, 2010). "Apple's iPad wireless service to be unlocked, partnered with AT&T". The Washington Post. The Washington Post Company. RetrievedApril 26, 2010.
+83. Jump up^ Golijan, Rosa (January 27, 2010). "Unlocked or Not, Your iPad Won't Be Able to Use T-Mobile's 3G Network". Gizmodo.Gawker Media. Retrieved April 26, 2010.
+84. Jump up^ Baig, Ed (March 2, 2011). "Apple launching iPad 2 on March 11". USA Today. Gannett Company. Retrieved March 2, 2011.
+85. Jump up^ "iPad must-haves. And fun-to-haves". Apple. RetrievedMarch 22, 2011.
+86. Jump up^ "Schiller: No iPad 2 keyboard dock, use the soft keyboard". 9 to 5 Mac. March 25, 2011. Retrieved August 9, 2012.
+87. Jump up^ "iPad: Using the iPad Camera Connection Kit". Apple. Retrieved November 27, 2011.
+88. Jump up^ Murph, Darren (December 14, 2010). "Knockoff 3-in-1 iPad camera connection kit improves Apple's own design".Engadget. AOL. Retrieved March 22, 2011.
+89. Jump up^ Dove, Jackie (March 2, 2011). "Smart Cover, Digital AV adapter accompany iPad 2 launch". Macworld.com. RetrievedMarch 2, 2011.
+90. Jump up^ "Apple Digital AV Adapter". Apple. Retrieved March 21,2011.
+91. Jump up^ "iPad 2 Smart Cover Teardown". iFixit. Retrieved March 22,2011.
+92. Jump up^ "Apple – Smart Cover". Apple Inc. March 2, 2011. RetrievedMarch 12, 2011.
+93. Jump up^ Kim, Eugene (June 18, 2012). "Apple iPad Smart Case Review". PC Magazine. Ziff Davis. Retrieved August 11,2012.
+94. Jump up^ "iPad SDK". Apple. January 27, 2010. RetrievedJanuary 27, 2010.
+95. Jump up^ Ferruci, Adam (January 27, 2010). "8 Things That Suck About the iPad". Gizmodo. Gawker Media. Retrieved February 3,2010.
+96. Jump up^ Myslewski, Rik (January 27, 2010). "Steve Jobs uncloaks the 'iPad': World continues to revolve around sun". The Register. Retrieved January 27, 2010.
+97. Jump up^ Siegler, MG (January 28, 2010). "The Subplots of the iPad Blockbuster". TechCrunch. Retrieved February 1, 2010.
+98. Jump up^ "Develop apps for iPad". Apple Inc. Retrieved August 9,2012.
+99. Jump up^ "iPad to get iOS 4.2 in November". CNET. CBS Interactive. September 1, 2010. Retrieved July 29, 2012.
+100. Jump up^ Snell, Jason (November 22, 2010). "Apple releases iOS 4.2.1". MacWorld. Retrieved January 1, 2012.
+101. Jump up^ "Apple – iPhone – Features – Home screen". Apple Inc.2008. Retrieved December 13, 2008.
+102. Jump up^ "What is Gapless Playback?". Apple Inc. Retrieved May 13,2008.
+103. Jump up^ "Apple iPad: Does it have 'real' GPS? (updated: yes and no)". ZDNet. CBS Interactive. January 28, 2010. RetrievedJanuary 1, 2012.
+104. ^ Jump up to:a b "iPad Features". Apple Inc. January 27, 2010. RetrievedJanuary 28, 2010.
+105. Jump up^ Smykil, Jeff (April 20, 2010). "The keyboardless Office: a review of iWork for iPad". Ars Technica. Condé Nast Digital. Retrieved May 1, 2010.
+106. Jump up^ Sarno, David (January 29, 2010). "Apple confirms 3G VoIP apps on iPad, iPhone, iPod Touch; Skype is waiting". Los Angeles Times. Retrieved February 7, 2010.
+107. Jump up^ Mathis, Joel (June 11, 2012). "WWDC: Apple runs down the numbers". Macworld. Retrieved August 9, 2012.
+108. Jump up^ "Apple sued over apps privacy issues; Google may be next". Thomson Reuters. Reuters. December 28, 2010. Retrieved December 28, 2010.
+109. Jump up^ Patel, Nilay (January 27, 2010). "The Apple iPad: starting at $499". Engadget. AOL. Retrieved January 27, 2010.
+110. Jump up^ Topolsky, Joshua (January 27, 2010). "Live from the Apple 'latest creation' event". Engadget. AOL. Retrieved February 3,2010.
+111. Jump up^ "Apple tablet due March, to get Kindle-killer book deal?".Electronista. December 9, 2009. Retrieved January 24, 2010.
+112. Jump up^ "Free Kindle Reading Apps". Amazon.com. RetrievedMay 21, 2011.
+113. Jump up^ "Free NOOK app for iPad, Download eReader app – Barnes & Noble". Barnesandnoble.com. Retrieved May 21, 2011.
+114. Jump up^ Clifford, Stephanie (February 28, 2010). "Condé Nast Is Preparing iPad Versions of Some of Its Top Magazines". The New York Times. The New York Times Company. RetrievedMarch 2, 2010.
+115. Jump up^ Brett, Andy (April 1, 2010). "The New York Times Introduces An iPad App". TechCrunch. AOL. Retrieved April 1, 2010.
+116. Jump up^ "NY Times for iPad". Itunes.apple.com. July 5, 2011. Retrieved August 30, 2011.
+117. Jump up^ "Who needs paper?". The Economist. February 3, 2011. Retrieved February 9, 2012.
+118. ^ Jump up to:a b c "Identifying iPad Models".
+119. ^ Jump up to:a b "Apple - iPad - View countries with supported LTE networks.".
+120. Jump up^ "iPad 2 Arrives Tomorrow" (Press release). Apple. March 10, 2011. Retrieved August 30, 2011.
+121. Jump up^ "iFixit iPad 3 teardown – Page 2". iFixit. iFixit. RetrievedMarch 16, 2012.
+122. ^ Jump up to:a b c Molen, Brad (October 21, 2014). "The iPad Air 2 and iPad mini 3 review". Engadget. Retrieved October 21, 2014.
+123. ^ Jump up to:a b "Apple A7 chip detailed further, confirms quad-core PowerVR GPU". Electronista. September 24, 2013. RetrievedDecember 12, 2013.
+124. ^ Jump up to:a b c "Apple - iPad Air 2 - Technical Specifications". Apple Inc. October 22, 2014. Retrieved October 22, 2014.
+125. ^ Jump up to:a b "iPad Air 2 Teardown". iFixit. October 22, 2014. Retrieved October 22, 2014.
+126. ^ Jump up to:a b c d "In April, Apple Ditched Google and Skyhook in Favor of Its Own Location Databases". TechCrunch. July 29, 2010. Retrieved October 14, 2010.
+127. Jump up^ Molen, Brad (October 16, 2014). "A first look at the iPad Air 2 and iPad mini 3". Engadget. Retrieved October 17, 2014.
+128. Jump up^ "iPad Wi-Fi Teardown". iFixit. April 3, 2010. RetrievedOctober 17, 2014.
+129. Jump up^ "iPad 2 Wi-Fi EMC 2415 Teardown". iFixit. March 11, 2011. Retrieved October 17, 2014.
+130. Jump up^ "iPad 3 4G Teardown". iFixit. March 15, 2012. RetrievedOctober 17, 2014.
+131. Jump up^ "iPad 4 Wi-Fi Teardown". iFixit. November 2, 2012. Retrieved October 17, 2014.
+132. Jump up^ "iPad Air Wi-Fi Teardown". iFixit. November 1, 2013. Retrieved October 17, 2014.
+133. ^ Jump up to:a b Dockrill, Peter (March 3, 2011). "iPad vs iPad 2 back-to-back: what's new, plus all the specs compared". apc. Retrieved July 29, 2012.
+134. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. April 2010. Retrieved July 29, 2012.
+135. Jump up^ "iPad 2 Environmental Report" (PDF). Apple Inc. March 2012. Retrieved July 29, 2012.
+136. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. March 2012. Retrieved July 29, 2012.
+137. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. October 2012. Retrieved October 23, 2012.
+138. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. April 2014. Retrieved October 22, 2014.
+139. ^ Jump up to:a b "iPad Environmental Report" (PDF). Apple Inc. October 2014. Retrieved October 22, 2014.
+140. Jump up^ Cunningham, Andrew (September 16, 2015). "iPad Mini 4 performance preview: A 1.5GHz Apple A8 with 2GB of RAM". Ars Technica. Retrieved September 16, 2015.
+141. Jump up^ Smith, Ryan (September 23, 2014). "Chipworks Disassembles Apple's A8 SoC". AnandTech. Retrieved September 24, 2014.
+142. ^ Jump up to:a b "iPad Mini Wi-Fi Teardown". iFixit. October 31, 2012. Retrieved November 1, 2012.
+143. ^ Jump up to:a b "iPad Mini 4 Teardown". iFixit. September 17, 2015. Retrieved September 17, 2015.
+144. ^ Jump up to:a b "Apple - iPad mini 3 - Technical Specifications". Apple Inc. October 22, 2014. Retrieved November 12, 2014.
+145. Jump up^ "iPad Mini Retina Display Teardown". iFixit. November 12, 2013. Retrieved October 17, 2014.
+146. Jump up^ "iPad Mini 3 Teardown". iFixit. October 24, 2014. RetrievedOctober 25, 2014.
+147. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. October 2012. Retrieved October 22, 2014.
+148. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. April 2014. Retrieved October 22, 2014.
+149. Jump up^ "iPad Environmental Report" (PDF). Apple Inc. September 2015. Retrieved September 17, 2015.
+150. Jump up^ Saint, Nick (March 31, 2010). "Where In The World Is My iPad? (AAPL)". San Francisco Chronicle. Retrieved April 17,2010.
+151. Jump up^ "Foxconn 'mulls $12bn Brazil move' as it seeks expansion".BBC News. April 13, 2011. Retrieved May 21, 2011.
+152. Jump up^ Raphael, JR (April 7, 2010). "Apple iPad Costs $260 to build, iSuppli Finds". PC World. IDG. Retrieved June 11, 2010.
+153. Jump up^ "Chipworks Confirms Apple A4 iPad chip is fabbed by Samsung in their 45-nm process". Chipworks.com. RetrievedMay 20, 2011.
+154. Jump up^ "Updated: Samsung fabs Apple A5 processor". eetimes.com. Retrieved April 18, 2012.
+155. Jump up^ "iPad 3: A5X Processor Manufactured by Samsung and The Retina Display". techgratuity.com. Retrieved April 18, 2012.
+156. ^ Jump up to:a b "Inside the iPad: Samsung, Broadcom snag multiple wins". EE Times. Retrieved April 17, 2010.
+157. Jump up^ Madway, Gabriel (April 1, 2010). "Special Report: iPad striptease: It's what's inside that counts". Reuters.
+158. Jump up^ "Samsung Supplies Apple With Touch Screen for New IPad". Bloomberg L.P. Retrieved April 18, 2012.
+159. Jump up^ Oliver, Sam (March 26, 2010). "Delays cause Apple to switch iPad touch-panel orders to Wintek". Apple Insider. RetrievedApril 17, 2010.
+160. ^ Jump up to:a b Harmsen, Peter (April 2, 2010). "Under the radar, Apple's Asian suppliers work furiously". Google News. Google.Agence France-Presse. Retrieved April 17, 2010.
+161. Jump up^ Maisto, Michelle (June 10, 2010). "Apple iPhone 4 to Trigger Gyroscope Onslaught: iSuppli". eWeek. Retrieved June 13,2010.
+162. ^ Jump up to:a b "The A9X SoC & More To Come - The iPad Pro Preview: Taking Notes With iPad Pro". AnandTech. November 11, 2015. Retrieved November 11, 2015.
+163. Jump up^ Smith, Ryan (November 30, 2015). "More on Apple's A9X SoC". AnandTech. Retrieved November 30, 2015.
+164. Jump up^ "iPad Pro Teardown". iFixit. November 11, 2015. RetrievedNovember 11, 2015.
+165. Jump up^ "iPad Pro 9.7" Teardown". iFixit. Retrieved 2016-04-04.
+166. Jump up^ "iPad Pro Environmental Report" (PDF). Apple Inc.November 2015. Retrieved November 11, 2015.
+167. Jump up^ "9.7-inch iPad Pro Environmental Report" (PDF). Measuring performance. One product at a time. Apple Inc. March 2016. Retrieved March 27, 2016.
+168. Jump up^ Johnson, Bobbie (February 1, 2010). "Apple iPad will choke innovation, say open internet advocates". The Guardian. UK. Retrieved February 7, 2010.
+169. Jump up^ "Apple's Trend Away From Tinkering". Slashdot. January 31, 2010. Retrieved February 12, 2010.
+170. ^ Jump up to:a b "All Your Apps Are Belong to Apple: The iPhone Developer Program License Agreement". Electronic Frontier Foundation. March 9, 2010. Retrieved April 17, 2010.
+171. Jump up^ Lee, Matt (May 19, 2011). "Apple's iOS: smaller package, bigger restrictions". Free Software Foundation. RetrievedJanuary 28, 2013.
+172. Jump up^ Sydell, Laura (April 5, 2010). "Apple's iPad: The End Of The Internet As We Know It?". NPR. Retrieved April 23, 2010.
+173. Jump up^ Hamill, Jasper (27 March 2014). "Putin and pals dump Apple's iPads for Samsung slabs... over security concerns".www.theregister.co.uk. The Register. Retrieved 29 March 2014.
+174. Jump up^ Sorrel, Charlie (May 3, 2010). "iPad Jailbreak Ready for Download". Wired. Condé Nast. Retrieved May 8, 2010.
+175. ^ Jump up to:a b c Herrman, John (May 8, 2010). "How To: Jailbreak Any iPhone, iPod Touch or iPad". Gizmodo. Gawker Media. Retrieved May 8, 2010.
+176. Jump up^ http://www.cultofmac.com/52463/apples-official-response-to-dmca-jailbreak-exemption-it-voids-your-warranty/52463/
+177. Jump up^ Goodin, Dan (May 3, 2010). "Hackers release jailbreak for iPad and newer iPhones". The Register. RetrievedOctober 26, 2011.
+178. Jump up^ Schwartz, Mathew J. (July 7, 2011). "Apple iOS Zero-Day PDF Vulnerability Exposed". InformationWeek. RetrievedOctober 23, 2011.
+179. Jump up^ Purewal, Sarah Jacobsson (October 18, 2011). "How to Jailbreak Your iOS 5 Device". PC World. IDG. RetrievedOctober 23, 2011.
+180. Jump up^ Honig, Zach (May 25, 2012). "Absinthe 2.0 hits the download wire, jailbreaks all iOS 5.1.1 devices but the 32nm iPad 2".Engadget. AOL. Retrieved May 27, 2012.
+181. Jump up^ Schofield, Jack (May 10, 2010). "Wikipedia's porn purge, and cleaning up for the iPad". The Guardian. UK. RetrievedJuly 29, 2012.
+182. Jump up^ Leavitt, Lydia (April 24, 2010). "NSFW Guide to Watching Porn on your iPad". TechCrunch. AOL. Retrieved June 28,2010.
+183. Jump up^ "Steve Jobs Offers World 'Freedom From Porn'". Gawker. May 15, 2010. Retrieved June 20, 2010.
+184. Jump up^ "Apple iPad offers "freedom from porn" – but not in Berlin".TechCrunch. AOL. May 29, 2010. Retrieved June 20, 2010.
+185. Jump up^ "Porn again: "Dudes" who like it alter San Francisco iPad ads". ZDNet. CBS Interactive. June 9, 2010. RetrievedOctober 20, 2010.
+186. ^ Jump up to:a b "iPad fans mob Apple stores for international launch".BBC News. BBC. May 28, 2010. Retrieved May 31, 2010.
+187. Jump up^ "iPad-mania as thousands queue for global roll-out".Google News. Google. Agence France-Presse. May 28, 2010. Retrieved January 1, 2012.
+188. Jump up^ Mossberg, Walter S. (January 27, 2010). "First Impressions of the New Apple iPad". All Things Digital. Dow Jones & Company. Retrieved January 27, 2010.
+189. Jump up^ Lai, Eric (January 28, 2010). "Apple iPad versus netbook: features compared". PC Advisor. Retrieved January 28, 2010.
+190. Jump up^ Tsang, Simon (February 2, 2010). "iPad vs the Kindle, tablets and netbooks". The Sydney Morning Herald. RetrievedFebruary 2, 2010.
+191. Jump up^ Eaton, Kit (January 27, 2010). "The iPad's Biggest Innovation: Its $500 Price". Fast Company. Retrieved March 7, 2010.
+192. Jump up^ Peers, Martin (January 28, 2010). "Apple's iPad Revolution: Price". The Wall Street Journal. Dow Jones & Company. Retrieved February 20, 2010.
+193. Jump up^ Stokes, Jon (January 29, 2010). "Tablet makers rethinking things in wake of iPad's $499 price". Ars Technica. Condé Nast Digital. Retrieved February 20, 2010.
+194. Jump up^ Rosoff, Matt (January 30, 2010). "How to make the iPad a better music device". CNET. CBS Interactive. RetrievedMarch 2, 2010.
+195. Jump up^ Mossberg, Walter S. (March 31, 2010). "Apple iPad Review: Laptop Killer? Pretty Close". All Things Digital. Dow Jones & Company. Retrieved March 31, 2010.
+196. Jump up^ Pogue, David (March 31, 2010). "Reviews: Love It or Not? Looking at iPad From 2 Angles". The New York Times. The New York Times Company. Retrieved March 31, 2010.
+197. Jump up^ Gideon, Tim (March 31, 2010). "Apple iPad (Wi-Fi)". PC Magazine. Retrieved April 1, 2010.
+198. Jump up^ Arrington, Michael (April 2, 2010). "The Unauthorized TechCrunch iPad Review". TechCrunch. AOL. RetrievedApril 2, 2010.
+199. Jump up^ Mediati, Nick (April 5, 2010). "iPad Struggles at Printing and Sharing Files". PC World. IDG. Retrieved May 1, 2010.
+200. Jump up^ Cheng, Jacqui (April 7, 2010). "Ars Technica reviews the iPad". Ars Technica. Condé Nast Digital. p. 4. RetrievedMay 4, 2010.
+201. ^ Jump up to:a b Phelan, David (May 26, 2010). "The iPad: what is it good for?". The Independent. UK. Retrieved May 31, 2010.
+202. Jump up^ Bevan, Kate (May 31, 2010). "The best iPad media apps".The Guardian. London. Retrieved June 10, 2010.
+203. Jump up^ "Android Ecosystem Takes the Baton from Apple iPad in the Tablet Race". ABIresearch. September 27, 2013. RetrievedSeptember 10, 2014.
+204. Jump up^ "Tablet Installed Base to Reach Tipping Point in 2014 as Android Surpasses iOS". ABIresearch. June 20, 2014. Retrieved November 10, 2014.
+205. Jump up^ http://gs.statcounter.com/#tablet-os-ww-monthly-201508-201508-map
+206. Jump up^ Beaumont, Claudine (May 24, 2010). "Lack of Flash support on iPad 'annoying', say consumers". Daily Telegraph. UK. Retrieved April 14, 2011.
+207. Jump up^ McCracken, Harry (November 11, 2010). "The 50 Best Inventions of 2010: iPad". Time. Retrieved November 17,2010.
+208. Jump up^ "Best of What's New 2010: Gadgets". Popular Science. Retrieved December 5, 2010.
+209. Jump up^ Jannot, Mark (November 5, 2010). "Best of What's New 2010: Our 100 Innovations of the Year". Popular Science. RetrievedDecember 16, 2010.
+210. Jump up^ http://gs.statcounter.com/#tablet-os-ww-yearly-2012-2016
+211. Jump up^ http://gs.statcounter.com/#tablet-os-sa-quarterly-201301-201602
+212. Jump up^ http://gs.statcounter.com/#tablet-os-sa-weekly-201233-201622
+213. Jump up^ http://gs.statcounter.com/#tablet-os-as-monthly-201305-201605
+214. Jump up^ http://gs.statcounter.com/#tablet-os-af-monthly-201305-201605
+215. Jump up^ Arthur, Charles; Fox, Killian (March 27, 2011). "How the iPad revolution has transformed working lives". The Guardian. London. Retrieved August 30, 2011.
+216. Jump up^ Clevenger, Nathan (July 29, 2011). "How the iPad Conquered the Enterprise". Datamation. Retrieved July 29, 2012.
+217. Jump up^ "iPad creeping into business offices". Computer World. September 13, 2010. Retrieved July 29, 2012.
+218. Jump up^ Sperling, Ed (September 13, 2010). "Rise Of The Tablet Computer". Forbes. Retrieved July 29, 2012.
+219. Jump up^ Worthen, Ben (August 24, 2010). "Businesses Add iPads to Their Briefcases". The Wall Street Journal. Dow Jones & Company. Retrieved July 29, 2012.
+220. Jump up^ "MicroStrategy's Corporate Apps Boost Productivity".Bloomberg Businessweek. Bloomberg. November 1, 2010. Retrieved July 29, 2012. About 42% of respondents in the survey, which was released in August, sought an increase in user productivity, followed by reduced paperwork (39%), and increased revenue (37%). The mobile-office application market in North America may reach $6.85 billion in 2015, up from an estimated $1.76 billion this year, Frost & Sullivan estimates.
+221. Jump up^ Murphy, Kate (July 4, 2011). "The Paperless Cockpit". The New York Times. The New York Times Company. RetrievedJuly 7, 2011.
+222. Jump up^ "Alaska Airlines to replace pilot manuals with iPads". The Age. Melbourne. June 2, 2011. Retrieved August 30, 2011.
+223. Jump up^ "United puts iPads in cockpits for 'paperless flight deck'". Retrieved August 23, 2011.
+224. Jump up^ "Lufthansa Magazin iPad". Lufthansa. Retrieved August 9,2012.
+225. Jump up^ "United Airlines Hemispheres Magazine". Apple Inc.Retrieved August 9, 2012.
+226. Jump up^ "Inflight Magazine - The Australian Way". Qantas. RetrievedAugust 9, 2012. Now on iPad
+227. Jump up^ "Teleread.com: Teaching with the iPad". RetrievedOctober 1, 2010.
+228. Jump up^ "iPad in the Homeschool". Spotty Banana. RetrievedOctober 1, 2010.
+229. Jump up^ Williams, Jenny (January 27, 2010). "How Will the Apple iPad Change Our Kids' Lives?". Wired magazine. RetrievedOctober 1, 2010.
+230. Jump up^ "81 Percent of Top Book Apps Are Kids Titles". AOL News. Retrieved October 1, 2010.
+231. Jump up^ Harrell, Ashley (October 1, 2010). "iHelp for Autism". San Francisco Weekly. Retrieved July 29, 2012.
+232. Jump up^ Horowitz, Brian (August 22, 2011). "Novation App for iPhone, iPad Helps Hospitals Manage Supply Chain". RetrievedJuly 29, 2012.
+233. Jump up^ "Teen Finds Potentially Dangerous iPad 2 Flaw".Bloomberg.
+234. Jump up^ Malinowski, Erik (February 1, 2011). "Cowboys Stadium Techs Up for Super Bowl Close-Up". Wired magazine. RetrievedMay 4, 2011.
+235. Jump up^ Stroud, Rick (August 25, 2011). "Tampa Bay Buccaneers buy each player an iPad to hold playbook, videos". TampaBay.com. Retrieved August 25, 2011.
+236. Jump up^ "Gorillaz are to release a free album on Christmas Day".BBC Newsbeat. BBC. December 10, 2010. RetrievedDecember 25, 2010.
+237. Jump up^ "LUNA SEA?"???"?????????MV?iPad???". barks.jp (in Japanese). November 15, 2012. RetrievedDecember 21, 2013.
+238. Jump up^ "Second Screen Apps Explode". Adweek. June 7, 2011. Retrieved February 19, 2012.
+239. Jump up^ Apple Inc. (2010–2011). Press Release Library. Retrieved April 3, 2011.
+

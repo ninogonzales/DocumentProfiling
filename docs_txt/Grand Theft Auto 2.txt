@@ -1,0 +1,95 @@
+Grand Theft Auto 2
+From Wikipedia, the free encyclopedia
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+Grand Theft Auto 2Developer(s)DMA Design[a]Publisher(s)Rockstar GamesDistributor(s)Take-Two InteractiveDirector(s)Alex De RakoffDesigner(s)* Stephen Banks
+* William Mills
+* Billy ThomsonProgrammer(s)Keith HamiltonArtist(s)Ian McQueWriter(s)Dan HouserComposer(s)* Colin Anderson
+* Craig Conner
+* Bert Reid
+* Stuart Ross
+* Paul Scargill
+* Anthony Paton (GBA)SeriesGrand Theft AutoPlatform(s)* Microsoft Windows
+* PlayStation
+* Dreamcast
+* Game Boy ColorRelease date(s)30 September 1999[show]Genre(s)Action-adventureMode(s)Single-player, multiplayerGrand Theft Auto 2 is an open-world action-adventure video game developed by DMA Design and published by Rockstar Games. It was released on 30 September 1999 for Microsoft Windows, and on 22 October 1999 for the PlayStation. It is the sequel to Grand Theft Auto, part of the Grand Theft Auto series. The open world design lets players freely roam Anywhere City, the setting of the game.
+The game is played from a top–down perspective and its world is navigated on foot or by vehicle. The game was made available on Steam on 4 January 2008 as part of a collection.[1] Its successor, Grand Theft Auto III, was released on 22 October 2001.
+Contents
+  [hide] 
+* 1Setting
+* 2Gameplay
+* 3Gangs
+* 4Grand Theft Auto 2: The Movie
+* 5Soundtrack
+* 6Reception
+* 7References
+* 8External links
+Setting[edit]
+Grand Theft Auto 2 is set in an unspecified time in a retrofuturistic metropolis referred to only as "Anywhere, USA",[2] but the game's manual and website uses the phrase "three weeks into the future";[3] fictional journal entries on the Grand Theft Auto 2 website suggest the year to be 2013, but rather the in-game references suggests the game to be set in 1999.[2]
+The City is split into three levels, or "districts". The first level, Downtown, is a hub of business activity as well as the site of a large mental institution and university. The second area, the Residential District, contains the city's prison, a trailer park with an Elvis-themed bar dubbed "Disgracelands", a shopping mall, and a giant hydroelectric power plant. The third and final area is the Industrial District; it holds a large seaport, a meat packing plant, a Nuclear Power Plant and a Krishna temple.
+There are a total of seven criminal gangs in the game: the Zaibatsu, a corrupt corporation, is present in all three areas. The Downtown area is also home to the Loonies, a gang of mentally ill people who have taken over the city asylum, and the Yakuza. In the Residential area, the gangs include SRS Scientists and the Rednecks, who live in a trailer park and drive around in pick-ups with large Confederate flags. The Industrial area contains theRussian Mafia and the Hare Krishna. Each gang has their own special characteristics, car, and behaviour.
+The game can be played in two modes (only in the PC version), noon or dusk. On the noon setting the lighting is bright making the game clear to see (also lowering the graphics overhead on low-end hardware because of the fewer lighting effects). On the dusk setting the game is darker, with multiple dynamic lights from explosions and car headlights. The Dreamcast version of the game can only be played in the dusk setting. The PlayStation version of the game can only be played in the noon setting. This feature was expanded further in Grand Theft Auto III where the daylight changes with the time of day in the game.
+Gameplay[edit]
+
+Grand Theft Auto 2 being played at "dusk" in the Windows version.
+Grand Theft Auto 2 retained the overhead viewpoint of Grand Theft Auto, as well as the car-stealing/telephone-answering formula of the original. The player has the ability to explore cities on foot or in various vehicles. The aim is to achieve a certain score. On achieving this goal the player then can proceed to the next level. Doing missions awards the player more points than any other method but are not essential for completion of the game.
+A new feature introduced in Grand Theft Auto 2 was doing missions for separate gangs, of which there are two new gangs for each of the three levels of the game, and one faction which is present in all levels. Being employed by one gang can cause distrust from others (working for gang No. 1 will incur the wrath of gang No. 2, working for gang No. 2 will cause enmity with gang No. 3, etc.). In the original Grand Theft Auto, only the local police pursued the player. InGrand Theft Auto 2, SWAT teams (4 Copheads) are introduced in the Downtown District, while Special Agents (5 Copheads) and the army (6 Copheads) are introduced in the Residential and Industrial Districts. These additional types of law enforcement begin chasing the player as his or her wanted level increases. The wanted level is represented by images of a cop's head, and vary between the Windows and PlayStation versions.
+Grand Theft Auto 2 introduced an improved saving technique, unlike the original game, which saved only when finishing a city. If the player entered a church with $50,000, a voice announced "Hallelujah! Another soul saved!". This notified the player that the game had been saved. If the player did not have enough money, the voice would say "Damnation! No donation, no salvation!". These messages are not heard on the PlayStation version.
+Other improvements pertain to city activity. Passing vehicles and pedestrians are no longer cosmetic parts of the environment, but actually play a role in gameplay. Sometimes pedestrians would occasionally enter and ride in taxis or buses. The game is noted for the behaviour of its non-player characters. Pedestrians, gang members and the police would occasionally engage in fights, and there are other carjackers (Green sweater) and muggers (Red sweater with white arms) in the city.[4]
+This game introduces 'side missions' such as being a taxi driver, bus driver, and a semi-truck driver along with retrieving 'hidden' packages ('GTA2' Badges) or Wang Cars (play on 'wankers'), and a health meter. Being a taxidriver would earn roughly 1 dollar per second. When standing still, passengers could get out if they want to, and the earnings will stop. Wang Cars only appeared in the second district. They were well hidden and usually required the player to take a severe amount of highspeed jumps to reach the cars, some of them parked on top of buildings. When the car was entered, the player spawned at the Wang Cars garage, with the garagedoor of the collected car lighting up. Collecting all cars resulted in 8 bonus vehicles parked outside the garage. Among these were cars prepped with oilslicks, integrated machineguns and a firetruck, living up its name as its watercannon was replaced with a flamethrower.
+Some weapons in Grand Theft Auto 2 feature a "Kill Frenzy" mission when picked up, where a player has a limited amount of time to kill a certain number of people with a particular weapon loaded. Bonuses are rewarded if the mission is successful. Also if a player finds a tank and gets in it a "Kill Frenzy" mission also starts, and finally in random parts of the city are parked special cars, and if the player gets on one he has to either kill people by running them over or kill them with any extra weapon that the car has. There is a bug involving the Kill Frenzy as it is possible to save when having it. When the game is then reloaded, the Kill Frenzy ends, but the almost unlimited ammunition remains until that same weapon is picked up or a more than usually allowed amount of ammunition is wasted.
+The PlayStation version of Grand Theft Auto 2 is toned down from the PC version, with lower quotas for the number of kills needed in rampage style missions, and containing no voice acting in the saving interface. The port also includes a feature where the player car will explode after the player kills a large number of gang members. One mission was also changed. Instead of the player tricking civilians into entering a bus to drive them to a meat processing plant to be cannibalised, the victims are Hare Krishna gang members.
+As is the case with the original Grand Theft Auto and GTA London: 1969, the player receives bonuses for running his car over certain people without stopping or braking. A string of Elvis impersonators are sometimes spotted walking the streets. If a player can kill them in a short amount of time, they are awarded with a large money bonus, followed by the bold words "ELVIS HAS LEFT THE BUILDING".
+Grand Theft Auto 2 features four multiplayer modes: Deathmatch, Team Deathmatch, Tag and Race.
+There are trains in the PC version, which the players can ride on.
+Gangs[edit]
+Grand Theft Auto 2 includes a pool of seven gangs, with each of the city's three levels containing only a group of three gangs.[5] The Zaibatsu Corporation gang is included in every level, with the remaining two different gangs. The gangs are as followed:
+* Zaibatsu Corporation (symbol: yellow 'Z') – A seemingly legitimate corporation who manufacture everything from cars and weapons to medication, but have connections to narcotics, contract-killing and shadowy politics. Appear in all areas.
+* Loonies (symbol: winking smiley face) – A fanatical collective that deals in contract killings and explosions. Appear in the first area.
+* Yakuza (symbol: blue yen '¥') – Based on the real life collective, they specialise in illegal drug distribution. Appear in the first area.
+* SRS Scientists (symbol: a golden shield) – A collective of illegal laboratories involved in weapon development, cloning, genetic engineering, and robotics. Appear in the second area.
+* Rednecks (symbol: the Confederate flag) – Based on the American stereotype, they specialise in explosives, vehicles, and moonshine. Appear in the second area.
+* Russian Mafia (symbol: a red star) – Also based on the real life collective, they specialise in contract-killing and gun running. Appear in the third area.
+* Hare Krishna (symbol: an orange flower) – A group of violent, green protesters based on the real life followers of Hare Krishna. Appear in the third area.
+Grand Theft Auto 2: The Movie[edit]
+Grand Theft Auto 2: The MovieDirected byAlex De RakoffProduced byJamie King
+Sam HouserScreenplay byDan HouserStarringScott MaslenEdited byGlen RichardsonProduction
+companyRockstar GamesRelease dates1999Running time10 minutesLanguageEnglishThe opening video of the game was pieced together using live-action footage taken from an eight-minute short film created for the purpose of advertising the game. This film has since been made available to the public and is downloadable from Rockstar's website. Claude Speed (the game's playable protagonist) is played by Scott Maslen in the film.
+The short film shows Claude being murdered (shot by "The Cleaner" a Zaibatsu assassin played by Ian McQue) while trying to break into a sports car. It was shot in 1999 New York City with the World Trade Center in clear view, instead of the game's anonymous city of the future (it should be noted, however, that two fictional locations were mentioned in the film: "Chernobyl Docks" and "Disgraceland", the latter being the name of a district featured in Grand Theft Auto 2). The film depicts a blue-and-white NYPD 1991–1992 Chevrolet Caprice police car as a pursuit vehicle, as well as a black BMW 5 Series (E39) driven by Claude, which is later repainted white.
+Soundtrack[edit]
+Each area features five radio stations from a pool of eleven, one of which is heard as the player drives most vehicles in game. Changing radio stations for preference is possible. "Head Radio" was present in the original Grand Theft Auto, Grand Theft Auto III and Grand Theft Auto: Liberty City Stories. Each gang has its own radio station that transmits within a limited area. Police vehicles, ambulances, fire trucks and tanks had no ability to listen to the radio channels. Instead, the player would hear the radio transmitter of the emergency services.
+All the music and the ads included in the game are exclusive, following the tradition of previous games. People in charge of the musical content were Craig Conner, Stuart Ross, Paul Scargill, Colin Anderson, Bert Reid and Moving Shadow.[6] Some of these producers would keep their work on subsequent GTA releases.
+The Game Boy Color version uses some real songs, one of which is a sped up version of Back in Black by AC/DC. The Character Selection theme is an old Brazilian song titled "Chega De Saudade".
+Reception[edit]
+ReceptionAggregate scoresAggregatorScoreGameRankings71.50% (PC)[7]
+70.80% (DC)[8]
+69.92% (PS1)[9]
+35.00% (GBC)[10]Metacritic70/100 (PS1)[11]Review scoresPublicationScoreGameSpot6.9/10 (PS1)[12]
+6.9/10 (DC)[13]
+6.8/10 (PC)[14]IGN7.3/10 (PC)[4][15]
+6.8/10 (PS1)[16]
+6.7/10 (DC)[17]Grand Theft Auto 2 was released to mixed reviews. GameRankings gave the console and PC versions of the game positive scores (from 69.92% to 71.50%),[7][8][9] however gave the Game Boy Color version a low score (35.00%).[10] GameSpot also gave the game "good" reviews, scoring a 6.8 for the PC version[14] and a 6.9 for the PlayStation and Dreamcast versions.[12][13]
+The graphics of Grand Theft Auto 2 received mixed reactions from critics, who noted that they had barely any difference to the graphics in the original game. IGN's Tal Blevins called them "average at best", and that the scenery is "hard to appreciate".[4] Jeff Gerstmann of GameSpot said that the "graphics look a bit plain."[18]
+The game's soundtrack received positive feedback, with Jeff Gerstmann calling it a "great soundtrack", and that it "closely [mirrors] the station-style of the original game.[18] Tal Blevins of IGN called it "one of the best features" of the game.[4]
+Grand Theft Auto 2's gameplay elements received mixed reactions. IGN's Jeremy Dunham said that the gameplay is "where the game really takes a punch to the stomach", and that it "could've been a lot better."[19] Tal Blevins called it "simple, but effective."[4] Jeff Gerstmann said that "even though the gameplay is largely the same as in the previous GTA, it's still a lot of fun."[18]
+References[edit]
+1. Jump up^ Tarantula Studios ported the game to the Game Boy Color
+1. Jump up^ Steam (4 January 2008). "News – Rockstar Games Brings Full Line-up to Steam". Valve Corporation. Retrieved 5 February 2011.
+2. ^ Jump up to:a b "GTA2 – Individual Police Files". Rockstar Games. Retrieved 29 April 2007.
+3. Jump up^ "GTA2 – Frameset". Rockstar Games. Retrieved 5 February 2011.
+4. ^ Jump up to:a b c d e Blevins, Tal (18 November 1999). "Grand Theft Auto 2 – IGN". IGN. Retrieved 29 April2007.
+5. Jump up^ "GTA Old Skool – Gangs". GTA Old Skool. Retrieved 5 February 2011.
+6. Jump up^ "Grand Theft Auto 2 (1999) PlayStation credits – MobyGames". MobyGames. Retrieved2016-01-18.
+7. ^ Jump up to:a b "Grand Theft Auto 2 for PC". GameRankings. Retrieved 12 August 2012.
+8. ^ Jump up to:a b "Grand Theft Auto 2 for Dreamcast". GameRankings. Retrieved 12 August 2012.
+9. ^ Jump up to:a b "Grand Theft Auto 2 for PlayStation". GameRankings. Retrieved 12 August 2012.
+10. ^ Jump up to:a b "Grand Theft Auto 2 for Game Boy Color". GameRankings. Retrieved 12 August 2012.
+11. Jump up^ "Grand Theft Auto 2 for PlayStation Reviews". Metacritic. Retrieved 13 February 2013.
+12. ^ Jump up to:a b "Grand Theft Auto 2 - GameSpot.com". GameSpot. Retrieved 13 February 2013.
+13. ^ Jump up to:a b "Grand Theft Auto 2 - GameSpot.com". GameSpot. Retrieved 13 February 2013.
+14. ^ Jump up to:a b "Grand Theft Auto 2 - GameSpot.com". GameSpot. Retrieved 13 February 2013.
+15. Jump up^ "Grand Theft Auto II – PC – IGN". IGN. Retrieved 13 February 2013.
+16. Jump up^ "Grand Theft Auto II – PlayStation – IGN". IGN. Retrieved 13 February 2013.
+17. Jump up^ "Grand Theft Auto II – Dreamcast – IGN". IGN. Retrieved 13 February 2013.
+18. ^ Jump up to:a b c Gerstmann, Jeff (22 October 1999). "Grand Theft Auto 2 Review - GameSpot.com".GameSpot. Retrieved 26 August 2013.
+19. Jump up^ Dunham, Jeremy (8 May 2000). "Grand Theft Auto 2 Review – IGN". Retrieved 26 August 2013.
+

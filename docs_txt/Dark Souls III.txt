@@ -1,0 +1,104 @@
+Dark Souls III
+From Wikipedia, the free encyclopedia
+Dark Souls IIIDeveloper(s)FromSoftwarePublisher(s)Bandai Namco Entertainment
+* JP: FromSoftwareDirector(s)Hidetaka Miyazaki
+Isamu Okano
+Yui TanimuraDesigner(s)Shigeto Hirai
+Yuya Kimijima
+Hiroshi Yoshida
+Junya IshizakiProgrammer(s)Takeshi SuzukiComposer(s)Yuka Kitamura
+Motoi SakurabaSeriesSoulsPlatform(s)PlayStation 4
+Xbox One
+Microsoft WindowsRelease date(s)* JP: March 24, 2016
+* WW: April 12, 2016Genre(s)Action role-playingMode(s)Single-player, multiplayerDark Souls III[a] is an action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment for PlayStation 4,Xbox One, and Microsoft Windows. The fourth entry in the Souls series,[1] Dark Souls III was released in Japan in March 2016, and worldwide in April 2016.[2]
+Dark Souls III was critically and commercially successful, with critics calling the game a worthy and fitting conclusion to the series. The game became Bandai Namco's fastest selling game in their history, selling over three million copies worldwide two months after release.
+Contents
+  [hide] 
+* 1Gameplay
+* 2Plot
+* 3Development
+* 4Reception
+o 4.1Sales
+* 5Notes
+* 6References
+* 7External links
+Gameplay[edit]
+Dark Souls III is an action role-playing game played in a third-person perspective, similar to previous games in the series. According to lead director and series creator Hidetaka Miyazaki, the game's gameplay design followed "closely from Dark Souls II".[3] Players are equipped with a variety of weapons to fight against enemies, such as bows, throwable projectiles, and swords. Shields can act as secondary weapons but they are mainly used to deflect enemies' attacks and protect the player from suffering damage.[4] Each weapon has two basic types of attacks, one being a standard attack, and the other being slightly more powerful that can be charged up, similar to FromSoftware's previous game, Bloodborne. In addition, attacks can be evaded through dodge-rolling.[5] Bonfires, which serve as checkpoints, return from previous installments.[6] Ashes, according to Miyazaki, play an important role in the game.[7] Magic is featured in the game, with a returning magic system from Demon's Souls, now known as "focus points" (FP). When performing spells, the players' focus points are consumed. There are two separate types of Estus Flasks in the game, which can be allotted to fit a players' particular play style. One of them refills hit points like previous games in the series, while another, newly introduced in Dark Souls III, refills focus points.[8] Combat and movements were made faster and more fluid in Dark Souls III,[9][10] with several players' movements, such as backstepping and swinging heavy weapons, able to be performed more rapidly,[11] allowing players to deal more damage in a short period of time.[5]
+Throughout the game, players encounter different types of enemies, each with different behaviors. Some of them change their combat pattern during battles.[4] New combat features are introduced in Dark Souls III, including weapon and shield "Skills", which are special abilities that vary from weapon to weapon that enable unique attacks and features, at the cost of focus points.[4] The game places more focus on role-playing, in which the character builder is expanded and weapons are improved to provide more tactical options to players.[12] The game features fewer overall maps than its predecessor Dark Souls II, but they are larger and more detailed, which encourages exploration.[6] The adaptability stat from Dark Souls IIwas removed in Dark Souls III, with other stats being adjusted.[6] The game features multiplayer elements, like the previous games in the series.[13]
+Plot[edit]
+Set in the Kingdom of Lothric, a bell has rung to signal that the First Flame, responsible for prolonging the Age of Fire, is dying out. As has happened many times before, the coming of the Age of Dark produces the undead, cursed beings that rise up after death. The Age of Fire can be prolonged with the linking of the fires, a ritual in which great lords and heroes sacrifice their souls to kindle the First Flame. However, Prince Lothric has abandoned his duty and instead chooses to watch the flame die from afar.
+The bell is the last hope for the Age of Fire, raising previous Lords of Cinder, heroes who have linked the flame across aeons to attempt to link the fire again. However, all but one Lord abandon their thrones rather than linking the fire again.
+The Ashen One rises and must return three other previous Lords of Cinder, as well as Prince Lothric, back to their thrones in the Firelink Shrine in order to link the flame. The Lords include the Abyss Watchers, a group of warriors sworn to protect the land from the abyss and linked by a single soul; Yhorm the Giant, who was once a conqueror of the very people for whom he then sacrificed his life, and Saint Aldrich, who was forced to become a Lord of Cinder despite an enjoyment of consuming both men and gods.
+Once the Ashen One succeeds in returning the Lords of Cinder and Lothric to their thrones, they travel to the ruins of the Kiln of the First Flame. There, they encounter the Soul of Cinder, an amalgamation of all the previous Lords of Cinder who had linked the flame in the past. Once the Soul of Cinder is defeated, four endings are made possible based on the player's actions during the game. The player can attempt to link the fire, summon the Fire Keeper to extinguish the flame and begin an age of Dark, or kill her. The final ending consists of the Ashen One taking the flame for their own and becoming the Dark Lord of Londor.
+Development[edit]
+The development of the game began in mid-2013, prior to the release of Dark Souls II, whose development was handled by Tomohiro Shibuya and Yui Tanimura instead of the series creator,Hidetaka Miyazaki.[14] The game was developed alongside Bloodborne, but was handled by two mainly separate teams. Miyazaki also returned to direct Dark Souls III, while Isamu Okano and Tanimura, the directors of Steel Battalion: Heavy Armor and Dark Souls II respectively, served as co-directors for the game.[15] Despite Miyazaki originally believing that the series would not have many sequels,[16] Dark Souls III would serve as the fourth installment in the Souls series. Miyazaki later added that the game would not be the last game in the series, and instead would serve as a "turning point" for both the franchise and the studio, as it was the last project by FromSoftware before Miyazaki became the president of the company.[17] Multiple screenshots of the game were leaked prior to its initial reveal at Electronic Entertainment Expo 2015.[18][19] The game's gameplay was then first shown at Gamescom 2015 in August.[20]
+Miyazaki said that Bloodborne's limitations made him want to return to the Souls series.[21] According to him, the game's level design was created to become more of another "enemy" the player must face.[22][23] The improvement to archery, specifically draw speed, was inspired by Legolas from The Lord of the Rings franchise.[7] The game's visual design focuses on "withered beauty", with ember and ash scattered throughout the game's world.[13] The game's original score was primarily written by Dark Souls II and Bloodborne composer, Yuka Kitamura, and performed by the Tokyo Philharmonic Orchestra. Additional music was written by Dark Souls composer Motoi Sakuraba, with a single boss theme each by Tsukasa Saitoh and Nobuyoshi Suzuki.[24]
+Dark Souls III was released in Japan for PlayStation 4 and Xbox One on March 24, 2016,[25] and released worldwide, along with the Microsoft Windows version, on April 12, 2016.[26] A stress test for the game, which allowed players selected by Bandai Namco to test the game's network functionality before release, was available for three days in October 2015.[27] The game has three different special editions for players to purchase, all of which cost more than the base game. Players who pre-ordered the game had their game automatically upgraded to the Apocalypse Edition, which has a special case and the game's original soundtrack. The Collector's Edition contains physical items such as the Red Knight figurine, an artbook, a new map, and special packaging. The Prestige Edition features all the content in The Collector's Edition, but has an additional Lord of Cinder resin figurine, which can form a pair with the Red Knight figurine.[28]
+The game's first downloadable content (DLC) expansion, titled Ashes of Ariandel, was released on October 24, 2016.[29] The DLC adds around 15 hours of gameplay, and features a new location with new bosses, armors, and weapons.[30] The second DLC is set to follow in early 2017.
+Reception[edit]
+ReceptionAggregate scoreAggregatorScoreMetacriticPC: 89/100[42]
+PS4: 89/100[43]
+XONE: 87/100[44]Review scoresPublicationScoreDestructoid8.5/10[31]Famitsu38/40[32]Game Informer9.25/10[33]Game Revolution[34]GameSpot8/10[35]GamesRadar[36]IGN9.5/10[37]PC Gamer (UK)94/100[38]Polygon7/10[39]The Daily Telegraph[40]The Guardian[41]Edit on wikidata Dark Souls III received critical acclaim upon its release, with praise given to the game's visuals and combat mechanics, reminding reviewers of its faster paced similarity to FromSoftware's previous game, Bloodborne.[31][33][34][37][45] Chloi Rad of IGN awarded the game a 9.5 out of 10, stating she thought that "If Dark Souls 3 truly is the last in the series as we know it, then it's a worthy send-off."[37] Rich Stanton of Eurogamer rated the game as "essential", calling it "fabulous" and that it was "a fitting conclusion" to the series.[45] Steven Strom of Ars Technica wrote that he thought the title still had the "smooth and impressive rendering of the series' signature style" and some of "the best boss fights in any Souls game".[46] Simon Parkin of The Guardian gave the game 5 out of 5 stars, and wrote that while Dark Souls III "may not have the novelty of the first Dark Souls", it was "the more pristine and rounded work" of the series.[41]
+However, criticism was directed at issues with the game's frame rate and performance,[39] linear map design,[34][46] and the way Bandai Namco handled the Western launch.[47][48] Philip Kollar of Polygon rated the game a 7 out of 10, stating disappointment at the lack of surprises and the arbitrary nature of the game's design, writing that "in so many important ways -- its world design, its pacing, the technology powering it - Dark Souls III falls short of the mark."[39] A later patch, released on April 9, fixed some frame rate and technical issues reviewers had with the game.[49]
+Reception to Ashes of Ariandel, the game's first downloadable content (DLC) expansion, was met with positive reception. Brendan Graeber of IGNenjoyed what the DLC offered, enjoying the introduction of a dedicated player versus player (PvP) arena, as well as the new enemies and bosses, but criticized the length, stating that Ashes of Ariandel served more as "an appetizer than a full course meal".[50] Kollar of Polygon considered the content of the DLC to be "great", but agreed with Graeber's criticism of the length, saying that that there was not much of it.[51]
+Sales[edit]
+In Japan, the PlayStation 4 version sold over 200,000 copies in its first two weeks of release. Sales for the Xbox One version were not reported.[52] It became the fastest-selling video game published by Bandai Namco Entertainment America, becoming the company's most successful day-one launch.[53] On May 10, 2016, Bandai Namco announced that Dark Souls III had reached three million total copies shipped worldwide, with 500,000 in Japan and Asia, 1.5 million in North America, and one million in Europe.[54] It was also reported that Dark Souls III was the best selling software in North America in the month of release.[55]
+Notes[edit]
+1. Jump up^ ??????III (D?ku S?ru Sur??) in Japanese
+References[edit]
+1. Jump up^ McDonnel, Kenny. "Can Dark Souls 3 Best These Incredible Gameplay Moments From the Souls Series?". Moviepilot. Moviepilot. Retrieved November 9, 2015.
+2. Jump up^ Barsanti, Sam (June 15, 2015). "Dark Souls III is officially coming, will kill you and everyone you love". The A.V. Club. Retrieved June 15, 2015.
+3. Jump up^ Saed, Sherif (June 17, 2015). ""Dark Souls 3 follows closely from Dark Souls 2," says Miyazaki about game's design".VG247. Retrieved August 18, 2015.
+4. ^ Jump up to:a b c Rad, Chloi (June 16, 2015). "E3 2015: Dark Souls 3 Is Everything I Want In A Dark Souls Sequel". IGN. RetrievedAugust 18, 2015.
+5. ^ Jump up to:a b Reseigh-Lincoln, Dom (July 19, 2015). "How Dark Souls 3 combat is changing post-Bloodborne". Edge. GamesRadar. Retrieved August 18, 2015.
+6. ^ Jump up to:a b c Fenlon, Wes (June 18, 2015). "Dark Souls 3 preview: a grander sense of scale, but still familiar". PC Gamer. Retrieved August 18, 2015.
+7. ^ Jump up to:a b McWhertor, Michael (June 17, 2015). "Our first look at Dark Souls 3 gameplay and its new changes to combat". Polygon. Retrieved August 18, 2015.
+8. Jump up^ McWhertor, Michael (September 16, 2015). "How magic works in Dark Souls 3". Polygon. Retrieved September 17,2015.
+9. Jump up^ Byford, Sam (June 19, 2015). "Dark Souls III is faster, weirder, and far more beautiful". The Verge. Retrieved August 18,2015.
+10. Jump up^ Tach, Dave (July 20, 2015). "Dark Souls 3's combat is faster in a post-Bloodborne world". Polygon. Retrieved August 18,2015.
+11. Jump up^ Wilson, Aoife (July 23, 2015). "Dark Souls 3 is familiar, and that's fin". Eurogamer. Retrieved August 18, 2015.
+12. Jump up^ Romano, Sal (August 17, 2015). "Dark Souls III Have Fewer Maps, But Larger Scale". Gematsu. Retrieved August 18,2015.
+13. ^ Jump up to:a b Patuleia, Mike (June 16, 2015). "E3 2015: World's First Dark Souls III Details Revealed". Hardcore Gamer. RetrievedAugust 18, 2015.
+14. Jump up^ Hillier, Brenna (June 18, 2015). "Dark Souls 3 has been in the works for two years". VG247. Retrieved August 18, 2015.
+15. Jump up^ Scammell, David (June 17, 2015). "Dark Souls 3 is being developed by a different team to Bloodborne".VideoGamer.com. Retrieved June 17, 2015.
+16. Jump up^ Karmali, Luke (January 29, 2013). "Miyazaki: Dark Souls Shouldn't Have Multiple Sequels". IGN. Retrieved August 18,2015.
+17. Jump up^ Robinson, Martin (August 17, 2015). "Dark Souls 3 isn't the last in the series – but it is a turning point". Eurogamer. Retrieved August 18, 2015.
+18. Jump up^ Devore, Jordan (August 6, 2015). "Gallery: Leaked Dark Souls III screenshots look legit". Destructoid. RetrievedAugust 18, 2015.
+19. Jump up^ Hussain, Tamoor (June 15, 2015). "Dark Souls 3 is Directed by Hidetaka Miyazaki". GameSpot. Retrieved August 18,2015.
+20. Jump up^ Russell, Scott (August 4, 2015). "Dark Souls III Gameplay Revealed in New Trailer". Paste Magazine. RetrievedAugust 18, 2015.
+21. Jump up^ Khan, Zarmena. "Hidetaka Miyazaki Says Bloodborne's Limitations Made Him Return to Dark Souls 3". PlayStation Lifestyle. Retrieved September 14, 2015.
+22. Jump up^ Martin, Liam (August 7, 2015). "Everything we know about Dark Souls 3, including trailers, gameplay and screenshots".Digital Spy. Retrieved August 18, 2015.
+23. Jump up^ Martin, Matt (June 24, 2015). "Dark Souls 3: "everything is designed to kill you"". VG247. Retrieved August 18, 2015.
+24. Jump up^ Greening, Chris. "Dark Souls III composers and soundtrack detailed". Video Game Music Online. Retrieved April 1, 2016.
+25. Jump up^ "Product | FromSoftware". FromSoftware. September 12, 2015.
+26. Jump up^ Frank, Allegra (December 4, 2015). "Dark Souls 3 nails down its April 2016 release date". Polygon. Retrieved December 4,2015.
+27. Jump up^ Splechta, Mike (October 15, 2015). "Dark Souls 3 stress test will begin tomorrow". GameZone. Retrieved October 16,2015.
+28. Jump up^ Sheriden, Conner (December 5, 2015). "Dark Souls 3 gets new gameplay, release date & special editions".GamesRadar. Retrieved December 5, 2015.
+29. Jump up^ Paget, Mat. "Dark Souls 3 DLC Released Early on Xbox One by Accident [UPDATE]". GameSpot. Retrieved 23 October2016.
+30. Jump up^ Kollar, Philip. "Everything we know about the Dark Souls 3: Ashes of Ariandel D". Polygon. Retrieved 23 October 2016.
+31. ^ Jump up to:a b Carter, Chris (April 4, 2016). "Review: Dark Souls III".Destructoid. Retrieved April 5, 2016.
+32. Jump up^ Romano, Sal (April 5, 2016). "Famitsu Review Scores: Issue 1427". Gematsu. Retrieved April 7, 2016.
+33. ^ Jump up to:a b Tack, Daniel (April 4, 2016). "Dark Souls III: Familiar But Fascinating Fantasy". Game Informer. Retrieved April 4,2016.
+34. ^ Jump up to:a b c Tan, Nick (April 6, 2016). "Dark Souls III Review".Game Revolution. Retrieved April 8, 2016.
+35. Jump up^ Mahardy, Mike (April 4, 2016). "Dark Souls 3 Review".GameSpot. Retrieved April 4, 2016.
+36. Jump up^ Evans-Thirlwell, Edwin. "Dark Souls 3 review".GamesRadar. Retrieved April 8, 2016.
+37. ^ Jump up to:a b c Rad, Chloi (April 4, 2016). "Dark Souls 3 Review". IGN. Retrieved April 4, 2016.
+38. Jump up^ Davenport, James (April 4, 2016). "Dark Souls III Review".PC Gamer. Retrieved April 4, 2016.
+39. ^ Jump up to:a b c Kollar, Philip (April 4, 2016). "Dark Souls 3 Review".Polygon. Retrieved April 5, 2016.
+40. Jump up^ "Dark Souls 3 is familiar, fierce and fascinating - review".The Daily Telegraph. April 4, 2016.
+41. ^ Jump up to:a b Parkin, Simon (April 12, 2016). "Dark Souls 3 review – the grandiose end to an unmatched trilogy". The Guardian.
+42. Jump up^ "Dark Souls III for PC Reviews". Metacritic. CBS Interactive. Retrieved September 29, 2016.
+43. Jump up^ "Dark Souls III for PlayStation 4 Reviews". Metacritic. CBS Interactive. Retrieved April 18, 2016.
+44. Jump up^ "Dark Souls III for Xbox One Reviews". Metacritic. CBS Interactive. Retrieved May 27, 2016.
+45. ^ Jump up to:a b Stanton, Rich (April 4, 2016). "Dark Souls 3 review".Eurogamer. Retrieved April 5, 2016.
+46. ^ Jump up to:a b Strom, Steven (April 5, 2016). "Dark Souls 3 review: Marching toward masochism". Ars Technica. RetrievedApril 5, 2016.
+47. Jump up^ Bashore, Nicholas. "'Dark Souls 3' and the Problem with Regional Release Dates". inverse.com. Retrieved April 9,2016.
+48. Jump up^ Leack, Jonathan. "Dark Souls 3's Launch Has Been Poorly Handled By Bandai Namco". Game Revolution. RetrievedApril 5, 2016.
+49. Jump up^ Imtiaz, Khurram. "Dark Souls 3 Gets Patch 1.03 In Japan, Tweaks Gameplay And Improves Performance". GearNuke.
+50. Jump up^ Graeber, Brendan. "Dark Souls 3: Ashes of Ariandel Review". IGN. Retrieved 26 October 2016.
+51. Jump up^ Kollar, Philip. "Dark Souls 3: Ashes of Ariandel review".Polygon. Retrieved 26 October 2016.
+52. Jump up^ Seeto, Damian. "Dark Souls 3 Sales Impress In Japan".AttackoftheFanboy. Modern Media Group LLC.
+53. Jump up^ Potter, Matt (April 18, 2016). "Dark Souls 3 Is Bandai Namco's Fastest Selling Game Ever". IGN. Retrieved April 19, 2016.
+54. Jump up^ Romano, Sal. "Dark Souls III tops three million shipments, Dark Souls series tops 13 million". Gametsu. RetrievedMay 11, 2016.
+55. Jump up^ Grubb, Jeff. "April 2016 NPD: Dark Souls III, Ratchet & Clank lead as gaming industry drops 15%". Venturebeat. RetrievedMay 15, 2016.
+

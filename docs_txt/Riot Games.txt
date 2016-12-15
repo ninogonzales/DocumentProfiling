@@ -1,0 +1,51 @@
+Riot Games
+From Wikipedia, the free encyclopedia
+Riot Games, Inc.TypeSubsidiaryIndustryInteractive entertainmentFounded2006; 10 years agoHeadquartersLos Angeles, California,United StatesNumber of locations17 (2015)[1]Key peopleBrandon Beck (CEO)
+Tom Cadwell (Lead Designer)[2]Marc Merrill (President)[2]
+Greg Costello (International Affairs)[2]ProductsLeague of LegendsRevenue US$1.6 billion (2015 estimate)[3]Number of employees1,000 (2013 estimate)[4]ParentTencentSubsidiariesRadiant EntertainmentWebsitewww.riotgames.comRiot Games is an American video game developer, publisher, and eSports tournament organizer established in 2006. Their main office is based inWest Los Angeles, California. They currently have additional offices located in Berlin, Brighton, Dublin, Hong Kong, Istanbul, Mexico City, Moscow,New York City, St. Louis, Santiago, São Paulo, Seoul, Shanghai, Singapore, Sydney, Taipei, and Tokyo.[1]
+The company is primarily known for League of Legends, which was released in North America and Europe on October 27, 2009.[5] The company also developed a free mobile game called Blitzcrank's Poro Roundup, which was released on iOS, and Android in August 2015. Riot is also involved inLeague's competitive eSports scene by organizing the League of Legends World Championship and Championship Series for Europe and North America and well as coordinating the filming and broadcasting of those events. They also sanction leagues organized by third parties in other regions across the world.
+Contents
+  [hide] 
+* 1History
+* 2Games
+o 2.1Mini games
+* 3Distribution
+* 4References
+* 5Further reading
+* 6External links
+History[edit]
+Riot Games was founded as an indie game developer in 2006 by Brandon "Ryze" Beck and Marc "Tryndamere" Merrill in Los Angeles.[6] The company announced its only game, League of Legends: Clash of Fates, in October 2008,[7] and released the game in October 2009 as simply League of Legends. Their game uses a free-to-play model, supported by microtransactions rather than ads or boxed copy sales.
+In 2008, Riot Games obtained initial funding of US$7 million provided by venture capital firms Benchmark Capital and FirstMark Capital.[8] In a second round of funding in 2009, the company raised $8 million from Benchmark, FirstMark, and Chinese technology company Tencent Holdings.[9][10] In early 2011, Tencent Holdings bought out a majority stake in Riot Games.[11][12] Tencent later reported the deal was for $231,465,000 in an interim report.[13]
+Employees at the company include veterans of Defense of the Ancients, such as the former lead developer Steve "Guinsoo" Feak, and the former official DotA-Allstars.com website founder Steve "Pendragon" Mescon.[14] Riot Games also employs some former Blizzard Entertainment employees.[6]On July 12, 2013, Business Insider named Riot Games #4 on its list of the top 25 technology companies to work for in 2013.[15]
+On November 8, 2013, Riot Games announced that the company would relocate to a new building in West Los Angeles in 2015.[16]
+On December 16, 2015, Riot Games sold its remaining equity to Tencent Holdings.[17][18]
+On March 8, 2016, Riot announced its acquisition of Radiant Entertainment.[19]
+Games[edit]
+TitleYearMonthGenrePlatformLeague of Legends2009OctoberMultiplayer online battle arena (MOBA)Windows/MacMechs vs. Minions2016OctoberCo-operative StrategyTabletopMini games[edit]
+TitleYearMonthGenrePlatformAstro Teemo2013MarchArcadeWindows/MacCho'gath Eats the World2015AprilArcadeWindows/MacBlitzcrank's Poro Roundup2015AugustSidescrolling gameiOS/Android/FlashDistribution[edit]
+In 2008 Riot Games has already released and distributed League of Legends in Latin America, Australia, the United States, Philippines, Singapore, Vietnam, Malaysia, Thailand, Canada, South Korea, Taiwan, China, Europe, Brazil, Japan, and Indonesia.[20] In China, Riot's primary shareholder Tencent Inc. distributes the game online. In Southeast Asia, online game service providerGarena publishes League of Legends. In North America, Riot Games self-publishes and operates the game and all of its customer service aspects.
+In Europe, Riot Games originally signed an international licensing partnership with GOA, a division of Orange S.A.. On October 13, 2009, GOA and Riot announced that they would start channeling server access for players located in Europe, to GOA's dedicated servers. This restriction meant that players located in Europe would not be able to play on Riot's servers in the United States. Due to negative community feedback, the channeling decision was rescinded October 16, 2009. On May 10, 2010, Riot Games announced that they would take over distribution and operation of the game in Europe. To do so, Riot Games established a European headquarters in Dublin.[21]
+On July 19, 2012, Riot Games launched the official Closed Beta Test servers for League of Legends Greece. The game has been fully localized, including translated menus, texts, subtitles, with all characters being dubbed. On April 16, 2013, Riot Games launched the official Open Beta Test servers for League of Legends Russia.
+References[edit]
+1. ^ Jump up to:a b "The Riot Manifesto". Riot Games. April 28, 2015. Retrieved October 28, 2015.
+2. ^ Jump up to:a b c Lien, Tracey (January 1, 2014). "Riot Games president defends company against accusations of greed". Polygon. Retrieved November 1, 2014.
+3. Jump up^ Gaudiosi, John (January 27, 2016). "ESports Are Driving Digital Video Game Sales". Fortune.
+4. Jump up^ Mike Snider (July 11, 2013). "'League of Legends' makes big league moves". USA Today. Retrieved October 16, 2013.
+5. Jump up^ Riot Games. "Interactive Timeline". Retrieved October 17,2013.
+6. ^ Jump up to:a b Kath Brice (June 25, 2009). "Blizzard developers join Riot Games' online title". GamesIndustryInternational. RetrievedOctober 16, 2013.
+7. Jump up^ Anthony Gallegos (October 7, 2008). "Riot Games' League of Legends Announced". 1UP.com. Retrieved October 16, 2013.
+8. Jump up^ Leigh Alexander (July 10, 2008). "Riot Games Get a $7M Launch". Kotaku. Retrieved October 16, 2013.
+9. Jump up^ "Riot Games Raises $8 Million". PE Hub. September 9, 2009. Retrieved October 16, 2013.
+10. Jump up^ Lalee Sadighi (Sep 2009). "Riot Games: $8 Million to Play With". Red Herring. Retrieved October 16, 2013.
+11. Jump up^ Edwards, Cliff (February 4, 2011). "Tencent Acquires Majority Stake in Riot Games to Expand in U.S.". Bloomberg.com. Retrieved April 23, 2015.
+12. Jump up^ Jon Leo (February 8, 2011). "Tencent acquires majority stake in Riot Games". Gamespot. Retrieved October 16, 2013.
+13. Jump up^ "Tencent 2011 Interim Report" (PDF). Tencent. p. 44. Retrieved January 29, 2014.
+14. Jump up^ "Steve Mescon hints bringing DotA-AllStars.com back online". Neutral Creeps. July 5, 2011. Retrieved October 16,2013.
+15. Jump up^ Megan Rose Dickey (July 12, 2013). "The 25 Best Tech Companies To Work For In 2013". Business Insider. Retrieved October 16, 2013.
+16. Jump up^ Pereira, Chris (November 8, 2013). "Riot Games Moving to Huge New Campus in 2015". IGN.
+17. Jump up^ Moser, Kelsey (December 16, 2015). "Tencent purchases remaining shares in Riot Games to hold 100% of equity".TheScore eSports. TheScore Inc.
+18. Jump up^ Frank, Allegra (December 16, 2015). "Riot Games now owned entirely by Tencent". Polygon. Retrieved December 16, 2015.
+19. Jump up^ "Riot Games acquires Rising Thunder and Stonehearth studio Radiant Entertainment". Polygon. Vox Media. RetrievedMarch 8, 2016.
+20. Jump up^ Jikonka, Jikonka (October 18, 2013). "Indonesian servers join the League: transfer now". LOL Esports. RetrievedOctober 20, 2013.
+21. Jump up^ "Riot Games Inc establishes EMEA Headquarters in Dublin". IDA Ireland Investment Promotion Agency. July 15, 2010. Retrieved October 16, 2013.
+

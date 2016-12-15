@@ -1,0 +1,218 @@
+Apple Watch
+From Wikipedia, the free encyclopedia
+Apple Watch
+An Apple Watch with white Sport BandDeveloperApple Inc.ManufacturerQuanta Computer[1]
+(contract manufacturer)TypeSmartwatchRelease dateOriginal: April 24, 2015; 17 months ago
+Series 1 and Series 2:September 16, 2016; 41 days agoIntroductory priceWatch Sport
+38 mm: US$349
+42 mm: US$399
+Watch
+38 mm: US$549–US$1,049
+42 mm: US$599–US$1,099
+Watch Edition
+38 mm & 42 mm: US$10,000–US$17,000[2]Operating systemApple Watch Original:
+Original: watchOS 1 Current:watchOS 3.1
+Apple Watch Series 1:watchOS 3
+Apple Watch Series 2:watchOS 3System-on-chip usedApple Watch Original: Apple S1 (32-bit ARMv7[3])
+Apple Watch Series 1: Apple S1P
+Apple Watch Series 2: Apple S2Memory512 MB DRAM[4]Storage8 GBDisplayAMOLED[5]
+38mm
+33.96 mm (1.337 in) diagonal, 272×340 pixels, 326 dpi
+42mm
+38.96 mm (1.534 in) diagonal, 312×390 pixels, 326 dpi
+Watch Sport
+Strengthened Ion-X glass
+Watch/Watch Edition
+Sapphire glassGraphicsPowerVR SGX543[6]SoundSpeakerTouchpadYesConnectivityBluetooth 4.0, NFC, Wi-Fi(802.11 b/g/n 2.4GHz only)
+Diagnostics portPowerBuilt-in rechargeable Li-Po battery
+38mm
+3.8 V 0.78 W·h (205 mA·h)[7][8]
+42mm
+3.78 V 0.93 W·h (246 mA·h)[8]Dimensions38 mm
+38.6 mm × 33.3 mm × 10.5 mm
+(1.52 in × 1.31 in × 0.41 in)
+42 mm
+42 mm × 35.9 mm × 10.5 mm
+(1.65 in × 1.41 in × 0.41 in)Backward
+compatibilityiPhone 5 and later running iOS 8.2 or later, connected via Wi-Fior Bluetooth.SuccessorApple Watch Series 2, Apple Watch Series 1Websitewww.apple.com/watchApple Watch is a line of smartwatches developed by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOSand other Apple products and services. The original generation of the device is available in four variants: Apple Watch Sport, Apple Watch, Apple Watch Hermès, and Apple Watch Edition, distinguished by different combinations of cases and first or third party interchangeable bands. Apple Watch relies on a wirelessly connected iPhone to perform many of its default functions such as calling and texting. It is compatible with the iPhone 5 or later models running iOS 8.2 or later, through the use of Bluetooth. Announced by Apple CEO Tim Cook in September 2014, the device was released in April 2015.[9][10] The Apple Watch quickly became the best-selling wearable device with the supply of 4.2 million smartwatches in the second quarter of the 2015 fiscal year.[11][12] The second generation of Apple Watch released in September 2016 includes two tiers: Apple Watch Series 2 and Apple Watch Series 1.[13]
+Contents
+  [hide] 
+* 1Development
+* 2Unveiling and release
+o 2.1Release
+* 3Specifications
+o 3.1Design
+o 3.2Hardware
+* 3.2.1First generation
+* 3.2.2Second generation
+* 4Software
+o 4.1Version history
+o 4.2Third-party apps
+* 5Models
+* 6Reception
+o 6.1Sales
+* 7See also
+* 8References
+* 9External links
+Development[edit]
+The goal of the Apple Watch was to free people from their phones.[14] Kevin Lynch was brought on by Apple to make wearable technology for the wrist. He said: "People are carrying their phones with them and looking at the screen so much. People want that level of engagement. But how do we provide it in a way that's a little more human, a little more in the moment when you’re with somebody?"[14] The Apple Watch works by connecting via Bluetoothto the phone and accessing any Watch compatible apps stored on the mobile device. Apple's development process was held very much under wraps until a Wired article revealed how some internal design decisions were made.[14]
+Unveiling and release[edit]
+Rumors surrounded an Apple-developed wearable back as far as 2011, which conceptualized the device as a variation of the iPod that would curve around the user's wrist, and feature Siri integration.[15] On February 10, 2013, both The New York Times and The Wall Street Journal reported that Apple was beginning to develop an iOS-based smartwatch with a curved display.[16] On February 12, 2013, Bloomberg reported that Apple's smartwatch project was "beyond the experimentation phase in its development", and had a team of at least 100 designers working on the project.[17]Further reports in March 2013 indicated that Apple planned to release the device by the end of the year.[18] In July 2013, Financial Times reported that Apple had begun hiring more employees to work on the smartwatch, and that it was targeting a possible retail release in late 2014.[19]
+In April 2014, Apple CEO Tim Cook told The Wall Street Journal that the company was planning to launch new product categories that year, but did not reveal any specifics.[20] In June 2014, Reuters reported that production was expected to begin in July for a release in October.[21]
+On September 9, 2014, during a press event where the iPhone 6 was also presented, the new product was introduced by Tim Cook as "the next chapter in Apple's story" with a video that focused on its design and the various combinations of bands and case styles that would be available to the consumers. After the reveal video, the auditorium was filled with prolonged applause and a standing ovation as Tim Cook reappeared onstage wearing an Apple Watch. Apple CEO Tim Cook explained that Apple Watch was "a precise timepiece, a new intimate way to communicate from your wrist, and a comprehensive health and fitness device."[22][23]
+In comparison to other Apple products and competing smartwatches, marketing of Apple Watch focused more on advertising the device as a fashion accessory; a 12-page advertising spread for Apple Watch in an issue of Vogue focused primarily on the different combinations of body and band styles available, and downplayed the technological aspects of it.[24][25] Apple has also, in particular, focused upon its health and fitness-oriented features, competing against dedicated activity trackers [26] and is set to expand on them with activity tracking for wheelchair users and a new Breathe app to encourage mindfulness.
+Release[edit]
+Pre-orders for the Apple Watch began on April 10, 2015, with an official release on April 24.[27]
+Initially, the Apple Watch was not available at the Apple Store; beginning on April 10, 2015, customers could receive appointments for demonstrations and fitting, but the device was not in-stock for walk-in purchase, and had to be reserved and ordered online (however, sales representatives are able to assist in the process). CNET felt that this distribution model was designed to prevent Apple Store locations from having long line-ups due to high demand.[28][29] Selected Apple Watch models were available in-store at certain luxury boutiques and authorized Apple resellers in limited quantities.[30]On June 4, 2015, Apple announced that it did plan to stock Apple Watch models at its retail locations.[29] On August 24, 2015, during an earnings call,Best Buy announced that it would begin stocking Apple Watch at its retail stores by the end of September.[31] Both T-Mobile US and Sprint also announced plans to offer Apple Watch through its retail stores.[32]
+On September 9, 2015, in Apple's Special Event, Apple launched a new collection of Apple Watch in a collaboration with Hermès. This new collection, Apple Watch Hermès, comes in stainless steel body with finely crafted leather bands in distinctive styles from Hermès, including the Single Tour, Double Tour and Cuff models. Initially, Apple Watch Hermès was available only in selected retail stores of Apple and Hermès, but it became available for purchase at Apple's website on January 22, 2016.[33] Also announced were new colors for Apple-designed bands in various colors along with a release date for watchOS 2 update.
+The device was not branded as "iWatch" (which would put it in line with its pre-existing product lines such as iPod, iPhone, and iPad) due to trademarkconflicts in certain territories; in the United States, the "iWatch" trademark is owned by OMG Electronics — who was crowdfunding a device under the same name, and is owned in the European Union by Irish firm Probendi.[34][35] In July 2015, Probendi sued Apple Inc. for trademark infringement, arguing that through keyword advertising on the Google search engine, it caused advertising for the Apple Watch to appear on search results pages when users searched for the trademarked term "iWatch".[36]
+Apple Watch went on sale in India on November 6.[37] The device has also launched in Chile, the Philippines, and South Africa.[38] Apple Watch became available in Indonesia on December 4.[39]
+During the Apple Event on March 21, 2016, a refreshed color lineup of watch bands were announced along with a new nylon band. The price of the Sport models were also cut by $50.[40]
+Specifications[edit]
+Design[edit]
+The original Apple Watch comes in four collections (Apple Watch Sport, Apple Watch, Apple Watch Edition, and Apple Watch Hermès)[41] and features two case sizes: 38 mm (1.5 in) and 42 mm (1.7 in).[42] The case of the watch includes a mechanism to enable the straps to be interchangeable. For input, the watch includes a "digital crown", which can be turned to scroll or zoom and pressed to return to the home screen, and a touchscreen that features Force Touch technology, which makes it pressure-sensitive and capable of distinguishing between a tap and a press.[5] The watch also has a side button which can be used to display favorite contacts and access Apple Pay.[43] Apple rates the device's battery for 18 hours of mixed usage.[5][44] Apple Watch is charged by means of inductive charging, using a cable similar to the MagSafe cable from Apple's MacBook family of laptops.[9] If the watch's battery depletes to less than 10 percent, the user is alerted and offered to enable a "power reserve" mode, which allows the user to continue to read the time for an additional 72 hours. The watch then reverts to its original mode when recharged.[45]
+Apple does not explicitly market the original Apple Watch as being waterproof, stating that it can withstand splashes of water (such as rain and hand washing), but does not recommend submersion (IPX7). However, external testing by The Iconfactory and others revealed that Apple Watch can function when submerged in various conditions (such as swimming), although its touchscreen experiences "erratic" behavior when submerged. Additionally, usage in water may void its warranty, constituting "damage caused by [use] outside Apple's published guidelines", and apps taking advantage of this may not be allowed per App Store policies which forbid the publishing of apps that encourage users to use devices in ways that may damage them.[46][47]
+Hardware[edit]
+First generation[edit]
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (September 2016)
+Apple S1
+The first-generation Apple Watch uses the S1 system-on-chip. It does not have a built-in GPS chip. It uses a linear actuator called the "Taptic Engine" to provide haptic feedback when an alert or a notification is received, and is used for other purposes by certain apps.[5] The watch is equipped with a built-inheart rate sensor, which uses both infrared and visible-light LEDs and photodiodes.[48] All versions of the Apple Watch have 8 GB of storage; the operating system allows the user to store up to 2 GB of music and 75 MB of photos. When the Apple Watch is paired with an iPhone, all music on that iPhone is also available to be controlled and accessed from the Apple Watch.[49]
+The Apple Watch only turns on when you activate the watch (either by lifting your wrist, touching the screen or pressing a button).[50]
+The hardware has a large number of proprietary and custom accessories available for a customized look. Third party bands and cases can be switched at the user's discretion.
+Second generation[edit]
+Main article: Apple Watch Series 2
+The second-generation includes two tiers, "Series 1" and "Series 2".
+"Series 1" has a dual-core variant of the Apple S1 processor, dubbed S1P, adds an ambient light sensor, and has a lower starting price than the first-generation had.[51]
+"Series 2" has a dual-core Apple S2 processor, adds ambient light sensor, water resistance to 50 meters, a 2x brighter display (1000 nits vs 450 nits), and GPS.[52]
+Software[edit]
+Apple Watch runs watchOS, whose interface is based around a home screen with circular app icons. The OS can be navigated using the touchscreen or the crown on the side of the watch.[5] Apple Watch must be paired with an iPhone 5 or later running iOS 8.2 or later; this version of iOS introduced the Apple Watch app, which is used to advertise Apple Watch, pairing with an iPhone, customize settings and loaded apps, and highlight compatible apps from the App Store.[5]
+It is capable of receiving notifications, messages, and phone calls via a paired iPhone.[5] "Glances" allowed users to swipe between pages containing widget-like displays of information, however this feature was removed in place of a new Control Center. watchOS also supports Handoff to send content from Apple Watch to an iOS or OS X device,[5] and act as a viewfinder for an iPhone camera,[43] Siri is also available for voice commands, although it is not capable of responding with voice prompts.[5] Apple Watch also supports Apple Pay, and enables its use with older iPhone models that do not contain near-field communication (NFC) support.[5]
+Apple Watch's default apps are designed to interact with their iOS counterparts, such as e-mail, phone, Calendar, Messages, Maps, Music, Photos, Reminders, Remote (which can control iTunesand Apple TV), Stocks, and Wallet.[5] Via the Fitness app, a user can track their physical activity and send data back to the iPhone for use in its Health app and other HealthKit-enabled software.[5]With WatchOS 3, Reminders, Home, Find My Friends, Heart Rate, and Breathe were added to the many stock apps.
+Version history[edit]
+See also: watchOS version history
+watchOS 1.0.1 featured performance improvements and support for additional emoji and languages,[53] and was released on May 29, 2015. At WWDC 2015, Tim Cook announced watchOS 2.0; described by CNET as a "significant revamp", it included a new software development kit that allows more direct access to the device's hardware, new watch faces, the ability to reply to e-mail, and other features.[54] watchOS 2.0 was set to be released on September 16, 2015, but was delayed due to a bug fix taking longer than expected;[55] it was instead released on September 21, 2015.[56]
+watchOS 2.0 was released as a way to bring new features and more improvements to Apple Watch. Although enhancements were seen through this software update, many users pointed out that their apps are almost universally useless due to lag and that touches don't register immediately.[57] However, there are ways to speed up the Apple Watch by turning off several options from the Settings app.[58]
+watchOS 3.0 was announced at WWDC 2016, with a priority on performance. Users are able to keep apps running in memory as well as receive background updates and refreshed information. Other updates include a new Dock invoked with the side button to replace the performance-laden Glances, an updated Control Center, and new reply options on Messages. Several new watch faces have also been added, including Minnie Mouse, along with the ability to switch watch faces from the lock screen simply by swiping. A new feature called SOS allows users to hold the dock button to make a call to the local emergency line and pull up the user's Medical ID. Another feature is Activity Sharing, which allows sharing of workouts with friends and even sending their heartbeats to one another. A new app called Breathe guides users through breathing exercises throughout the day, with visuals and haptic feedback. watchOS 3.0 was released to developers on June 13, 2016 and was made available to the public on September 13, 2016.
+The developer preview of watchOS 3.1 was released on the 21st of September 2016 with a bundle of new features and performance improvements.
+Third-party apps[edit]
+watchOS supports third-party applications; a WatchKit app runs in the background on the iPhone as an application extension while a set of native user interface resources are installed on Apple Watch.[59] Thus, watchOS apps must be bundled within their respective iOS app, and are synced to the watch either manually, or automatically upon installation of the phone app.[5]
+Starting June 1, 2016, the only new watch apps allowed on the Apple Store will be those developed with the watchOS 2 SDK (or later); no third-party languages or SDKs can be used to develop apps.[60]
+Models[edit]
+See also: Apple Watch model comparison
+
+An Apple Store display showcasing various Apple Watch models.
+As of October 2016, two generations and three series of Apple Watch have been released. The series in bold are the current generation of the device:
+* Apple Watch (2015-2016)
+* Apple Watch Series 1 (2016–present)
+* Apple Watch Series 2 (2016–present)
+Apple Watch Series 2 models are divided into four "collections": Apple Watch, Apple Watch Nike+, Apple Watch Hermès and Apple Watch Edition. They are differentiated by different combinations of cases and bands and exclusive watch faces; Apple Watch comes with either aluminum or stainless steel cases and various watch bands, Apple Watch Nike+ uses aluminum cases and special variants of sport band, Apple Watch Hermès uses stainless steel cases and Hermès watch bands, and Apple Watch Edition comes with ceramic cases (the original generation Apple Watch Edition used 18-karat gold).[61]
+Apple Watch Series 1 models are only available in aluminum cases and sport bands.[62]
+Each model comes in a 38 and a 42 mm body, with the 42mm size having a slightly larger screen and battery.[5] Each model has various color and band options. Featured Apple-made bands include colored Sport bands, Woven Nylon Band, Classic Buckle, Modern Buckle, Leather Loop, Milanese Loop, and a Link Bracelet.[5]
+Reception[edit]
+
+An Apple Store opens its doors on the first day of the sale of Apple Watch
+Following the announcement, initial impressions from technology and watch industry observers were varied; the watch was praised by some for its "design, potential capabilities and eventual usefulness",[63] while others offered criticism of these same aspects.[63] Venture capitalist Marc Andreessen said he "can't wait" to try it,[64] and Steve Jobs' biographer Walter Isaacson described it as "extremely cool" and an example of future technology that is "much more embedded into our lives".[65] However, Evan Dashevsky of PC Magazine said it offered nothing new in terms of functionality compared to the Moto 360, except the customizable vibration notifications.[66] In November 2014, Apple Watch was listed by Time as one of the 25 Best Inventions of 2014.[67]
+Initial reviews for the device have been generally positive with some caveats.[68] Reviewers praised the watch's potential ability to integrate into everyday life and the overall design of the product, but noted issues of speed and price. Many reviewers described the watch as functional and convenient, while also noting failure to offer as much potential functionality as preceding smartphones. Farhad Manjoo of The New York Times mentioned the device's steep learning curve, stating it took him "three long, often confusing and frustrating days" to become accustomed to it.[69] Some reviewers also compared it to competing products, such as Android Wear devices, and claimed "The Smartwatch Finally Makes Sense".[70] Reviewers had mixed opinions on battery life though, with Geoffrey Fowler of The Wall Street Journal saying "the battery lives up to its all-day billing, but sometimes just barely,"[70] and others compared it to the Samsung Gear 2, which "strolls through three days of moderate usage."[71] Tim Bradshaw of the Financial Times used several applications over a period of days. He concluded that there is no "killer application" so far besides telling the time, which is the basic function of a wristwatch anyhow.[72]
+When using the Apple Watch, some users have reported issues using the heart monitoring feature due to permanent skin conditions including tattoos. To gauge a user's heart rate, the watch flashes green light at the skin and records the amount of this light the blood absorbs. However, under certain circumstances the skin may not allow for the light absorption to be read properly and thus provide inaccurate results.[73]
+Some users have complained that the logo and text on the back of the Apple Watch Sport model, primarily the space gray version,[74] can be easily worn off.[75]
+Sales[edit]
+Financial analysts offered early sales estimates from a few million to as many as 34.7 million in the first year.[76] Time's Tim Bajarin summarized the breadth of reactions, writing that "there is not enough information yet to determine how this product will fare when it finally reaches the market next year".[63]
+Due to inadequate materials, the Apple Watch's delivery was delayed from its pre-order release date of April 10, 2015.[77] As a result, only 22 percent of the pre-ordered Apple Watches were despatched in the US during the weekend after the release date.[78] It is estimated Apple received almost one million Apple Watch pre-orders in the US during the initial six hours of the pre-order period on April 10, 2015, after which it sold out and further orders would start delivery in June.[79] A report later on by an analyst stated that Apple Watch is already a $10 billion business during its first year.[80][81][82]
+See also[edit]
+* Apple Inc. portal
+* List of iOS devices
+* Pebble Time
+* Pebble (watch)
+* iPod Nano (6th generation) (an iPod commonly used as a watch)
+* Microsoft Band
+* Microsoft Band 2
+* Samsung Gear
+* Sony SmartWatch
+* Moto 360
+* LG G Watch
+* Huawei Watch
+* Android Wear
+References[edit]
+1. Jump up^ Eva Dou (June 20, 2014). "Who Is Apple's Watch Maker?".The Wall Street Journal. Retrieved February 8, 2015.
+2. Jump up^ Kelion, Leo (March 10, 2015). "Apple Watch prices and apps revealed". BBC News Online. Retrieved March 10, 2015.
+3. Jump up^ "Steve T-S on Twitter".
+4. Jump up^ "Teardown shows Apple Watch S1 chip has custom CPU, 512MB RAM, 8GB storage". AppleInsider. Retrieved April 30,2015.
+5. ^ Jump up to:a b c d e f g h i j k l m n o "Review: The absolutely optional Apple Watch and Watch OS 1.0". Ars Technica. RetrievedJuly 15, 2015.
+6. Jump up^ "Apple Watch runs 'most' of iOS 8.2, may use A5-equivalent processor". AppleInsider. Retrieved April 25, 2015.
+7. Jump up^ "Apple Watch Teardown - iFixit". Retrieved April 24, 2015.
+8. ^ Jump up to:a b Ho, Joshua; Chester, Brandon (July 20, 2015). "The Apple Watch Review". AnandTech. Retrieved July 27, 2015.
+9. ^ Jump up to:a b "The Verge live blog". The Verge. Vox Media. September 9, 2014. Retrieved September 10, 2014.
+10. Jump up^ Etherington, Darrell. "Tim Cook Says Apple Watch Ships In April". TechCrunch. AOL. Retrieved January 28, 2015.
+11. Jump up^ "Apple Watch is 'world's best selling wearable' with 4.2 million shifted in Q2".
+12. Jump up^ "Apple Watch Price Details in India".
+13. Jump up^ Mangalindan, JP (September 8, 2016). "Apple announces Apple Watch Series 2 on September 7, 2016". Yahoo Tech.
+14. ^ Jump up to:a b c "iPhone Killer: The Secret History of the Apple Watch".WIRED.
+15. Jump up^ "Rumor: Apple working on wearable iPod with Siri control | iMore". iMore. Retrieved September 1, 2015.
+16. Jump up^ "Apple is 'experimenting' with curved glass smartwatch, says NYT and WSJ". The Verge. Retrieved July 15, 2015.
+17. Jump up^ "Apple Said to Have Team Developing Wristwatch Computer". Bloomberg. Retrieved July 15, 2015.
+18. Jump up^ "Apple's Planned 'IWatch' Could Be More Profitable Than TV". Bloomberg. Retrieved July 15, 2015.
+19. Jump up^ "Apple on iWatch hiring blitz ahead of possible late 2014 launch, says Financial Times". The Verge. Retrieved July 15,2015.
+20. Jump up^ "Apple's Cook on New Products: 'Take the Time to Get It Right'". Digits. Wall Street Journal. Retrieved July 15, 2015.
+21. Jump up^ "Apple's iWatch may launch in October with 2.5-inch screen, says Reuters".(subscription required)
+22. Jump up^ "Apple Watch announced: available for $349 early next year". The Verge. Retrieved July 15, 2015.
+23. Jump up^ "The Apple Watch is poised to dominate the market for digital fitness trackers". The Verge. Retrieved July 15, 2015.
+24. Jump up^ "Apple Watch is competing as a fashion accessory, and that's a risky move". Washington Post. Retrieved July 15, 2015.
+25. Jump up^ "First Apple Watch ads in U.S. magazines favor fashion lovers over techies". Mashable. Retrieved July 15, 2015.
+26. Jump up^ Quinn, Bradley. "Apple Watch isn't about fashion design; it's about the fashion industry". Techradar. Future. RetrievedJuly 15, 2015.
+27. Jump up^ "Apple Watch release date is April 24th, with pricing from $349 to over $10,000". The Verge. Retrieved July 15, 2015.
+28. Jump up^ "Apple Watch launch: Plan ahead -- it's by appointment only". CNET. Retrieved July 15, 2015.
+29. ^ Jump up to:a b "Apple Watch can now be reserved for in-store purchase". CNET. Retrieved July 15, 2015.
+30. Jump up^ "Want an Apple Watch on Friday? Head to a luxury boutique". CNET. Retrieved July 15, 2015.
+31. Jump up^ "The Apple Watch will be available at all Best Buy locations next month". The Verge. Retrieved September 22, 2015.
+32. Jump up^ "Buy Apple Watch From Sprint on Friday". PC Magazine. Retrieved September 22, 2015.
+33. Jump up^ Reisinger, Don. "Apple's Pricey Hermès Smartwatch Will Be Available Online Friday". fortune.com. Fortune Magazine. Retrieved January 21, 2016.
+34. Jump up^ "Non-Apple companies hold iWatch trademark in U.S., U.K., China". CNET. Retrieved July 15, 2015.
+35. Jump up^ "Why the Apple Watch isn't called the iWatch". CNBC. NBCUniversal News Group. Retrieved July 15, 2015.
+36. Jump up^ "The Apple iWatch doesn't exist, but a legal fight over it does". Ars Technica. Retrieved July 15, 2015.
+37. Jump up^ Diaconescu, Adrian (November 6, 2015). "Apple Watch finally goes on sale in India starting at the equivalent of $470". Pocketnow. Retrieved November 6, 2015.
+38. Jump up^ "Apple Watch coming to India on Nov. 6, prices and resellers unknown". Retrieved October 23, 2015.
+39. Jump up^ "Tanggal Rilis Apple Watch di Indonesia Terkuak: Akhir November!". Makemac. Retrieved November 14, 2015.
+40. Jump up^ Rhodes, Margaret. "The Military History Behind the Apple Watch's New Straps". Wired. Retrieved April 3, 2016.
+41. Jump up^ "Apple Watch - Buy - Apple". Apple. Retrieved January 22,2016.
+42. Jump up^ "Apple Watch Case and Band Sizes - Apple". Apple. Retrieved January 22, 2016.
+43. ^ Jump up to:a b "The Verge: The 15 most important announcements from the Apple Watch, iPhone 6 event". The Verge. Vox Media. September 9, 2014. Retrieved September 10, 2014.
+44. Jump up^ "Wearable of the Month: The Apple Watch". Humavox. October 29, 2015.
+45. Jump up^ "General Battery Information". Apple inc. Retrieved April 11,2015.
+46. Jump up^ "A Detailed Look at How the Apple Watch Functions in Water". MacRumors. Retrieved July 15, 2015.
+47. Jump up^ "Apple Watch swim app works — but it will void your warranty". Cult of Mac. Retrieved July 15, 2015.
+48. Jump up^ "Apple - Apple Watch - Technology". Apple. RetrievedSeptember 10, 2014.
+49. Jump up^ Apple Watch includes 8 GB of storage, allows 2 GB of music storage and 75 MB of photos. Retrieved March 11, 2015.
+50. Jump up^ "Early 2015 Smartwatch Comparison Guide".
+51. Jump up^ "Apple Watch - Compare - Specs". apple.com. Retrieved2016-09-16.
+52. Jump up^ "Apple - Press Info - Apple Introduces Apple Watch Series 2, The Ultimate Device For A Healthy Life". apple.com. Retrieved 2016-09-11.
+53. Jump up^ "Apple releases first Apple Watch update with watchOS 1.0.1, adding new Emoji & languages, app improvements, more".9to5Mac. Retrieved June 10, 2015.
+54. Jump up^ "Get ready for Apple Watch 2.0". CNET. Retrieved June 10,2015.
+55. Jump up^ "Apple Previews New Apple Watch Software". RetrievedAugust 30, 2015.
+56. Jump up^ Cunningham, Andrew (September 21, 2015). "After delay, Apple releases watchOS 2.0 to the public". Ars Technica.Condé Nast. Retrieved September 21, 2015.
+57. Jump up^ "Why I'm cheating on my Apple Watch | Cult of Mac". Cult of Mac. Retrieved March 13, 2016.
+58. Jump up^ "Apple Watch slow? How to Speed Up watchOS with these Tips". Cupertino Watch. Retrieved March 13, 2016.
+59. Jump up^ Cunningham, Andrew (November 18, 2014). "Apple releases WatchKit developer tools alongside first iOS 8.2 beta". Ars Technica. Condé Nast. Retrieved May 15, 2015.
+60. Jump up^ "Apple requires all new watchOS apps be native by June 1".
+61. Jump up^ Anvin VS (September 18, 2014). "Apple Watch: 18-Karat Gold Premium Smartwatch Edition To Be Priced At $5000--Reports". International Business Times AU.
+62. Jump up^ "Buy Apple Watch Series 1 - Apple". apple.com. RetrievedOctober 15, 2016.
+63. ^ Jump up to:a b c Bajarin, Tim (September 29, 2014). "Nobody Can Predict the Success of Apple's Watch Yet". Time. Retrieved April 2,2015.
+64. Jump up^ "Zuckerberg is world's best CEO, Twitter the eighth wonder, says Marc Andreessen". CNET. October 7, 2014. RetrievedOctober 14, 2014.
+65. Jump up^ Shaban, Hamza (October 6, 2014). "Walter Isaacson Talks AI, Apple Watch, and His New Book The Innovators". Gizmodo. Retrieved October 14, 2014.
+66. Jump up^ "There's Only One Reason to Buy an Apple Watch". PC Magazine. September 10, 2014. Retrieved September 10, 2014.
+67. Jump up^ "The 25 Best Inventions of 2014". Time. November 20, 2014. Retrieved January 21, 2015.
+68. Jump up^ Biggs, Tim (April 9, 2015). "Apple watch reviews very positive, with some caveats". Sydney Morning Herald. RetrievedApril 9, 2015.
+69. Jump up^ Manjoo, Farhad (April 8, 2015). "Apple Watch Review: Bliss, but Only After a Steep Learning Curve". The New York Times. Retrieved April 25, 2015.
+70. ^ Jump up to:a b Fowler, Geoffrey (April 8, 2015). "Apple Watch Review: The Smartwatch Finally Makes Sense". The Wall Street Journal. Retrieved April 9, 2015.
+71. Jump up^ Johnson, Luke. "Samsung Gear 2: Apps, Battery, Value and Verdict". TrustedReviews. Retrieved April 9, 2015. It strolled through three days moderate usage, which is two full days longer than the Galaxy Gear, but's still short of what we would like to see on a wearable.
+72. Jump up^ Tim Bradshaw: "Apple Watch." In: "Financial Times." May 22, 2015, p. 10
+73. Jump up^ "Your heart rate. What it means, and where on Apple Watch you'll find it.". Apple Inc. May 30, 2015. Retrieved August 19,2015.
+74. Jump up^ Roger Fingas. "Apple Watch Sport owners report unexpected rear logo damage, other text scratching off".
+75. Jump up^ "Apple Watch Sport Users Complain That Lettering And Logo Are Wearing Off". Consumerist. Retrieved August 20, 2015.
+76. Jump up^ "Apple Watch sales to reach 36 million in first year, analyst predicts - CNET". CNET. Retrieved June 7, 2015.
+77. Jump up^ Shara Tibkens. "Apple Watch delays delays may be due to faulty part-CNET". CNET. Retrieved August 19, 2015.
+78. Jump up^ Lance Whitney. "Apple Watch may have shipped to only 22 percent of preorder buyers so far-CNET". CNET. RetrievedAugust 19, 2015.
+79. Jump up^ Dan Frommer. "Apple Watch pre-orders were 1 million in the US on its first day, a shopping data firm estimates". Quartz. Retrieved April 13, 2015.
+80. Jump up^ "Apple Watch Is Already a $10 Billion Business". RetrievedJuly 2, 2016.
+81. Jump up^ "Apple Watch Is A Colossal $10 Billion Business After Just 1 Year In The Market". The Cryd's Daily. Retrieved July 2,2016.
+82. Jump up^ "Here's How Much the Apple Watch Business Is Worth".Fortune. July 1, 2016. Retrieved July 2, 2016.
+

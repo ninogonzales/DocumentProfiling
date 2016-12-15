@@ -1,0 +1,285 @@
+Microsoft Lumia
+From Wikipedia, the free encyclopedia
+Microsoft Lumia
+Microsoft Lumia logo (Top) and various Nokia and Microsoft branded Lumia devices (Bottom). From left to right, the Lumia 1320, the Lumia 535, and the Lumia 530.ManufacturerMicrosoft Mobile
+Nokia (2011–2014)RelatedList of Windows Phone devices
+List of Nokia products
+SurfaceTypeSmartphone, Phablet, TabletForm factorBarOperating systemWindows Phone, Windows 10 MobileCPUQualcomm SnapdragonData inputsTouchscreenDevelopment statusDiscontinued (ceased development and production)Websitewww.microsoft.com/en/mobile/phones/lumia/Microsoft Lumia (previously the Nokia Lumia Series) is a range of mobile devices designed and marketed by Microsoft Mobile and previously byNokia. Introduced in November 2011, the line was the result of a long-term partnership between Nokia and Microsoft—as such, all Lumia smartphonesrun the Windows Phone operating system. The Lumia name is derived from the partitive plural form of the Finnish word lumi, meaning "snow".[1][2]
+On 3 September 2013, Microsoft announced its purchase of Nokia's mobile device business, with the deal closing on 25 April 2014. As a result, the Lumia line is now maintained by Microsoft Mobile. As part of the transition, Microsoft continued to use the Nokia brand on Lumia devices until October 2014, when it began to officially phase out the Nokia name in its promotion and production of smartphones in favor of Microsoft branding.[3] In November 2014, Microsoft announced the first Microsoft (non-Nokia) branded Lumia device, the Lumia 535.[4] In October 2015, Microsoft announced the first Lumia devices running on Windows 10 Mobile, the Lumia 950, Lumia 950 XL and Lumia 550.[5][6][7] The most recent Lumia smartphone, theLumia 650, was announced by Microsoft on February 15, 2016.[8]
+Contents
+  [hide] 
+* 1History
+o 1.1Partnership between Microsoft and Nokia
+o 1.2Acquisition of Nokia's mobile phone business
+o 1.3Android prototypes
+o 1.4Under Microsoft ownership
+* 2Lumia updates
+* 3List of Lumia devices
+o 3.1Numbering convention
+o 3.2Nokia-branded Lumia devices
+o 3.3Microsoft-branded Lumia devices
+* 4Comparison of Lumia smartphones
+* 5Sales
+* 6See also
+* 7References
+* 8External links
+History[edit]
+From 1998 to 2012, Nokia was the largest vendor of mobile phones in the world, which included early smartphones built on its Symbian platform. However, in recent years, its market share declined as a result of the growing use of touchscreen smartphones from other vendors, such as Apple'siPhone line and Android-based products. In 2010, its market share had declined to 28%, and in April 2012, Samsung Electronics (a prominent user of Android) ultimately overtook Nokia as the largest mobile phone vendor in the world. Nokia's CEO Stephen Elop passed on the idea of producing Android devices, believing the company wouldn't be able to suitably differentiate its Android products from that of other vendors.[9][10] In an employee memo, Elop infamously described the company as being on a "burning platform", blaming the "war of ecosystems" between iOS and Android as part of Nokia's overall struggle, and asserting that the company needed to make major changes to its operation.[11][12]
+Partnership between Microsoft and Nokia[edit]
+See also: Windows Phone § Partnership with Nokia
+
+The Nokia Lumia logo, used prior to the post-acquisition rebranding by Microsoft
+
+Nokia Lumia 800, the first Lumia device
+In February 2011, Stephen Elop and Microsoft's CEO Steve Ballmer jointly announced a major business partnership between Nokia and Microsoft, which would see Nokia adopt Windows Phone as its primary platform on future smartphones, replacing both Symbian and MeeGo. The deal also included the integration ofBing as the search engine on Nokia devices, and the integration of Nokia Maps into Microsoft's own mapping services.[11] Nokia had planned to use the MeeGo platform as part of its future plans prior to the announcement, although the company announced that it would still release one MeeGo device in 2011.[11][13][14]Aligning with Microsoft had been considered a possibility by analysts due to Elop's prior employment with the company.[12][15]
+Nokia unveiled its first Windows Phone 7-based devices, the mid-range Lumia 710 and high-end Lumia 800, on 26 October 2011 at its Nokia World conference.[16][17] Motivated by requests from the U.S. carrier AT&T for an LTE-enabled device, Nokia quickly developed the Lumia 900 as a follow-up, first unveiled at the 2012 International CES. The Lumia 900 received heavy promotion by the carrier as a flagship device, but its launch was dampened by a software bug that prevented the device from connecting to certain mobile data networks, forcing AT&T to issue credits to those who purchased the device. Upon its launch in April 2012, the Lumia 900 was listed as a top seller on Amazon.com, but online sales began to taper off by May. While not revealing further details, a Nokia representative stated that the company was "pleased with the consumer reaction, as well as the support we have received from AT&T", while AT&T's mobility chief Ralph de la Vega stated that the Lumia 900 had "exceeded expectations".[9][18]
+In early 2012, Nokia released the Lumia 610, a new entry-level device taking advantage of the lower system requirements introduced by Windows Phone 7's "Tango" update. These new low-end devices were intended to improve Windows Phone adoption in emerging markets such as China.[19][20][21]
+Later in September 2012, Nokia unveiled the Lumia 820 and the Lumia 920, its first two devices to use the second generation of the Windows Phone platform, Windows Phone 8.[22] Both featured NFC, with the Lumia 820 embedding a microSD card slot, and an optional Wireless Charging Shell for Qiwireless charging. The Lumia 920 also notably featured Qi wireless charging, and a "PureView" camera with optical image stabilization. While Nokia received criticism when it was revealed that a demonstration video of its image stabilization technology was in fact, filmed using a professional camera, the Lumia 920 was a commercial success for the company.[9][23]
+
+A Nokia Lumia 520
+Then at MWC 2013, Nokia introduced two more Windows Phone 8 devices, the mid- range Nokia Lumia 720 & the budget Nokia Lumia 520, of which the latter has become the most sold Windows phone device ever.[24]
+In 2013, Nokia also introduced the Lumia 925, a revised version of the 920 with a slimmer build incorporating aluminium,[25] and the Lumia 1020, which features a 41-megapixel camera based on technology from its Symbian-based 808 PureView.[26]
+On 22 October 2013, Nokia extended the Lumia brand into the tablet market with the unveiling of the Lumia 2520; running Microsoft's Windows RT operating system, it was the company's first tablet since the Nokia Internet tablet range.[27] Some critics believed that the usage of Windows RT opposed to full Microsoft Windows 8.1 led to bad sales as most major Windows tablet makers have used Windows 8.1 in favour of Windows RT.[28][29] though others have claimed that the device's heavy weight and high price caused it to fail.[30][31] Lumia 2520 was discontinued in early 2015.[32]
+Although sales of the Lumia line had exceeded those of BlackBerry in the same period, Nokia still made an operating loss of €115m (m), with revenues falling 24% to €5.7bn following the second quarter of 2013. Over the past nine quarters, Nokia sustained €4.1 billion worth of operating losses.[33][34][35]
+Acquisition of Nokia's mobile phone business[edit]
+See also: Microsoft Mobile § 2013 to 2014: Acquisition of Nokia's mobile phone business
+
+Nokia Lumia 1020 with 41 MP rear camera
+On 3 September 2013, Microsoft announced its intent to acquire Nokia's mobile phone business (including rights to the Lumia and low-end Asha brands) in an overall deal totaling at over US$7 bn. Stephen Elop stepped down as Nokia's CEO and re-join Microsoft as its head of devices as part of the deal, which closed in early 2014.[36] While Microsoft will license the Nokia name under a 10-year agreement, the company will only be able to use it on feature phonesspecifically phones running the Series 30, Series 30+[37] and the Series 40 mobile operating systems based on Java ME and MediaTek technology,[38]respectively.[39][40] These changes resulted in future Lumia models being first-party hardware produced by Microsoft.[41][42]
+Android prototypes[edit]
+See also: Nokia X family and Nokia X platform
+On 13 September 2013, the New York Times writer Nick Wingfield revealed that Nokia had been testing the Android operating system on its Lumia hardware.[43] It was one of two known Android projects at the company; the other was running the OS on low–end Asha hardware, which resulted in theNokia X family of devices. Despite the testing the Android-based Lumia handsets were never released and only altered Asha devices were brought to the market.[44][45][46]
+In July 2014 Microsoft announced that they would discontinue all Nokia Asha and X Devices in favour of Lumia Devices. All future Nokia Asha and X designs will be used in future Lumia Designs.
+Under Microsoft ownership[edit]
+
+Microsoft Lumia 535, the first Microsoft branded Lumia device
+Even after the acquisition of Nokia's mobile device business by Microsoft, several Lumia devices were unveiled by Microsoft Mobile in September 2014 that still carried the Nokia name, including the Lumia 830 and Lumia 735;[47] In July 2014, it had been reported by evleaks that Microsoft was attempting to license the Nokia name in a co-branding scheme, which would have possibly seen future devices branded as "Nokia by Microsoft".[48][49][50] As a part of the change of ownership the social network pages have also been rebranded as Microsoft Lumia[51][52] rather than Microsoft Mobile to emphasize their focus on Windows Phone as opposed to other Nokia mobile phones while also changing their social network pages of Windows Phone to the new Microsoft Lumia branding,[53] to reflect this change Nokia Conversations has also been rebranded as Lumia Conversations,[54] and NokNok.tv to Lumia Conversations UK.[55]Though the rebranding has not been consistent as the Nokia Army has been renamed the Spartan Nation and the support site for legacy phones, accessories, as well as other Nokia-branded devices and services Nokia Discussions has been renamed the Microsoft Mobile Community.[56] The Lumia Beamer was the last Lumia branded application to have its URL changed from Nokia to Lumia signifying the end of the term Microsoft was allowed to use Nokia.com and related sites during this transitional period.[57]
+
+However, in October 2014, Microsoft officially announced that it would phase out the Nokia brand in its promotion and production of Lumia smartphones, and that future Lumia models will be branded solely with the name and logo of Microsoft.[3][58][59][60] In November 2014, Microsoft announced its first self branded phone, Microsoft Lumia 535.[4][61][62] Rebranding the Lumia line from "Nokia" to "Microsoft" did not affect sales though some critics believed that the change of branding might influence consumers' decisions due to the established brand of Nokia which has built up a reputation of durability while the Microsoft brand is relatively new in the consumer phone space.[63][64] The Nokia Lumia 638 was the last Lumia to bear the Nokia brand and was only released in India in December 2014.
+In November 2014, a post by a Microsoft Twitter account stated that all Nokia and Microsoft Lumia smartphones running Windows Phone 8 and 8.1 would receive updates to Windows 10, but following the official unveiling, Microsoft reiterated and stated that they were targeting the "majority" of Lumia phones, and that not all phones would receive the update or support all of its features.[65] Later, Microsoft confirmed that low end devices with 512MB of RAM (including the Nokia Lumia 520—a model which represents 24.5% of all Windows Phone devices sold),[66] would also get the Windows 10 upgrade, but reaffirmed that not all of its features would be supported on these devices.[67][68] Additionally, Microsoft stated on January 16, 2015 that low end Windows Phone 8.1 phones will not get some Lumia Denim features.[69]
+In July 2015, Bloomberg reported that Microsoft had a planned restructuring of Microsoft Mobile, which includes the Microsoft Lumia range. This will reportedly include a write down of about $7.6 billion on the acquisition of Nokia's mobile phone business and a layoff of about 7200 employees. Also reported was that Microsoft will release less first-party devices every year.[70]
+As part of a larger restructuring the Microsoft Devices & Studios engineering Group was merged with the Operating Systems Engineering Group to form the larger Windows & Devices Engineering Group, and in July 2015 it was announced that the head of Surface, Panos Panay would head the new "Microsoft devices" unit which includes the Microsoft Lumia as well as various other Microsoft hardware products such as the Band, HoloLens, and Xbox.[71]
+In October 2015, Microsoft launched the first Lumia devices running on Windows 10 Mobile, the Lumia 950, Lumia 950 XL and Lumia 550.[5][6][7] In February 2016, Lumia 650, which also runs Windows 10 Mobile, was launched.[72]
+Lumia updates[edit]
+See also: Windows Phone version history
+Nokia and Microsoft Mobile have released several updates unique to Lumia devices, the releases contain a combination of firmware and software updates which include imaging improvements, new technology support, as well as feature updates and bug fixes. Because Lumia devices exclusively use Windows Phone, major operating system updates are often bundled with the firmware updates upon release.
+Similar to how Windows Phones receive operating system updates, Lumia update releases are dependent on carriers who decide if and when devices are to receive them.[73] However, operating system updates are not subject to these constraints if users are part of Microsoft's Windows Insider or Preview for Developers program.
+Legend Previous release Current release
+History of Lumia updatesRelease name
+Code nameDate announcedConcurrent operating system versionHighlightsLumia Amber
+[74]August 15, 2013[75]Windows Phone 8Update 2 (GDR2)Default version for Nokia Lumia 625, 925, 928 and 1020 devices. Developed by Nokia
+* Double tap the screen to turn on
+* New settings and processing algorithms for the Nokia Pro Camera
+* Tutorial mode for the Nokia Pro Camera
+* Bracketing mode for the Nokia Pro Camera
+* Stereo audio recording
+* Customisable audio bass filter
+* New settings and processing algorithms for the Nokia Smart Camera
+* Nokia Best Shot in the Nokia Smart Camera captures a moving object multiple times
+* Motion Focus in the Nokia Smart Camera places focus on moving objects
+* Support for colourful profiles in the Display+Touch Settings menu
+* Flip to silence
+* FM Radio support[76][77]
+* Lumia Storage Check
+* Nokia Glance Screen
+* Nokia call+SMS filter Settings app
+* New ringtones (Blom, Breathing, Dawn, Launch, and Wobbles)
+* Up to 10% improved battery life (varies per device)
+* Enables Nokia Video Trimmer and Nokia Video Upload* Lumia Black
+Bittersweet Shimmer
+[78]January 9, 2014[79]Windows Phone 8 Update 3 (GDR3)Default version for Nokia Lumia 525, 1320 and 1520 devices. Developed by Nokia
+* An App Folder app similar to "app folders" on the Android and iOS start screens
+* Bluetooth LE support
+* Updated Nokia Refocus, Nokia Beamer, and Nokia Storyteller apps
+* Nokia Camera application
+* 3 new shooting modes and video recording in camera settings[80]
+* Light sensitivity settings for the Nokia Pro Camera
+* New oversampling algorithm
+* RAW and DNG format support for the Nokia Lumia 920, Nokia Lumia 925, and Nokia Lumia 1520[81]
+* Pedometer for the Nokia Glance Screen
+* Enables Nokia Share and Nokia Video Director* Lumia Cyan
+Cherry Blossom Pink
+[82]July 15, 2014 [83]Windows Phone 8.1Default version for Nokia Lumia 521, 530, 630, 635, 636, 638 and 930 devices. Developed by Microsoft.
+* Miracast support (to some select devices)
+* The ability to capture Dolby Surround Sound with Nokia Rich Recording
+* Updated Nokia Camera, Nokia Creative Studio and Nokia Storyteller apps
+* Nokia Device Hub (formerly a beta in the Nokia Beta Labs) bundled with settings.
+* Various improvements to Nokia's suite of imaging applications.[further explanation needed]
+* Nokia SensorCore SDK
+* Equalizers for speakers
+* 5 new filters for the Nokia Creative Studio* Lumia Denim
+Debian Red
+[84]September 4, 2014[85]Windows Phone 8.1 Update 1 (GDR1)
+Windows Phone 8.1 Update 2 (GDR2)Default version for Nokia Lumia 730, 735 and 830 and Microsoft Lumia 430, 435, 532 and 535 devices with Windows¨Phone 8.1 Update 1. Default version for Microsoft Lumia 540, 640 and 640 XL devices with Windows Phone 8.1 Update 2. Developed by Microsoft.
+* An improved Lumia Camera experience for high end devices
+* Auto HDR and Dynamic Flash for the Lumia Camera
+* Improved image processing algorithms for the Lumia Camera
+* Increased speed in capturing images
+* "Hey Cortana" voice activation
+* MSN Weather and MSN Health & Fitness support for the Glance Screen
+* Enables Lumia Moments[86]List of Lumia devices[edit]
+Numbering convention[edit]
+The first digit (or the first two digits, for devices with four-digit model numbers) indicates the device's family, with larger numbers generally denoting a higher-end device. Under Nokia, numbers larger than 10 indicated a phablet (e.g. 1320, 1520) or tablet (2520). Since the sale of the Lumia line to Microsoft, four-digit model numbers have been discontinued, with larger models instead being denoted by an "XL" suffix (e.g. 950 XL).
+The second digit indicates the generation of the device, based on the operating system it originally shipped with:
+DigitOperating systemNotes0 or 1Windows Phone 7except the 8102Windows Phone 83Windows Phone 8.14Windows Phone 8.1 Update 25Windows 10 MobileThe third digit is used to distinguish between variants in the same family and generation. 0 indicates the base model, while other numbers indicate either a minor upgrade (e.g. 920 and 925), a 4G-capable variant (e.g. 730 and 735) or a regional or carrier-specific variant.
+An optional "C" or "T" suffix indicates a variant produced exclusively for the Chinese market.
+Nokia-branded Lumia devices[edit]
+Nokia Lumia devices[hide]NameCodenameRelease dateSeriesGenerationInstalled operating systemVariationsNokia Lumia 800[87]Sea RayNovember 20118001Windows Phone 7.5800C with CDMA2000 for China Telecom[88]Nokia Lumia 710[89]SabreJanuary 20127001Windows Phone 7.5Nokia Lumia 900[90]AceApril 20129001Windows Phone 7.5Nokia Lumia 610[91]CliffApril 20126001Windows Phone 7.5610C with CDMA2000 for China Telecom[92]Nokia Lumia 510[93]GlorySeptember 20125001Windows Phone 7.5Nokia Lumia 820[94]ArrowNovember 20128002Windows Phone 8810 for T-Mobile,[95] 822 for Verizon[96]Nokia Lumia 920[97]PhiNovember 20129002Windows Phone 8928 (Lazer) for Verizon with Xenon-flash camera,[98] 920T for China Mobile[99]Nokia Lumia 505[100]December 20125001Windows Phone 7.8Nokia Lumia 620[101]SandJanuary 20136002Windows Phone 8Nokia Lumia 520[102]FameJanuary 20135002Windows Phone 8520T with TD-SCDMA for China Mobile[103]Nokia Lumia 720[104]ZealJanuary 20137002Windows Phone 8720T with TD-SCDMA for China Mobile[105]Nokia Lumia 925[106]CatwalkJune 20139002Windows Phone 8925T with TD-SCDMA for China Mobile[107]Nokia Lumia 1020[108]EOSJuly 201310002Windows Phone 8Nokia Lumia 625[109]MaxAugust 20136002Windows Phone 8Nokia Lumia 1320[110]BatmanOctober 201313002Windows Phone 8Nokia Lumia 1520[111]BanditOctober 201315002Windows Phone 8Nokia Lumia 2520[112]SiriusOctober 201325002Windows RTNokia Lumia 525[113]GleeDecember 20135002Windows Phone 8Nokia Lumia Icon[114]February 12, 20149003Windows Phone 8.1Nokia Lumia 930[115]MartiniApril 20149003Windows Phone 8.1Nokia Lumia 630[116]MoneypennyApril 20146003Windows Phone 8.1635 with LTE, 636 and 638 with 1GB RAM[117]Nokia Lumia 530[118]RockJuly 20145003Windows Phone 8.1Nokia Lumia 730 Dual SIM[119][120][121]September 20147003Windows Phone 8.1Nokia Lumia 735[120]SupermanSeptember 20147003Windows Phone 8.1Nokia Lumia 830[122]TeslaSeptember 20148003Windows Phone 8.1Microsoft-branded Lumia devices[edit]
+Microsoft Lumia devices[hide]NameCodenameRelease dateSeriesGenerationInstalled operating systemVariationsMicrosoft Lumia 535[123][124]ChakraNovember 20145003Windows Phone 8.1Dual SIMMicrosoft Lumia 435[125]VelaJanuary 20154003Windows Phone 8.1Dual SIMMicrosoft Lumia 532[126]LeoJanuary 20155003Windows Phone 8.1Dual SIMMicrosoft Lumia 640[127]DempseyMarch 20156004Windows Phone 8.1LTE, Dual SIM, LTE Dual SIM.Microsoft Lumia 640 XL[128]MakepeaceMarch 20156004Windows Phone 8.1LTE, Dual SIM, LTE Dual SIM.Microsoft Lumia 430[129]DorisMarch 20154003Windows Phone 8.1Dual SIMMicrosoft Lumia 540[130]April 20155004Windows Phone 8.1Dual SIMMicrosoft Lumia 950[131]TalkmanNovember 20159005Windows 10 MobileDual SIMMicrosoft Lumia 950 XL[132]CitymanNovember 20159005Windows 10 MobileDual SIMMicrosoft Lumia 550[133]SaimaaDecember 20155005Windows 10 MobileMicrosoft Lumia 650[134]SaanaFebruary 20166005Windows 10 MobileLTE, LTE Dual SIMComparison of Lumia smartphones[edit]
+Main article: Comparison of Lumia smartphones
+Sales[edit]
+Quarterly sales of Lumia devices (million units)QuartersQ4 2011Q1 2012Q2 2012Q3 2012Q4 2012Q1 2013Q2 2013Q3 2013Q4 2013Q1 2014Q2 2014Q3 2014Q4 2014Q1 2015Q2 2015Q3 2015Q4 2015Q1 2016Q2 2016TotalQuarterly global sales1242.94.45.67.48.88.287.49.310.58.68.45.84.52.31.2110.3Graph of quarterly global sales (million units)[135][136][137][138][139][140][141][142][143][144]
+
+See also[edit]
+* Lumia imaging apps
+* Microsoft Surface
+* Microsoft hardware
+* Microsoft Kin
+* Nokia X family
+* Nokia Asha series
+References[edit]
+1. Jump up^ Bartlett, Karen (2 November 2011). "Naming the Nokia Lumia". Conversations by Nokia. Nokia. Archived from the original on 8 July 2013. Retrieved 21 January 2016.
+2. Jump up^ Edmonds, Rich (5 February 2013). "Some interesting "Did you know..." facts about Nokia.". Windows (Phone) Central.
+3. ^ Jump up to:a b "Microsoft Lumia design officially revealed without Nokia branding". The Verge. Retrieved 24 October 2014.
+4. ^ Jump up to:a b "High five for Microsoft Lumia 535". Microsoft Devices Blog. Microsoft.
+5. ^ Jump up to:a b Dolcourt, Jessica (6 October 2015). "Microsoft Lumia 950 coming in November with Windows 10, 5.2-inch screen, starts at $549 (hands-on).". CNet.
+6. ^ Jump up to:a b Kastrenakes, Jacob (6 October 2015). "Microsoft Lumia 950 XL with 5.7-inch display and liquid cooling announced for $649.". The Verge.
+7. ^ Jump up to:a b Statt, Nick (6 October 2015). "Microsoft's new Lumia 550 announced at $139. The Windows budget phone is back.".The Verge.
+8. Jump up^ Hänninen, Samuli. "Microsoft Lumia 650: sophisticated, metal design and Windows 10 under $200". Retrieved28 September 2016.
+9. ^ Jump up to:a b c Cheng, Roger (2012-12-18). "Nokia on the edge: Inside an icon's fight for survival". CNET. Retrieved 2013-06-14.
+10. Jump up^ "Samsung overtakes Nokia in mobile phone shipments". BBC News. 27 April 2012. Retrieved 27 May 2012.
+11. ^ Jump up to:a b c "Nokia and Microsoft form partnership". BBC. 11 February 2011. Retrieved 12 February 2011.
+12. ^ Jump up to:a b Weintraub, Seth (2011-02-08). "Nokia's Elop drops bomb: the platform is on fire". Fortune. Retrieved 2013-06-14.
+13. Jump up^ Gulliver, John (11 February 2011). "Nokia N9 to be launched this year". Nokia Phones.
+14. Jump up^ John, Norman (30 October 2011). "Nokia N9 and MeeGo Apps Site Launched, Checkout and Download Hot and Top Apps". Nokia World.
+15. Jump up^ John, Michael. "Microsoft announces Lumia". Cellz. Cellz. Retrieved 13 November 2014.
+16. Jump up^ "Nokia Lumia 710 hands-on (video)". Engadget. Retrieved2012-11-08.
+17. Jump up^ Toor, Amar (2011-10-26). "Nokia announces the Lumia 800". Engadget. Retrieved 13 November 2012.
+18. Jump up^ "Just how well did Nokia's Lumia 900 do?". CNET. Retrieved 3 September 2013.
+19. Jump up^ Warren, Tom (February 27, 2012). "Windows Phone 7.5 update will support 256MB RAM and slower processors in April". The Verge. Vox Media. Retrieved 21 June 2012.
+20. Jump up^ Mobiles, A.S.F. (10 August 2011). "Windows Phone Tango: for low-cost smartphones". Jhang Mobiles.
+21. Jump up^ Nagy, Anton D. (7 June 2012). "Windows Phone Mango vs. Windows Phone Tango (Video)". PocketNow.
+22. Jump up^ Woods, Ben (September 5, 2012). "Nokia's first Windows Phone 8 devices revealed: The Lumia 820 and 920". The Verge. Vox Media. Retrieved 9 February 2014.
+23. Jump up^ "Nokia Lumia 920 official: Dual-core 1.5GHz Snapdragon S4 CPU, 8MP PureView camera, Windows Phone 8 (video)".Engadget. September 6, 2012. Retrieved September 23, 2012.
+24. Jump up^ Thurrott, Paul. "Short Takes: September 27, 2013". Windows IT Pro. Retrieved 29 September 2013.
+25. Jump up^ "Nokia Lumia 925 review: First metal Lumia gets it right".CNET. Retrieved 3 September 2013.
+26. Jump up^ "Nokia Lumia 1020 preview: Take two". GSMArena. Retrieved 22 August 2013.
+27. Jump up^ Press, the Associated (22 October 2013). "Nokia's first tablet, Lumia 2520, unveiled". CBC News.
+28. Jump up^ Sohail, Omar (8 February 2015). "Microsoft RT tablets: Production of Nokia Lumia 2520 to cease.". Christian Today.
+29. Jump up^ Lee, Tyler (4 February 2015). "Microsoft No Longer Manufacturing Nokia Lumia 2520". Übergizmo.
+30. Jump up^ Writer, Staff (25 October 2013). "Nokia Lumia 2520: 3 Reasons It Is Doomed To Fail Even Before It Hits Stores".KPop Starz.
+31. Jump up^ "Nokia Lumia 2520 review". The Verge. Retrieved11 January 2014.
+32. Jump up^ "The last Windows RT tablet reportedly discontinued, say goodbye to the Lumia 2520". WinBeta.
+33. Jump up^ Blandford, Rafe (18 July 2013). "Nokia Q2 2013 results - Lumia sales up against mixed background". All About Symbian.
+34. Jump up^ Souppouris, Aaron (23 October 2013). "Nokia's Q3 2013: $162 million profit from $7.79 billion revenue". The Verge.
+35. Jump up^ Reed, Brad (29 October 2013). "Nokia narrows Q3 loss as Lumia sales spike". Boy Genius Report.
+36. Jump up^ "Microsoft buys Nokia's Devices and Services Unit, unites Windows Phone 8 and its hardware maker". The Verge. Retrieved 3 September 2013.
+37. Jump up^ Sawers, Paul (5 January 2015). "Microsoft launches the Nokia 215, a $29 feature phone touted as its most affordable Internet device yet.". Venture Beat.
+38. Jump up^ Sándor, Nacsa (15 August 2012). "MediaTek's 'smart-feature phone' effort with likely Nokia tie-up.". Lazure.
+39. Jump up^ Foley, Mary Jo (25 April 2014). "Microsoft takes control of Nokia's phone business; acquires 25,000 new employees".ZDNet.
+40. Jump up^ Lunden, Ingrid (3 September 2013). "Nokia's Licensing Its Name To Microsoft, But It's Free To Keep Building Hardware, And Could Even Dial Up To Mobile Devices Again By January 2016". Tech Crunch.
+41. Jump up^ "There will never be another Nokia smartphone". The Verge. Retrieved 3 September 2013.
+42. Jump up^ Tung, Liam (September 5, 2013). "Is Microsoft about to bring Office and XBox to Nokia's Asha phones?". ZDNet. CBS Interactive. Retrieved May 9, 2012. While Microsoft figures out how to integrate Nokia into its own business, it will retain Nokia's brand name under licence to sell both Asha devices and other feature phones.
+43. Jump up^ Nick Wingfield (2013-09-13). "Behind Microsoft Deal, the Specter of a Nokia Android Phone". bits.blogs.nytimes.com.
+44. Jump up^ Hamblen, Matt (12 December 2013). "Perspective: The fate of Nokia's Android phone depends on Microsoft. Latest analyst thinking on 'Normandy': It runs a cross of Meego-Linux-Android and can use Android apps". Computerworld.
+45. Jump up^ Best, Jo (24 February 2014). "Nokia really is going Android with the launch of three 'gateway' devices called X". ZDNet.
+46. Jump up^ Davies, Chris (24 February 2014). "Nokia X official: Android for the sub-Lumia masses". Slash Gear.
+47. Jump up^ "Microsoft announces two Lumia phones, always-on Cortana, and clever new mobile accessories". PC World. Retrieved12 September 2014.
+48. Jump up^ "Microsoft to use "Nokia by Microsoft" branding on new phones; Surface name to be replaced by Lumia?".PhoneArena. Retrieved 12 September 2014.
+49. Jump up^ Eadicicco, Lisa (24 October 2014). "Microsoft Has Officially Cut Nokia's Brand From Its Most Popular Smartphone Line".Business Insider.
+50. Jump up^ Lomas, Natasha (28 April 2014). "Microsoft Won't Brand Its Own Phones 'Microsoft Mobile' — Nor Use Nokia's Name For Long". Tech Crunch.
+51. Jump up^ "Nokia's Phone Business Rebranded as 'Microsoft Lumia'".PC Magazine. Retrieved 22 October 2014.
+52. Jump up^ "This is what Microsoft's Nokia-less Lumia phones will look like". PC World. Retrieved 24 October 2014.
+53. Jump up^ "Nokia France leak: Windows Phone DUMPED in Microsoft Lumia revamp, Haricots renversés sur Facebook". The Register. Retrieved 22 October 2014.
+54. Jump up^ "The Nokia Conversations blog is now Lumia Conversations". Windows Central. Retrieved 9 November2014.
+55. Jump up^ Browne, Mike (8 January 2015). "Welcome to Lumia Conversations U.K.". Lumia Conversations U.K. (formerly NokNok.tv).
+56. Jump up^ "#Nokia Support Discussions gets a new home – The #Microsoft Mobile Community. by @jimboireland". Nokia News Ireland. Retrieved 7 December 2014.
+57. Jump up^ Viswav, Pradeep (25 January 2015). "Lumia Beamer app update changes beaming URL to lumiabeamer.com.".Windows Mobile PowerUser.
+58. Jump up^ Warren, Tom (10 September 2014). "Microsoft is killing the Nokia and Windows Phone brands". The Verge. Retrieved12 September 2014.
+59. Jump up^ "Microsoft is killing the Nokia and Windows Phone names, reports say". PC World. Retrieved 12 September 2014.
+60. Jump up^ "Microsoft Lumia will replace the Nokia brand". The Verge. Retrieved 21 October 2014.
+61. Jump up^ Bright, Peter (11 November 2014). "The Lumia 535 is the first Microsoft-branded smartphone We're truly entering the post-Nokia era.". Ars Technica.
+62. Jump up^ Saxena, Anupan (11 November 2014). "First Microsoft-branded smartphone Lumia 535 launched". The Times of India.
+63. Jump up^ Dasani, Jill (28 January 2015). "AdDuplex Stats – Lumia 535 a massive hit in India, Lumia 730 follows". Nokia the One.
+64. Jump up^ Tre, Tuoi (6 February 2015). "Nokia phones still popular with consumers in Vietnam following Microsoft buyout: retailers".Tuoi Tre News.
+65. Jump up^ "Microsoft reneges on Windows 10 upgrades for all current Lumia phones". PC World. IDG. Retrieved 23 January 2015.
+66. Jump up^ Saleem, Hammad (24 March 2015). "Windows Phone performance as of March 2015, budget-friendly devices continue to dominate.". WinBeta.
+67. Jump up^ Author, Ron (8 February 2015). "Joe Belfiore confirms Windows 10 for 512MB phones, 'subset of phones' to get the first preview build". WinBeta.
+68. Jump up^ "Joe Belfiore: Windows 10 update for 512MB phones in the works". GSMArena. Retrieved 9 February 2015.
+69. Jump up^ "Microsoft clarifies Lumia Denim update for some is just in-name-only". Windows Central.
+70. Jump up^ "Microsoft to Cut Jobs, Take $7.6 Billion Writedown on Nokia". Bloomberg News. Retrieved 8 July 2015.
+71. Jump up^ Viswav, Pradeep (21 July 2015). "Surface Chief Panos Panay Is Taking Over Engineering For All Of Premium Devices Including Lumia Windows Phones.". Windows Mobile PowerUser.
+72. Jump up^ Microsoft Lumia 650 launched at $199: Here are the top specs
+73. Jump up^ Hautala, Eric (January 6, 2012). "New maintenance release for Windows Phone". Windows Phone Blog. Microsoft. Retrieved January 8, 2014.
+74. Jump up^ Blandford, Rafe (15 May 2013). "Nokia's "Lumia Amber" software update in detail". All About Windows Phone.
+75. Jump up^ "Green light for Lumia Amber.".lumiaconversations.microsoft.com. Microsoft. August 15, 2013. Retrieved January 8, 2014.
+76. Jump up^ "Lack of FM chip not the reason the Nokia Lumia 620 is not getting FM Radio support". WMPoweruser.
+77. Jump up^ "FM Radio support". Nokia.
+78. Jump up^ Delaney, Ian (9 January 2014). "Nokia Lumia Black update begins rollout.". Lumia Conversation.
+79. Jump up^ "Nokia kicks off Lumia Black software update with new features, apps". blogs.windows.com. Microsoft. January 9, 2014. Retrieved January 8, 2014.
+80. Jump up^ GSM, Mustafa (11 January 2014). "Nokia Lumia Black software update features overview". G.S.M. Arena.
+81. Jump up^ Xbox, WP (23 October 2013). "Nokia Lumia Black : List of Features / Apps That are Coming to Windows Phone".WPXbox.
+82. Jump up^ Arena, GSM (3 April 2014). "Nokia's WP 8.1 release detailed, to be called Lumia Cyan". GSM Arena.
+83. Jump up^ "All-new Windows Phone experience: Lumia Cyan update".lumiaconversations.microsoft.com. Microsoft. July 15, 2014. Retrieved January 8, 2014.
+84. Jump up^ Sulleyman, Aatif (19 December 2014). "Lumia Denim Features List: What's new?". Trusted Reviews.
+85. Jump up^ "Full of features: Lumia Denim Update".lumiaconversations.microsoft.com. Microsoft. September 4, 2014. Retrieved January 8, 2014.
+86. Jump up^ Ivanoff, Ivan (8 February 2015). "Nokia Lumia 1520 Denim Update Makes Its Camera That Much Better". J.B.G. News.
+87. Jump up^ "Nokia Lumia 800 and 710 price and release dates confirmed". Cnet. 26 October 2011. Retrieved 16 November2012.
+88. Jump up^ Millward, Steven (28 March 2012). "Nokia and China Telecom to Launch Lumia 800C March 31st, WP7 Marketplace Now Live in China". Tech in Asia.
+89. Jump up^ "T-Mobile's Nokia Lumia 710 is official, on January 11th". Reuters. Retrieved 16 November 2012.
+90. Jump up^ "Nokia Lumia 900 Release Date April 8th". International Business Times. Retrieved 16 November 2012.
+91. Jump up^ F., Alan (27 May 2012). "Nokia #1 again in Finland as Nokia Lumia 610 and Nokia Lumia 900 launch". PhoneArena.
+92. Jump up^ Hashmi, Saad (28 March 2012). "Nokia Lumia 800C and Lumia 610C announced for China Telecom's CDMA network".Windows Phone Daily.
+93. Jump up^ Dhingra, Deepak (October 23, 2012). "Nokia launches budget Lumia 510: Windows Phone 7.5, 4-inch display and 5-megapixel camera (video)". Engadget.
+94. Jump up^ Summers, Nick (5 September 2012). "Nokia launches the Lumia 820, the 920's little brother with 8 megapixel camera, 4.3" screen". The Next Web.
+95. Jump up^ "Nokia Lumia 810 for T-Mobile review". engadget.com. Retrieved 16 November 2012.
+96. Jump up^ "HTC 8X, Nokia Lumia 822 release & price on Verizon". Phones Review. Retrieved 20 November 2012.
+97. Jump up^ "Nokia Lumia 920 release date UK: 2 November". Pocket-lint. Retrieved 2012-11-13.
+98. Jump up^ Eddy, Nathan (May 12, 2012). "Nokia, Verizon Prepare for Lumia 928 Smartphone Launch". eWeek.
+99. Jump up^ "Live from Nokia's MWC 2013 Press Conference". AnandTech. Retrieved 26 February 2013.
+100. Jump up^ Admin, Site (17 December 2012). "Nokia Lumia 505: New Windows Phone 7.8". Release Phones.
+101. Jump up^ Dolcourt, Jessica. "Nokia Lumia 620 Review – Watch CNET's Video Review – page 2". Reviews.cnet.com. Retrieved2013-08-01.
+102. Jump up^ Saxena, Anupam (20 March 2013). "Nokia launches Lumia 720 and Lumia 520 with Windows Phone 8 in India". NDTV Gadgets.
+103. Jump up^ Vasil, Cosmin (21 March 2013). "Nokia Lumia 520T Arriving in China for $225/€175". Softpedia.
+104. Jump up^ H., Victor (27 February 2013). "Nokia Lumia 720 and Lumia 520 release date set for April 1 (not a joke)". Phone Arena.
+105. Jump up^ Viswav, Pradeep (20 March 2013). "China Mobile Variant Of Nokia Lumia 720 To Include CMMB Mobile TV Technology".Windows Mobile PowerUser.
+106. Jump up^ Epstein, Zach (14 May 2013). "Nokia unveils Lumia 925 with aluminum body, PureView camera; headed to T-Mobile".BGR.
+107. Jump up^ R., Maxwell (8 June 2013). "Nokia Lumia 925T all set to make a splash with China Mobile". Phone Arena.
+108. Jump up^ Delaney, Ian (12 September 2013). "Nokia and Telefonica launch 64GB Nokia Lumia 1020". Microsoft Lumia Conversations.
+109. Jump up^ "Nokia Lumia 625: hero of the big screen". Nokia.
+110. Jump up^ of India, Trust (20 December 2013). "Nokia announces Lumia 1320, 525, Asha 500, 502, 503 India launch". IBN Live.
+111. Jump up^ Lawler, Richard (8 November 2013). "Nokia's 6-inch Lumia 1520 arrives on AT&T November 22nd for $200, pre-orders open now". Engadget.
+112. Jump up^ Rigg, Jamie (10 January 2014). "Nokia's Lumia 2520 tablet exclusive to John Lewis in the UK from December 4th".Engadget.
+113. Jump up^ tomwarren. "Nokia Lumia 525 unveiled as successor to the most popular Windows Phone". The Verge. Vox Media.
+114. Jump up^ GSM, Arena (9 February 2014). "Nokia Lumia Icon launching on February 20". GSM Arena.
+115. Jump up^ Page, Carly (21 July 2014). "Lumia 930 release date, price, specs and availability". The Inquirer.
+116. Jump up^ Rougeau, Micheal (2 April 2014). "New Lumia 630, Lumia 635 are the first to launch with Windows Phone 8.1". Tech Radar.
+117. Jump up^ Taylor, April (4 November 2014). "Nokia Lumia 635 Windows Phone 8.1, quad-core LTE smartphone hits Cricket Wireless on Nov. 7". iTech Post.
+118. Jump up^ F., Alan (13 August 2014). "Nokia Lumia 530 launches in India". Phone Arena.
+119. Jump up^ developer.nokia.com/devices
+120. ^ Jump up to:a b Sharma, Ravi (26 November 2014). "Nokia Lumia 730 review: Not just a selfie phone". Times of India.
+121. Jump up^ McGregor, Jay (4 October 2014). "Microsoft Launches The Nokia Lumia 830, Dual-Sim 730 And 4G 735". Forbes.
+122. Jump up^ Ranger, Steve (2 December 2014). "Nokia Lumia 830 review: Smart, cheeky design, elegant software - and the end of an era". ZDNet.
+123. Jump up^ Saxena, Anupam (11 November 2014). "First Microsoft-branded smartphone Lumia 535 launched". Times of India.
+124. Jump up^ Finance, Yahoo! (11 November 2014). "Microsoft Lumia 535: "5x5x5" Innovation with an Affordable Price Tag". Yahoo! Finance.
+125. Jump up^ Bulletin, Maynila (19 January 2015). "Microsoft Lumia 435 and Lumia 532: Affordable Lumia smartphones". Manila Bulletin.
+126. Jump up^ Nishta, author (14 January 2015). "Introducing the Lumia 435: our most affordable Lumia yet". Lumia Conversations.
+127. Jump up^ K., Pranav (2 March 2015). "MWC15: Microsoft launches Microsoft Lumia 640". Windows Mobile PowerUser.
+128. Jump up^ K., Pranav (2 March 2015). "MWC15: Microsoft announces Lumia 640 XL". Windows Mobile PowerUser.
+129. Jump up^ Fraser, Adan (19 March 2015). "Hello, Lumia 430 Dual SIM". Lumia Conversations.
+130. Jump up^ Fraser, Adan (15 April 2015). "The brand new Microsoft Lumia 540 Dual SIM". Lumia Conversations.
+131. Jump up^ Newman, Jared (6 October 2015). "Microsoft's flagship Lumia 950 and 950XL will lead Windows 10 Mobile with premium specs. The first Windows 10 flagship phones have high-quality cameras, liquid-cooled processors, and Continuum support.".PC World.
+132. Jump up^ Olivarez-Giles, Nathan (6 October 2015). "Microsoft Unveils Powerhouse Lumia 950 and 950 XL Phones.". Wall Street Journal.
+133. Jump up^ Trew, James (6 October 2015). "Microsoft's Lumia 550 offers entry-level Windows 10 for $140.". Engadget.
+134. Jump up^ Weinberger, Matt (15 February 2016). "Microsoft is marking the end of an era with a $199 Windows phone for the business.". Business Insider.
+135. Jump up^ "Nokia — Results and Reports".
+136. Jump up^ "Nokia Lumia sales hit record 8.8 million in Q3, North America doubles".
+137. Jump up^ "Nokia Lumia sales weaker over holidays, but doubled in 2013".
+138. Jump up^ "9.3 million Lumia smartphones were sold by Microsoft last quarter".
+139. Jump up^ "Nokia Lumia sales hit record 7.4 million in Q2".
+140. Jump up^ "Microsoft sold 8.6 million Lumia phones in its Q3 2015 fiscal quarter".
+141. Jump up^ "Microsoft sold 5.8 million Lumia phones in its Q1 2016 fiscal quarter".
+142. Jump up^ Windows Phone is dead | The Verge
+143. Jump up^ Microsoft's Q3 2016: Surface up and Windows Phone down again
+144. Jump up^ Microsoft only sold around 1.2 million Lumia phones in the April to June quarter
+

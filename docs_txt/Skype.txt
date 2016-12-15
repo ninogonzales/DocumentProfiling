@@ -1,0 +1,431 @@
+Skype
+From Wikipedia, the free encyclopedia
+This article is about the software. For the company that develops it, see Skype Technologies.
+Skype
+Skype's logo, featuring the word 'skype' in blue and white
+Screenshot of Skype 7 for Windows Desktop(Windows 8.1)Original author(s)Priit Kasesalu and Jaan TallinnDeveloper(s)Microsoft Corporation
+(via Skype Technologies)Initial release29 August 2003; 13 years agoStable release(s) [±][show]
+  List of releasesDevelopment statusActiveWritten inDelphi, C and C++[12]Operating systemCross-platformAvailable in108[13] languagesTypeVideoconferencing, VoIP andInstant messagingLicenseFreemium, (Adware) on some platformsAlexa rank178 (October 2016)[14]Websitewww.skype.com
+Part of a series onSkype* Skype Technologies
+* Features of Skype
+* Skype protocol
+* Skype security
+* Skype for Business
+* Skype for Business Server
+* Skype Translatormobile applications
+* GroupMe
+* Skype Qik* v
+* t
+* eSkype (/?ska?p/) (stylized as skype) is an application that provides video chat and voice call services. Users may exchange such digital documents as images, text, video and any others, and may transmit both text and video messages. Skype allows the creation of video conference calls. Skype is available for Microsoft Windows, Macintosh, or Linux, as well as Android, Blackberry, Apple and Windowssmartphones and tablets.[15]
+Skype is based on a freemium model. Much of the service is free, but Skype Credit or a subscription is required to call a landline or a mobile phone number. At the end of 2010, there were over 660 million worldwide users, with over 300 million estimated active each month as of August 2015.[16] At one point in February 2012, there were thirty four million users concurrently online on Skype.[17]
+First released in August 2003, Skype was created by the Swede Niklas Zennström and the Dane Janus Friis, in cooperation with Ahti Heinla,Priit Kasesalu, and Jaan Tallinn, Estonians who developed the backend that was also used in the music-sharing application Kazaa.[18] In September 2005, eBay acquired Skype for $2.6 billion.[19]
+In September 2009,[20] Silver Lake, Andreessen Horowitz and the Canada Pension Plan Investment Board announced the acquisition of 65% of Skype for $1.9 billion from eBay, which attributed to the enterprise a market value of $2.92 billion. Microsoft bought Skype in May 2011 for $8.5 billion. Its Skype division headquarters are in Luxembourg, but most of the development team and 44% of all the division's employees are still situated in Tallinn and Tartu, Estonia.[21][22][23]
+Skype allows users to communicate over the Internet by voice using a microphone, by video using a webcam, and by instant messaging. Skype-to-Skype calls to other users are free of charge, while calls to landline telephones and mobile phones (over traditional telephone networks) are charged via a debit-based user account system called Skype Credit. Some network administrators have banned Skype on corporate, government, home, and education networks,[24] citing such reasons as inappropriate usage of resources, excessive bandwidth usage and security concerns.[25]
+Skype originally featured a hybrid peer-to-peer and client–server system.[26] Skype has been powered entirely by Microsoft-operatedsupernodes since May 2012.[27] The 2013 mass surveillance disclosures revealed that Microsoft had granted intelligence agencies unfettered access to supernodes and Skype communication content.[28]
+Contents
+  [hide] 
+* 1Etymology
+* 2History
+o 2.1Microsoft acquisition
+* 3Features
+* 4Usage and traffic
+* 5System and software
+o 5.1Client applications and devices
+* 5.1.1Windows applications
+* 5.1.2Other Desktop Apps
+* 5.1.3Other Mobile devices
+* 5.1.4Skype phones
+* 5.1.5Other platforms
+* 5.1.6Third party licensing
+o 5.2Protocol
+o 5.3Protocol detection and control
+o 5.4Audio codecs
+o 5.5Video codecs
+o 5.6Skype Qik
+* 6Security and privacy
+o 6.1Service in the People's Republic of China
+o 6.2No Skype calls to India landline and mobile
+* 7Localization
+* 8URIs
+* 9Customer service
+* 10Educational use
+* 11See also
+* 12References
+* 13Further reading
+* 14External links
+Etymology[edit]
+The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken.[29]Dropping the final "r" left the current title "Skype", for which domain names were available.[30]
+History[edit]
+Main article: Skype Technologies
+Skype was founded in 2003 by Niklas Zennström, from Sweden, and Janus Friis, from Denmark.[31] The Skype software was created by Estonians Ahti Heinla, Priit Kasesalu, and Jaan Tallinn.[32]The first public beta version was released on 29 August 2003.[33]
+In June 2005, Skype entered into an agreement with the Polish web portal Onet.pl for an integrated offering on the Polish market.[34] On 12 September 2005, eBay Inc. agreed to acquire Luxembourg-based Skype Technologies SA for approximately US$2.5 billion in up-front cash and eBay stock, plus potential performance-based consideration.[35]
+On 1 September 2009, it was announced that eBay was selling 65% of Skype to Silver Lake, Andreessen Horowitz, and the Canada Pension Plan Investment Board for US$1.9 billion, valuing Skype at US$2.75 billion.
+Microsoft acquisition[edit]
+On 10 May 2011, Microsoft Corporation acquired Skype Communications, S.à r.l for US$8.5 billion.[36] The company was incorporated as a division of Microsoft, and Microsoft acquired all of the company's technologies with the purchase. This was completed on 13 October 2011.[36][37]
+Shortly after its acquisition, Microsoft began integrating the Skype service with its own products:
+* Along with taking over development of existing Skype desktop and mobile apps, the company developed a dedicated client app, called Skype for Modern Windows, for its newly released, touch-focused Windows 8 and Windows RT operating systems. This app became downloadable from the Windows Store when the new OS launched on 26 October 2012. The following year, Skype for Modern Windows became the default messaging app for Windows 8.1, replacing the Windows 8 Messaging app at the time, and became pre-installed software on every device that came with or upgraded to 8.1.
+* When the company introduced Office 2013 on 27 February 2013, it was announced that 60 Skype world minutes per month would be included in Office 365 consumer plans (Home and Personal, and University).
+* In a month-long transition period from 8 to 30 April 2013, it phased out its long-standing Windows Live Messenger instant messaging service in favour of Skype, although Messenger continued in mainland China.[38][39]
+* On 11 November 2014, Microsoft announced that in 2015 Lync would be replaced by Skype for Business. The latest version of the communication software combines features of Lync and the consumer Skype software. There are two user interfaces – organizations can switch their users from the default Skype for Business interface to the Skype for Business (Lync) interface.[40]
+Features[edit]
+Main article: Features of Skype
+Registered users of Skype are identified by a unique Skype Name and may be listed in the Skype directory.[41] Skype allows these registered users to communicate through both instant messaging and voice chat. Voice chat allows telephone calls between pairs of users and conference calling and uses a proprietary audio codec. Skype's text chat client allows group chats, emoticons, storing chat history, and editing of previous messages. Offline messages were implemented in a beta of version 5 but removed after a few weeks without notification. The usual features familiar to instant messaging users—user profiles, online status indicators, and so on—are also included.
+The Online Number, a.k.a. SkypeIn, service allows Skype users to receive calls on their computers dialed by conventional phone subscribers to a local Skype phone number; local numbers are available for Australia, Belgium, Brazil, Chile, Colombia, Denmark, the Dominican Republic, Estonia, Finland, France, Germany, Hong Kong, Hungary, India, Ireland, Japan, Mexico, Nepal, New Zealand, Poland, Romania, South Africa, South Korea, Sweden, Switzerland, Turkey, the Netherlands, the United Kingdom, and the United States.[42][43] A Skype user can have local numbers in any of these countries, with calls to the number charged at the same rate as calls to fixed lines in the country. The countries on this growing list are referred to collectively as the SkypeIn Countries.
+Skype supports conference calls, video chats, and screen sharing between 25 people at a time for free.[44][45]
+Skype does not provide the ability to call emergency numbers, such as 112 in Europe, 911 in North America, or 100 in India and Nepal.[46] However, as of December 2012, there is limited support for emergency calls in the United Kingdom, Australia, Denmark, and Finland.[47] The U.S. Federal Communications Commission (FCC) has ruled that, for the purposes of section 255 of theTelecommunications Act, Skype is not an "interconnected VoIP provider".[48] As a result, the U.S. National Emergency Number Association recommends that all VoIP users have an analog line available as a backup.[49]
+On 14 July 2011, Skype partnered with Comcast to bring its video chat service to Comcast subscribers via their HDTV sets.[50]
+On 17 June 2013, Skype released a free video messaging service, which can be operated on Windows, Mac OS, iOS, Android and BlackBerry.[51]
+On 12 August 2013, Skype released the 4.10 update to the app for Apple iPhone and iPad that allows HD quality video for iPhone 5 and fourth-generation iPads.[52]
+On 20 November 2014, Microsoft Office's team announced that a new chat powered by Skype is going to be implemented in their software, giving tools to be able to chat with co-workers in the same document.[53]
+On 15 September 2015, Skype announced the release of Mojis, "a brand new way to express yourself on Skype." Mojis are short clips/gifs featuring characters from films and TV shows to be entered into conversations with the same ease as emoticons. They are working with Universal Studios, Disney Muppets, BBC and other studios to add to the available collection of Mojis.[54]
+On 21 December 2015, Gurdeep Singh Pall, Corporate Vice President of Skype, announced that Microsoft acquired the technology from Talko, "maker of an innovative mobile app for on-the-go business communications (...) Together, the new technology and talent will help us deliver great new features and capabilities in both Skype and Skype for Business."[55]
+In January 2016, Skype announced it would roll out free group video calling to users on mobile devices, including iOS and Android. In February 2016, Microsoft announced that it had started to introduce group calling on smartphones and tablets in North America and Western Europe.[56]
+In July 2016, Skype introduced an early Alpha version of a new Skype for Linux client, built with WebRTC technology, after several petitions had asked Microsoft to continue development for Linux.[57][58]
+On 30 September 2016, Skype updated their iOS app with new features, including an option to call contacts on Skype through Siri voice commands.[59]
+On 27 October 2016 Microsoft launched Skype for Business for Mac. [60]
+Usage and traffic[edit]
+[show]Usage and traffic
+YearInternational call market share20052.9%[73]20064.4%[73]20088%[72]200912%[71]201013%[74]201233%[75]201336%[76]201440%[77]In January 2011, after the release of video calling on the Skype client for iPhone, Skype reached a record 27 million simultaneous online users.[78] This record was broken with 29 million simultaneous online users on 21 February 2011[79] and again on 28 March 2011 with 30 million online users.[80] On 25 February 2012, Skype announced that it has over 32 million users for the first time ever.[81] By 5 March 2012, it had 36 million simultaneous online users,[82] and less than a year later, on 21 January 2013, Skype had more than 50 million concurrent users online.[83] In June 2012, Skype had surpassed 70 million downloads on an Android device.[84]
+On 19 July 2012, Microsoft announced that Skype users had logged 115 billion minutes of calls in the quarter, up 50% since the last quarter.[85]
+On 15 January 2014, TeleGeography estimated that Skype-to-Skype international traffic has gone up to 36% in 2013 to 214 billion minutes.[86]
+System and software[edit]
+Client applications and devices[edit]
+Windows applications[edit]
+Skype has changed many times on Windows. It has offered a desktop-only app since 2003. Later, a mobile version was created for Windows Phones. In 2012, Skype introduced a new version for Windows 8 similar to the Windows Phone version that ran in the Metro interface.[87] On 7 July 2015 Skype modified the app to direct Windows users to download the desktop version of the app, but it was set to continue working on Windows RT until October 2016.[88] In November 2015, Skype introduced three new apps, called Messaging, Skype Video, and Phone, intended to provide an integrated Skype experience in Windows 10.[89][90] On 24 March 2016, Skype announced the integrated apps did not satisfy most users' needs and announced that they and the desktop app would eventually be replaced with a new UWP app.[91]
+Currently, Skype offers a Win32 desktop-only app and Skype Preview app that is the default Skype app in Windows 10 Mobile and included as an option in the latest update to Windows 10.
+VersionPlatformsFeaturesSupportDesktop Client* Windows XP
+* Windows Vista
+* Windows 7
+* Windows 8 andWindows 8.1
+* Windows 10* Sign in with a Microsoft Account or Skype ID and switch between different Skype names
+* Show and change your availability from app or taskbar controls
+* See availability on taskbar badge
+* See a list of existing Skype contacts
+* Initiate a chat with anyone in contact list
+* See that the other person is typing
+* Logout
+* Make one-to-one voice and video calls and send messages
+* Personalize your experience with emoticons and Mojis
+* Send photos with drag-and-drop support
+* See notifications for incoming calls and messages outside of the app
+* See icon in notification tray
+* Create groups
+* Send group messages
+* Edit and delete messages
+* Make group audio and video calls
+* Add contacts from Skype directory
+* Create and edit favorites
+* Share a screen
+* Make and receive multiple calls (calls get put on hold)
+* Voicemail support
+* Translator for audio calls
+* Improved contact search
+* Control Chat notification in settings
+* Bot directory
+* File sharing with drag-and-drop support
+* PSTN Out/Skype Out
+* Connectivity and Status awareness, Troubleshooter, and Offline Mode
+* Proxy settings
+* Outgoing message status
+* Delete contacts
+* Hide conversations
+* Controls for Skype-specific audio, video, and ringtone settings* To be replaced by the UWP version once the UWP version has good enough features and performance[91]Universal Windows Platform Client[92]* Windows 10
+* Windows 10 Mobile
+* HoloLens* Sign in with a Microsoft Account or Skype ID and switch between different Skype names
+* Show and change your availability
+* See a list of existing Skype contacts
+* Initiate a chat with anyone in contact list
+* See that the other person is typing
+* Logout
+* Make one-to-one voice and video calls and send messages
+* Personalize your experience with emoticons and Mojis
+* Send photos
+* See notifications for incoming calls and messages outside of the app
+* Create groups
+* Send group messages
+* Edit and delete messages
+* Make group audio and video calls
+* Add contacts from Skype directory
+* Create and edit favorites
+* Switch between the dark and light theme
+* Share a screen
+* Make and receive multiple calls (calls get put on hold)
+* Voicemail support
+* Translator for audio calls
+* Improved contact search
+* Control Chat notification in settings
+* Get Skype notifications with badges on taskbar
+* Reply to Skype messages from banner
+* Bot directory
+* File sharing
+* PSTN Out/Skype Out
+* Connectivity and Status awareness, Troubleshooter, and Offline Mode
+* Proxy settings
+* Outgoing message status
+* Show status on Lock Screen
+* Delete contacts
+* Ad-free experience
+* Close app by clicking X button in upper right corner* As a preview version on the desktop available to all Windows 10 users with the Anniversary Update
+* As an update on mobile to the Windows Phone 8.1 app in the Windows Store to Windows 10 Mobile users with the Anniversary Update
+* To replace the desktop client when enough features from the desktop client are incorporated and performance is good enoughOther Desktop Apps[edit]
+* OS X (10.6 or newer)
+* Linux (Ubuntu and others) (Not discontinued, but not updated since 18 June 2014)
+* Linux (new Alpha version) (new client using WebRTC technology)
+Other Mobile devices[edit]
+* iOS
+* Android
+* BlackBerry 10
+* watchOS
+* Nokia X
+(Skype was previously available on selected Symbian and BlackBerry OS devices.)
+Skype phones[edit]
+On 29 October 2007, Skype launched its own mobile phone under the brand name 3 Skypephone, which runs a BREW OS.[93]
+Skype also offers a Skype Wi-Fi Phone, which is a wireless mobile phone that allows users to make Skype calls, using a wireless Internet connection. The Skype Wi-Fi Phone has an on-screen menu that lets Skype users see who is online and available to talk, similar to what is seen on a PC. It can also be used to talk with non-Skype users. SkypeOut minutes can be used to call any phone for a low price and no monthly fee. The Skype Wi-Fi phone does not contain a web browser and so can not access hotspots that require web-based login or authentication.[94]
+Other platforms[edit]
+* The Nokia N800, N810, and N900 Internet tablets, which run Maemo
+* The Nokia N9, which runs MeeGo, comes with Skype voice calling and text messaging integrated; however, it lacks video-calling.
+* Both the Sony mylo COM-1 and COM-2 models
+* The PlayStation Portable Slim and Lite series, though the user needs to purchase a specially designed microphone peripheral. The PSP-3000 has a built-in microphone, which allows communication without the Skype peripheral.[95] The PSP Go has the ability to use Bluetooth connections with the Skype application, in addition to its built-in microphone.[96] Skype forPlayStation Vita may be downloaded via the PlayStation Network in the U.S. It includes the capability to receive incoming calls with the application running in the background.
+* Samsung Smart TV has a Skype app, which can be downloaded for free.[97] It uses the built-in camera and microphone for the newer models. Alternatively, a separate mountable Skype camera with built-in speakers and microphones is available to purchase for older models.[98] This functionality has now been disabled.
+* Some devices are made to work with Skype by talking to a desktop Skype client or by embedding Skype software into the device. These are usually either tethered to a PC or have a built-in Wi-Fi client to allow calling from Wi-Fi hotspots, like the Netgear SPH101 Skype Wi-Fi Phone, the SMC WSKP100 Skype Wi-Fi Phone, the Belkin F1PP000GN-SK Wi-Fi Skype Phone, thePanasonic KX-WP1050 Wi-Fi Phone for Skype Executive Travel Set, the IPEVO So-20 Wi-Fi Phone for Skype and the Linksys CIT200 Wi-Fi Phone.
+Third party licensing[edit]
+Third-party developers, such as Truphone, Nimbuzz, and Fring, previously allowed Skype to run in parallel with several other competing VoIP/IM networks (Truphone and Nimbuzz provide TruphoneOut and NimbuzzOut as a competing paid service) in any Symbian or Java environment. Nimbuzz made Skype available to BlackBerry users and Fring provided mobile video calling over Skype as well as support for the Android platform. Skype disabled Fring users from accessing Skype in July 2010.[99] Nimbuzz discontinued support on request of Skype in October 2010.[100]
+Before and during the Microsoft acquisition, Skype withdrew licensing from several third parties producing software and hardware compatible with Skype. The Skype for Asterisk product from Digiumwas withdrawn as "no longer available for sale".[101] The Senao SN358+ long-range (10–15 km) cordless phone was discontinued due to loss of licenses to participate in the Skype network as peers. In combination, these two products made it possible to create roaming cordless mesh networks with a robust handoff.
+Protocol[edit]
+Main article: Skype protocol
+Skype uses a proprietary Internet telephony (VoIP) network called the Skype protocol. The protocol has not been made publicly available by Skype, and official applications using the protocol areclosed-source. Part of the Skype technology relies on the Global Index P2P protocol belonging to the Joltid Ltd. corporation. The main difference between Skype and standard VoIP clients is that Skype operates on a peer-to-peer model (originally based on the Kazaa software[102]), rather than the more usual client–server model (note that the very popular Session Initiation Protocol (SIP) model of VoIP is also peer-to-peer, but implementation generally requires registration with a server, as does Skype).
+On 20 June 2014, Microsoft announced the deprecation of the old Skype protocol. Within several months from this date, in order to continue using Skype services, Skype users will have to update to Skype applications released in 2014. The new Skype protocol—Microsoft Notification Protocol 24. The deprecation became effective in the second week of August 2014. Transferred files are now saved on central servers.
+As far as networking stack support is concerned, Skype only supports the IPv4 protocol. It lacks support for the next-generation Internet protocol, IPv6.[103]
+Protocol detection and control[edit]
+Many networking and security companies claim to detect and control Skype's protocol for enterprise and carrier applications. While the specific detection methods used by these companies are often private, Pearson's chi-squared test and naive Bayes classification are two approaches that were published in 2008.[104] Combining statistical measurements of payload properties (such as byte frequencies and initial byte sequences) as well as flow properties (like packet sizes and packet directions) has also shown to be an effective method for identifying Skype's TCP- and UDP-based protocols.[105]
+Audio codecs[edit]
+G.729 and SVOPC. Skype added a Skype-created codec called SILK to Skype 4.0 for Windows and other Skype clients. SILK is intended to be "lightweight and embeddable".[106] Additionally, Skype has released Opus as an open-source codec, which integrates the SILK codec principles for voice transmission with the CELT codec principles for higher-quality audio transmissions, such as live music performances. Opus was submitted to the Internet Engineering Task Force (IETF) in September 2010.[107] Since then, it has been standardized as RFC 6716[108]
+Video codecs[edit]
+VP7 is used for versions prior to Skype 5.5.[109][110][111][112][113]
+As of version 7.0, H.264 is used for both standard definition and 720p and 1080p high-definition group and one-on-one video chat.[114][115]
+Skype Qik[edit]
+Main article: Skype Qik
+Skype acquired the video service Qik in 2011. After shutting down Qik in April 2014, Skype relaunched the service as Skype Qik on 14 October 2014. Although Qik offered video conferencing and Internet streaming, the new service focuses on mobile video messaging between individuals and groups.[116]
+Security and privacy[edit]
+Main article: Skype security
+Skype was claimed initially to be a secure communication, with one of its early web pages stating "highly secure with end-to-end encryption".[117] Security services were invisible to the user, and encryption cannot be disabled. Skype reportedly uses publicly documented, widely trusted encryption techniques: RSA for key negotiation and the Advanced Encryption Standard to encrypt conversations.[118] However, it is impossible to verify that these algorithms are used correctly, completely, and at all times, as there is no public review possible without a protocol specification and/or the app source code. Skype provides an uncontrolled registration system for users with no proof of identity. Instead, a free choice of nicknames permits users to use the system without revealing their identities to other users. It is trivial to set up an account using any name; the displayed caller's name is no guarantee of authenticity. A third-party paper analyzing the security and methodology of Skype was presented at Black Hat Europe 2006. It analyzed Skype and found a number of security issues with the then-current security model.[119]
+Skype incorporates some features which tend to hide its traffic, but it is not specifically designed to thwart traffic analysis and therefore does not provide anonymous communication. Some researchers have been able to watermark the traffic so that it is identifiable even after passing through an anonymizing network.[120]
+In an interview, Kurt Sauer, the Chief Security Officer of Skype, said, "We provide a safe communication option. I will not tell you whether we can listen or not."[121] This does not deny the fact that the NSA monitors Skype conversations. Skype's client uses an undocumented and proprietary protocol. The Free Software Foundation (FSF) is concerned about user privacy issues arising from using proprietary software and protocols and has made a replacement for Skype one of their high-priority projects.[122] Security researchers Biondi and Desclaux have speculated that Skype may have a back door, since Skype sends traffic even when it is turned off and because Skype has taken extreme measures to obfuscate their traffic and functioning of their app.[123] Several media sources reported that at a meeting about the "Lawful interception of IP based services" held on 25 June 2008, high-ranking unnamed officials at the Austrian interior ministry said that they could listen in on Skype conversations without problems. Austrian public broadcasting service ORF, citing minutes from the meeting, reported that "the Austrian police are able to listen in on Skype connections". Skype declined to comment on the reports.[124][125] One easily demonstrated method of monitoring is to set up two computers with the same Skype user ID and password. When a message is typed or a call is received on one computer, the second computer duplicates the audio and text. This requires knowledge of the user ID and password.
+The United States Federal Communications Commission (FCC) has interpreted the Communications Assistance for Law Enforcement Act (CALEA) as requiring digital phone networks to allowwiretapping if authorized by an FBI warrant, in the same way as other phone services. In February 2009, Skype said that, not being a telephone company owning phone lines, it is exempt from CALEA and similar laws, which regulate US phone companies, and in fact, it is not clear whether Skype could support wiretapping even if it wanted to.[126] According to the ACLU, the Act is inconsistent with the original intent of the Fourth Amendment to the U.S. Constitution;[127] more recently, the ACLU has expressed the concern that the FCC interpretation of the Act is incorrect.[128][129] It has been suggested that Microsoft made changes to Skype's infrastructure to ease various wiretapping requirements;[130] however, Skype denies the claims.[131]
+Some time before Skype was sold in 2009, the company had started its own app, called Project Chess, to explore legal and technical ways to easily share calls with intelligence agencies and law enforcement.[132]
+On 20 February 2009, the European Union's Eurojust agency announced that the Italian Desk at Eurojust would "play a key role in the coordination and cooperation of the investigations on the use of internet telephony systems (VoIP), such as 'Skype'. ... The purpose of Eurojust's coordination role is to overcome the technical and judicial obstacles to the interception of internet telephony systems, taking into account the various data protection rules and civil rights"[133]
+In November 2010, a flaw was disclosed to Skype that showed how hackers could secretly track any user's IP address.[134] As of 2015, this has still not been fixed.[135]
+In 2012, Skype introduced automatic updates to better protect users from security risks but received some challenge from users of the Mac product, as the updates cannot be disabled from version 5.6 on,[136] both on Mac OS and Windows versions, although in the latter, and only from version 5.9 on, automatic updating can be turned off in certain cases.[137]
+According to a 2012 Washington Post article, Skype "has expanded its cooperation with law enforcement authorities to make online chats and other user information available to police"; the article additionally mentions Skype made changes to allow authorities access to addresses and credit card numbers.[138]
+In November 2012, Skype was reported to have handed over user data of a pro-Wikileaks activist to Dallas, Texas-based private security company iSIGHT Partners without a warrant or court order. The alleged handover would be a breach of Skype's privacy policy. Skype responded with a statement that it launched an internal investigation to probe the breach of user data privacy.[139]
+13 November 2012, a Russian user published a flaw in Skype's security, which allowed any person to take over a Skype account knowing only the victim's email by following 7 steps.[140][141] This vulnerability was claimed to exist for months and existed for more than 12 hours since published widely.
+14 May 2013, it was documented that a URL sent via a Skype instant messaging session was usurped by the Skype service and subsequently used in a HTTP HEAD query originating from an IP address registered to Microsoft in Redmond (the IP address used was 65.52.100.214). The Microsoft query used the full URL supplied in the IM conversation and was generated by a previously undocumented security service.[142] Security experts speculate the action was triggered by a technology similar to Microsoft's SmartScreen Filter used in its browsers.[143]
+The 2013 mass surveillance disclosures revealed that agencies such as the NSA and the FBI have the ability to eavesdrop on Skype, including the monitoring and storage of text and video calls and file transfers.[28][144][145] The PRISM surveillance program, which requires FISA court authorization, reportedly has allowed the NSA unfettered access to its data center supernodes. According to the leaked documents, integration work began in November 2010, but it was not until February 2011 that the company was served with a directive to comply signed by the attorney general,[28] with NSA documents showing that collection began on 31 March 2011.[146]
+On 10 November 2014, Skype scored 1 out of 7 points on the Electronic Frontier Foundation's secure messaging scorecard. Skype received a point for encryption during transit but lost points because communications are not encrypted with a key the provider doesn't have access to (i.e. the communications are not end-to-end encrypted), users can't verify contacts' identities, past messages are not secure if the encryption keys are stolen (i.e. the service does not provide forward secrecy), the code is not open to independent review (i.e. the code is not open-source), the security design is not properly documented, and there has not been a recent independent security audit.[147][148][149] AIM, BlackBerry Messenger, Ebuddy XMS, Hushmail, Kik Messenger, Viber andYahoo Messenger also scored 1 out of 7 points.[147]
+Service in the People's Republic of China[edit]
+This article's factual accuracy may be compromised due to out-of-date information. Please update this article to reflect recent events or newly available information. (January 2012)Since September 2007, users in China trying to download the Skype software client have been redirected to the site of TOM Online, a joint venture between a Chinese wireless operator and Skype, from which a modified Chinese version can be downloaded.[150] The TOM client participates in China's system of Internet censorship, monitoring text messages between Skype users in China as well as messages exchanged with users outside the country.[151][152] Niklas Zennström, then chief executive of Skype, told reporters that TOM "had implemented a text filter, which is what everyone else in that market is doing. Those are the regulations." He also stated, "One thing that's certain is that those things are in no way jeopardising the privacy or the security of any of the users."[153]
+In October 2008, it was reported that TOM had been saving the full message contents of some Skype text conversations on its servers, apparently focusing on conversations containing political issues such as Tibet, Falun Gong, Taiwan independence, and the Chinese Communist Party. The saved messages contain personally identifiable information about the message senders and recipients, including IP addresses, usernames, landline phone numbers, and the entire content of the text messages, including the time and date of each message. Information about Skype users outside China who were communicating with a TOM-Skype user was also saved. A server misconfiguration made these log files accessible to the public for a time.[152][154][155]
+Research on the TOM-Skype venture has revealed information about blacklisted keyword checks, allowing censorship and surveillance of its users. The partnership has received much criticism for the latter. Microsoft remains unavailable for comment on the issue.[156]
+According to reports from the advocacy group Great Fire, Microsoft has modified censorship restrictions and ensured encryption of all user information.[156] Furthermore, Microsoft is now partnered with Guangming Founder (GMF) in China.[157]
+All attempts to visit the official Skype web page from mainland China redirects to skype.gmw.cn. The Linux version of Skype is unavailable.
+No Skype calls to India landline and mobile[edit]
+"As of 10 November 2014, Skype will end support for calling within India meaning calls to mobiles and landlines from Skype within India will no longer be available," Skype's parent company Microsoft said in a statement on 8 October 2014. Microsoft said, "Users in India can still make free Skype-to-Skype calls worldwide, international calls to mobiles and landlines and users outside the country can call mobiles and landlines in India."[158]
+Localization[edit]
+Skype comes bundled with the following locales and languages: Arabic, Bulgarian, Catalan, Chinese (Traditional and Simplified), Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Nepali, Norwegian, Polish, Portuguese (Brazilian and European), Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, and Vietnamese.
+As the Windows desktop app offers users the option of creating new language files, at least 80 other (full or partial) localizations are also available for many languages.[159]
+URIs[edit]
+Skype uses URIs as skype:USER?call for a call.
+Customer service[edit]
+As of February 2012, Skype provides support through their web support portal, support community, @skypesupport on Twitter, and Skype Facebook page. Direct contact via email and live chat is available through their web support portal. Chat Support is a premium feature available to Skype Premium and some other paid users.
+In January 2010, Skype rescinded their policy of seizing funds in Skype accounts that have been inactive (no paid call) for 180 days. This was in settlement of a class-action lawsuit.[160] Skype also paid up to US$4 to persons who opted into the action.
+Skype's refund policy states that they will provide refunds in full if customers have used less than 1 euro of their Skype Credit. "Upon a duly submitted request, Skype will refund you on a pro rata basis for the unused period of a Product".
+Skype has come under some criticism from users for the inability to completely close accounts. Users not wanting to continue using Skype can make their account inactive by deleting all personal information, except for the username.[161]
+Due to an outage happened on 21 September 2015, that affected several users in New Zealand, Australia and other countries, Skype decided to compensate their customers with 20 minutes of free calls to over 60 landline and 8 mobile phone numbers.[162]
+Educational use[edit]
+Although Skype is a commercial product, its free version is being used with increasing frequency among teachers and schools interested in global education projects.[163] For example, Skype is being used to facilitate language exchange: Students in different parts of the world are paired off, and each is a native speaker of the language that the other wishes to learn. In conversations over Skype, they alternate between the two languages.[164][165][166][167]
+Teachers are using Skype in unique ways to fulfil educational goals. The video conferencing aspect of the software is valuable in that it provides a way to connect students who speak different languages, hold virtual field trips, and reach out to experts in varying fields of study. These experiences allow students a chance to apply what they are learning in the classroom to real-life experiences, and it also achieves further learning opportunities.[168][169]
+Skype in the classroom is another free tool that Skype has set up on its website. It provides teachers with a way to make their classrooms more interactive and interesting. Skype in the classroom is a service that teachers can sign up for that will allow students to meet other students, talk to experts, and share ideas. Teachers can collaborate with other teachers around the world and design different learning experiences for their students. There are various Skype lessons, in which students can participate. Teachers can also use Skype's search tool and find experts in the field of their choice.[170] Most of the schools in the United States and Europe often block Skype from the school network for students and hence students have left no option but to unblock it through various VPNs and proxy.
+See also[edit]
+* Internet portal
+* List of virtual communities with more than 100 million active users
+* Caller ID spoofing
+* Comparison of instant messaging clients
+* Comparison of instant messaging protocols
+* Comparison of VoIP software
+* Mobile VoIP
+* Presence information
+* Unified communications
+* List of video telecommunication services and product brands
+References[edit]
+1. Jump up^ Support, Skype (20 October 2016). "What's new in Skype for Windows desktop?". Skype Help. Microsoft. Retrieved20 October 2016.
+2. Jump up^ "Skype Preview si aggiorna per Windows 10 e Windows 10 Mobile alla versione 11.7.87 [X1]". Aggiornamenti Lumia. 31 July 2016. Retrieved 2 August 2016.
+3. Jump up^ "Skype". Microsoft Store. Microsoft. Retrieved 2 August2016.
+4. Jump up^ Tong, Karen (3 September 2014). "Skype 1.8 for Xbox One now has photo viewing and enhanced Snap experience".Skype Blogs. Microsoft. Retrieved 10 October 2014.
+5. Jump up^ The Skype Team (16 February 2016). "What's new in Skype for Mac?". Skype Support. Microsoft. Retrieved 18 February2016.
+6. Jump up^ Cimmino, Marco (18 June 2014). "Skype 4.3 for Linux".Skype Blogs. Microsoft. Retrieved 10 October 2014.
+7. Jump up^ The Skype Team (24 October 2016). "What's new in Skype for Android?". Skype Support. Microsoft. Retrieved 24 October2016.
+8. Jump up^ "Skype for iOS". iTunes Preview. Apple Inc. Retrieved10 October 2016.
+9. Jump up^ "Skype for watchOS". iTunes Preview. Apple Inc. Retrieved10 October 2016.
+10. Jump up^ "Skype for Fire OS". iTunes Preview. Apple Inc. Retrieved4 April 2016.
+11. Jump up^ "Skype". BlackBerry World. BlackBerry. Retrieved14 November 2014.
+12. Jump up^ "What programming language was Skype originally written in?". Quora. Quora. Retrieved 15 November 2014.
+13. Jump up^ https://www.microsoft.com/en-us/store/p/skype-preview/9wzdncrfj364
+14. Jump up^ "Skype.com Site Info". Alexa Internet. Retrieved 4 October2016.
+15. Jump up^ Ben Markton (17 April 2014). "Skype". CNET. Retrieved2 October 2014.
+16. Jump up^ "Global social networks by users 2015 | Statistic". Statista. Retrieved 4 November 2015.
+17. Jump up^ "34 Million People Concurrently Online on Skype – - Skype Blogs". Skype Blogs.
+18. Jump up^ Andreas Thomann (6 September 2006). "Skype – A Baltic Success Story". credit-suisse.com. Retrieved 28 August2014.
+19. Jump up^ "EBay to buy Skype in $2.6bn deal". BBC. 12 September 2005. Retrieved 2 October 2014.
+20. Jump up^ "Canada Pension plan buys Skype stake | Toronto Star". Thestar.com. 2 September 2014. Retrieved 21 August 2014.
+21. Jump up^ "Skype eelistab odavat Eesti tööjõudu". Äripäev.
+22. Jump up^ "Tony Bates Weighs in on Microsoft's Acquisition of Skype – - Skype Blogs". Skype Blogs.
+23. Jump up^ "Microsoft confirms takeover of Skype". bbc.com. 10 May 2011. Retrieved 6 November 2012.
+24. Jump up^ "More universities banning Skype". 24 September 2006. Retrieved 14 December 2010.
+25. Jump up^ "Ban Skype". 10 November 2005. Retrieved 14 December2010.
+26. Jump up^ Ferdinand, Von Götzen (1 December 2014). "An interview with Jaan Tallinn, co-founder and author of Skype". Affairs Today.
+27. Jump up^ "Skype replaces P2P supernodes with Linux boxes hosted by Microsoft (updated)".
+28. ^ Jump up to:a b c Greenwald, Glenn; Ackerman, Spencer; Poitras, Laura; MacAskill, Ewen; Rushe, Dominic (11 July 2013). "How Microsoft handed the NSA access to encrypted messages".The Guardian. London. Retrieved 20 July 2013.
+29. Jump up^ "The World's Hottest VC?".
+30. Jump up^ "Origin of the name/word Skype". Archived from the original on 4 November 2005. Retrieved 13 August 2010.
+31. Jump up^ "About Skype: What is Skype?". Retrieved 28 July 2010.
+32. Jump up^ "Skype – A Baltic Success Story". credit-suisse.com. Retrieved 24 February 2008.
+33. Jump up^ "Happy Birthday Skype: Even monkeys use it now".Emirates 24/7. 28 August 2013. Retrieved 28 August 2013.
+34. Jump up^ "Onet and Skype join forces". PMR. Retrieved 1 October2014.
+35. Jump up^ "eBay Completes Acquisition of Skype". eBay. 14 October 2005. Retrieved 8 April 2013.
+36. ^ Jump up to:a b "Microsoft to acquire Skype". 10 May 2011. Retrieved10 May 2011.
+37. Jump up^ Toor, Amar. "Microsoft finalizes acquisition of Skype, Tony Bates shares his thoughts (video)". Engadget. Retrieved14 October 2011.
+38. Jump up^ "Microsoft: Windows Live Messenger Retiring, Users Moving to Skype on March 15". Retrieved 6 February 2013.
+39. Jump up^ Kniskern, Kip (15 February 2013). "Skype news: Messenger shutting down, new Video Messages, and lots of growth". Liveside. Retrieved 17 February 2013.
+40. Jump up^ "Switching between the Skype for Business and the Lync client user interfaces". Office Support / Office 365 Admin. Retrieved 21 February 2016.
+41. Jump up^ "Usernames, aliases and nicknames – your Skype passport". Skype.com. Retrieved 27 August 2009.
+42. Jump up^ Villu Arak. "Four new SkypeIn countries". Skype Blogs. Retrieved 13 August 2007.
+43. Jump up^ "Skype.com". Skype.com. Retrieved 10 October 2010.
+44. Jump up^ Snalune, Phillip (28 April 2014). "Skype Loves Bringing Groups Together – With FREE Group Video Calling". Skype Blogs. Microsoft. Retrieved 12 May 2014.
+45. Jump up^ "Group video calls". Microsoft. Retrieved 12 May 2014.
+46. Jump up^ "Skype and Emergency Services".
+47. Jump up^ "Skype Emergency Calling".
+48. Jump up^ "Draft Report from TEITAC Task Force on 255/508 differences, with proposals for TEITAC discussion". Retrieved13 July 2010.
+49. Jump up^ "Frequently Asked Questions". 911VoIP.org. Retrieved31 March 2009.
+50. Jump up^ Ryan Lawler, GigaOm. "Comcast bringing Skype video chat into the living room." 13 June 2011. Retrieved 13 June 2011.
+51. Jump up^ "Skype video messaging officially launches on Windows, Mac, iOS, Android – but not Windows Phone". 17 June 2013.
+52. Jump up^ "Skype app for iPhone/iPad updated to HD". 12 August 2013.
+53. Jump up^ Nadier Lopez (20 November 2014). "Microsoft taps Skype to bring real-time chats to Office Online". The Next Web. Retrieved 24 November 2014.
+54. Jump up^ "Mojis: Express Yourself on Skype-Like Never Before".Skype Blogs. Retrieved 16 September 2015.
+55. Jump up^ "Talko comes to Skype". 21 December 2015.
+56. Jump up^ Sarah Perez, TechCrunch. “Group Video Calling Arrives In Skype’s Mobile Apps.” 18 February 2016. 18 February 2016.
+57. Jump up^ "Skype for Linux Alpha and calling on Chrome and Chromebooks". Skype Blogs. 13 July 2016. Retrieved 14 July2016.
+58. Jump up^ Jones, Luke (13 July 2016). "Microsoft Debuts Skype for Linux Alpha". WinBuzzer. Retrieved 14 July 2016.
+59. Jump up^ "Skype for iOS 10 lets you use Siri to make a call and answer calls from your lock screen". VentureBeat. Retrieved30 September 2016.
+60. Jump up^ Paul, Sawers (27 October 2016). "Skype for Business launches on Mac, mobile version now lets you give PowerPoint presentations remotely". VentureBeat. Retrieved 29 October2016.
+61. Jump up^ "eBay Inc. reports third quarter 2006 results" (PDF).
+62. Jump up^ "eBay Inc. reports first quarter 2007 results" (PDF).
+63. Jump up^ "eBay Inc. reports first quarter 2008 results" (PDF).
+64. Jump up^ "Skype is the limit thanks to recession". Retrieved6 January 2009.
+65. ^ Jump up to:a b "Skype facts Q1 2011".
+66. Jump up^ "Skype fast facts Q4 2008" (PDF).
+67. Jump up^ "Skype S.à r.l. SEC filing". 4 March 2011. Retrieved 26 May2011.
+68. Jump up^ "Skype users online now".
+69. Jump up^ "WSJ: Microsoft to buy Skype for $7bn. Rest of world: for real?". ArsTechnica. 10 May 2011. Retrieved 10 May 2011.
+70. Jump up^ "Skype's changing traffic growth". Financial Times. 10 May 2011. Retrieved 10 May 2011.
+71. ^ Jump up to:a b "Skype by the Numbers: It's really Big". Retrieved 1 July2011.
+72. ^ Jump up to:a b Ricknäs, Mikael (25 March 2009). "Skype is largest international voice carrier, says study". Network World. IDG News Service.
+73. ^ Jump up to:a b "International carriers' traffic grows despite Skype popularity". TeleGeography Report and Database. Retrieved7 December 2006.
+74. Jump up^ "Skype Commands 13 Percent of International Phone Calls". The Inquisitr. 3 May 2010. Retrieved 4 May 2010.
+75. Jump up^ "Skype now accounts for a third of international calls". Phonearena. 16 February 2013. Retrieved 28 September 2014.
+76. Jump up^ "Skype traffic continues to thrive". TeleGeography. 15 January 2014. Retrieved 28 September 2014.
+77. Jump up^ "Skype Is Now 40% Of The Entire International Telephone Market". Anorak. 17 January 2014. Retrieved 28 September2014.
+78. Jump up^ "Skype Hits New Record of 27 Million Simultaneous Users". Retrieved 11 January 2011.
+79. Jump up^ "29 million people online on Skype". Retrieved 23 February2011.
+80. Jump up^ "30 million people online on Skype". Retrieved 28 March2011.
+81. Jump up^ "Skype reaches new milestone with 32 million users". Retrieved 26 February 2012.
+82. Jump up^ "35 Million People Concurrently Online on Skype". Retrieved 8 March 2012.
+83. Jump up^ "50 million concurrent users online". Retrieved 25 March2013.
+84. Jump up^ "More than 70 Million downloads on an Android device". Retrieved 26 June 2012.
+85. Jump up^ "How's Skype Doing at MSFT? Usage Jumps 50%, Users Logged 115B Minutes of Calls Last Quarter". Retrieved21 July 2012.
+86. Jump up^ "Skype traffic continues to thrive". Retrieved 3 September2014.
+87. Jump up^ "Skype". Microsoft Store. Microsoft. Retrieved 4 April 2016.
+88. Jump up^ "A More Efficient Skype Experience for Your PC". Skype. Skype. Retrieved 4 April 2016.
+89. Jump up^ "Messaging + Skype". Microsoft Store. Microsoft. Retrieved4 April 2016.
+90. Jump up^ "The Consumer Preview of Skype Integration for Windows 10 is here – Tell us what you want to see next". Skype. Skype. Retrieved 4 April 2016.
+91. ^ Jump up to:a b http://blogs.skype.com/2016/03/24/skype-universal-windows-platform-app-preview-for-windows-10-is-coming-to-windows-insiders/
+92. Jump up^ https://support.skype.com/en/faq/FA34643/skype-universal-windows-platform-app-preview-your-most-asked-questions
+93. Jump up^ "3 Skypephone Delivers Free Skype to Skype Mobile Calls and Instant Messages at the Touch of a Button". 29 October 2007.
+94. Jump up^ "NETGEAR Skype WiFi Phone". voipyeah.com.
+95. Jump up^ "Skype Expands Mobile Strategy at 2008 International CES". Retrieved 7 January 2008.
+96. Jump up^ "Playstationlifestyle.net". Playstationlifestyle.net. Retrieved10 October 2010.
+97. Jump up^ "Skype for Samsung Smart TV". Retrieved 12 February2013.
+98. Jump up^ "Skype camera accessory for Samsung Smart TV". Retrieved 12 February 2013.
+99. Jump up^ "Skype – The Big Blog – Fring's misuse of Skype software was damaging to our brand and reputation". Retrieved3 August 2010.
+100. Jump up^ "What the Skype/Nimbuzz Breakup Means To You". Retrieved 25 October 2010.
+101. Jump up^ "Phone Systems to Power Your Business – Sfa_faq – Digium The Asterisk Company". Digium.com. Retrieved 4 December2011.
+102. Jump up^ "StreamCast sues Kazaa, Skype: here's my take". Blogs.zdnet.com. 27 March 2006. Retrieved 31 March 2009.
+103. Jump up^ "Skype does not support IPv6.". Skype official Twitter account. 1 November 2012. Retrieved 4 November 2012.
+104. Jump up^ "Dario Bonfiglio et al. "Revealing Skype Traffic: When Randomness Plays with You", ACM SIGCOMM Computer Communication Review, Volume 37:4 (SIGCOMM 2007), p. 37-48". Dpacket.org. 30 May 2008. Retrieved 31 March 2009.
+105. Jump up^ Hjelmvik, Erik; John, Wolfgang (27 July 2010). "Breaking and Improving Protocol Obfuscation" (PDF). ISSN 1652-926X.
+106. Jump up^ "Skype's new super wideband codec". Wirevolution.com. 13 January 2009. Retrieved 31 March 2009.
+107. Jump up^ "Skype and a New Audio Codec". Skype. 12 September 2012. Retrieved 3 May 2014.
+108. Jump up^ "OpusFAQ". Xiph.org Foundation. 22 April 2014. Retrieved3 May 2014.
+109. Jump up^ "On2 Technologies Codec Offers High Quality Video to Skype". Archived from the original on 4 December 2007.
+110. Jump up^ "Skype adds On2 Technologies TrueMotion VP7". 16 November 2007. Retrieved 9 August 2011.
+111. Jump up^ "Skype goes VP8, embraces open video codec". 3 August 2011. Retrieved 9 August 2011.
+112. Jump up^ "One-to-One VP8 Video Calling Now Supported in Skype". 3 August 2011. Retrieved 9 August 2011.
+113. Jump up^ "Skype moves to VP8 for all video calls". The H. 4 August 2011. Archived from the original on 23 May 2012. Retrieved9 August 2011.
+114. Jump up^ Jodi Mau (9 January 2012). "See and Talk to Your Friends on Skype in Full-HD 1080p with the New Logitech HD Pro Webcam C920". Blogs.skype.com. Retrieved 24 February 2012.
+115. Jump up^ "Reveal the real you with the Logitech HD Pro Webcam C920". Blog.Logitech. 5 January 2012. Retrieved 24 February2012.
+116. Jump up^ Olivarez-Giles, Nathan (14 October 2014). "Skype Relaunches Qik as Social Video Messaging App". Wall Street Journal. Retrieved 14 October 2014.
+117. Jump up^ "Skype (Wayback Machine Archive)". Archived from the original on 1 July 2004. Retrieved 20 May 2013.
+118. Jump up^ "Skype Privacy FAQ". Skype. Retrieved 5 December 2006.
+119. Jump up^ Philippe Biondi and Fabrice Desclaux. "Silver Needle in the Skype" (PDF). blackhat. Retrieved 2 March 2006.
+120. Jump up^ "George Mason University" (PDF). Retrieved 10 October2010.
+121. Jump up^ ZDNet.de. "Telefonieren übers Internet: Wie sicher ist Skype wirklich? – Telekommunikation | Mobile Business". ZDNet.de. Retrieved 31 March 2009.
+122. Jump up^ "FSF High Priority Projects", Free Software Foundation. Retrieved 26 January 2009.
+123. Jump up^ Biondi P., Desclaux F (2–3 March 2006). "Silver Needle in the Skype" (PDF). EADS Corporate Research Center. Retrieved26 January 2009.
+124. Jump up^ Sokolov, David AJ (24 July 2008). "Speculation over back door in Skype". Heise Security UK. Archived from the original on 13 July 2010. Retrieved 26 January 2009.
+125. Jump up^ Leyde, John (24 July 2008). "Austrian official fuels Skype backdoor rumours". The Register UK. Retrieved 29 January2009.
+126. Jump up^ "Skype Secrecy Under Attack Again". VoIP News. 24 February 2009. Retrieved 10 October 2010.
+127. Jump up^ "Big Brother in the Wires: Wiretapping in the Digital Age".ACLU. Retrieved 23 March 2009.
+128. Jump up^ "CALEA feature page". ACLU. Retrieved 23 March 2009.
+129. Jump up^ "German Authorities Raiding Homes To Find Skype Tapping Whistleblower". Techdirt. 18 September 2008. Retrieved31 March 2009.
+130. Jump up^ James E. Gaskin (18 July 2012). "Was Skype reworked by Microsoft to make it easier to wiretap?". ITworld.
+131. Jump up^ "What Does Skype's Architecture Do?". 26 July 2012. Retrieved 20 May 2013.
+132. Jump up^ Risen, James; Nick Wingfield (19 June 2013). "Web's Reach Binds N.S.A. and Silicon Valley Leaders". The New York Times. Retrieved 29 October 2013.
+133. Jump up^ "Press release: Eurojust coordinates internet telephony". Eurojust.europa.EU. 20 February 2009. Retrieved 10 October2010.
+134. Jump up^ "Skype Knew of Security Flaw Since November 2010, Researchers say". The Wall Street Journal. 1 May 2012.
+135. Jump up^ "Privacy 101: Skype Leaks Your Location".
+136. Jump up^ "Skype 5.6 for Mac".
+137. Jump up^ "Skype 5.9 for Windows".
+138. Jump up^ Craig Timberg (25 July 2012). "Skype makes chats and user data more available to police". Washington Post. Retrieved9 March 2016.
+139. Jump up^ Gallagher, Ryan (9 November 2012). "Did Skype Give a Private Company Data on Teen WikiLeaks Supporter Without a Warrant?". Slate. Retrieved 11 November 2012.
+140. Jump up^ "Skype accounts can be hacked with an email address".
+141. Jump up^ "?????????? ? skype, ??????????? ?????? ????? ???????".
+142. Jump up^ "Skype with Care – Microsoft is Reading Everything You Write". Heise Security. 14 May 2013. Archived from the original on 26 December 2013. Retrieved 20 May 2013.
+143. Jump up^ Adam Back (16 May 2013). "[Cryptography] Skype backdoor confirmation". Retrieved 20 May 2013.
+144. Jump up^ Leo Laporte, Steve Gibson (17 July 2013). "Security Now"(Podcast). This Week in Tech. Retrieved 17 July 2013.
+145. Jump up^ McCarthy, Tom (7 June 2013). "Obama defends secret NSA surveillance programs – as it happened". The Guardian. London. Retrieved 9 June 2013.
+146. Jump up^ National Security Agency (7 June 2013). "Prism slide 5.jpg".Wikimedia Commons. Retrieved 1 June 2014. Sourced from:
+"NSA slides explain the PRISM data-collection program".The Washington Post. 6 June 2013.
+147. ^ Jump up to:a b "Secure Messaging Scorecard. Which apps and tools actually keep your messages safe?". Electronic Frontier Foundation. 4 November 2014. Retrieved 1 June 2015.
+148. Jump up^ "Scorecard Update: We Cannot Credit Skype For End-to-end Encryption". Electronic Frontier Foundation. 10 November 2014.
+149. Jump up^ "Only 6 Messaging Apps Are Truly Secure". PC Magazine. 5 November 2014. Retrieved 8 January 2015.
+150. Jump up^ "Dynamic Internet Technology Inc. Alleges Skype Redirects Users in China to Censorware Version – Ten Days After Users Are Able To Download Freegate Software Through Skype". TMCnet. 24 September 2007. Archived from the original on 15 January 2008.
+151. Jump up^ "Surveillance of Skype messages found in China".International Herald Tribune. 2 October 2008.
+152. ^ Jump up to:a b Claburn, Thomas (2 October 2008). "Skype Defends VoIP IM Monitoring in China". InformationWeek.
+153. Jump up^ "Skype says texts are censored by China". Financial Times. 18 April 2006. Archived from the original on 23 March 2009.
+154. Jump up^ Fowler, Geoffrey A.; Jason Dean (3 October 2008). "Skype's China Practices Draw Ire: Joint Venture's Tracking of Text Messages Adds Impetus to Web Code of Conduct". The Wall Street Journal.
+155. Jump up^ Markoff, John (1 October 2008). "Huge System for Web Surveillance Discovered in China". The New York Times.
+156. ^ Jump up to:a b "Microsoft blocks censorship of Skype in China: advocacy group". Reuters. 27 November 2013.
+157. Jump up^ "A new relationship for a better experience in China". Skype. Skype Blogs. 25 November 2013.
+158. Jump up^ Prasad, Kodavati. "No Skype calls within India from November 10". Kodavatisai.
+159. Jump up^ akerbeltzalba. "SkypeInYourLanguage". SourceForge.
+160. Jump up^ Ali, Sarmad (14 January 2010). "WSJ". The Wall Street Journal.
+161. Jump up^ "How to delete a Skype account?". Kioskea.
+162. Jump up^ Saarinen, Juha (8 October 2015). "Skype to compensate users for September outage". itNews.
+163. Jump up^ Branzburg, Jeffrey (March 2007). "Talk Is Cheap: Skype Can Make VoIP a Very Real Communication Option for Your School". Technology & Learning, v27 n8 p36. Retrieved10 May 2011.
+164. Jump up^ Language Magazine article
+165. Jump up^ Han Sha. "LinguaeLive - Connect students who want to learn each other's languages". linguaelive.ca.
+166. Jump up^ "Practice a new language with native speakers via Skype".languageforexchange.com.
+167. Jump up^ "The Mixxer - a free educational website for language exchanges via Skype". language-exchanges.org.
+168. Jump up^ Quillen, Ian (4 February 2011). "Educators Move Beyond the Hype Over Skype". Education Week. Retrieved 9 June 2013.
+169. Jump up^ Video Conferencing with Skype
+170. Jump up^ "Skype in the Classroom". Skype in the Classroom.
+

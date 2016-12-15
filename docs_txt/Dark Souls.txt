@@ -1,0 +1,168 @@
+Dark Souls
+From Wikipedia, the free encyclopedia
+For the 2011 Norwegian film, see Dark Souls (film). For the 2007 video game, see Bleach: Dark Souls.
+Dark Souls
+Cover art used in Western regionsDeveloper(s)FromSoftwarePublisher(s)Namco Bandai Games
+* JP: FromSoftwareDirector(s)Hidetaka MiyazakiProducer(s)Hidetaka Miyazaki
+Daisuke Uchiyama
+Kei HironoProgrammer(s)Jun ItoArtist(s)Makoto SatoComposer(s)Motoi SakurabaSeriesSoulsPlatform(s)PlayStation 3, Xbox 360,Microsoft WindowsRelease date(s)PlayStation 3, Xbox 360
+
+* JP: September 22, 2011[a]
+* NA: October 4, 2011
+* AUS: October 6, 2011
+* EU: October 30, 2011
+Microsoft Windows
+
+* AUS: August 23, 2012
+* NA: August 24, 2012
+* EU: August 24, 2012
+* JP: October 25, 2012[1]Genre(s)Action role-playingMode(s)Single-player, multiplayerDark Souls (?????? D?ku S?uru?) is an action role-playing video game developed by FromSoftware and published by Namco Bandai Games forPlayStation 3, Xbox 360, and Microsoft Windows. A spiritual successor to FromSoftware's Demon's Souls, it is the second installment of the overallSouls series, and the first installment in the Dark Souls trilogy. Dark Souls began development under the working title of Project Dark.[2][3] The game was self-published and released in Japan in September 2011, and worldwide by Namco Bandai Games the following month.[4]
+In August 2012, the "Prepare to Die" edition of Dark Souls was released for PC, featuring additional content previously unavailable to PlayStation 3 and Xbox 360 users. In October 2012, the additional content from the PC version was released as downloadable content for consoles under the title Artorias of the Abyss.[5] Dark Souls takes place in the fictional kingdom of Lordran. Players assume the role of a cursed undead character who begins apilgrimage out of the Undead Asylum to discover the fate of the Undead.
+Dark Souls received critical acclaim upon its release, and is considered by some to be one of the best video games ever made, with critics praising its combat depth, marked but fair difficulty, intricate world design, and deeply rooted lore.[6] In April 2013, FromSoftware announced Dark Souls had sold 2.37 million copies.[7] The PC version was the second most played Games for Windows Live title in 2012 based on unique users.[8] The game spawned two sequels, Dark Souls II, which was released in 2014, and Dark Souls III in 2016.
+Contents
+  [hide] 
+* 1Gameplay
+* 2Plot
+o 2.1Artorias of the Abyss
+* 3Development and release
+* 4Reception
+o 4.1PC version
+o 4.2Awards
+* 5Legacy
+o 5.1Sequels
+* 6Notes
+* 7References
+* 8External links
+Gameplay[edit]
+
+The player character (right) battling Knight Artorias, one of the bosses added to the game through downloadable content
+Dark Souls is a third-person action role-playing game. The core mechanic of the game is exploration. Players are encouraged by the game to proceed with caution, learn from past mistakes, or find alternate areas to explore. Dark Souls takes place in a large and continuous open world environment, connected through a central hub area (Firelink Shrine). Players are able to travel to and from areas and explore various paths at will, although certain prerequisites have to be met in order to unlock certain areas.[9][10][11][12]
+Central to Dark Souls are Bonfires. Bonfires are scattered throughout the world and serve as check points for each level. When rested at, the player is healed to full, healing charges are restored, but all of the enemies (except for bosses and mini-bosses) respawn. While resting, players can level up and perform other key functions.
+Another aspect of Dark Souls is the "humanity" system. There are two "forms" the player character can be in during the game, human form and hollow form. Whenever the player dies in human form, they are returned to hollow form and can only have their humanity restored by consuming an item (also called a "humanity"). In order to gain the assistance of other players, the player must be in human form. While in human form, the player is subjected to invasions by other players and NPCs who seek to kill the player and restore their own humanity.
+Humanity can be acquired in many ways, and if no humanity is available, players are still able to progress in hollow form. Death in either form results in the loss of all carried souls and humanity, but players revive as hollows at their most recent bonfire with one chance at returning to where they died to recover all lost souls and humanity. If the player dies before reaching their "bloodstain", the souls and humanity they previously accrued are permanently lost.
+Communication between players is deliberately limited. Other than character gestures, the only other communication players have with one another comes by way of Orange Soapstones, which allow players to write limited messages that can be read by others in the same area, as well as several Archtree Carvings, introduced in the DLC, which say pre-recorded phrases that other players can hear during co-op and player vs. player interactions.
+Plot[edit]
+Dark Souls has a minimalistic plot. Historical events in this world and their significance are often implicit and left to player interpretation rather than fully shown or explained. Most of the story is given to the player through dialogue from characters within the game, flavor text from items, and world design.
+The opening cutscene establishes the premise of the game. The world was once shrouded by grey fog and ruled by dragons. In this time period, Gwyn happens upon the First Flame and finds a Lord Soul. He and his allies use their power to defeat the dragons, beginning the Age of Fire. Over time, the flames begin to fade and Gwyn sacrifices himself and his soul to prolong the Age of Fire. With the flame dwindling, the undead curse arises, causing certain humans to continually resurrect upon death.
+The player character is a cursed undead, locked away in an undead asylum. After escaping the asylum, the player travels to Lordran to ring the Bells of Awakening. The bells awaken Kingseeker Frampt, who tells the player to ascend to Anor Londo. In Anor Londo, Gwynevere instructs the player to succeed Lord Gwyn and fulfill the prophecy. To accomplish this, the Lord Souls must be acquired from Gwyn's primordial allies and returned to the flame.
+The player may encounter Darkstalker Kaathe, who encourages the player not to link the fire, but to let it die out and usher in the Age of Dark. Once the player acquires the Lord Souls, they travel to the Kiln of the First Flame to succeed Lord Gwyn. Once Gwyn has been defeated, the player is given the choice of linking the flame to preserve the Age of Fire, or letting it die out to instigate the Age of Dark.
+Artorias of the Abyss[edit]
+At some point in the past, a being known as Manus awakened and began to spread the Abyss—an expanse of darkness—over the land of Oolacile. Knight Artorias was sent to Oolacile to stop the spread of the Abyss, but he failed and became corrupted. Meanwhile, Manus searches desperately for his long-lost pendant across space and time. Once the player obtains the pendant, Manus pulls them into the past. There, the player defeats the corrupted Artorias, and destroys Manus, halting the spread of the Abyss.
+Development and release[edit]
+This section needs expansion.You can help by adding to it. (August 2016)Dark Souls was developed by FromSoftware, with series creator Hidetaka Miyazaki leading the project's development.
+Following the game's release for the PlayStation 3 and Xbox 360, many gamers expressed their hope for a PC version. Namco Bandai administrator, Tony Shoupinou responded on their page that a PC version was possible.[13] On January 6, 2012, fans started a petition to bring Dark Souls to PC, with over 93,000 people signing it.[14] The PC version of the game was confirmed on April 7, 2012 via the PC Action magazine.[15] It had been reported during the development process that FromSoftware had been having difficulty with the port due to inexperience with PC as a platform, and were focusing on adding content rather than optimization.[16] Re-branded as Prepare to Die Edition, it came out in August 2012 and featured new content, including bosses, enemies, equipment, and NPCs.[17] The new content, titled Artorias of the Abyss, was released for consoles in October 2012 in the form of DLC.[18] Soon after, it was announced that Dark Souls for PC would use Games for Windows – Live for online play and DRM, spurring fan backlash.[19]
+The PC version of the game was released on August 23, 2012. A fan-made mod to 'fix' the resolution cap was made shortly after release.[20] Later this fix was extended to an unofficial fan-made patch which additionally fixed a non-configurable frame rate limiter.[21]
+On December 15, 2014, Games for Windows Live was removed from the Steam version and replaced by Steamworks. The ability to transfer both achievements and save data was provided.[22] In April 2016, Dark Souls became available on PlayStation 4 and Xbox One via backwards compatibility.[23]
+Reception[edit]
+This section contains too many or too-lengthy quotations for an encyclopedic entry. Please help improve the article by editing it to take facts from excessively quoted material and rewrite them as sourced original prose. Consider transferring direct quotations to Wikiquote. (August 2016)
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2016) (Learn how and when to remove this template message)
+ReceptionAggregate scoreAggregatorScoreMetacriticPC: 85/100[43]
+PS3: 89/100[44]
+X360: 89/100[45]Review scoresPublicationScoreEdge9/10 then 10/10[24]Eurogamer9/10[25]Famitsu37/40[26]PALGN10/10[27]The Daily Telegraph[28]AwardsPublicationAwardElectronic Gaming Monthly,[29]Game Revolution,[30]IncGamers,[31] Q-Games[32]Game of the YearGameTrailers,[33] Games.cz[34]Best Role-Playing GameGameZone,[35] TeamXbox[36]Best RPG (Runner-Up)GameZone[35]Best Action/AdventureFamitsu[37]Award of ExcellenceGame Informer,[38] GameSpot[39]Best Boss FightsEdgeBest Game of the Generation,[40] Greatest videogame of all time[41]USgamerBest Game Since 2000[42]Edit on wikidata Dark Souls received critical acclaim from critics upon its release. Famitsu gave the game a positive review, scoring it 37 out of 40, based on four scores of 9, 9, 9, and 10. One of the reviewers for Dark Souls described it as "a very hardcore dark-fantasy [role-playing game]" that is "role-playing right down to the roots," and stated that the "massive field map and powerful enemies serve to rev up both your sense of adventure and your sense of dread." Another reviewer stated that "the sheer happiness you get after the trial-and-error pays off and you overcome the challenge is absolutely impossible to replicate."[26]
+GameSpot scored Dark Souls a 9.5/10. Much praise was given to the online system, as well as the sense of jubilation felt when conquering boss fights after numerous failed attempts. They also suggested that casual gamers may struggle to progress, whereas role-playing game enthusiasts will thrive on the difficulty.
+IGN gave Dark Souls a 9.0/10, praising the well-thought out level design, variety, strong emphasis on online features, excessively dark tone and atmosphere, and deep gameplay. They also noted that it is not a game that one can simply jump into and play for plain enjoyment. They went as far to say that it is not a game for the timid and that the game requires both skill and strategy almost all the time. While praising the extremely high difficulty, they stated that "there's a difference between punishing, and downright unfair."
+Eurogamer gave Dark Souls 9/10, saying "If adventure is to surprise and mystify you and invite you to uncover the secrets of a forgotten world, then Dark Souls is a great adventure game. If entertainment is fun without failure and progress without pain, you'll have to find it somewhere else. But you'll be missing out on one of the best games of the year."[25]
+Writing for Slate, Michael Thomsen asked if a 100-hour video game was ever worthwhile, stating:
+There is real beauty in Dark Souls. It reveals that life is more suffering than pleasure, more failure than success, and that even the momentary relief of achievement is wiped away by new levels of difficulty. It is also a testament to our persistence in the face of that suffering, and it offers the comfort of a community of other players all stuck in the same hellish quagmire. Those are good qualities. That is art. And you can get all of that from the first five hours of Dark Souls. The remaining 90 or so offer nothing but an increasingly nonsensical variation on that experience.[46]
+Jason Killingsworth wrote a response to Thomsen's review for Edge, arguing that the game's "vertigo-inducing breadth makes it the gaming equivalent of a marathon."[47] Killingsworth praised Dark Souls' length, stating that he began a New Game+ upon finishing the game and that he "didn't look sheepishly at the clock on the wall to beg its permission."[48]
+Edge later retroactively awarded the game 10 out of 10 in their October 2013 20th anniversary issue, stating that over time the breadth and quality of the game's design had overruled complaints about its difficulty.[24]
+In a post-release review of the game, Ben "Yahtzee" Croshaw praised Dark Souls in his Zero Punctuation video for its deep gameplay and immersive atmosphere, expressing that there should be a "rule that [the developers] can only put stuff in [their] skybox if the player gets to visit it at some point", but was "disappointed" with the late-game bosses and criticized the difficulty of getting into the game, stating that: "while it's fine that [Dark Souls] seeks to court the hardcore audience, a gentler barrier-to-entry might have turned less new players off".[49]
+Post-release, the game's director, Hidetaka Miyazaki, contemplated adding an easier difficulty level, saying: "Dark Souls is rather difficult and a number of people may hesitate to play. This fact is really sad to me and I am thinking about whether I should prepare another difficulty that everyone can complete or carefully send all gamers the messages behind our difficult games."[50] Namco Bandai claimed Miyazaki's statement was mistranslated, and should have read "This fact is really sad to me and I am thinking about how to make everyone complete the game while maintaining the current difficulty and carefully send all gamers the messages behind it."[51]
+Namco Bandai's yearly financial report stated that the game sold 1.19 million units in the United States and Europe by March 2012.[52] FromSoftware announced in April 2013 that the game had sold 2.37 million units worldwide.[7][53]
+PC version[edit]
+In GameSpy's review, the port was referred to as "shabby", citing the game's limit of 30 frames per second, poor mouse and keyboard controls, and nonadjustable resolution, but the expanded content was praised, giving the game an overall favorable review.[54] Eurogamer also commented on the quality of the port, stating: "Dark Souls: Prepare to Die Edition does not come with the technical options you would expect from a well-engineered PC game, because it's a port of a console game, and that's all FromSoftware ever promised to deliver. Anyone who passes up Dark Souls for this reason is cutting off their nose to spite their neckbeard of a face."[55] One of the producers of Dark Souls II, Takeshi Miyazoe, responded to the criticism of the PC version by saying:[56]
+This is going to sound bad but our main priority was to get the game onto the PC as fast as possible, because people wanted it on the PC. The PC market in Japan is so minimal that originally there were no plans to make it on the PC, but with the strong petition from the North American and European fans, even with the lack of experience of working on a PC platform we still did our best to try to get it out as fast as possible. [The problems] were expected to a certain extent.
+We did know there were PC-specific features like key-mapping and use of the mouse and keyboard, high resolution and higher frame rate, stuff like that, but... It's not that we ignored it, but it would have taken too much time for us to implement it, test it and get it up to the level people expected. It was more of a publisher (Namco Bandai) decision to say, ‘Guys, don’t worry about this – let’s just get it out and see how this works on PC.'
+Awards[edit]
+Game Revolution gave Dark Souls the Community Choice Game of the Year award.[30] IncGamers also gave it the "Game of the Year" award.[31] Q-Games' Dylan Cuthbert and Double Fine Productions' Brad Muir chose Dark Souls as Game of the Year.[32] Electronic Gaming Monthly's Eric L. Patterson chose it as Game of the Year.[29] GameTrailers gave it the "Best Role-Playing Game" award,[33] while also nominating it for the "Best Multiplayer Game", "Best Trailer" and "Game of the Year" awards.[57] GameZone gave the game the "Best Action/Adventure" award and chose it as the runner-up for the "Best RPG" award.[35]
+The Daily Telegraph gave the game the "Best Integration of Online Features" award, and nominated it for the awards of "Best Director" (Hidetaka Miyazaki), "Best Level Design", "Best Sound Design", "Best Original Score" (Motoi Sakuraba), "Best Developer" (FromSoftware), and "Game of the Year".[58] TeamXbox gave it an honorable mention as the runner-up for the "Best RPG" award.[36] 1UP.com gave it the "Most Rewarding Game" award.[59] Game Informer gave it the award for "Best Boss Fight" (Sif).[38] It also received the "Best Boss Fights" awards from GameSpot, including both the Editors' Choice and Readers' Choice awards.[39] Famitsu gave it an Award of Excellence in its 2012 awards ceremony.[37]
+In 2013, Digital Spy named Dark Souls the best game of its console generation.[60]
+In 2014, Edge magazine named Dark Souls the best game of the seventh generation of games consoles, noting that while some may initially tire of it, "We've yet to meet a single player for whom persistence has not been enough to transform apathy into all-consuming love." [40] In September 2015, Dark Souls topped the magazine's special issue The 100 Greatest Videogames.[41]
+In 2015, the game placed first on GamesRadar's "The 100 best games ever" list.[61] The game also placed first on USgamer's The 15 Best Games Since 2000 list.[42] The game was titled the "Best RPG on PC" by Rock, Paper, Shotgun.[62]
+In 2016, Dark Souls placed fifth on PC Gamer's "Best RPGs of all time" list.[63]
+Legacy[edit]
+Dark Souls is considered to be among the most important titles released during the seventh generation of consoles.[64] Games said to have been influenced by Dark Souls include Destiny,[65]Alienation,[66] Lords of the Fallen,[67] Salt and Sanctuary,[68] Shovel Knight,[64][69] Titan Souls,[64][70] Enter the Gungeon,[71] and The Witcher 3: Wild Hunt.[72][73]
+Sequels[edit]
+A sequel, Dark Souls II, was announced at the Spike Video Game Awards on December 7, 2012 for release on Microsoft Windows, PlayStation 3 and Xbox 360.[74] Amid rumors of a possible decrease in the difficulty of the series due to comments made by the new director to Edge, Brian Hong of Bandai Namco assured fans during the Electronic Entertainment Expo that Dark Souls IIwould be "viciously hard."[75] Dark Souls II was released on March 11, 2014 for the PlayStation 3 and Xbox 360, and for the PC on April 25, 2014.[76] An updated version of the sequel, subtitled "Scholar of the First Sin" released the next year for the same platforms as well as the Xbox One and PlayStation 4.[77] The third title of the series, Dark Souls III, was announced on the Electronic Entertainment Expo (E3) 2015 and was released in early 2016.[78]
+Notes[edit]
+1. Jump up^ For PlayStation 3 only
+References[edit]
+1. Jump up^ FromSoftware, Inc. (2012-10-25). "Dark Souls With Artorias Of The Abyss Edition – FromSoftware". Darksouls.fromsoftware.jp. Retrieved 2012-12-08.
+2. Jump up^ Anoop Gantayat (February 1, 2011). "Demon's Souls Followup Officially "Dark Souls"". andriasang. RetrievedFebruary 4, 2011.
+3. Jump up^ Andy Robinson (February 4, 2011). "Dark Souls 'is not a sequel to Demon's Souls' – Dev".ComputerAndVideoGames.com. Retrieved February 5, 2011.
+4. Jump up^ Anoop Gantayat (May 11, 2011). "Dark Souls Arriving First in Japan". andriasang. Retrieved May 11, 2011.
+5. Jump up^ Pete Haas (September 19, 2012). "Dark Souls Artorias Of The Abyss DLC Release Date Announced For PS3 And Xbox 360". Cinema Blend. Retrieved September 20, 2012.
+6. Jump up^ Jeff Bakalar; Scott Stein; Dan Ackerman (October 7, 2011). "Is Dark Souls too hard?". CNET.com. Retrieved December 19,2011.
+7. ^ Jump up to:a b Phillips, Tom (12 April 2013). "Dark Souls worldwide sales total 2.3 million". Eurogamer. Gamer Network. Retrieved12 April 2013.
+8. Jump up^ Conditt, Jessica (2013-01-23). "Top Xbox Live, Arcade, Indie and Windows games of 2012". Joystiq. Retrieved2013-03-21.
+9. Jump up^ Mitchell, Richard (October 3, 2011). "Dark Souls review: Brick walls and pancakes". Engadget. Retrieved September 10,2016.
+10. Jump up^ "Dark Souls Review". IGN. September 30, 2011. RetrievedSeptember 10, 2016.
+11. Jump up^ Kollar, Phil (October 3, 2011). "Dark Souls Review: Dead And Loving It". GameInformer.com. Retrieved September 10,2016.
+12. Jump up^ Bischoff, Daniel (October 3, 2011). "Dark Souls Review".Game Revolution. Retrieved September 10, 2016.
+13. Jump up^ Conditt, Jessica (2012-01-08). "Dark Souls admin suggests PC could happen with a petition". Joystiq. Retrieved2012-12-08.
+14. Jump up^ "Petition: Dark Souls for PC". 6 January 2012.
+15. Jump up^ Donaldson, Alex (April 7, 2012). "Dark Souls PC confirmed in PC Action magazine". rpgsite.net. Archived from the original on October 26, 2016. Retrieved October 26, 2016.
+16. Jump up^ Dutton, Fred (2012-06-07). "From Software "having a tough time" porting Dark Souls to PC, frame rate issues remain".Eurogamer. Retrieved 2013-10-14.
+17. Jump up^ "Dark Souls: Prepare to Die Edition coming to PC in August « GamingBolt.com: Video Game News, Reviews, Previews and Blog". Gamingbolt.com. Retrieved 2012-12-08.
+18. Jump up^ Cullen, Johnny (May 31, 2012). "Dark Souls PC coming to Steam, consoles to get PC content". VG247. Retrieved31 May 2012.
+19. Jump up^ Makuch, Eddie. "Gamers rallying against Dark Souls PC using Games for Windows Live". CBS Interactive. Retrieved16 April 2012.
+20. Jump up^ Modder Purportedly Fixes Dark Souls PC Resolution Limitations in 23 Minutes on gamespy.com
+21. Jump up^ Walter, Maximilian (2012-09-18). "Dark Souls: Prepare to Die Edition - Fans bringen das Spiel auf 60FPS" (in German).GameStar. Retrieved 2013-10-12. Die PC-Version des Action-Rollenspiels Dark Souls plagen ein paar Macken. Die fleißige Community hat sich diesen angenommen und einen Patch veröffentlicht, der die Auflösung erhöht und den Framelimiter aushebelt.
+22. Jump up^ Grabit, Anthony (December 15, 2014). "Dark Souls™ Prepare To Die Edition update to replace the Games for Windows Live functionality with Steamworks is now live".steamcommunity.com. shoupinou. Retrieved December 15,2014.
+23. Jump up^ Frank, Allegra (2016-02-16). "Dark Souls getting Xbox One compatibility, free with Dark Souls 3 pre-order". Polygon. Retrieved 2016-10-05.
+24. ^ Jump up to:a b "The ten amendments: we crown seven games from the last 20 years of Edge with a retrospective 10". Edge. Bath:Future Publishing. Retrieved 22 February 2014.
+25. ^ Jump up to:a b Welsh, Oli (2011-10-03). "Dark Souls Review • Page 1 • Reviews •". Eurogamer.net. Retrieved 2012-01-13.
+26. ^ Jump up to:a b Gifford, Kevin (2011-09-14). "Japan Review Check: Dark Souls". 1UP.com. Retrieved 23 September 2011.
+27. Jump up^ Markovic, Denny (21 October 2011). "Dark Souls Review".PALGN. Retrieved 29 December 2011.
+28. Jump up^ Parkin, Simon (3 October 2011). "Dark Souls review". The Telegraph. Retrieved 29 December 2011.
+29. ^ Jump up to:a b Patterson, Eric L. (December 19, 2011). "EGM'S BEST OF 2011: ERIC L. PATTERSON'S PICKS". Electronic Gaming Monthly. Retrieved 7 January 2012.
+30. ^ Jump up to:a b "Community Choice Game of the Year". Game Revolution. December 23, 2011. Retrieved 31 December 2011.
+31. ^ Jump up to:a b Robertson, John (25 December 2011). "Game of the Year 2011: #1 – Dark Souls". IncGamers. United Kingdom. Retrieved 31 December 2011.
+32. ^ Jump up to:a b "Developers' Games of 2011". Eurogamer. 2 January 2012. Retrieved 7 January 2012.
+33. ^ Jump up to:a b "Best Role-Playing Game". GameTrailers. December 28, 2011. Retrieved 29 December 2011.
+34. Jump up^ "Best of 2011:Best RPG". Games.cz. Tiscali. 6 January 2012. Retrieved 7 January 2012.
+35. ^ Jump up to:a b c Splechta, Mike (December 29, 2011). "GameZone's Game of the Year Awards Day 3: Genre Awards". GameZone. Retrieved 30 December 2011.
+36. ^ Jump up to:a b Lord, Jesse (December 29, 2011). "TeamXbox Best RPG of 2011". TeamXbox. Retrieved 31 December 2011.
+37. ^ Jump up to:a b "Monster Hunter 3 G Takes Top Prize in Famitsu Awards". Anime News Network. 2012-04-18. Retrieved 4 May2012.
+38. ^ Jump up to:a b Juba, Joe (December 30, 2011). "The 2011 RPG Of The Year Awards". Game Informer. p. 2. Retrieved 31 December2011.
+39. ^ Jump up to:a b "GameSpot's Best of 2011 Special Achievements".GameSpot. 30 December 2011. Retrieved 31 December 2011.
+40. ^ Jump up to:a b "The Ten Best Games of the Generation". Edge. Bath:Future Publishing (272): 74–81. November 2014.
+41. ^ Jump up to:a b the 100 greatest videogames. Edge. Bath, UK: Future. 2015. p. 206. ISBN 978178389244-0.
+42. ^ Jump up to:a b Bailey, Kat (August 11, 2015). "The 15 Best Games Since 2000, Number 1: Dark Souls". USgamer. Gamer Network.Archived from the original on August 11, 2015. RetrievedAugust 11, 2015.
+43. Jump up^ "Dark Souls: Prepare to Die Edition for PC Reviews".Metacritic. Retrieved December 23, 2013.
+44. Jump up^ "Dark Souls for PlayStation 3 Reviews". Metacritic. Retrieved December 19, 2011.
+45. Jump up^ "Dark Souls for Xbox 360 Reviews". Metacritic. RetrievedDecember 19, 2011.
+46. Jump up^ Thomsen, Michael. "Dark Souls review: Is a 100-hour video game ever worthwhile? – Slate Magazine". Slate.com. Retrieved 2012-12-08.
+47. Jump up^ Killingsworth, Jason (March 2, 2012). "Opinion: Long live the long RPG". Edge. Bath: Future Publishing. Retrieved2012-12-08.
+48. Jump up^ Killingsworth, Jason (March 2, 2012). "Opinion: Long live the long RPG". Edge. Bath: Future Publishing. Retrieved2012-12-08.
+49. Jump up^ "Dark Souls - Zero Punctuation".
+50. Jump up^ Matulef, Jeffrey (2012-09-04). "Dark Souls director considering adding optional easy mode • News • PlayStation 3 •". Eurogamer.net. Retrieved 2012-12-08.
+51. Jump up^ Matulef, Jeffrey (2012-09-07). "Dark Souls Easy Mode quote a mistranslation, apparently • News • PlayStation 3 •". Eurogamer.net. Retrieved 2012-12-08.
+52. Jump up^ PS3 (2012-05-08). "Namco Bandai Touts Dark Souls Sales, Over 1.19 Million in US and Europe". Playstationlifestyle.net. Retrieved 2012-12-08.
+53. Jump up^ "Dark Souls Worldwide Sales Exceed 2.3 Million Copies". GamingUnion.net. 2013-04-13. Retrieved 2013-04-13.
+54. Jump up^ Janicki, Stefan (September 30, 2012). "Dark Souls: Prepare to Die Edition Review". GameSpy. Retrieved 11 October 2012.
+55. Jump up^ Stanton, Rich (2012-08-28). "Dark Souls: Prepare to Die Edition Review • Reviews • PC •". Eurogamer.net. Retrieved2012-12-08.
+56. Jump up^ "Dark Souls' producer says PC version was rushed, problems "were expected"". Edge. Future plc. 19 December 2013. Retrieved 27 March 2014.
+57. Jump up^ "GameTrailers Game of the Year Awards 2011".GameTrailers. Retrieved 31 December 2011.
+58. Jump up^ "Telegraph video game awards 2011". The Telegraph. 27 December 2011. Retrieved 29 December 2011.
+59. Jump up^ "1UP's Best of 2011 Awards: Editors' Picks". 1UP.com. December 22, 2011. Retrieved 31 December 2011.
+60. Jump up^ Reynolds, Matthew (November 10, 2013). "Why 'Dark Souls' is our game of the generation". Digital Spy. Hearst Magazines UK. Archived from the original on February 21, 2016. Retrieved February 21, 2016.
+61. Jump up^ Houghton, David (March 6, 2015). "Top 100: Why Dark Souls is simply the greatest game of all time". GamesRadar. Future US, Inc. Archived from the original on November 3, 2015. Retrieved February 20, 2016.
+62. Jump up^ "The 50 Best RPG On PC". Rock, Paper, Shotgun. July 10, 2015. Retrieved February 29, 2016.
+63. Jump up^ "The best RPGs of all time". PC Gamer. Retrieved2016-02-19.
+64. ^ Jump up to:a b c Breault, Chris (2014-02-24). "How Do You Make An RPG After Dark Souls?". Kill Screen.
+65. Jump up^ Slabaugh, Brett (2013-12-18). "Destiny Inspired by Dark Souls, Monster Hunter, Bungie Says". The Escapist.
+66. Jump up^ Tach, Dave (2014-08-22). "How Dark Souls influenced Alienation, the next game from Resogun's developer".Polygon.com.
+67. Jump up^ Makuch, Eddie (2015-01-05). "Lords of the Fallen Dev Talks Dark Souls Comparisons". GameSpot.
+68. Jump up^ McElroy, Griffin (2013-08-28). "How Salt and Sanctuary reimagines Dark Souls as a 2D action-platformer". Polygon.
+69. Jump up^ Williams, Mike (May 24, 2014), Game Dev Recipes: Shovel Knight, USgamer, retrieved May 26, 2014
+70. Jump up^ Hamilton, Andi (2015-04-13). "Titan Souls". PCGamer.
+71. Jump up^ Crooks, Dave. "How to Get Started in Enter the Gungeon on PS4". PlayStation.Blog. Retrieved 18 April 2016.
+72. Jump up^ Purchese, Robert (2013-11-28). "The Witcher 3: What is a next-gen RPG?". Eurogamer.net. Retrieved September 10,2016.
+73. Jump up^ Jones, Gary (March 30, 2015). "Witcher 3: Why Dark Souls has proved a big influence, new details on 200+ hours gameplay". Daily Express. Retrieved September 10, 2016.
+74. Jump up^ "Dark Souls 2 announced – Video Game News, Videos and File Downloads for PC and Console Games at". Shacknews.com. Retrieved 2012-12-08.
+75. Jump up^ "Namco Bandai assures fans that Dark Souls II will be 'viciously hard'". venturebeat.com. 11 June 2013. Retrieved2 August 2013.
+76. Jump up^ Makuch, Eddie (2014-04-06). "Dark Souls 2 gets PC release date, dev promises "increased texture resolution"". gamespot.com. Retrieved 2014-09-01.
+77. Jump up^ Albert, Brian. "DARK SOULS II COMING TO XBOX ONE, PS4 NEXT YEAR". IGN. Retrieved 28 September 2015.
+78. Jump up^ McCormick, Rich (2015-06-16). "Dark Souls 3 is bringing brutally hard battling back to PS4, Xbox One, and PC". The Verge.
+

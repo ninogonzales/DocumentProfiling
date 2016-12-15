@@ -1,0 +1,374 @@
+Microsoft Surface
+From Wikipedia, the free encyclopedia
+This article is about the Microsoft Surface series of personal computers. For the first generation of this series, see Surface (2012 tablet). For the interactive surface computing platform, seeMicrosoft PixelSense.
+Microsoft Surface series
+Surface Pro 3 with accessoriesDeveloperMicrosoftManufacturerPegatron[1]Typehybrid tablets, 2-in-1 detachables,interactive whiteboards, All-in-one PCsRelease date* Surface: October 26, 2012[2]
+* Surface Pro: February 9, 2013[3]
+* Surface 2: October 22, 2013
+* Surface Pro 2: October 22, 2013
+* Surface Pro 3: June 20, 2014
+* Surface 3: May 5, 2015
+* Surface Hub: July 1, 2015
+* Surface Pro 4: October 26, 2015
+* Surface Book: October 26, 2015
+* Surface Studio: October 26, 2016Operating systemWindows 8, 8.1; Windows 10
+Windows RT (Surface/Surface 2)
+This article is part of a series on theSurface Family* Surface
+* 2
+* 3
+
+* Surface Pro
+* Pro 2
+* Pro 3
+* Pro 4
+
+* Surface Hub
+
+* Surface Book
+* Surface Studio
+
+Accessories: Surface Pen · Covers -Surface Dial* v
+* t
+* eMicrosoft Surface (or simply Surface) is a series of Windows-based personal computing devices designed and manufactured by Microsoftunder its hardware division, a part of the Windows and Devices group. It comprises four generations of hybrid tablets and 2-in-1 detachables, together with the Surface Book, a full-sized laptop, the 28-inch all-in-one Surface Studio, and the Surface Hub, an interactive whiteboard.
+With the exception of the first-generation Surface and Surface 2, all Surface PCs use Intel processors and are compatible with Microsoft's newest Windows 10 operating system. All Surface models sold after July 2015, the general availability of Windows 10, ship with the new OS pre-installed. Also, up to July 2016, older models running Windows 8.1 were eligible for a free upgrade to Windows 10. The older, ARM-based models of Surface and are not compatible to Windows 10, but received several new features, including a modified version of the Windows 10Start menu, in a software update released in September 2015.
+Contents
+  [hide] 
+* 1Overview
+* 2History
+* 3Hardware
+o 3.1Screen and input
+o 3.2Processor
+o 3.3Storage
+o 3.4External ports
+o 3.5Cellular connectivity
+o 3.6External design
+* 4Software
+o 4.1Tablet Mode
+o 4.2Apps
+* 5Accessories
+o 5.1Keyboard covers
+o 5.2Surface Pen
+o 5.3Docking accessories
+o 5.4Other accessories
+* 6Surface Studio
+* 7Surface Book
+* 8Surface Hub
+* 9Model comparison
+o 9.1Surface line
+o 9.2Surface Pro line
+* 10Promotion
+o 10.1Television commercial
+o 10.2Partnership with NFL
+o 10.3Designed on Surface
+o 10.4United States Department of Defense
+* 11Reception
+o 11.1Industry response
+o 11.2Sales
+* 12Reported problems
+* 13Timeline
+* 14See also
+* 15References
+* 16External links
+Overview[edit]
+The Surface PC family consists of three major lines:
+* the Surface line of budget hybrid tablets, with optional detachable keyboard accessories. The latest model, the Surface 3, uses an Intel Atom SoC processor, while the older but discontinued models, first generation Surface and the Surface 2, used Nvidia Tegra ARM processors. These models were designed for budget-oriented consumers and educational users.
+* the Surface Pro line of 2-in-1 hybrid tablets, using the same optional detachable keyboard accessories. They use Intel Core i Series processors and include a stylus pen. They are designed for demanding and professional users.
+* the Surface Book, a laptop PC with a detachable screen. With its full-size keyboard base, it is positioned as a laptop compared to a tablet. It is available in versions with and without discrete graphics.
+* the Surface Studio, a 28-inch all-in-one desktop that flattens out into a digital drafting table.
+The first generation devices under the Surface name were introduced on June 18, 2012, and the most recent models currently available are the Surface Pro 4 and Surface Book, which were released on October 26, 2015. They are notable for their sliding out kickstand, which supports the base while it stands at an angle, and optional detachable magnetic keyboards which also double as a protective screen cover. Surface and Surface Pro devices are marketed as tablets by Microsoft, whereas Surface Book is marketed as a laptop.
+History[edit]
+First announced on June 18, 2012 by the then CEO, Steve Ballmer at a Los Angeles event in Milk Studios, Surface was the first major initiative by Microsoft to integrate its Windows operating system with its own hardware, and is the first PC designed and distributed solely by Microsoft.[4]
+The first-gen Surface launched alongside the general availability release of Windows 8 on October 26, 2012.[5] Surface Pro became available on February 9, 2013.[6] Surface devices were initially available only at Microsoft Stores and online, it was later expanded into other vendors.[7]
+Steven Sinofsky, President of the Windows and Windows Live Division at the time, stated that pricing for the first Surface would be comparable to other ARM devices and pricing for Surface Pro would be comparable to current ultrabooks. According to then Microsoft CEO Steve Ballmer, the "sweet spot" for the bulk of the PC market was $300 to $800.[8] On October 16, the pricing was revealed for the Surface,[9] and pre-orders opened to ship, "for delivery by 10/26".[10]
+In November 2012, Steve Ballmer described the distribution approach to Surface as "modest".[11] On November 29, 2012, Microsoft revealed the pricing for the two versions of Surface with Windows 8 Pro (64GB and 128GB).[12] The tablet would go on sale at February 9, 2013, in the United States and Canada.[13] A launch event was set to be held on February 8, 2013, but was cancelled at the last minute due to the February 2013 nor'easter.[14] The 128GB version of the tablet sold out on the same day as its release. There was less demand for the 64GB version, because of the much smaller available storage capacity, but supplies of the lower cost unit were almost as tight.[15]
+On September 23, 2013, Microsoft announced the Surface 2 and Surface Pro 2, which feature hardware and software updates from the original. The Surface 2 launched October 22, 2013 alongside the Surface Pro 2, four days after the general availability of Windows 8.1. Later, Microsoft launched a variation of the Surface 2 with LTE connectivity for the AT&T network on March 18, 2014.
+Microsoft then announced the redesigned Surface Pro 3 on May 20, 2014, which went on sale on June 20, 2014. The following year, on March 30, 2015, it announced the Surface 3, a more compact version of the Surface Pro 3.
+On September 8, 2015, Microsoft announced the "Surface Enterprise Initiative", a partnership between Accenture, Avanade, Dell Inc., and HP, to "enable more customers to enjoy the benefits of Windows 10." As part of the partnership, Dell will resell Surface Pro products through its business and enterprise channels, and offer its existing enterprise services (including ProSupport, warranty, and Configuration and Deployment) for Surface Pro devices it sells.[16][17]
+Microsoft announced the next generation Surface Pro 4 and the all new Surface Book, a hybrid laptop, at Microsoft October 2015 Event in New York on October 10, 2015.[18] Microsoft began shipping Surface Hub devices on March 25, 2016. [19]
+In June 2016, Microsoft confirmed production of the Surface 3 would stop in December of that year.[20] No replacement product has been announced. Reports suggest this may be a consequence of Intel discontinuing the Broxton iteration of the Atom processor.[21]
+Hardware[edit]
+
+Surface Pro 3 with Type Cover
+
+Surface 3 with Type Cover
+
+Surface Pro 3 kickstand
+This section only concerns the Surface tablets, not the Surface Hub or the Surface Book
+Screen and input[edit]
+The first two generations of both Surface lines features 10.6 ClearType Full HD display with 16:9 aspect ratio. With the release of the third generation Surface and Surface Pro, Microsoft increased the screen sizes to 10.8 inches (27 cm) and 12 inches (30 cm) respectively, each with a 3:2 aspect ratio, designed for a comfort use in a portrait orientation. The fourth generation increased the screen further to 12.3 inches (31 cm). The screen feature a multi-touch technology with 10 touch-points and scratch-resistance Gorilla Glass. All generations of the Surface Pro and third generation of the Surface also features an active pen, but it is not included in the box with all models.
+The display responds to other sensors: an ambient light sensor to adjust screen brightness and a 3-axis accelerometer to sense Surface orientation and switch between portrait and landscape orientation modes. The Surface's built-in applications support screen rotation in all four directions, including upside-down.
+There are three buttons on the first three generation of Surface, including a capacitive Windows button near the display that opens the Start Screen, and two physical buttons on the sides: power and volume. The fourth generation removed the capacitive windows button on the screen.
+The Surface has front and rear cameras, the resolution of which has been increased to 3.5/8 and 5/5 megapixels for the latest generation of the Surface and Surface Pro, respectively.
+Processor[edit]
+The first generation Surface uses a quad core Nvidia Tegra 3 of the ARM architecture, as opposed to the Intel x64 architecture and therefore shipped with Windows RT, which was written for the ARM architecture. The second generation Surface 2 added an Nvidia Tegra 4. The architecture limited Surface and Surface 2 to only apps from the Windows Store recompiled for ARM. With the release of the Surface 3, Microsoft switched the Surface line to the Intel x64 architecture, the same architecture found in the Surface Pro line. Surface 3 uses the Braswell Atom X7 processor.[22]
+With the Surface Pro line, Microsoft uses the Intel x64 architecture which can run most software designed for Microsoft Windows. Both Surface Pro and Surface Pro 2 had one processor variant, the Core i5, though the Surface Pro runs the Ivy Bridge iteration, and the Surface Pro 2 runs the Haswell iteration. The Surface Pro 3 added the Haswell Core i3 and Core i7 variants.
+Storage[edit]
+The Surface devices are released in six internal storage capacity: 32, 64, 128, 256, 512 GB and 1 TB. With the release of the third generation, the 32 GB model was discontinued. All models also feature a microSD card slot, located behind the kickstand, which allow for the use of memory cards up to 200 GB.
+Surface devices have a different amount of non-replaceable RAM, ranging from 2 to 16 GB, attached to the motherboard.
+External ports[edit]
+On the right side of any Surface device there is a full-size USB 3.0 port, Mini DisplayPort (or a HDMI Micro port on older models), and a magnetic charging port or micro-USB. The Surface Pro 5 and Surface Book 2 are to be launched in 2017. This will coincide with the release of the Redstone 2 update for Windows 10. They will be based around the 7th generation Intel Kaby Lake processor which is due to be available in late 2016. This points to the external ports which may be available on the Surface Pro 5 as this software and processor supports HDMI 2.0 for expanded capability 4K video playback and native support of USB 3.1. USB Type C connectors allow charging and data transfer. Type C connectors are in use on Microsoft Lumia 950/950XL Windows 10 phones and the Microsoft Display Dock. The provision of two USB 3.1 ports with Type C connectors on the Surface Pro 5 and Surface Book 2 would allow the elimination of the proprietary magnetic charger on previous Surface models. The user would have more flexible choices over connecting a Display Dock / Docking Station, printer, mouse, dual USB A and C external memory drives and other peripherals when the Surface is not directly connected to the mains electricity supply to recharge the battery.
+Cellular connectivity[edit]
+While all Surface devices come in the Wi-Fi only models, some generations also feature the Wi-Fi with a cellular support. The cellular variants however do not support circuit-switched voice calls and texts, allowing only data connectivity. The cellular models has a micro-SIM slot at the bottom of the device, next to the Type Cover connecting pins.
+External design[edit]
+The exterior of the device is made of VaporMg magnesium alloy giving a matte gray durable finish to the back of the device.
+The Surface features a kickstand which flips out from the back of the device to prop it up, allowing the device to be stood up at an angle hands-free. According to Microsoft, this is great for watching movies, video chatting, and typing documents. According to some reviewers, this kickstand is uncomfortable to use in one's lap and means the device won't fit on shallow desks.[23] The first generation has a kickstand that can be set to a 22 degrees angle position. The second generation added a 55 degrees angle position which according to Microsoft makes the device more comfortable to type on the lap. The Surface 3 features three angle positions: 22, 44, and 60 degrees. The Surface Pro 3 is the first device to have a continuous kickstand that can be set at any angles between 22 and 150 degrees.
+Software[edit]
+Main articles: Windows 10 and Windows RT
+Surface devices (except for the original Surface and Surface 2 models) sold since July 29, 2015 ship with the Windows 10 operating system. Before that date, they came with Windows 8.1 operating system, and can be upgrade to Windows 10 for free in the first year of availability.
+The original Surface and Surface 2 models use Windows RT, a special version of Windows 8 designed for devices with ARM processors and cannot be upgraded to Windows 10. However, there were several major updates made available after its initial release that include Windows RT 8.1, Windows RT 8.1 update 1, the Windows RT 8.1 August update, and Windows RT 8.1 Update 3 which includes a new Start menu similar to that found in early preview builds of Windows 10.[24]
+Surface Pro 4 and the Surface Book support Windows Hello biometric authentication out of the box through its cameras.[25] The Surface Pro 3 can utilize the Surface Pro 4 Type Cover with Fingerprint ID to gain Windows Hello support.[26]
+Tablet Mode[edit]
+The Windows 10 user interface has two modes: desktop mode and tablet mode. When a keyboard is connected to the Surface, Windows 10 runs in desktop mode; when it is absent, Windows 10 runs in tablet mode.
+When running in tablet mode, the start menu and all the apps run in full screen. All running apps are hidden from the taskbar and a back button appears. Swiping from the top closes the app, while swiping from the left evokes the Task View and swiping from the right evokes the Action Center.
+Apps[edit]
+Several of the included apps updated with Windows 10 are: Mail, People, Camera, Calendar, Microsoft Edge, Xbox app, OneNote, Photos, Voice Recorder, Phone Companion, Reader, Reading List, Calculator, Scan, Alarms & Clock, and the Windows Store. Other apps include Maps, Movies & TV, Groove Music, Microsoft Solitaire Collection and the MSN apps: Money, News, Weather, Sports, and Travel.
+Surface devices comes preloaded with the OneNote app for taking handwritten notes. Windows 10 also features a text input panel with handwriting recognition which automatically converts handwriting to text.
+The new Microsoft Edge browser features an inking function which allows handwritten annotations directly on webpages.
+Microsoft has ported its Office suite for use on Windows 10 devices, including the Surface devices running Windows 10. As the screen size on these devices exceed 10 inches, the apps require anOffice 365 subscription to edit documents, although it is not needed to view and print them.
+Surface devices have an internal microphone and speakers optimized for the Cortana intelligent personal assistant feature included on Windows 10 devices.
+Accessories[edit]
+
+Surface with Touch Cover 2
+
+Surface Pen for the Surface Pro 3
+
+Surface Pro 3 with Docking Station
+Keyboard covers[edit]
+With the release of the first generation Surface, Microsoft showcased two covers: a Touch Cover and a Type Cover. These covers attach to the Surface device using a magnetic strip that positions itself against a magnetic strip at the bottom of the Surface called an "accessory spine". When closed, the cover functions to protect the Surface's screen and when opened, the cover features a keyboard, a multi-touch touchpad, and a gyroscope andaccelerometer sensor to know when the cover has been flipped around which will in turn disable the keys. The original touch cover came with 80 touch sensors and was pressure sensitive.[27][28]
+With the release of the Surface 2 a Touch Cover 2 was announced which increased the number of sensors to 1,092 and added backlit keys while being 2 mm thinner than the original Touch Cover. In addition, the Touch Cover 2 also supported key gestures and was backwards compatible with the first generation Surface devices. With the release of the first generation Surface Pro, Microsoft launched the Type Cover which has tactile keys. It was upgraded along with the second generation Surfaces to the Type Cover 2 which substituted the plastic material for the felt-like material found on the Type Covers. The Type Cover 2 is thinner and features back-lit keys.[29]
+With the release of the Surface Pro 3, a newer cover called the Surface Pro 3 Type Cover was released to fit the bigger screen. The Surface Pro 3 Type Cover features a second magnetized strip that can be rested against the screen to prop the keyboard up at an angle. The Surface Pro 3 Type Cover has a trackpad with glass beads replacing the felt-like material used in previous generations. When the Surface 3 was announced, a smaller version, the Surface 3 Type Cover was released. Both Surface 3 and Pro 3 Type Covers have a loop to house the Surface Pen. Other accessories for the covers included a Power Cover, which included a built in battery to extend the Surface's battery life, and a Wireless Adapter for the keyboards so that it can be used at a distance.[30]
+On October 6, 2015 Microsoft updated the Surface Pro Type Cover with a new teal color in addition to the existing black, red, blue, and bright blue colors. Also introduced was a function lock light, separated keys, and a 40% larger trackpad than previous models. A "Fingerprint ID" version was also announced, but is only available in the color black. Both are backwards compatible with the Surface Pro 3, though both are designed for the Surface Pro 4.[31] A Signature Type Cover designed out of Alcantara was announced on April 12, 2016. [32]
+Surface Pen[edit]
+Main article: Surface Pen
+Most Surface tablets have an active pen that allows users to write directly onto the screen of the tablet. The Surface Pen for the Surface Pro and Surface Pro 2 use Wacom technology, while the one for the Surface Pro 3 and newer devices uses that of N-trig, which has since been acquired by Microsoft. The Surface Pen was specifically designed to minimize latency (lag time), eliminate parallax issues, which occur when the point where the tip touches the screen doesn’t match up with the spot where the ink actually appears on the device, and provide a more natural-feeling 'pen-on-paper' user experience.[33] The Surface also features palm rejection which allows the user to rest his or her palm on the screen while using the Surface Pen without triggering an unwanted input.
+Docking accessories[edit]
+There are various Docking Stations for different Surface devices, which are optional non-included accessories. They each extend the Surface with a number of USB ports, additional audio sockets, a Gigabit Ethernet port and a Mini DisplayPort to connect external displays.
+With the announcement of the Surface Pro 4 and Surface Book, Microsoft revealed a new Surface Dock accessory in the brick form factor, which is compatible with the aforementioned devices and the Surface Pro 3. This new docking accessory connects to the side port, which got the new name — SurfaceConnect.
+Other accessories[edit]
+There are many other accessories for the Microsoft Surface. Among these is the Microsoft Wireless Display Adapter for Miracast display mirroring. Microsoft launched and Surface HD Digital A/V Adapter which works with micro-HDMI to HDMI for the Surface and Surface 2 and a Surface VGA adapter which also works with Surface and Surface 2 going from the built-in micro-HDMI to VGA. For the Surface Pro series, a Display Port to HD A/V (HDMI) and a Display Port to VGA adapter was created. For the first generation Surface, a 32 watt power supply was included, which was upgraded with the Surface 2 to features a larger indicator light to indicate the Surface was charging. The Surface Pro and Pro 2 features a 48 Watt power supply with a USB (power only) port on the charging brick. As with the Surface 2's power supply, the Pro 2's power supply features a larger indicator light. Microsoft redesigned the power supply for the Surface Pro 3 with a new "fin" connector and a 36 watt rating. The Surface 3 launched with another redesigned power supply using a micro-USB connector and having a 13 watt rating. Two Ethernet adapters have been released to work with the Surface Pro line including the Ethernet Adapter for USB 2.0 with a speed rating of 100 Mbit/s and a Surface Ethernet Adapter for USB 3.0 with a speed of 1 Gbit/s. Two mice have also been released for the Surface including the Wedge Touch and Arc Touch mice.[34][35]
+Surface Studio[edit]
+Main article: Surface Studio
+On October 26, 2016, Microsoft announced a 28-inch all-in-one desktop - the Surface Studio, its first-ever desktop computer.[36]
+Surface Book[edit]
+Main article: Surface Book
+On October 6, 2015, Microsoft unveiled a 2-in-1 detachable of a new kind — the Surface Book, a first device in the company's history, marketed as a laptop. The device has a teardrop design and the "dynamic fulcrum" hinge, which shifts the center of a gravity so that the top part with the screen (dubbed the "clipboard") is more stable when it is attached to the bottom part with the keyboard. Another unique aspect of the Surface Book is the discrete graphics adapter, available in some models. It is contained in the keyboard part, which can be detached while the Surface Book is running, and the system automatically switches to the integrated graphics in the clipboard.
+Surface Hub[edit]
+Main article: Surface Hub
+On January 21, 2015, Microsoft introduced a new device category under the Surface family: the Surface Hub. The Surface Hub is a 84-inch 120 Hz 4K or 55-inch 1080p multi-touch and multi-pen screen wall-mounted device, aimed for collaboration and videoconferencing use of businesses. It will run a variant of the Windows 10 operating system.[37]
+Model comparison[edit]
+Surface line[edit]
+Comparison of Surface specificationsModelsSurface[38]Surface 2[39]Surface 3[40][41]Date announcedJune 2012October 2013March 2015Operating systemSurfaceSurface 2Surface 3VersionPre-installedWindows RT 8.0Windows RT 8.1Windows 8.1Newest upgradeWindows RT 8.1[42]Windows 10
+version 1607[43]Physical specificationsSurfaceSurface 2Surface 3Dimensions
+cm (in)height17.2 (6.8)17.3 (6.8)18.7 (7.4)width27.46 (10.81)27.5 (10.8)26.7 (10.5)depth0.94 (0.37)0.89 (0.35)0.87 (0.34)Weight
+g (lb)680 (1.50)622 (1.371)MemorySurfaceSurface 2Surface 3Internal storage capacity
+GB32/6464/128RAM
+GB22/4Expandable storageMicroSD, up to 200 GBDisplaySurfaceSurface 2Surface 3Aspect ratio16:93:2Diagonal size
+cm (in)26.9 (10.6)27.4 (10.8)Pixel density
+ppi148208214Resolution
+px1366x7681920x10801920x1280TechnologyLCDSystem on ChipSurfaceSurface 2Surface 3SoCNvidia Tegra 3 (T30)Nvidia Tegra 4 (T114)Intel Atom x7-Z8700BatterySurfaceSurface 2Surface 3Capacity
+Wh31.5TechnologyLithium-ionCamerasSurfaceSurface 2Surface 3Front cameramegapixels3.5video resolutionHD (1280x720)FHD (1920x1080)Rear cameramegapixels5.08.0video resolutionHD (1280x720)FHD (1920x1080)SensorsSurfaceSurface 2Surface 3Ambient light sensorYesYesYesAccelerometerYesYesYesGyroscopeYesYesYesGPSNoCellular versionCellular versionMagnetometerYesYesYesProximity SensorNoYesYesNumber of microphones2ConnectivitySurfaceSurface 2Surface 3AV Connectors3.5 mm audio socketMicro HDMIMini DisplayPortBluetooth4.0CellularNoOptionalOptionalUSB2.03.0Wi-Fi802.11 a/b/g/n802.11 a/b/g/n/acMiscellaneousSurfaceSurface 2Surface 3Pen inputNoneN-trig active penTPMYesNoYesModelsSurfaceSurface 2Surface 3Surface Pro line[edit]
+Comparison of Surface Pro specificationsModelsSurface Pro[44]Surface Pro 2[45]Surface Pro 3[46]Surface Pro 4[47]Date announcedFebruary 2013October 2013June 2014October 2015Operating systemSurface ProSurface Pro 2Surface Pro 3Surface Pro 4VersionPre-installedWindows 8 ProWindows 8.1 ProWindows 10 Pro
+version 1507Newest upgradeWindows 10 Pro
+version 1607[43]Physical specificationsSurface ProSurface Pro 2Surface Pro 3Surface Pro 4Dimensions
+cm (in)height17.3 (6.8)20.1 (7.9)width27.5 (10.8)29.0 (11.4)29.2 (11.5)depth1.35 (0.53)0.91 (0.36)0.84 (0.33)Weight
+g (lb)910 (2.01)900 (2.0)800 (1.8)766 (1.689)MemorySurface ProSurface Pro 2Surface Pro 3Surface Pro 4Internal storagecapacity
+GB64/128/25664/128/256/512128/256/512/1024typemSATA SSDPCIe SSDRAMcapacity
+GB44/84/8/16speed
+MHz1600typeDDR3LPDDR3Expandable storageMicroSD, up to 200 GBDisplaySurface ProSurface Pro 2Surface Pro 3Surface Pro 4Aspect ratio16:93:2Diagonal size
+cm (in)27.0 (10.6)30.0 (11.8)31.2 (12.3)Pixel density
+ppi208216267Resolution
+px1920x10802160x14402736x1824TechnologyLCDCPU and GPUSurface ProSurface Pro 2Surface Pro 3Surface Pro 4GenerationIntel 3rd generation
+Ivy BridgeIntel 4th generation
+HaswellIntel 6th generation
+SkylakeCPU modeli5-3317Ui5-4200U
+i5-4300Ui3-4020Y
+i5-4300U
+i7-4650UM3-6Y30
+i5-6300U
+i7-6650UBase frequency – turbo frequency
+GHz1.7–2.61.6–2.6
+1.9–2.91.5–n/a
+1.9–2.9
+1.7–3.30.9-2.2
+2.4-3.0
+2.2-3.4L3 cache size
+MB33
+3
+44
+3
+4Intel HD integrated graphicsHD Graphics 4000HD Graphics 4400HD Graphics 4200
+HD Graphics 4400
+HD Graphics 5000HD Graphics 515
+HD Graphics 520
+Iris Graphics 540TDP
+watts171511.5
+15
+154.5
+15
+15BatterySurface ProSurface Pro 2Surface Pro 3Surface Pro 4Capacity
+Wh4238.2Max. claimed Wi-Fi browsing time
+hours99TechnologyLithium-ionCamerasSurface ProSurface Pro 2Surface Pro 3Surface Pro 4Front cameramegapixels1.25video resolutionHD (1280x720)FHD (1920x1080)Rear cameramegapixels1.258video resolutionHD (1280x720)FHD (1920x1080)SensorsSurface ProSurface Pro 2Surface Pro 3Surface Pro 4Ambient light sensorYesYesYesYesAccelerometerYesYesYesYesGyroscopeYesYesYesYesGPSNoNoNoNoMagnetometerYesYesYesNo[48]Number of microphones2ConnectivitySurface ProSurface Pro 2Surface Pro 3Surface Pro 4AV Connectors3.5 mm audio socketMini DisplayPortBluetooth4.04.0 LECellularNoNoNoNoWi-Fi802.11 a/b/g/n802.11 a/b/g/n/acMiscellaneousSurface ProSurface Pro 2Surface Pro 3Surface Pro 4Pen inputWacom passive penN-trig active penTPMNoYesYesYesModelsSurface ProSurface Pro 2Surface Pro 3Surface Pro 4Promotion[edit]
+
+A Surface advert painted on the side of a building.
+Television commercial[edit]
+In October 2012, Microsoft aired its first commercial for the Surface product line. The first 30-second commercial is the Surface Movement which focus on Windows RT version of the first generation of Surface with detachable keyboard and kickstand.[49] It first aired during Dancing with the Stars commercial break.[50] This video is directed by Jon Chu, where he previously the director of the movie such as Justin Bieber: Never Say Never.[51]
+Partnership with NFL[edit]
+In 2014, Microsoft announced a five-year, $400 million deal with the National Football League, in which Surface became the official tablet computer brand of the NFL. As part of the partnership, special, ruggedized Surface Pro 2 devices were issued to teams for use on the sidelines, allowing coaches and players view and annotate footage of previous plays. The partnership was initially hampered by television commentators, who erroneously referred to the devices as being an "iPad" on several occasions. Microsoft has since stated that it "coached" commentators on properly referring to the devices on-air.[52][53][54][55]
+Designed on Surface[edit]
+On January 11, 2016, Microsoft announced a collaboration with POW! WOW!. It includes a group of artists from around the world that utilizes various Surface devices, such as the Surface Pro 4 and the Surface Book, to create a total of 17 murals. The artists are filmed using their Surface devices and explain how they integrate Surface into their workflow. The final products are then posted to YouTube that accompanies a post on the Microsoft Devices blog.[56]
+United States Department of Defense[edit]
+On February 17, 2016, Microsoft announced that alongside the US Department of Defense's plans to upgrade to Windows 10, that it has approved Surface devices and certified them for use through the Defense Information Systems Agency Unified Capabilities Approved Products List. Surface Book, Surface Pro 4, Surface Pro 3, and Surface 3 have all been approved as Multifunction Mobile Devices, thus meeting the necessary requirements for security and compatibility with other systems.[57]
+Reception[edit]
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (June 2015)Reviews of the first-generation Surface RT by critics have ranged broadly. The hardware received mostly positive reviews, while the software and overall experience were mixed. Wired reviewer Mathew Honan stated that while "This is one of the most exciting pieces of hardware I’ve ever used. It is extremely well-designed; meticulous even," the tablets are "likely to confuse many of Microsoft’s longtime customers".[58] TechCrunch,[59] Matt Buchanan at Buzzfeed,[60] and Gizmodo recommended against purchasing the tablet. Gizmodo mentioned issues such as the high price tag and described it as similar but inferior to the iPad, but also praised the hardware saying, "You'll appreciate it every time you pick it up and turn it on. It's a simple, joyful experience."[61] David Pogue at The New York Times praised the hardware but criticized the software.[62] The Verge described the technology as fulfilling the role of a laptop or tablet "half as well as other devices on the market," adding "the whole thing is honestly perplexing."[63] Warner Crocker from Gotta Be Mobile described it as "frustratingly confusing."[64] Farhad Manjoo of Slate noted that the "shortcomings are puzzling" given how much time Microsoft spent developing the device.[65] Neil McAllister has noted the lack of a compelling case to switch from the iPad to a Windows RT device at the same price point, because Apple already has a strong network effect from their app developers and few Windows developers have ported their offerings over to the ARM processor.[66] The Surface RT had worse battery life than similar devices.[67] The first-generation Surface Pro has shorter battery life than the original ARM-based Surface due in part to its full HD screen and Intel Core i5processor.
+The Surface Pro 3 has received positive reviewers. David Pogue suggested "The upshot is that, with hardly any thickness or weight penalty, the kickstand and the Type Cover let you transform your 1.8-pound tablet into an actual, fast, luxury laptop". Pogue said that the Surface Pro 3's form factor works well as a tablet, in contrast to the Surface Pro 2, whose bulk and weight limited its appeal as a tablet. Pogue also stated that the new multi-stage kickstand, 3:2 screen aspect ratio, and new Type Cover 3 detachable keyboard made it a competent laptop. Another advantage of the Surface Pro 3 is that it is considered a tablet by the FAA and TSA, despite its hardware which makes it capable of running all x86 Windows programs. This is advantageous in air travel, since a tablet can be used during takeoff or landing, and a tablet can be left in a bag when going through a TSA scanner machine, neither of which apply to a laptop.[68] It has been suggested that the Surface Pro 3 comes closest to the Microsoft Tablet PC concept that company founder Bill Gates announced in 2001,[69][70][68] being the first Surface to become a credible laptop replacement.[71] Time magazine included Microsoft Surface Pro 3 in the list of the 25 best inventions of 2014.[72]
+The Surface 3 (non-Pro) has received generally positive reviews from computer critics. They praised Microsoft's shift from ARM architecture toward x86, and therefore from Windows RT to a regular Windows OS. Most noted a well designed chassis and accessories produced of quality materials, and overall premium feeling of use. While less powerful, the Surface 3 was a lighter and cheaper alternative to the Surface Pro 3. More importantly, the Surface 3 could compete at the high-end of Android and iPad tablets, with the advantage of being a device running a full desktop OS instead of a mobile OS for a similar price.[73] Reviewers also note that 37 GB[74] of the total storage space in the low-end Surface 3 is available to the user, while its close competitor, the low-end iPad Air 2, has only 12.5 GB of user-available storage space for the same price.[75][76] The most common downsides are relatively low battery life, slower performance compared to devices with Intel Core processors[76][77] and a high price since accessories like Surface Pen and Type Cover are not included.[76][78][73]
+Industry response[edit]
+When Surface was first announced, critics noted that the device represented a significant departure for Microsoft, as the company had previously relied exclusively on third-party OEMs to produce devices running Windows, and began shifting towards a first-party hardware model with similarities to that of Apple.[79][80] Steve Ballmer said that like Xbox, Surface was an example of the sort of hardware products Microsoft will release in the future.[81]
+Original equipment manufacturers (OEMs), whose products have traditionally run Microsoft operating systems, have had positive responses to the release of Surface.[82] HP, Lenovo, Samsung, andDell[83] applauded Microsoft's decision to create its own Tablet PC and said that relationships with Microsoft have not changed. John Solomon, senior vice president of HP, said that "Microsoft was basically making a leadership statement and showing what's possible in the tablet space".[84][85] Acer founder Stan Shih said that he believed Microsoft only introduced its own hardware in order to establish the market and would then withdraw in favor of its OEMs.[86]
+However, others believe that OEMs were left sidelined by the perception that Microsoft's new tablet would replace their products.[87][88] Acer chairman JT Wang advised Microsoft to "please think twice".[89] Microsoft has acknowledged that Surface may "affect their commitment" of partners to the Windows platform.[90]
+The need for the Surface to market an ARM-compatible version of Windows was questioned by analysts because of recent developments in the PC industry; both Intel and AMD introduced x86-based system-on-chip designs for Windows 8, Atom "Clover Trail" and "Temash" respectively, in response to the growing competition from ARM licensees. In particular, Intel claimed that Clover Trail-based tablets could provide battery life rivaling that of ARM devices; in a test by PC World, Samsung's Clover Trail-based Ativ Smart PC was shown to have battery life exceeding that of the first gen ARM-based Surface. Peter Bright of Ars Technica argued that Windows RT had no clear purpose, since the power advantage of ARM-based devices was "nowhere near as clear-cut as it was two years ago", and that users would be better off purchasing Office 2013 themselves because of the removed features and licensing restrictions of Office RT.[91][92][93]
+Sales[edit]
+
+First-generation Surface tablets for sale at a Microsoft Store.
+
+Surface Pro 3 promotion in front of a Microsoft Store.
+Sales of the first generation Surface did not meet Microsoft's expectations, which led to price reductions and other sales incentives.[94][95]
+In March 2013, Bloomberg reported from inside sources that Surface sales were behind expectations, particularly of the ARM-based Surface model. Microsoft had originally projected sales of 2 million Surface units during the final quarter of 2012, a total of 1.5 million Surface devices had been sold since launch with Surface Pro accounting for 400,000 of these sales. The more expensive Surface Pro, with its Intel CPU that makes it a full-fledged Windows laptop PC, despite its compromises, was successful compared to other OEMs' first-generation Windows 8 Ultrabook hybrids which were larger and/or more expensive.
+In July 2013, Steve Ballmer revealed that the Surface hasn't sold as well as he hoped.[96] He reported that Microsoft had made a loss of US$900,000,000 due to the lackluster Surface sales. Concurrently, Microsoft cut the price of first-gen Surface worldwide by 30%, with its U.S. price falling to US$350.[97][98][99][100] This was followed by a further price cut in August after it was revealed that even the marketing costs had exceed the sales.[101] On August 4, 2013, the cost of Surface Pro was cut by $100 giving it an entry price of $799. Several law firms sued Microsoft, accusing the company of misleading shareholders about sales of the first-gen ARM based Surface tablet, calling it an "unmitigated disaster".[102] In the first two years of sales Microsoft lost almost two billion dollars.[103]
+The poor sales of the ARM-based Surface tablet had been credited to the continuing market dominance of Microsoft's competitors in the tablet market. Particularly, Apple's iPad retained its dominance due its App store offering the most tablet-optimized applications. Most OEMs opted to produce tablets running Google Android, which came in a wide variety of sizes and prices (albeit with mixed success among most OEMs), and Google Play had the second-largest selection of tablet applications. By contrast there was a limited amount of software designed specifically for Surface's operating system, Windows RT, the selection which was even weaker than Windows Phone.[104] Indeed, OEMs reported that most customers felt Intel-based tablets were more appropriate for use in business environments, as they were compatible with the much more widely-available x86 programs while Windows RT was not. Microsoft's subsequent efforts have been focused upon refining the Surface Pro and making it a viable competitor in the premium ultra-mobile PC category, against other Ultrabooks and the MacBook Air, while discontinuing development of ARM-powered Surface devices as the Surface 3 (non-Pro) had an Intel x86 CPU (albeit with lower performance than the Surface Pro 3).[104][105]
+The resultant Surface Pro 3 succeeded in garnering a great interest in the Surface line, making Surface business profitable for the first time in fiscal year Q1 2015.[106] Later in Q2, the Surface division's sales topped $1 billion.[107] Surface division scored $888 million for Q4 2015 despite an overall loss of $2.1 billion for Microsoft, a 117% year-over-year growth thanks to the steady commercial performance of Surface Pro 3 and the launch of mainstream model Surface 3.[108]
+Reported problems[edit]
+Users on Microsoft's support forum reported that some Touch Covers were splitting at the seam where it connects to the tablet, exposing its wiring. A Microsoft spokesperson stated that the company was aware of the issue, and would offer free replacements for those who have been affected by the defect.[109][110] Other users reported issues with audio randomly stuttering or muting on the Surface tablet while in use.[111] Wi-Fi connectivity issues were also reported. Firmware updates that attempted to fix the problem were released, but some users still reported problems.[112][113]Microsoft has acknowledged a bug in the Windows key that does not always work, but has promised a fix.[114] The latest update, which promised to fix the issue, was not able to fix it.[115]
+With the original Surface Pro, Microsoft acknowledged issues encountered by some users with its stylus pen, including intermittent pen failures, and with older applications that do not have complete pen support due to the different APIs used by Surface Pro's stylus drivers. In the latter case, Microsoft has indicated that it is working with software vendors to ensure better compatibility.[116][117] As for later models beginning with the Surface Pro 3, the N-Trig digital pen digitizer system has attained high pen compatibility with older applications thanks to a regularly updated, optional WinTab driver.[118] Issues had also been experienced with slow Wi-Fi connectivity, and the device not properly returning from standby.[119][120]
+iFixit has awarded the Surface Pro its worst ever repairability rating, but CEO Kyle Wiens claims that it is due to incompetence rather than deliberate design choices.[121]
+Timeline[edit]
+
+Source: Microsoft Devices Blog
+See also[edit]
+* Microsoft portal
+* Information technology portal
+* Comparison of tablet computers
+* Microsoft Lumia
+References[edit]
+1. Jump up^ Thomson, Iain (June 20, 2012). "Pegatron named as Microsoft Surface fondleslab foundry". The Register.
+2. Jump up^ "Microsoft's new iPad rival Surface for Windows RT release date". Eurogamer. July 30, 2012. Retrieved July 30, 2012.
+3. Jump up^ "Surface Pro Release Date". Neowin. Retrieved June 28,2014.
+4. Jump up^ Sullivan, Mark. "Microsoft Announces New 'Surface' Tablet PC". PC World. IDG. Retrieved June 19, 2012.
+5. Jump up^ "Microsoft to launch Surface at midnight on October 26th".NotebookBee.com. October 5, 2012.
+6. Jump up^ Panay, Panos (January 22, 2013). Meisner, Jeffrey, ed."Growing the Surface Family: Surface Windows 8 Pro Availability Confirmed". The Official Microsoft Blog. Microsoft.
+7. Jump up^ "Microsoft Announces Surface: New Family of PCs for Windows". News Center (Press release). Microsoft. June 18, 2012. Retrieved June 20, 2012.
+8. Jump up^ Tu, Janet I. "Ballmer trumpets Microsoft's 'epic year'". The Seattle Times. Retrieved September 19, 2012.
+9. Jump up^ "Microsoft Surface: Pricing and Availability". Paul Thurrott at winsupersite.com. Retrieved October 16, 2012.
+10. Jump up^ "Microsoft Surface Preorders Open". slashgear.com. Retrieved October 16, 2012.
+11. Jump up^ "Surface sales 'modest' so far, Ballmer modestly admits."
+12. Jump up^ "Next Up for the Surface Family: Surface with Windows 8 Pro – Pricing". The Official Microsoft Blog. Retrieved February 17,2013.
+13. Jump up^ "Microsoft Surface Pro Tablet to Launch Feb. 9 for $899".ABC News. January 22, 2013. Retrieved January 23, 2013.
+14. Jump up^ "Nemo cancels Microsoft's Surface Pro launch."
+15. Jump up^ "Microsoft's Surface Pro launch marred by supply shortages."
+16. Jump up^ "Dell to start selling Microsoft's Surface Pro in new enterprise push". Ars Technica. Retrieved 8 September 2015.
+17. Jump up^ "Dell, HP to resell Microsoft's Surface Pro tablets". ZDNet. Retrieved 8 September 2015.
+18. Jump up^ http://blog.codexify.com/2015/10/microsoft-introduces-its-first-laptop.html
+19. Jump up^ "After a number of delays, Microsoft begins shipping Surface Hubs". Neowin. Retrieved 2016-04-18.
+20. Jump up^ Howse, Brett (24 June 2016). "Microsoft Confirms Surface 3 Production to End in December". Anandtech.com. Retrieved28 June 2016.
+21. Jump up^ Ian Cutress (29 April 2016). "Intel's Changing Future: Smartphone SoCs Broxton & SoFIA Officially Cancelled". AnandTech.
+22. Jump up^ Surface, Microsoft. "Surface 3". Microsoft Surface. Retrieved 2015-06-28.
+23. Jump up^ Westover, Brian. "Microsoft Surface 3 Review & Rating".PCWorld. Retrieved July 12, 2015.
+24. Jump up^ "Microsoft's Windows 8.1 RT Update 3 said to include smaller Start menu - but not much else". Neowin.net. Retrieved2016-10-26.
+25. Jump up^ "How to set up Windows Hello on your Surface device".Microsoft Devices Blog. Retrieved 2016-02-18.
+26. Jump up^ "Should you upgrade your Surface Pro 2 or Surface Pro 3 to the Surface Pro 4?". Windows Central. Retrieved 2016-02-18.
+27. Jump up^ "Microsoft unveils Surface tablets –". Usatoday.com. November 28, 2011. Retrieved June 19, 2012.
+28. Jump up^ Lee, Dami (2013-09-23). "Microsoft announces backlit Type Cover 2 for the new Surface line". The Verge. Retrieved2016-10-26.
+29. Jump up^ Lee, Dami (2013-09-23). "Microsoft announces thinner Touch Cover 2 with backlight for its new Surface tablets". The Verge. Retrieved 2016-10-26.
+30. Jump up^ "Surface Pro 3: An update to the Type cover, a dramatic improvement in usability". Neowin.net. Retrieved 2016-10-26.
+31. Jump up^ Oct 6, 2015 at 4:51 pm (2015-10-06). "Microsoft actually revealed 2 new Type Covers today – WinBeta". Winbeta.org. Retrieved 2016-10-26.
+32. Jump up^ "Introducing the luxurious new Signature Type Cover".Microsoft Devices Blog. Retrieved 2016-04-18.
+33. Jump up^ "Okay, We Admit It: Microsoft's Surface Pro 3 Pen is a Note-Taker's Dream Stylus". Digital Trends. May 26, 2014. Retrieved July 9, 2014.
+34. Jump up^ http://wda.azurewebsites.net/
+35. Jump up^ "Surface Accessories | Surface Pro 4 Cases, Bags, Chargers, etc". Microsoft.com. Retrieved 2016-10-26.
+36. Jump up^ "Surface Studio". Retrieved 27 October 2016.
+37. Jump up^ "Surface Hub". Microsoft.com. Retrieved 22 January 2015.
+38. Jump up^ "Surface Specifications". microsoft.com. Microsoft. Retrieved February 13, 2015.
+39. Jump up^ "Surface 2 Specifications". microsoft.com. Microsoft. Retrieved February 13, 2015.
+40. Jump up^ "Surface 3 Specifications". microsoft.com. Microsoft. Retrieved March 31, 2015.
+41. Jump up^ Sams, Brad (4 April 2015). "Microsoft takes to Reddit for an AMA on the Surface 3, these are the highlights". Neowin. Neowin LLC. Retrieved 4 April 2015.
+42. Jump up^ "Update Microsoft Surface from Windows 8 to Windows 8.1". www.microsoft.com. Retrieved 2015-10-29.
+43. ^ Jump up to:a b "Windows 10 is now pre-installed when you buy Surface 3 and Surface Pro 3 tablets". Windows Central. Retrieved2015-10-29.
+44. Jump up^ "Surface Pro Specifications". microsoft.com. Microsoft. Retrieved February 13, 2015.
+45. Jump up^ "Surface Pro 2 Specifications". microsoft.com. Microsoft. Retrieved February 13, 2015.
+46. Jump up^ "Surface Pro 3 Specifications". microsoft.com. Microsoft. Retrieved February 13, 2015.
+47. Jump up^ "Surface Pro 4 Specifications". microsoft.com. Microsoft. Retrieved October 6, 2015.
+48. Jump up^ "Microsoft Surface Pro 4 | Ultra-thin, Tablet, & Laptop". Microsoft.com. Retrieved 2016-10-26.
+49. Jump up^ "Microsoft's first Surface commercial shows off click-in keyboard [video]". BGR. Retrieved 7 October 2015.
+50. Jump up^ "Microsoft 'Surface' Has Top Tablet Ad". MediaPost. Retrieved 7 October 2015.
+51. Jump up^ "Microsoft Airs First Surface Tablet Ad With Crazy Dancing [Video]". TechnoBuffalo. Retrieved 7 October 2015.
+52. Jump up^ "How Microsoft redesigned the Surface Pro for the NFL".Engadget. Retrieved 4 June 2015.
+53. Jump up^ "The NFL Says Goodbye to the Polaroid, Hello to Microsoft's Surface Tablet". Bloomberg. Retrieved 4 June 2015.
+54. Jump up^ "On the sidelines: how the NFL is making use of the Surface Pro 2". Engadget. Retrieved 4 June 2015.
+55. Jump up^ "After Coaching From Microsoft, NFL Announcers Have Gotten Very Good At Identifying Surface Tablets". Business Insider. Retrieved 4 June 2015.
+56. Jump up^ "Jasper Wong creates the first in a series of 17 murals for Designed on Surface". Microsoft Devices Blog. Retrieved2016-02-18.
+57. Jump up^ "Surface now approved for U.S. Department of Defense".Microsoft Devices Blog. Retrieved 2016-02-18.
+58. Jump up^ Honan, Mathew (October 23, 2012). "Review: Microsoft Surface Tablet". Wired. Condé Nast Digital. Retrieved17 January 2013.
+59. Jump up^ Don’t Call The New Microsoft Surface RT A Tablet, This Is A PC, TechCrunch, October 23, 2012.
+60. Jump up^ Buchanan, Matt. More, And Less, Than An iPad, Buzzfeed
+61. Jump up^ Microsoft Surface RT Review: This Is Technological Heartbreak, Gizmodo.
+62. Jump up^ Pogue, David (October 23, 2012). "Microsoft Unveils the Surface, Its First Tablet". NYTimes.com. The New York Times.
+63. Jump up^ Microsoft Surface review, The Verge
+64. Jump up^ Microsoft Surface RT Review: This Thing Confuses Me at Gotta Be Mobile
+65. Jump up^ Manjoo, Farhad (November 5, 2012). "Why Is the Surface So Bad?". Slate. Washington Post Company. RetrievedJanuary 27, 2013.
+66. Jump up^ "Microsoft's ARM blunder: 7 reasons why Windows RT was DOA."
+67. Jump up^ Why do Windows PCs have such terrible battery life compared to Mac and iOS? | ExtremeTech
+68. ^ Jump up to:a b Eadicicco, Lisa. "POGUE: The Surface Pro 3 Is The One Time Windows 8 Isn't A Disaster". Business Insider. Retrieved2014-05-24.
+69. Jump up^ Cite error: The named reference Yahoo was invoked but never defined (see the help page).
+70. Jump up^ Bohn, Dieter (May 23, 2014). "Microsoft Surface Pro 3 review". The Verge. Vox Media. Retrieved 2014-05-24.
+71. Jump up^ "Microsoft's Panos Panay talks about the death and rebirth of the Surface". MobileSyrup.com. 2016-05-27. Retrieved2016-10-26.
+72. Jump up^ "The 25 Best Inventions of 2014". Time.com. 20 November 2014. Retrieved 19 January 2015.
+73. ^ Jump up to:a b Hardawar, Devindra (15 April 2015). "Surface 3 review: Finally, a cheap Surface you'd actually want". Engadget.com. Retrieved 8 June 2015.
+74. Jump up^ "Surface storage". Microsoft.com. Retrieved 21 July 2015.
+75. Jump up^ Keizer, Gregg (3 April 2015). "Benchmark scores show performance gap between Surface 3 and Surface Pro 3, iPad Air 2". ComputerWorld.com. Retrieved 6 April 2015.
+76. ^ Jump up to:a b c Smith, Matt. "The new Surface 3 runs full-blown Windows 8.1 just like its Pro sibling". DigitalTrends.com. Retrieved8 June 2015.
+77. Jump up^ Martin, Jim (12 May 2015). "Microsoft Surface 3 review: cheaper but not better than the Surface Pro 3".PCAdvisor.co.uk. Retrieved 12 June 2015.
+78. Jump up^ Howse, Brett (4 May 2015). "The Surface 3 Review".AnadTech.com. Retrieved 8 June 2015.
+79. Jump up^ "With the Surface, Microsoft just started writing its next chapter". The Verge. Retrieved June 16, 2013.
+80. Jump up^ "Microsoft breaks tradition with Microsoft Surface tablets". CNET. Retrieved June 16, 2013.
+81. Jump up^ Clarke, Gavin. "Ballmer aims chair at Apple after Windows package miss." The Register, October 10, 2012.
+82. Jump up^ Kan, Michael (August 17, 2012). "Lenovo Not Worried About Microsoft's Surface Tablet, Expects to Beat It".
+83. Jump up^ Windows 8 Launch, Microsoft Surface: Michael Dell's Spin | The VAR Guy
+84. Jump up^ HP Targets Microsoft Surface With New Windows 8 Convertible PC
+85. Jump up^ Lenovo exec welcomes Microsoft tablet competition - Computerworld
+86. Jump up^ Epstein, Zach (June 20, 2012). "Microsoft's tablet efforts are fleeting, says Acer founder.". Boy Genius Report.
+87. Jump up^ Crothers, Brooke (June 27, 2012). "Microsoft to feel Surface heat from PC makers". CNET.
+88. Jump up^ Fingas, Jon (June 21, 2012). "Acer is skeptical of Surface tablets, thinks Microsoft isn't playing nice".
+89. Jump up^ "Acer chief takes aim at Microsoft Surface." FT, August 6, 2012.
+90. Jump up^ Kunert, Paul. "Microsoft Surface slate: Acer, resellers predict a riot." The Register, 7 August 2012.
+91. Jump up^ Chacos, Brad. "Why Windows RT is hurtling toward disaster". InfoWorld. Retrieved January 27, 2013.
+92. Jump up^ "Can Intel Challenge ARM's Mobile Dominance?". Great Speculations. Forbes.com. Retrieved November 22, 2012.
+93. Jump up^ Bright, Peter. "Now that it's here, is there a place for Windows RT?". Ars Technica. Retrieved November 22, 2012.
+94. Jump up^ Desperate Microsoft wants to pay you at least $200 to trade in your iPad for a Surface tablet – MacDailyNews - Welcome Home
+95. Jump up^ Microsoft offering $200 for your iPad in desperate attempt to sell Surface tablets
+96. Jump up^ "Steve Ballmer Admits Microsoft's iPad-Killer Is A Flop". Cult of Mac. July 26, 2013. Retrieved September 4, 2013.
+97. Jump up^ "Microsoft's Surface Tablet Is Said to Fall Short of Predictions". Bloomberg L.P. Retrieved May 21, 2013.
+98. Jump up^ "Microsoft Misses, Takes a $900 Million Charge on Surface RT Stock". All Things Digital. Retrieved July 25, 2013.
+99. Jump up^ "Microsoft cuts Surface RT prices by 30 percent worldwide, hopes to boost slow sales". The Verge. Retrieved July 25,2013.
+100. Jump up^ Lowe, Scott (July 18, 2013). "Microsoft Lost $900 Million on Surface RT in Q1". IGN.com. Retrieved July 20, 2013.
+101. Jump up^ "Microsoft cuts Surface Pro tablet prices by $100."
+102. Jump up^ Lawyers sue Microsoft over Surface RT 'unmitigated disaster' - Computerworld
+103. Jump up^ Hruska, Joel (6 August 2014). "Microsoft's Surface Losses Approach $2B, How Much More Will Redmond Take?".hothardware.com. ComputerWorld. Retrieved 6 August 2014.
+104. ^ Jump up to:a b Brad Reed (2014-07-09). "Microsoft Surface Pro 3 sales: Better than expected?". BGR. Retrieved 2016-10-26.
+105. Jump up^ Bott, Ed (2014-06-19). "How Microsoft's Surface Pro 3 marketing push backfired". ZDNet. Retrieved 2016-10-26.
+106. Jump up^ Keizer, Gregg (25 October 2015). "Microsoft's Surface turns first profit in 2 years". ComputerWorld.com. Retrieved 24 July2015.
+107. Jump up^ Fiegerman, Seth (27 January 2015). "Microsoft Surface sales topped $1 billion in December quarter". Mashable.com. Retrieved 24 July 2015.
+108. Jump up^ "Microsoft reports big losses in the fourth quarter". The Verge. Retrieved 2015-07-23.
+109. Jump up^ "Surface tablet's Touch Cover splits at seam, users gripe". CNET. Retrieved November 15, 2012.
+110. Jump up^ Arthur, Charles (November 9, 2012). "Microsoft Surface Touch Cover splits within days, some users complain". London: The Guardian. Retrieved November 15, 2012.
+111. Jump up^ "Microsoft Surface updates out now, make apps load faster". TechRadar. Retrieved November 15, 2012.
+112. Jump up^ Microsoft Surface users complain about Wi-Fi problems - Computerworld
+113. Jump up^ Microsoft Claims It Fixed the Surface Wi-Fi Bug, Users Say It Didn’t - Softpedia
+114. Jump up^ Microsoft Confirms Surface Windows Key Bug, Promises Fix - Softpedia
+115. Jump up^ Microsoft Surface Problems: Surface with Windows RT Home Button Fails to Wake Tablet Despite June Update : Tech : Latinos Post
+116. Jump up^ "Microsoft investigating issue with pen detection affecting subset of Surface Pro owners". The Next Web. Retrieved27 February 2013.
+117. Jump up^ "Surface Pro lacks full pen support in key apps, Microsoft says it's on the case (updated)". Engadget. Retrieved27 February 2013.
+118. Jump up^ "Download Surface Pro 3 from Official Microsoft Download Center". Microsoft.com. 2016-01-09. Retrieved 2016-10-26.
+119. Jump up^ "Surface RT gets improved speaker volume with latest firmware updates". The Verge. Retrieved June 17, 2013.
+120. Jump up^ "Surface Pro has trouble waking up". PC Pro. RetrievedJune 17, 2013.
+121. Jump up^ Nichols, Shaun (28 March 2012). "iFixit boss: Apple has 'done everything it can to put repair guys out of business'".www.theregister.co.uk. The Register. Retrieved 28 March 2012.
+

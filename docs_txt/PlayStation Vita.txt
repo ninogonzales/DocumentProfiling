@@ -1,0 +1,269 @@
+PlayStation Vita
+From Wikipedia, the free encyclopedia
+PlayStation Vita
+The first generation PlayStation Vita system (PCH-1000)Also known asPS VitaDeveloperSony Interactive EntertainmentManufacturerSonyProduct familyPlayStationTypeHandheld game consoleGenerationEighth generationRelease date* JP: December 17, 2011
+* NA: February 15, 2012 (1st ed.) / February 22, 2012
+* EU: February 22, 2012
+Other regions: see [note 1]Retail availability2011–presentUnits soldat least 4 million (worldwide; as of January 2013)[note 2]MediaPS Vita Card, digital distributionthrough PlayStation NetworkOperating systemPlayStation Vita system softwareCPUUp to 2 GHz[10][11][note 3] Quad-coreARM Cortex-A9 MPCoreMemory512 MB RAM, 128 MB VRAMStorage1 GB flash memory (PCH-2000 model only)Removable storagePS Vita memory card (4, 8, 16, 32 or 64 GB)Display5-inch (16:9) OLED (PCH-1000)/LCD(PCH-2000) multi-touch capacitivetouchscreen, approximately 17 million colors, 960 × 544 qHD @ 220 ppiGraphicsQuad-core PowerVR SGX543MP4+SoundStereo speakers, microphone, 3.5 mm headphone jackInput* Touchscreen
+* Rear touchpad
+* Sixaxis motion sensing
+* Three-axis electronic compass
+* D-pad
+* 16 × Buttons
+(, , , , D-Pad, L, R, Start, Select, PS, Volume ±, Power)
+* 2 × Analog sticksCameraFront and back 0.3MP camerasTouchpad5-inch multi-touch capacitive touchpad(back of the console)ConnectivityIEEE 802.11 b/g/n Wi-Fi, 3G,Bluetooth 2.1+EDRPower2200 mAh[12]
+PCH-1000:
+approx. 3-5 hours for games, 5 hours for video, 9 hours for music (in stand-by mode)[13]
+PCH-2000:
+approx. 4-6 hours for games, 7 hours for video, 12 hours for music (in stand-by mode)Online servicesPlayStation NetworkDimensionsPCH-1000:
+83.55 mm (3.289 in) (h)
+182 mm (7.2 in) (w)
+18.6 mm (0.73 in) (d)
+PCH-2000:
+85.1 mm (3.35 in) (h)
+183.6 mm (7.23 in) (w)
+15.0 mm (0.59 in) (d)WeightPCH-1000:
+260 grams (9.2 oz) (Wi-Fi)
+279 grams (9.8 oz) (3G)
+PCH-2000:
+219 grams (7.7 oz) (Wi-Fi)Backward
+compatibilityPlayStation Portable (download only)[14]
+PSone (download only)PredecessorPlayStation PortableRelated articlesPlayStation TVWebsitewww.playstation.com/en-us/explore/psvita/The PlayStation Vita (officially abbreviated PS Vita or Vita) is a handheld game console developed and released by Sony Interactive Entertainment. It is the successor to the PlayStation Portable as part of the PlayStation brand of gaming devices. It was released in Japan on December 17, 2011, with releases in North America, Europe, and other worldwide regions starting on February 22, 2012. It primarily competes with the Nintendo 3DS as part of the eighth generation of video game consoles.
+The original model of the handheld includes a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, two analog joysticks, front and shoulder push-button input, and supports Bluetooth, Wi-Fi and optional 3G. Internally, the Vita features a quad-core ARM Cortex-A9 MPCoreprocessor and a quad-core SGX543MP graphics processing unit. A revised model, the PS Vita 2000 series, released across 2013 and 2014, sports all of the same features with a slightly smaller size, extended battery life, and an LCD screen replacing the OLED display. Sony also released the PlayStation TV, a short-lived, re-purposed version of the Vita that allowed for the play of PS Vita games on a television screen similar to a home video game console, though the PS TV variant was discontinued by the end of 2015.
+The system's design was created to meld the experience of big budget, dedicated video game platforms with the then up-and-coming trend ofmobile gaming through smart phones and tablets. However, in the year after the device's successful launch, sales of the hardware and its bigger budget games stalled, threatening to end its lifespan. A concentrated effort to attract smaller, indie developers in the West, combined with strong support from mid-level Japanese companies, helped keep the platform afloat. While this led to less diversity in its game library, it did garner strong support in Japanese-developed role-playing video games and visual novels alongside a wealth of Western-developed indie games, leading it to become a moderate seller in Japan, and build a smaller, yet passionate userbase in the West. While Sony has not released exact sales figures, market analyst EEDAR estimates its sales to be around 10 million sold as of the end of 2015. In the platform's later years, Sony also promoted its ability to work in conjunction with its other gaming products, including the ability to play PlayStation 4 games on it through the process of Remote Play (similar to the Wii U's function of Off TV Play), playing PlayStation 3 software on it through its cloud gaming service PS Now, and future connectivity with Sony's upcoming virtual reality device PlayStation VR.
+Contents
+  [hide] 
+* 1History
+o 1.1Background
+o 1.2Launch and early years
+o 1.3Shifting focus
+* 2Hardware
+o 2.1Remote Play interactivity with PlayStation 4
+o 2.2Revised model
+o 2.3PlayStation TV
+* 3Software
+o 3.1Game library
+o 3.2Backward compatibility
+o 3.3Applications
+o 3.4System software
+* 4Reception
+* 5Notes
+* 6References
+* 7External links
+History[edit]
+Background[edit]
+After the massive success of Nintendo's Game Boy line of handheld game consoles throughout the 1990s and early 2000 with little in the way of market competition, and Sony's massive success with its PlayStation and PlayStation 2 home video game consoles around the same time, Sonydecided to enter the handheld market as well. In 2004, they released the PlayStation Portable (PSP) to compete with the Nintendo DS as part of the seventh generation of video game consoles.[15] After a slow start in the worldwide market, it was invigorated in Japan with multiple releases in the Monster Hunter series.[15][16] With the series being less popular in western regions, it failed to revive the platform in the same way. The PSP ended up being a mixed result for the company; on one hand, it was seen as the only platform that had ever significantly competed with Nintendo for market share in a meaningful way, selling almost 80 million units in it lifespan, roughly the same amount as Nintendo's Game Boy Advance.[15] On the other hand, it was still a little more than half of what the DS had sold, which was over 150 million units sold by the end of 2011.[17]
+Rumors of a successor to the PSP came as early as July 2009 when Eurogamer reported that Sony was working on such a device, which would utilize the PowerVR SGX543MP processor and perform at a level similar to the original Xbox.[18] Through mid-2010, websites continued to run stories about accounts of the existence of a "PSP 2".[19][20][21][22][23] Reports arose during the Tokyo Game Show that the device was unveiled internally during a private meeting during mid-September held at Sony Computer Entertainment's headquarters in Aoyama, Tokyo.[20] Shortly after, reports of development kits for the handheld had reportedly already been shipped to numerous video game developers including both first-party and third-party developers to start making games for the device.[24] a report confirmed by Mortal Kombat Executive Producer Shaun Himmerick at PAX 2010.[25] By November, Senior Vice President of Electronic Arts, Patrick Soderlund, confirmed that he had seen the PlayStation Portable successor existed, but could not confirm details.[26] In the same month, VG247 released pictures of an early prototype version showing a PSP Go-like slide-screen design along with two analog sticks, two cameras and a microphone, though the report mentioned that overheating issues had since caused them to move away from the design in favor of a model more similar of the original PlayStation Portable device.[21][23][27]
+Throughout 2010, Sony would not confirm these reports of a PSP successor, but would make comments regarding making future hardware.Shuhei Yoshida, President of Sony Computer Entertainment Worldwide Studios, revealed that his studio, despite usually being more involved with software, had a continued role in future hardware development at the time.[28] In December, Sony Computer Entertainment CEO, Kazuo Hirai, stated that Sony aimed to appeal to a wide demographic of people by using multiple input methods on future hardware; buttons and joysticks for traditional handheld game system users, and touchscreens for smart phone users.[29] The device was officially announced by Sony on January 27, 2011, at their "PlayStation Meeting" press conference held by the company in Japan.[30] The system, only known by its code name "Next Generation Portable", was announced to be a handheld gaming device that aimed for PlayStation 3 quality visuals,[30] which was later clarified to not be taken at a literal level because, according to David Coombes, platform research manager at Sony Computer Entertainment America, "Well, it's not going to run at 2 GHz [like the PS3] because the battery would last five minutes and it would probably set fire to your pants".[31] Its power was later described by Sony engineers as about halfway between the PSP and PS3.[32] As rumors had suggested, the device was designed to present "the best of both worlds" between mobile and handheld gaming, including a 5-inch OLED touchscreen, a rear touchpad coupled with physical buttons and dual analog sticks.[33] Sony also revealed that the device would be using a mix of retail and digital distribution of games.[22] Further details were announced at Game Developers Conference 2011, including that Sony would be dropping the PSP's UMD disc format in favor of small game cartridges that come in 2GB or 4GB size variants.[34] along with two cameras, facial detection, head detection and tracking capabilities.[35]
+Launch and early years[edit]
+On June 6, 2011, at E3 2011, Sony announced that the device's official name would be the PlayStation Vita, with the word "vita" being Latin for "life".[36] Despite reports of the 2011 earthquakes in Japan delaying the release of the device, Sony reconfirmed that it was on track for a late 2011 release in Japan[37][38] and a February 2012 release date for other major regions of the world.[38][39] The release date was later narrowed down to a December 17, 2011, release in Japan,[40] and a February 22, 2012 release date for America and Europe, although a limited edition was released a week earlier in North America on February 15, 2012, which included the 3G/WiFi model of the device, the game Little Deviants, a limited-edition carry case, and a 4 GB memory card.[39] The Vita launched with 26 titles in Japan, with Sony announcing that there were over 100 titles in development prior to the system's release overall.[41] The Vita launched in the west with "around 30 titles", including original titles such as Uncharted: Golden Abyss and Wipeout 2048, and ports of games such as FIFA 12 and Rayman Origins.[42]
+The sales of the Vita started strong at launch, but then stalled and greatly underperformed. The Vita had a strong launch in Japan, selling over 300,000 units in its first week of availability, though figures shortly afterwards shrunk down 78% to under 73,000 sold in its second week, and then settled into about 12,000 sold per week in the following weeks.[43][44] Similarly, in the United States, the system debuted with 200,000 units sold in the first month, before slinking down into an amount of about 50,000 a month.[45] 1.2 million units were reported as sold as of February 26, 2012 - after it had launched in most regions.[46] The system continued to get high-profile games over the course of 2012, including Gravity Rush, LittleBigPlanet PS Vita, Sonic & All-Stars Racing Transformed,Persona 4 Golden, Assassin's Creed III: Liberation, and Call of Duty: Black Ops: Declassified. Despite this, the system still only managed to sell 4 million units worldwide in its first 10 months on the market,[47] and estimated by analysts to only be at 6 million units sold after two years of availability.[48] After 2012, Sony ceased releasing direct sales figures of the Vita, instead opting to release combined sales figures with it and the PSP.[48] Still, the system under-performed; while Sony projected selling 16 million units of combined Vita and PSP systems, they had to slash their forecast twice in the same year, down to 12 and then 10 million units sold.[49]
+With higher profile games not pushing the system sales enough in 2012, big third party companies like Ubisoft and Activision started reducing or eliminating support for the system, especially in the West.[33] Additionally, this time around, Monster Hunter was unable to save the system as it had with the PSP. Its developer, Capcom, had decided to release Monster Hunter Tri and future Monster Hunter games exclusively on the Nintendo 3DS, where it selling millions of copies for Sony's main competitor.[16][50] With support diminishing, Shahid Ahmad, Sony's Director of Strategic Content, instead began a new approach to software, through directly reaching out to, and making accommodations for, smaller, independent developers who were previously release games for mobile and PC platforms.[33] While not completely reversing the sales trends of the Vita, the lower costs of making or porting smaller-budget games made it easier for developers to make a profits on the sales, and in turn, increased consumer attention on the console, keeping the device afloat.[33] Fez, Spelunky, Hotline Miami, and OlliOlli all found success with releases on Vita.[33] Ahmad also maintained interest in the device by directly interacting with consumers on social media; the game Tales of Hearts R was localized into English only because it was number one in a survey of game's desired on the platform.[33] Sony continued to support the system with games through 2013 as well, albeit lesser so, with titles such as Killzone: Mercenary and Tearaway, along with a handful of other Western-developed ports such as FIFA 13 and Rayman Legends.[51]
+While the focus on indie games kept the device afloat in the West, in Japan, no such measures were necessary, as the Vita maintained moderate hardware sales.[52] While it was routinely outsold by its main competitor, the Nintendo 3DS, the Vita still managed to be one of the top consoles sold overall, partially due to Japan's preference towards handheld gaming.[52] Strong support by Japanese developers also helped, with companies such as Bandai Namco, Falcom, Tecmo Koei, 5pb, Compile Heart, Spike Chunsoft, and Atlus releasing many games in the JRPG and visual novels genre to help kept a steady flow of mid-level releases coming to the system.[52] Additionally, big games such as Final Fantasy X/X-2 HD Remaster sold well and roughly in-line with their home console counterparts.[53] The heavier support from Japan, in turn, also helped support the system in the West as well, with many games in the Atelier, Ys, Danganronpa, Persona, and The Legend of Heroes series localized in English on the Vita, or made playable through the system's backwards compatibility with the PSP.[54]
+While the system managed to stay afloat as a minor success, other issues continued to persist, including the high price of the system in comparison to its main competitor, the Nintendo 3DS,[43] and its sibling device, the PS3,[51] the high price of its memory cards used for game and data storage,[51][55] and the increasing popularity of smart phones and tablets.[44][49] In August 2013, Sony addressed the first two, dropping the price to $199 in North America and €199 in Europe, and cutting the suggested retail price of the memory cards as well.[56] The price cut coincided with the release of a slight redesign of the system, the "PS Vita 2000" model, as well.[57] The redesign included making the system 20% thinner and 15% lighter, while adding 1GB of internal storage, and extra hour of battery life.[57] However, the redesign also removed the OLED screen in favor of a cheaper LCD screen.[57]
+Shifting focus[edit]
+Towards the end of 2013, around the launch of Sony's next video game device, the home video game console the PlayStation 4, Sony began making comments in regards to the change in focus with the Vita.[58] Yoshida stated that Sony would be releasing fewer first party games for the platform.[59] Sony Computer Entertainment’s Product Planning & Platform Software Innovation Director Don Mesa stated that the "economics simply don’t work with the traditional process".[60] Sony addressed the "economics of Vita game development" issue with beginning on focusing on the fact that almost all PlayStation 4 games could be streamed and played through a Vita through remote play.[61] Sony attempted to attach the device to the PS4 due to its extreme popularity; it took only a few weeks for the sales to surpass the sales of the Vita over the course of almost two years.[48] In July 2014, Yoshida stated that the company would focus on it less as a dedicated handheld video game console, and more on its combination of uses, stating "it's not about individual Vita games any more. It's more about how Vita can have multiple uses – with PS4 Remote Play, PS3 games with PS Now, and the dedicated games. The whole ecosystem with PS4 at the center, the Vita's a part of that."[62] Sony later announced that the Vita will have PlayStation VR integration in the form of a second screen as well.[63] Open beta trials for PlayStation Now functionality on the PS Vita began on October 14, 2014 in North America.[64] The PlayStation Vita TV, released across late 2013 and 2014, also aimed to expand the system's userbase by allowing for Vita games to be played on a television like a home console,[65] though the device was discontinued in the West by the end of 2015, and did not fare well in Japan's handheld-focused region either.[66] In November 2014, SCEA president Shawn Layden suggested that the new approach was working on hardware level, stating that Vita sales had increased since the implementation of PS4 Remote Play,[67] though he and another Sony representative did not give specific figures.[67] Sony continued to make games for the device, though in smaller number than in past. The last major Sony-developed title, Freedom Wars, still found success, selling over 188,000 copies in its first week of release in Japan.[68] The debut was the highest Sony game debut for the system, and the second highest, only to Namco Bandai's late 2013 release of God Eater 2 on the platform.[68]
+In September 2015, Yoshida stated that Sony had no current plans for a Vita successor, stating that "climate is not healthy for now because of the huge dominance of mobile gaming."[69] At E3 2015, he had stated that Sony would not be making any more AAA, big budget games to the system,[70] but by October, the comment had been revised that Sony would not be making any more games for it at all.[71] Reasons cited included the company focusing on supporting the PS4, and the fact that they felt that third party Japanese developers and Western indie developers were sufficiently supporting the device.[70][71] In March 2016, Sony announced that instead, they'd be forming a new company, "Forward Works", and be instead concentrating on bringing PlayStation-based games to mobile platforms like iOS and Android instead.[72][73]
+Despite Sony's focus on the PS4 and mobile for the future, the Vita still continues to receive substantial third party company game support in the way of Japanese-style role-playing games andvisual novels and Western-style indie video games.[74][75] Minecraft in particular was successful for the platform, with it selling over 557,000 copies in Japan alone as of January 2016.[74] The device is considered to have sold fairly well in Japan,[69] and still a crucial part of Sony's overall strategy in the region,[75] while Sony has acknowledged that the device still has a very vocal and passionate user-base in the West as well, with the company still encouraging third party companies to create games for the device.[76] At the 2016 Game Developers Conference, research analyst firm EEDARestimated the sales of the Vita to be about at 10 million unit sold through the end of 2015.[77]
+Hardware[edit]
+
+The device features a "super oval" shape similar to the design of the original PlayStation Portable, with a 5-inch (130 mm) OLED capacitive touchscreen in the center of the device.[78][79][80] The device features two analog sticks (unlike the PSP which features only a single analog "nub"), a D-pad, a set of standard PlayStation face buttons (, ,  and ), two shoulder buttons (L and R), a PlayStation button and Start and Select buttons. Internally, the device features a 2 GHz[10] capable quad-core ARM Cortex-A9 MPCore processor (3 of the 4 cores are usable for applications)[81]and a quad-core GPU SGX543MP4+. While Sony has stated that the Vita does not run full clock speed,[31] there are conflicting reports about the used CPU clock speed in independent reviews: 1.4 GHz,[82] 444 MHz[83] and 333 MHz.[84][85] The device also features a rear touch pad, two cameras (a front and a rear), stereo speakers, microphone, Sixaxis motion sensing system (three-axisgyroscope, three-axis accelerometer), three-axis electronic compass, built-in GPS receiver (only for the 3G version) as well as Wi-Fi, 3G, and Bluetooth 2.1+EDR connectivity.[78][79][80][86][87] The device has two (front and rear) 0.3 megapixel cameras, both which run at 640×480 (VGA) at 60 frames/s, or at 320×240 at 120 frames/s.[88] They can be used to take photos or videos using built-in applications on the system. The two cameras feature the abilities of face detection, head detection, and head tracking. It also allows for customization and personalization.[35][89] The PlayStation Vita has 512 MB of system RAM and 128 MB of VRAM.[90][91] The amount of RAM allows cross-game chat to be used on the system.[91]
+The PlayStation Vita has been released in two different variations: one with 3G and WiFi support, and a cheaper version without the 3G support.[92][93] The 3G service has been partnered with NTT DoCoMo in Japan, AT&T in the US, Rogers in Canada and Vodafone in Europe and Australia.
+The Vita's internal battery has between 3–5 hours of power for game playing, depending on the processing power required for the game, screen brightness, sound level and network connections, among other factors.[94] Additionally, the battery can supply about five hours for video watching, and up to nine hours of music listening with the screen off.[13] The system does allow for additional external battery solutions as well.[95]
+Software for the PlayStation Vita is distributed on a proprietary flash memory card called "PlayStation Vita game card" rather than on Universal Media Discs (UMDs) as used by the PlayStation Portable.[79][96] The size and shape of the card itself is very similar to an SD card. 5–10% of the game card's space is reserved for game save data and patches.[34]
+The PS Vita is incompatible with standard memory cards, such as SD cards, and instead stores data on proprietary PS Vita memory cards, which are available in sizes of 4 GB, 8 GB, 16 GB, 32 GB[97] and 64 GB.[98] As of the 3.10 system update, a maximum of 500 applications and games can be stored on the Vita's memory at any given time.[99] When the limit is reached, applications or games must be moved or deleted in order to access those beyond the limit.[100]
+Remote Play interactivity with PlayStation 4[edit]
+Main article: Remote Play
+All games developed for the PlayStation 4, with the exception of games requiring the use of special peripherals such as PlayStation Camera, are playable on the Vita through Remote Play.[101][102]With the use of a Vita, PS4, and PS4 game, this allows a PS4 game to be ran on the PS4, but its output transmitted to the Vita, with the Vita being used for the controller input, and the image and sound being transmitted to the Vita's screen and speakers instead of a television.[103] The end result is similar to what a Wii U console does with its GamePad controller through Off TV Play.[103]
+The Vita technically has Remote Play functionality with the PlayStation 3 as well, though very few PS3 games supported the feature due to limitations with the PS3 hardware.[104] More PS3 games are available for streaming on the Vita through Sony's cloud gaming service PlayStation Now, though they are streamed over the internet in the form of cloud computing rather than directly from a physical PS3 console.[105]
+Revised model[edit]
+
+The second generation PS Vita system, PCH-2000
+A revised model of the Vita was released in Japan on October 10, 2013, in Europe on February 7, 2014[106] and in North America on May 6, 2014.[107] The model, technically called the PCH-2000 series,[108] but is also referred to as the PS Vita 2000 or the PS Vita Slim. This model is 20% thinner and 15% lighter compared to the original model.[98] While it largely maintains the original's overall structure and layout, the original's OLED screen has been replaced with a cheaper to develop LCD display.[98] The model also roughly added about an extra hour of battery life.[98] The newer model also comes with 1GB of internal storage memory, although it is not possible to use both the internal memory and memory card concurrently.[109] Upon inserting a PS Vita memory card, the system will offer to copy the existing data from the internal memory to the new card.[110] This model has a micro USB Type B port, which can be used to charge the device along with any standard micro USB cable. The model was released in six colors in Japan (white, black, light blue, lime green, pink, and khaki),[98] although it was only released in black in North America and Europe.[111]
+PlayStation TV[edit]
+Main article: PlayStation TV
+
+A picture of the PlayStation Vita TV, showing the ports on its back side.
+The PlayStation TV (named PlayStation Vita TV in Japan and Asia) is a non-portable variant of the PlayStation Vita console system. Instead of featuring a display screen, the console connects to a television via HDMI, allowing users to play PlayStation Vita games in up to 1080i resolution using a DualShock 3 orDualShock 4 controller.[112] Due to the difference in controller input between the Vita and a DualShock controller, certain Vita games that are dependent on the system's touch-screen, rear touchpad, microphone or camera, are not compatible.[113] In addition to being compatible with many Vita games, it also shares the Remote Play and PS Now functionality of the regular Vita models as well.
+The system was released in Japan on November 14, 2013, both on its own and as part of a value bundle including a Dual Shock 3 controller and 8GB memory card,[114] and it was released in North America on October 14, 2014 and Europe on November 14, 2014.[115] The device did not fare well and had a short retail shelf life in North America and Europe, where it was discontinued at the end of 2015.[66]
+Software[edit]
+Game library[edit]
+Further information: List of PlayStation Vita games (A–L) and List of PlayStation Vita games (M–Z)
+Most games are distributed by the PS Vita card and are sold in stores, while some games, such as Tales from Space: Mutant Blobs Attack, Super Stardust Delta and Escape Plan, are distributed online and can only be purchased from the PlayStation Store.
+In addition, several third-party studios showcased technology demos of the device by exporting existing assets from their PlayStation 3 counterpart and then rendering them on the device. Some of the games that were demonstrated include Metal Gear Solid 4: Guns of the Patriots, Yakuza: Dead Souls, Killzone 3, and Lost Planet 2. Monster Hunter Portable 3rd was also demonstrated to be running on the device to showcase the device's backwards compatibility with downloadable PlayStation Portable titles, which was also shown to be compatible with the PlayStation Vita's additional analogue stick.[116] Unlike the PSP, the PlayStation Vita comes with Trophy support for games.[117][118]
+The device is also backwards compatible with most PlayStation Portable downloadable titles, "PSone Classics" downloadable titles, PlayStation minis, PlayStation Mobile games, and videos from the PlayStation Store.[118] On the Japan-region PlayStation Network, PC Engine games are also available for download. On November 5, 2013, it was announced that PocketStation format minigames would be playable on the Vita through the use of an application.[119]
+These were the 25 launch games for the PS Vita when it was first released in North America:[120]
+Backward compatibility[edit]
+The device is backwards-compatible with most PlayStation Portable games; however, its lack of a UMD drive limits this capability to those titles which have been digitally released on the PlayStation Network via the PlayStation Store.[121] Besides PlayStation Portable games, the PS Vita is also backwards-compatible with the majority of titles from other platforms such as PSone Classics, PlayStation minis, and PlayStation Mobile games, although PSone Classic titles were not compatible with the PS Vita at launch.[122] Also, the PlayStation Mobile service shut down on September 10, 2015, and after that it is no longer possible to activate devices for PlayStation Mobile or download existing purchases.[123]
+Applications[edit]
+Some applications come pre-loaded on the system, such as the Browser, Content Manager, Email, Music, and Videos applications, while others are downloadable from the PlayStation Store.
+At Gamescom 2011,[124] Sony announced that Facebook(now removed),[125] Skype, Netflix, Twitter and foursquare (later removed)[126] would become available via the PlayStation Store. Additional applications available for download include Music Unlimited,[127] Flickr,[128] Nico Nico, TuneIn Radio, NBA Gametime, NHL Gamecenter, Qello, Crunchyroll, Crackle, Hulu Plus, Redbox Instant andYouTube.[129][130] The PlayStation Now App and the Live from PlayStation App also became available for download by October 2014.
+System software[edit]
+Main article: PlayStation Vita system software
+
+LiveArea, the user interface for the Vita
+Unlike the PSP and PlayStation 3, the PlayStation Vita does not use the XrossMediaBar interface. Instead it uses a touchscreen-based UI dubbed LiveArea, which includes various social networking features via the PlayStation Network.[79] At launch the PlayStation Vita web browser did not support the proprietaryAdobe Flash. However, HTML5, cookies, and Javascript were available.[131] The PS Vita can boot into a "safe mode" in the event that it cannot start normally, allowing the user to update or restore the system software.[132]
+As a new feature of PlayStation Vita's LiveArea, latest game information such as downloadable contents are shown on the LiveArea screen for that game. In addition, by scrolling down the game's LiveArea, the "Activity" of other users who are playing the same game can be checked instantly.
+Reception[edit]
+PlayStation Vita received generally positive reviews from critics although it was criticized for its high price. Kotaku recommended the device, and described it as "the most powerful and physically capable gaming handheld ever made".[133] Cnet.com gave the system a 4/5 stars.[134] IGN gave the system an 8.5/10.[135] "The Gadget Show" gave the Vita a 4/5, and called the system "arguably the best handheld gaming experience around".[136] In 2012, the PS Vita won T3's "Gaming Gadget of the Year" award, beating Nintendo's 3DS XL, OnLive and others.[137]
+Despite acclaim for the PS Vita's hardware design, many have questioned its viability due to the emergence of game-capable smartphones and tablets. In December 2012, Victor Paul Alvarez, a shopping blogger on Yahoo!, placed it on his list of biggest technology flops of 2012 because it lacked a killer app (notably the PS Vita exclusive title Call of Duty: Black Ops: Declassified received negative reviews while the multi-platform Call of Duty: Black Ops II had set sales records).[138] The PS Vita was named number 8 on the "Marketwatch" top 8 product flops of 2012 as its expensive launch price made it difficult to justify as a standalone device.[139] The system's high price for its corresponding memory cards has also met harsh criticism.[55]
+Survey from Famitsu, a few weeks before May 9, 2013, said that 46 percent were "more or less 'satisfied' or 'very satisfied' with the PS Vita" and availability of games. It also said that about 54 percent were less than satisfied with the handheld's limited amount of game titles. The average score of 1,500 respondents was 74.92.[140]
+In South Korea, the average attach rate of PlayStation Vita owners is 6 first-party games per console, or 10 games per console when including third-party titles.[141]
+In Japan, most users of the Vita are aged between 15 and 29 years old, with significantly lower usage amongst children aged 10–14 years, according to a 2014 Famitsu industry report.[7]
+On November 25, 2014 it was announced by US government agency, Federal Trade Commission, that Sony was found guilty of false advertising over their Vita ad campaign launched in late 2011.[142] The ads promoted Remote Play and Cross Play interactivity between the PlayStation 3 to PlayStation Vita without mentioning that the compatibility for the features were limited to very few games. Sony settled with partial refunds to US customers who bought a Vita before June 1, 2012.[143]
+Notes[edit]
+1. Jump up^ Release date in other regions
+* RU: February 22, 2012[1]
+* ARG: February 22, 2012
+* CHL: February 22, 2012
+* AUS: February 23, 2012[2]
+* BRA: March 2, 2012
+* CA: October 2, 2012 (3G)[3]
+* CHN: March 20, 2015[4][5]
+2. Jump up^ Between the system's launch and January 2013, 4 million units have been sold worldwide.[6] Between January 2013 and June 2014, 1,837,710 units were sold within Japan alone.[7] A total of 600,000 units were sold in Spain as of June 2015,[8] and 446,000 units sold in France as of 2014.[9] As of present, no other reliable sales figures have been released.
+3. Jump up^ The PlayStation Vita is capable of 2 GHz clock speed, but normally outputs an unknown speed lower than this to increase battery life and keep the device from overheating
+References[edit]
+1. Jump up^ "PlayStation Vita Launches From 22 February 2012 – PlayStation.Blog.Europe". PlayStation Blog. Sony. October 19, 2011. Retrieved October 19, 2011.
+2. Jump up^ "Sony partners with Vodafone for PS Vita". CNET Australia. November 22, 2011. Retrieved December 13, 2011.
+3. Jump up^ "Rogers Communications Inc. | Rogers to enable wireless connectivity for 3G PlayStation® Vita in Canada". Newswire.ca. Retrieved September 11, 2012.
+4. Jump up^ 2014-12-11, Censors loom large over Sony's PlayStation prospects in China, Reuters
+5. Jump up^ Luke Karmali (March 10, 2015). "PS4 and Vita China Release Date and Special Editions Revealed". ign.com. RetrievedMarch 10, 2015.
+6. Jump up^ Stuart, Keith (January 4, 2013). "PlayStation 2 manufacture ends after 12 years". theguardian.com. Retrieved January 11,2014.
+7. ^ Jump up to:a b "?????PS Vita????????? PS Vita??????????????????????????". Famitsu(in Japanese). Archived from the original on July 31, 2014. Retrieved July 31, 2014.
+8. Jump up^ Cano, Jiménez (June 17, 2015). "Vender medio millón de algo que vale 400 euros en España tiene su mérito". El País (in Spanish). Retrieved June 17, 2015.
+9. Jump up^ "Jeux vidéo: retour à la croissance pour un marché français tiré par les consoles" (in French). La Tribune. February 10, 2015.
+10. ^ Jump up to:a b "PS Vita vs Nintendo 3DS vs Nintendo 3DS XL vs iPhone 4S: Specs Compared". NowGamer.com. RetrievedDecember 10, 2012.
+11. Jump up^ Fenlon, Wesley. "How the Sony PS Vita Will Work". Retrieved March 27, 2013.
+12. Jump up^ Christopher MacManus (September 14, 2011). "Sony reveals PlayStation Vita battery life". CNET. CBS Interactive.
+13. ^ Jump up to:a b "PLAYSTATIONVITA" (PDF). Sony Computer Entertainment. September 2011. Retrieved December 17, 2011.
+14. Jump up^ PS Vita: The Ultimate FAQ – PlayStation.Blog. Blog.us.playstation.com. Retrieved on July 16, 2013.
+15. ^ Jump up to:a b c http://toucharcade.com/2016/04/07/rpg-reload-presents-the-history-of-handheld-rpgs-part-eight/
+16. ^ Jump up to:a b http://kotaku.com/bad-news-for-the-ps-vita-no-monster-hunter-4-anytime-s-1187588672
+17. Jump up^ http://kotaku.com/5879477/nintendo-ds-over-150-million-sold
+18. Jump up^ Luke Plunkett (July 7, 2009). "PSP2 In Development, As Powerful As Xbox". Kotaku. Gawker Media. RetrievedDecember 8, 2010.
+19. Jump up^ Brian Crecente (July 7, 2010). "Report: Sony Working on New Gaming Machine". Kotaku. Retrieved July 8, 2010.
+20. ^ Jump up to:a b Brian Ashcraft (October 25, 2010). "PSP2 Hits Next Fall With Dual Analog Sticks, Touch Pad and Bigger Screen".Kotaku. Gawker Media. Retrieved October 24, 2010.
+21. ^ Jump up to:a b Patrick Garratt (November 17, 2010). "PSP2 dev kit snaps show twin sticks, track-pad [Update]". VG247. RetrievedNovember 14, 2010.
+22. ^ Jump up to:a b Michael French (January 13, 2011). "PSP2 as powerful as PS3, set for Q4 launch". Market for Home Computing and Video Games. Intent Media. Retrieved January 13, 2011.
+23. ^ Jump up to:a b Jim Reilly (November 17, 2010). "Alleged PSP2 images surface". IGN. Retrieved November 19, 2010.
+24. Jump up^ Michael McWhertor (September 27, 2010). "Report: PSP2 Hardware Now In The Hands Of 'Numerous' Developers".Kotaku. Gawker Media. Retrieved September 27, 2010.
+25. Jump up^ Ben Gilbert (September 16, 2010). "PSP2 in the hands of Mortal Kombat devs; 'It's a pretty powerful machine'". Joystiq.AOL. Retrieved December 29, 2010.
+26. Jump up^ "PSP2 exists - EA". Computer and Video Games. RetrievedNovember 2, 2010.
+27. Jump up^ Michael McWhertor (November 17, 2010). "Rumor: First Pics Of The PSP2". Kotaku. Gawker Media. RetrievedNovember 14, 2010.
+28. Jump up^ Rob Crossley (July 6, 2010). "Sony: Devs will help build the next PlayStation". Develop. Retrieved July 6, 2010.
+29. Jump up^ Mike Fahey (December 22, 2010). "The PSP2 Is No PlayStation Phone". Kotaku. Gawker Media. RetrievedDecember 23, 2010.
+30. ^ Jump up to:a b Tom Bramwell (January 27, 2011). "PSP2 unveiled: Next Generation Portable". Eurogamer. Retrieved January 27,2011.
+31. ^ Jump up to:a b Ben Parfitt (March 3, 2011). "Sony tempers NGP power claims". Market for Home Computing and Video Games. Intent Media. Retrieved March 4, 2011.
+32. Jump up^ Michael McWhertor. "Sony's New NGP Isn't Quite As Powerful As A PS3, Despite What You've Heard". Kotaku. Gawker Media.
+33. ^ Jump up to:a b c d e f Dave Tach. "PlayStation Vita may die childless, but it changed Sony in time for the PS4". Polygon.
+34. ^ Jump up to:a b Christopher Grant (March 3, 2011). "NGP games will come on 2GB and 4GB cards (with higher capacity game cards being released in the future), with room for save data, patches". Joystiq. Retrieved March 5, 2011.
+35. ^ Jump up to:a b "Sony Next Generation Portable (NGP) GDC panel – Gallery". Joystiq. March 3, 2011. Retrieved March 5, 2011.
+36. Jump up^ "NGP becomes PlayStation Vita". Eurogamer. June 7, 2011. Retrieved June 7, 2011.
+37. Jump up^ Schramm, Mike (April 6, 2011). "Sony Japan denies any earthquake-related NGP delays". Joystiq. Retrieved April 9,2011.
+38. ^ Jump up to:a b Ivan, Tom (August 4, 2011). "PlayStation Vita release date is 2011 in Japan, 2012 in US and Europe". Computer & Video Games. Retrieved September 14, 2011.
+39. ^ Jump up to:a b "Get Your Hands on PS Vita Early with the First Edition Bundle". PlayStation Blog (blog). Sony. October 27, 2011. Retrieved October 27, 2011.
+40. Jump up^ Colin Moriarty (September 14, 2011). "TGS: Sony Reveals Vita's Release Date". IGN.
+41. Jump up^ Gloria Sin. "Sony reveals 26 PS Vita launch titles for Japan". ZDNet.
+42. Jump up^ Keith Stuart. "PlayStation Vita – the essential guide". the Guardian.
+43. ^ Jump up to:a b "PS Vita sales to top 12.4 million with price cut - Research firm". GameSpot.
+44. ^ Jump up to:a b "PlayStation Vita sales see 78% drop during Christmas week - GamesBeat - Games - by Stefanie Fogel".VentureBeat.
+45. Jump up^ "Report: Wii U, Vita continue poor US sales performance in March". Ars Technica.
+46. Jump up^ "Sony updates PS Vita sales figures: 'over 1.2 million units worldwide', 2 million in software". Engadget. AOL.
+47. Jump up^ Keith Stuart. "PlayStation 2 manufacture ends after 12 years". the Guardian.
+48. ^ Jump up to:a b c Colin Moriarty (December 17, 2013). "PlayStation Vita: Two Years Later". IGN.
+49. ^ Jump up to:a b "Vita sales continue to disappoint as Sony scales back expectations". Ars Technica.
+50. Jump up^ http://tinycartridge.com/post/61606970391/ps-vita-is-really-hurting-without-monster-hunter
+51. ^ Jump up to:a b c "Should You Buy a PlayStation Vita? Consult Our 10-Step Guide". TIME.com.
+52. ^ Jump up to:a b c Brian Ashcraft. "Japan, Where the PS Vita Won't Die".Kotaku. Gawker Media.
+53. Jump up^ "This Week In Sales: A Link Between Worlds". Siliconera.
+54. Jump up^ "These 11 RPGs make the PS Vita the ultimate role-playing machine". Pocket Gamer. July 15, 2015.
+55. ^ Jump up to:a b Sony Will Not Cut Price of PS Vita Outside of Japan. IGN (February 21, 2013). Retrieved on 2013-07-16.
+56. Jump up^ Good, Owen (August 20, 2013). "PS Vita Price Cut to $199; Memory Cards Reduced too". Kotaku. Retrieved August 20,2013.
+57. ^ Jump up to:a b c Keith Stuart. "PlayStation Vita 2000: Sony aims for the casual market with redesign". the Guardian.
+58. Jump up^ Sam Byford (November 6, 2013). "PS Vita review (2013)".The Verge. Vox Media.
+59. Jump up^ "Sony: Fewer First-Party Games Coming for PS Vita". IGN. June 18, 2014. Retrieved July 24, 2014.
+60. Jump up^ "Sony Says AAA Economics "Don't Work" on PS Vita and That's Okay". TechnoBuffalo. May 12, 2014. RetrievedJuly 24, 2014.
+61. Jump up^ "PS4-Vita Remote Play enabled at a system level". MCV UK.
+62. Jump up^ Robinson, Martin (July 9, 2014). "How strong exactly is PlayStation's 2014 line-up?". Eurogamer. Retrieved July 24,2014.
+63. Jump up^ "[Update] Sony's virtual reality headset Project Morpheus might be integrated with Vita". Pocket Gamer. July 17, 2014. Retrieved July 24, 2014.
+64. Jump up^ "PlayStation Now Open Beta Launches Today on PS Vita, PS TV". PlayStation.Blog.
+65. Jump up^ "Sony's 'Casual' PS Vita Impresses, but the Vita TV Box Heralds Bigger Things". TIME.com.
+66. ^ Jump up to:a b "[Update] PlayStation TV Discontinued In North America, Europe". www.GameInformer.com.
+67. ^ Jump up to:a b Moriarty, Colin (November 18, 2014). "Vita Sales Are Picking Up Thanks to PS4 Remote Play". IGN. RetrievedNovember 18, 2014.
+68. ^ Jump up to:a b "Freedom Wars Sold Mainly To Students In Japan".Siliconera.
+69. ^ Jump up to:a b "Sony: climate "not healthy" for PlayStation Vita successor". Eurogamer.net. September 26, 2015.
+70. ^ Jump up to:a b Andrew Goldfarb (June 16, 2015). "E3 2015: Sony Is Not Making Any Big Vita Games". IGN.
+71. ^ Jump up to:a b Luke Karmali (October 23, 2015). "Sony Confirms it's Stopped First-Party Vita Development". IGN.
+72. Jump up^ Sam Byford (March 24, 2016). "Sony forms new company to make PlayStation mobile games". The Verge. Vox Media.
+73. Jump up^ "Sony announces plans to make PlayStation games for iOS and Android". TechCrunch. AOL. March 23, 2016.
+74. ^ Jump up to:a b Jason Schreier. "The State Of The Vita In 2015". Kotaku. Gawker Media.
+75. ^ Jump up to:a b "PS Vita Is Not Dead: Here Are Some Games You Should Wait For". Tech Times.
+76. Jump up^ "Sony's Gio Corsi: We Always Say When Starting a Project, "Are You Open to Doing a Vita Version?"". PlayStation LifeStyle.
+77. Jump up^ "Platform Sales Worldwide Through December, 2015"(PDF). EEDAR. March 23, 2016. Retrieved April 11, 2016.
+78. ^ Jump up to:a b Johnny Cullen (January 24, 2011). "Sony outs tech specs for NGP". VG247. Retrieved January 25, 2011.
+79. ^ Jump up to:a b c d Vlad Savov (January 27, 2011). "Sony's next PSP, codenamed NGP". Engadget. AOL. Retrieved January 29,2011.
+80. ^ Jump up to:a b Anoop Gantayat (January 24, 2011). "PSP2 to Have 3G Support, OLED Screen". Archived from the original on January 28, 2011. Retrieved January 23, 2011.
+81. Jump up^ "Sony Next Generation Portable (NGP) GDC panel – Gallery". Joystiq. March 3, 2011. Retrieved March 5, 2011.
+82. Jump up^ Test PS Vita und Spiele, golem.de (accessed February 27, 2012).
+83. Jump up^ Sony underclocked PS Vita's CPU frequency to 444MHz on tweaktown.com by Derek Strickland (Oct 2, 2015)
+84. Jump up^ Vita Confirmed To Only Have CPU Frequency At 333 MHzby Oliver VanDervoort (October 1, 2015)
+85. Jump up^ PS Vita’s CPU frequency found to run at up to 444MHz, but it's a smart decision on bitparade.co.uk by James (2015)
+86. Jump up^ "PSP successor is official, codenamed 'NGP' (Next Generation Portable)". Joystiq. January 27, 2011. RetrievedJanuary 27, 2011.
+87. Jump up^ Brian Crecente (July 7, 2010). "Report: High-Speed Cell Service Could Come to Nintendo, Sony Devices". Kotaku. Retrieved July 8, 2010.
+88. Jump up^ "Official PlayStation website: PlayStation Vita, PS Vita; Specifications for PlayStationVita". Retrieved March 7, 2011.
+89. Jump up^ "Sony Next Generation Portable (NGP) GDC panel – Gallery". Joystiq. March 3, 2011. Retrieved March 5, 2011.
+90. Jump up^ PR Newswire (August 17, 2011). ""PlayStationVita" Expands Its Entertainment Experience by Introducing Various Applications for Social Networking Services and Communications". SYS-CON Media.
+91. ^ Jump up to:a b "Sony: why PS Vita has 512MB of RAM News – PlayStation Vita – Page 1 | Eurogamer.net". Eurogamer. Retrieved August 18, 2011.
+92. Jump up^ Oli Welsh (January 27, 2011). "Andrew House talks Sony NGP price, 3G version, more". Eurogamer. RetrievedFebruary 19, 2011.
+93. Jump up^ Martijn Müller (February 18, 2011). "Prijs en release periode Next Generation Portable". NG-Gamer. RetrievedFebruary 18, 2011.
+94. Jump up^ "PlayStation Vita battery life is 3-5 hours". Retrieved2016-09-03.
+95. Jump up^ Richard George. "TGS: Vita Will Have External Battery Option - PSP News at IGN". Uk.psp.ign.com. Retrieved June 5,2012.
+96. Jump up^ "Types of card media | PlayStation®Vita User's Guide". Manuals.playstation.net. August 23, 2012. RetrievedSeptember 11, 2012.
+97. Jump up^ "Review: PlayStation Vita [updated for US launch]".Engadget. AOL.
+98. ^ Jump up to:a b c d e Souppouris, Aaron. "Sony announces thinner and lighter PlayStation Vita". The Verge. Retrieved September 8,2013.
+99. Jump up^ PS Vita System Software Update 3.10 Coming Soon. PlayStation Blog. Retrieved on March 25, 2014.
+100. Jump up^ Gilbert, Ben. "The PlayStation Vita only holds 100 content bubbles, regardless of available memory". Engadget. Retrieved January 20, 2013.
+101. Jump up^ Gaston, Martin (May 29, 2013). "PlayStation 4 devs required to support Vita Remote Play - Report". GameSpot. RetrievedMay 29, 2013.
+102. Jump up^ Leadbetter, Richard (May 29, 2013). "PS4 developer: Sony mandates Vita Remote Play for all games". Eurogamer.net. Retrieved May 29, 2013.
+103. ^ Jump up to:a b Jon Fingas (February 20, 2013). "PlayStation 4 supports remote play on PlayStation Vita". Engadget. RetrievedFebruary 20, 2013.
+104. Jump up^ Parfitt, Ben. "PS4-Vita Remote Play enabled at a system level | Games industry news | MCV". Mcvuk.com. Retrieved2013-07-10.
+105. Jump up^ "PlayStation™Now PS4™, PS3™, PS Vita and PS TV™ Open Beta Now Live!". playstation.com. RetrievedNovember 11, 2015.
+106. Jump up^ Karmali, Luke. "PS Vita Slim Announced For The UK". IGN. Retrieved February 1, 2014.
+107. Jump up^ John Koller (February 10, 2014). "New PS Vita Model Confirmed for US, Included in Borderlands 2 Bundle". Sony Computer Entertainment. Retrieved February 12, 2014.
+108. Jump up^ 2013-09-09, ??????PS Vita?10?10???19929?(??)?????SCEJA???????????, Famitsu
+109. Jump up^ 2013-10-11, PS Vita Slim internal storage not usable with a memory card, JustPushStart
+110. Jump up^ "Transferring data from the internal memory card".manuals.playstation.net. Retrieved January 27, 2014.
+111. Jump up^ Inglis, Blair (January 30, 2014). "Sony Reveal PS Vita Slim Coming To The UK Next Week, New Titles Teased".thesixthaxis.com. Retrieved January 30, 2014.
+112. Jump up^ "PS Vita TV - Release date, price, and specs". GamesRadar. September 9, 2013. Retrieved September 18,2013.
+113. Jump up^ 2013-09-09, SONY COMPUTER ENTERTAINMENT INTRODUCES PLAYSTATION(R) VITA TV (Corporate Release), Sony Computer Entertainment
+114. Jump up^ 9/09/13 3:56am 9/09/13 3:56am. "Introducing PS Vita...TV". Kotaku.com. Retrieved September 18, 2013.
+115. Jump up^ 2014-08-12, Gamescom 2014: PlayStation TV Launches in October, Bringing PS4 Remote Play to Your TV, Gamespot
+116. Jump up^ Michael McWhertor (January 27, 2011). "Metal Gear Solid 4, Lost Planet, Yakuza Shown In PSP2 Form". Kotaku. Gawker Media. Retrieved January 25, 2011.
+117. Jump up^ "Sony's NGP Uses Flash Media, Proprietary Memory Cards, And Trophy Support". Game Informer.
+118. ^ Jump up to:a b Jeff Rubenstein (January 27, 2011). "Next Generation Portable (NGP): All the early details". PlayStation Blog. Sony Computer Entertainment. Retrieved January 29, 2011.
+119. Jump up^ 2013-11-04, Play Chocobo World On Vita, PocketStation Is A Downloadable App In Japan, Siliconera
+120. Jump up^ "PlayStation Vita Launch Lineup and Details". December 22, 2011. Retrieved July 12, 2013.
+121. Jump up^ Sony (October 14, 2011). "Sony US FAQ". Sony. RetrievedOctober 19, 2011.
+122. Jump up^ Kat Bailey (October 14, 2011). "No PS One Classics". Gamepro. Archived from the original on December 1, 2011. Retrieved October 19, 2011.
+123. Jump up^ Gerald Lynch. "PlayStation Mobile Will Power Down on July 15th". Gizmodo UK.
+124. Jump up^ "PlayStation News – PS Vita introduces... your favourite social networks". nz.playstation.com. July 21, 2009. RetrievedSeptember 14, 2011.
+125. Jump up^ "Firmware 3.57 update removed Facebook App". Tech4idiots.org.
+126. Jump up^ Mark Langshaw (February 28, 2014). "Sony drops support for Foursquare app on PS Vita". Digital Spy.
+127. Jump up^ "Netflix, Music Unlimited Coming to PS Vita". PlayStation Lifestyle. January 9, 2012. Retrieved March 5, 2012.
+128. Jump up^ "Newly Launched PlayStation Vita Gets Twitter, Flickr and Netflix [PICS]". Mashable. February 22, 2012. RetrievedMarch 5, 2012.
+129. Jump up^ "YouTube Coming Soon to PS Vita – PlayStation Blog". Sony. May 31, 2012. Retrieved June 5, 2012.
+130. Jump up^ "PlayStation Music and Videos - PlayStation Entertainment Apps". Playstation.
+131. Jump up^ "News - Report: PlayStation Vita Browser Supports HTML5, But Not Flash". Gamasutra. Retrieved September 11, 2012.
+132. Jump up^ "PS Vita Safe Mode". support.us.playstation.com. RetrievedJanuary 27, 2014.
+133. Jump up^ Totilo, Stephen (February 21, 2012). "The PlayStation Vita: The Kotaku Review". Kotaku. Retrieved June 6, 2012.
+134. Jump up^ Bakalar, Jeff (February 22, 2012). "Sony PlayStation Vita Review - Watch CNET's Video Review". Reviews.cnet.com. Retrieved September 11, 2012.
+135. Jump up^ Lowe, Scott (February 13, 2012). "Sony PlayStation Vits (3G/WiFi) Review". IGN. Retrieved December 26, 2012.
+136. Jump up^ "PlayStation Vita". The Gadget Show. RetrievedDecember 26, 2012.
+137. Jump up^ "Sony PS Vita - Gaming Gadget of the Year". T3. Archived from the original on October 11, 2012. Retrieved October 9,2012.
+138. Jump up^ Alvarez, Victor Paul (December 17, 2012). "Biggest technology flops of 2012". Digital Crave. RetrievedDecember 26, 2012.
+139. Jump up^ MarketWatch. "The 8 biggest product flops of 2012".MarketWatch.
+140. Jump up^ Hofilena, John (May 9, 2013). "PlayStation Vita gets so-so ratings from Japanese user surveys". Japan Daily Press.
+141. Jump up^ "SCEK????????????????????".Game Watch (in Japanese). November 24, 2014. Archivedfrom the original on December 4, 2014. Retrieved December 4,2014.
+142. Jump up^ "Sony Computer Entertainment America To Provide Consumer Refunds To Settle FTC Charges Over Misleading Ads For PlayStation Vita Gaming Console". Federal Trade Commission. November 25, 2014. Retrieved November 28,2014.
+143. Jump up^ Matulef, Jeffrey (November 25, 2014). "Sony to partially refund early US Vita adopters after its "deceptive" marketing".Eurogamer.net. Retrieved November 28, 2014.
+

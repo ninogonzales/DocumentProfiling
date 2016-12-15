@@ -1,0 +1,90 @@
+Defense of the Ancients
+From Wikipedia, the free encyclopedia
+"Dota" redirects here. For other uses, see DOTA (disambiguation).
+Defense of the Ancients
+Defense of the Ancients' loading screen as of version 6.75Designer(s)Eul
+Steve Feak
+IceFrogPlatform(s)Mac OS, OS X,Microsoft WindowsGenre(s)Multiplayer online battle arenaMode(s)MultiplayerDefense of the Ancients (DotA) is a multiplayer online battle arena mod for the video game Warcraft III: Reign of Chaos and its expansion, Warcraft III: The Frozen Throne, based on the "Aeon of Strife" map for StarCraft. The scenario objective is for each team to destroy the opponents' Ancient, heavily guarded structures at opposing corners of the map. Players use powerful units known as heroes, and are assisted by allied heroes and AI-controlled fighters. As in role-playing games, players level up their heroes and use gold to buy equipment during the mission.[1]
+The scenario was developed with the "World Editor" of Reign of Chaos, and was updated upon the release of its expansion, The Frozen Throne. There have been many variations of the original concept; the most popular being DotA Allstars, which eventually was simplified to DotA with the release of version 6.68.[2] This specific scenario has been maintained by several authors during development, the latest of whom is the anonymous developer known as "IceFrog" who has developed the game since 2005.
+Since its original release, DotA has become a feature at several worldwide tournaments, including Blizzard Entertainment's BlizzCon and the AsianWorld Cyber Games, as well as the Cyberathlete Amateur and CyberEvolution leagues; in a 2008 article of video game industry website Gamasutra, the article's author claimed that DotA was probably "the most popular and most-discussed free, non-supported game mod in the world".[3] DotA is largely attributed to being the most significant inspiration for the multiplayer online battle arena genre.[4] Valve Corporation acquired the intellectual property rights to DotA to develop a stand-alone sequel, Dota 2, which was released in July 2013.[5][6]
+Contents
+  [hide] 
+* 1Gameplay
+* 2Development
+* 3Reception and legacy
+o 3.1Sequel
+* 4References
+* 5External links
+Gameplay
+
+A game of DotA in progress
+DotA pits two teams of players against each other: the Sentinel and the Scourge. Players on the Sentinel team are based at the southwest corner of the map, and those on the Scourge team are based at the northeast corner. Each base is defended by towers and waves of units which guard the main paths leading to their base. In the center of each base is the "Ancient", a building that must be destroyed to win the game.[7][8]
+Each human player controls one hero, a powerful unit with unique abilities. In DotA, players on each side choose one of 112 heroes,[9] each with different abilities and tactical advantages over other heroes. The scenario is highly team-oriented; it is difficult for one player to carry the team to victory alone.Defense of the Ancients allows up to ten players in a five-versus-five format.[10]
+
+The differences between The Sentinel base (top) and the Scourge base (bottom)
+Because the gameplay revolves around strengthening individual heroes, it does not require focus on resource management and base-building, unlike most traditional real-time strategy games. Killing computer-controlled or neutral units earns the player experience points; the player gains a level when enough experience is accumulated.Leveling up improves the hero's toughness and the damage they inflict, and allows players to upgrade spells or skills. In addition to accumulating experience, players also manage a single resource of gold. The typical resource-gathering of Warcraft III is replaced by a combat-oriented money system; in addition to a small periodic income, heroes earn gold by killing hostile units, base structures, and enemy heroes.[11] This has caused emphasis on a technique called "last-hitting," which is when the player attacks a hostile unit when "its hit points are low enough to kill it with one blow".[12] Using gold, players buy items to strengthen their hero and gain abilities; certain items can be combined with recipes to create more powerful items. Buying items that suit one's hero is an important tactical element of the mod.[13]
+DotA offers a variety of game modes, selected by the game host at the beginning of the match. The game modes dictate the difficulty of the scenario, as well as whether people can choose their hero or are assigned one randomly. Many game modes can be combined, allowing more flexible options.[14]
+Development
+Warcraft III is the third title in the Warcraft series of real-time strategy games developed by Blizzard Entertainment. As with Warcraft II, Blizzard included a free "world editor" in the game that allows players to create custom scenarios or "maps" for the game, which can be played online with other players through Battle.net.[15] These custom scenarios can be simple terrain changes, which play like normal Warcraft games, or they can be entirely new game scenarios with custom objectives, units, items, and events, like Defense of the Ancients.[15]
+The first version of Defense of the Ancients was released in 2003 by a mapmaker under the alias of Eul who based the map on a previous StarCraft scenario known as "Aeon of Strife".[14] After the release of Warcraft's expansion The Frozen Throne, which added new features to the World Editor, Eul did not update the scenario.[16] Other mapmakers produced spinoffs that added new heroes, items, and features. Among the DotA variants created in the wake of Eul's map, there was DotA Allstars, originally created and developed by custom map makers Meian and Ragn0r, who took the most popular heroes and compiled them into one map.[17] In March 2004, map maker Guinsoo took control of development and began the 3.xx to 5.xx series of DotA Allstars.[18] On February 28, 2005, soon after the release of 6.x, Guinsoo announced he would be leaving WC3 custom map making, and left the development in the hands of Neichus and IceFrog. Soon after, Neichus left the team and left it in the hand of IceFrog. This started the legendary 6.xx series of DotA Allstars which is currently developed by IceFrog and Valve.[18]
+Defense of the Ancients is maintained via official forums. Users can post ideas for new heroes or items, some of which are added to the map. Players have contributed icons and hero descriptions and created the artwork displayed while the map loads, and suggestions for changes to existing heroes or items are taken seriously; IceFrog once changed a new hero less than two weeks after the new version of the map was released.[3] Versions of the scenario where enemy heroes are controlled by artificial intelligences have also been released. Mescon continued to maintain dota-allstars.com, which by the end of IceFrog's affiliation in May 2009 had over 1,500,000 registered users and had received over one million unique visitors every month.[19] Due to their separation, IceFrog announced that he would be further developing a new official site, playdota.com, while continuing game development;[20] Mescon closed dota-allstars on July 22, 2010, citing dropping statistics and his new passion for League of Legends as the reason for its end.
+Because Warcraft III custom games have none of the features designed to improve game quality (matchmaking players based on connection speed, etc.), various programs are used to maintainDefense of the Ancients. External tools ping player's locations, and games can be named to exclude geographic regions.[3] Clans and committees such as TDA maintain their own official list of rules and regulations, and players can be kicked from matches by being placed on "banlists".[3]
+Reception and legacy
+See also: Multiplayer online battle arena
+
+The top three finalists from the firstWorld Cyber Games Defense of the Ancients championship
+The popularity of Defense of the Ancients has increased over time. The scenario was featured by Computer Gaming World in a review of new maps and mods in Warcraft III.[21] DotA Allstars became an important tournament scenario, starting with its prominence at the debut of Blizzard's BlizzCon convention in 2005.[22] DotA Allstars was also featured in the Malaysia and Singapore World Cyber Games starting in 2005, and the World Cyber Games Asian Championships beginning with the 2006 season.[23] Defense of the Ancients was included in the game lineup for the internationally recognized Cyberathlete Amateur League and CyberEvolution leagues.[24] Additionally, the scenario appeared in Electronic Sports World Cup (ESWC) 2008;[25][26] Oliver Paradis, ESWC's competition manager, noted that the high level of community support behind the scenario, as well as its worldwide appeal, were among the reasons it was chosen.[27]
+The scenario is popular in many parts of the world; in the Philippines and Thailand, it is played as much as the game Counter-Strike.[28][29] It is also popular in Sweden and other Northern European countries, where the Defense of the Ancients-inspired song "Vi sitter i Ventrilo och spelar DotA" by Swedish musician Basshunter reached the European 2006 charts at #116 and cracked the top ten Singles Charts in Sweden, Norway,[30] and Finland.[31] LANtournaments are a major part of worldwide play,[27] including tournaments in Sweden and Russia; however, due to a lack of LAN tournaments and championships in North America, several teams disbanded.[28] Blizzard points to DotA as an example of what dedicated mapmakers can create using developer's tools.[32]
+In June 2008, captainSMRT, writing for Gamasutra, stated that DotA "is likely the most popular and most-discussed free, non-supported game mod in the world".[3] In pointing to the strong community built around the game, Walbridge stated that DotA shows it is much easier for a community game to be maintained by the community, and this is one of the maps' greatest strengths. Former game journalist Luke Smith called DotA "the ultimate RTS".[33]
+Defense of the Ancients has been credited as one of the influences for the 2009 Gas Powered Games title Demigod,[34][35] with the video game publication GameSpy noting the game's premise revolved around aspiring gods "[playing] DotA in real life".[36] Guinsoo went on to apply many of the mechanics and lessons he learned from Defense of the Ancients to the Riot Games title League of Legends.[37] Other "DotA clones" include S2 Games' Heroes of Newerth.[38][39] Blizzard Entertainment has also developed a new game inspired by DotA titled Heroes of the Storm, which features an array of heroes from Blizzard's franchises.[40]
+Sequel
+Main article: Dota 2
+In October 2009, IceFrog was hired by Valve Corporation, leading a team in a project that he described as "great news for DotA fans".[41] Valve officially announced the stand-alone sequel, Dota 2, in October 2010.[42] Dota 2 follows heavily in the gameplay style of DotA, with aesthetics and heroes working mostly as direct ports to the original mod. In addition to the pre-conceived gameplay constants, Dota 2 also features Steam support and profile tracking, intended to emphasize and support the game's matchmaking and community.[43]
+The marketing and trademark of Dota as a franchise by Valve gained concern and opposition from the DotA Allstars contributors working at Riot Games, as well as Blizzard Entertainment, both of which legally opposed the franchising of Dota by Valve.[44] The legal dispute was conceded in May 2012, with Valve gaining undisputed franchising rights for commercial use to the trademark, while non-commercial use remains open to the public.[5] Dota 2 was officially released in July 2013.[45]
+References
+1. Jump up^ Tok, Kevin (January 25, 2006). "Defense of the Ancients 101, Page 2". GotFrag. Archived from the original on January 24, 2009. Retrieved August 4, 2007.
+2. Jump up^ IceFrog (July 28, 2010). "Official DotA: Map Archive". GetDotA.com. Archived from the original on July 30, 2010. Retrieved July 28, 2010.
+3. ^ Jump up to:a b c d e Walbridge, Michael (June 12, 2008). "Analysis: Defense of the Ancients – An Underground Revolution".Gamasutra. Retrieved June 23, 2008.
+4. Jump up^ Sharkey, Mike (August 11, 2010). "Evidence Mounting for a Valve Defense of the Ancients Game". Gamespy.com. Archived from the original on August 18, 2010. RetrievedNovember 17, 2010.
+5. ^ Jump up to:a b Reilly, Jim (May 11, 2012). "Valve, Blizzard Reach DOTA Trademark Agreement". Game Informer. Retrieved May 12,2012.
+6. Jump up^ Hernandez, Patricia (July 9, 2013). "Valve Finally "Releases" DOTA 2". Kotaku. Retrieved July 10, 2013.
+7. Jump up^ "Learn Dota". PlayDota.com. Archived from the originalon July 23, 2011. Retrieved October 23, 2010.
+8. Jump up^ Lodaya, Punit (February 9, 2006). "DotA: AllStars Part 1". TechTree.com. Archived from the original on June 25, 2009. Retrieved August 4, 2007.
+9. Jump up^ "DotA Heroes". PlayDotA.com. Retrieved May 30, 2013.
+10. Jump up^ Nair, Neha (October 30, 2007). "Why Defense of the Ancients? (Pg. 1)". GotFrag. Archived from the original on June 24, 2009. Retrieved November 1, 2007.
+11. Jump up^ Lodaya, Punit (February 9, 2006). "DotA: AllStars Part 2: What Do I Do?". TechTree.com. Archived from the originalon May 22, 2009. Retrieved August 4, 2007.
+12. Jump up^ Lo, Jaclyn (April 3, 2008). "DotA 101: The Killing Blow". GotFrag.com. Archived from the original on June 30, 2009. Retrieved October 26, 2009.
+13. Jump up^ "PlayDotA.com Items Database". PlayDotA.com. Archived from the original on January 2, 2010. Retrieved March 1,2007.
+14. ^ Jump up to:a b Tok, Kevin (January 25, 2006). "Defense of the Ancients 101". GotFrag. Archived from the original on June 24, 2009. Retrieved August 4, 2007.
+15. ^ Jump up to:a b Warcraft III Instruction Manual (World Editor ed.). Blizzard Entertainment. 2002. p. 16.
+16. Jump up^ Waldbridge, Michael (May 30, 2008). "The Game Anthropologist: Defense of the Ancients: An Underground Revolution". GameSetWatch. Archived from the original on April 17, 2009. Retrieved January 20, 2009.
+17. Jump up^ Mowen (May 14, 2009). "THE HISTORY OF MOBA". mobafire.com. Retrieved February 19, 2015.
+18. ^ Jump up to:a b YaphetS (June 1, 2013). "A History of Dota: Part 1". facebook.com. Retrieved February 19, 2015.
+19. Jump up^ Nair, Neha (April 28, 2009). "Interview with Pendragon, The future of DotA-Allstars.com". Dota-Allstars.com. Archived from the original on May 19, 2009. Retrieved May 15, 2009.
+20. Jump up^ IceFrog (May 14, 2009). "IceFrog.com: DotA Website News". PlayDotA.com. Retrieved May 15, 2009.
+21. Jump up^ Staff (September 1, 2004). "WarCraft Maps Go Mod".Computer Gaming World. Retrieved August 12, 2007.
+22. Jump up^ Staff (2005). "Blizzcon '05 Tournaments". Blizzard. Archived from the original on July 2, 2007. Retrieved August 5, 2007.
+23. Jump up^ "About WCG Asian Championships". World Cyber Games. August 5, 2006. Archived from the original on October 11, 2007. Retrieved February 19, 2007.
+24. Jump up^ "CyberEvolution – Warcraft 3: Defense of the Ancients – Series 1". cevolved.com. Archived from the original on August 31, 2006. Retrieved February 19, 2007.
+25. Jump up^ Banks, James (January 6, 2008). "ESWC Gamelist". SK Gaming. Archived from the original on July 25, 2008. Retrieved January 2, 2008.
+26. Jump up^ Saylor, Robby (February 14, 2008). "Rwar and Slahser on Current Issues". GotFrag. Archived from the original on June 25, 2009. Retrieved March 6, 2008.
+27. ^ Jump up to:a b Nair, Neha (January 18, 2008). "ESWC interview, why DotA?". GotFrag. Archived from the original on June 24, 2009. Retrieved March 7, 2008.
+28. ^ Jump up to:a b Nair, Neha (October 30, 2007). "Why Defense of the Ancients? (Pg. 2)". GotFrag. Archived from the original on November 1, 2007. Retrieved November 1, 2007.
+29. Jump up^ Fahey, Mike (February 12, 2009). "From Warcraft Obsession to Game Creation". Kotaku. Retrieved September 12, 2009.
+30. Jump up^ "Basshunter – Vi sitter i Ventrilo och spelar DotA". norwegiancharts.com. Retrieved August 7, 2007.
+31. Jump up^ "Bass hunter – Vi sitter i Ventrilo och spelar DotA". finnishcharts.com. Retrieved August 7, 2007.
+32. Jump up^ Mielke, James (July 2007). "Will Work for Vespene Gas; Ten minutes with StarCraft II lead producer Chris Sigaty". Games for Windows: The Official Magazine (8).
+33. Jump up^ O'Connor, Frank; Smith, Luke (February 19, 2008). "The Official Bungie Podcast". Bungie. Archived from the originalon April 11, 2008. Retrieved February 27, 2008.
+34. Jump up^ Purchese, Rob (March 4, 2008). "GPG "fairly certain" Demigod will make 08". Eurogamer. Retrieved March 5,2008.
+35. Jump up^ Paul, Ure (March 4, 2008). "Demigod First Look". ActionTrip. Retrieved March 12, 2008.
+36. Jump up^ Lopez, Miguel (February 21, 2008). "Demigod (PC) Preview". GameSpy. Retrieved October 16, 2008.
+37. Jump up^ Perez, Daniel (January 16, 2009). "Previews; We talk with new developer Riot Games about its strategy/RPG hybrid and the lead designer's Warcraft roots.". 1UP.com. RetrievedFebruary 7, 2009.
+38. Jump up^ Ng, Keane (July 14, 2009). "League of Legends Will Be Free to Play". The Escapist. Retrieved July 15, 2009.
+39. Jump up^ Nguyen, Thierry (September 1, 2009). "Clash of The DOTAs". 1UP.com. Retrieved October 21, 2009.
+40. Jump up^ Narcisse, Evan (October 17, 2013). "Blizzard's Diablo/Starcraft/WoW Crossover Has a New Name". Kotaku. Retrieved October 21, 2013.
+41. Jump up^ O'Conner, Alice (October 5, 2009). "DotA Dev Joins Valve, Hints at Future Game". Shacknews. Retrieved October 5,2009.
+42. Jump up^ Biessener, Adam (October 23, 2010). "Valve's New Game Announced, Detailed: Dota 2". Game Informer. RetrievedDecember 16, 2010.
+43. Jump up^ Onyett, Charles (January 8, 2011). "Valve's Next Game". IGN. Retrieved January 7, 2011.
+44. Jump up^ Plunkett, Luke (February 10, 2012). "Blizzard and Valve go to War Over DOTA Name". Kotaku.
+45. Jump up^ Hernandez, Patricia (July 9, 2013). "Valve Finally "Releases" DOTA 2". Kotaku. Retrieved July 9, 2013.
+

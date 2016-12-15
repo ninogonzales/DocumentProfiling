@@ -1,0 +1,407 @@
+Grand Theft Auto
+From Wikipedia, the free encyclopedia
+For the crime, see motor vehicle theft. For other uses, see grand theft auto.
+Grand Theft Auto
+Series logo, used since Grand Theft Auto III(2001).GenresAction-adventureDevelopers* Rockstar North
+Other[show]PublishersRockstar GamesCreators* Aaron Garbut
+* Dan Houser[1]
+* David Jones[2]
+* Leslie Benzies
+* Mike Dailly[3]
+* Sam Houser[1]PlatformsList of platforms[show]Platform of originMS-DOS
+Microsoft WindowsFirst releaseGrand Theft Auto
+October 1997Latest releaseGrand Theft Auto: Liberty City Stories (Fire OS)
+10 March 2016Grand Theft Auto is an open world action-adventure video game series created by David Jones and Mike Dailly;[3] the later titles of which were created by brothers Dan and Sam Houser, Leslie Benzies and Aaron Garbut. It is primarily developed by Rockstar North (formerly DMA Design), and published by Rockstar Games. The name of the series references the term used in the US for motor vehicle theft.
+Most games in the series are set in fictional locales modelled on American cities, usually either Liberty City, Vice City, or San Andreas, which are stand-ins for New York City, Miami, and the state of California, respectively. The first game encompassed three fictional cities, while subsequent titles tend to emphasise a single city and its outlying areas. Gameplay focuses on an open world where the player can choose missions to progress an overall story, as well as engaging in side activities, all consisting of action-adventure, driving, third-person shooting, occasional role-playing, stealth, and racingelements. The series also has elements of the earlier beat 'em up games from the 16-bit era. The series has gained controversy for its adult nature andviolent themes. The series focuses around many different protagonists who attempt to rise through the ranks of the criminal underworld, although their motives for doing so vary in each game. The antagonists are commonly characters who have betrayed the protagonist or his organisation, or characters who have the most impact impeding the protagonist's progress. The series contains satire and humour.[4]
+British video game developer DMA Design began the series in 1997. As of 2014, it has eleven stand-alone games and four expansion packs. The third chronological title, Grand Theft Auto III, was widely acclaimed, as it brought the series to a 3D setting and more immersive experience, and is considered a landmark title that has subsequently influenced many other open world action games and led to the label "Grand Theft Auto clone" on similar games. Subsequent titles would follow and build upon the concept established in Grand Theft Auto III and the series has continued receiving significant acclaim ever since. Film and music veterans have voiced characters, including Ray Liotta, Burt Reynolds, Dennis Hopper, Samuel L. Jackson, Debbie Harry, Phil Collins, Axl Rose, and Peter Fonda.[5] The series has been critically acclaimed and commercially successful, having shipped more than 235 million units, as of September 2015.[6] The Telegraph ranked the GTA series among Britain's most successful exports.[4]
+Contents
+  [hide] 
+* 1Titles
+o 1.1Main series
+o 1.2Other games
+* 2Related media
+* 3Common elements
+o 3.1Gameplay
+o 3.2Setting
+o 3.3Voice acting
+* 4Controversies
+o 4.1Grand Theft Auto
+o 4.2Grand Theft Auto III: general violence and crime
+o 4.3Vice City: ethnic discrimination
+o 4.4San Andreas: sex minigame
+o 4.5Grand Theft Auto IV: drunk driving
+o 4.6The Lost and Damned: full-frontal nudity
+o 4.7Chinatown Wars: drug dealing minigame
+o 4.8Grand Theft Auto V: torture and sexism
+* 5Reception
+o 5.1Sales
+* 6Similar games
+* 7See also
+* 8References
+* 9Further reading
+* 10External links
+Titles[edit]
+YearTitleDeveloperHome releaseUniverse[7]ConsoleComputerHandheldMobile1997Grand Theft AutoDMA DesignPS1* Windows
+* MS-DOSGBC2D1999Grand Theft Auto: London, 1969PS1* Windows
+* MS-DOS* Grand Theft Auto: London, 1961WindowsGrand Theft Auto 2* PS1
+* DreamcastWindowsGBC2001Grand Theft Auto III* PS21 2
+* Xbox* Windows
+* OS X* * iOS
+* Android
+* Fire OS3D2002Grand Theft Auto: Vice CityRockstar North* PS21 2
+* Xbox* Windows
+* OS X* * iOS
+* Android
+* Fire OS2004Grand Theft Auto: San Andreas* PS22
+* Xbox
+* 
+PS33
+* Xbox 3604* Windows
+* OS X* * iOS
+* Android
+* WP
+* Fire OSGrand Theft Auto AdvanceDigital EclipseGBA2005Grand Theft Auto: Liberty City StoriesRockstar LeedsPS21PSP* iOS
+* Android
+* Fire OS2006Grand Theft Auto: Vice City StoriesPS21PSP2008Grand Theft Auto IVRockstar North* PS3
+* Xbox 360WindowsHD2009Grand Theft Auto: The Lost and Damned* PS3
+* Xbox 360WindowsGrand Theft Auto: Chinatown WarsRockstar Leeds* PSP
+* DS* iOS
+* Android
+* Fire OSGrand Theft Auto: The Ballad of Gay TonyRockstar North* PS3
+* Xbox 360Windows2013Grand Theft Auto V* PS3
+* Xbox 360
+* 
+PS4
+* Xbox OneWindowsNotes:
+1. Available on PlayStation 3 as part of the PlayStation 2 Classics line via the PlayStation Network.
+2. Available on PlayStation 4 as part of PlayStation 2 emulation via the PlayStation Network.[8]
+3. Originally available on PlayStation 3 as part of the PlayStation 2 Classics line via the PlayStation Network, but later replaced with a HD native release.[9]
+4. Originally available on Xbox 360 as part of the Xbox Originals line via the Xbox Live Marketplace, but later replaced with a HD native release.[10]Main series[edit]
+Timeline of release years1997 –– Grand Theft Auto1998 –1999 –– Grand Theft Auto 22000 –2001 –– Grand Theft Auto III2002 –– Grand Theft Auto: Vice City2003 –2004 –– Grand Theft Auto: San Andreas2005 –2006 –2007 –2008 –– Grand Theft Auto IV2009 –2010 –2011 –2012 –2013 –– Grand Theft Auto V2014 –2015 –2016 –The Grand Theft Auto series is split into separate fictional universes, named after the primary level of graphics capability used in each era.[7] The originalGrand Theft Auto, its expansions and its sequel are considered the "2D universe". Grand Theft Auto III and its sequels are considered the "3D universe".Grand Theft Auto IV, its expansions and Grand Theft Auto V are considered the "HD universe". Each universe is considered separate with only brands, place names and background characters shared between them.[7]
+Grand Theft Auto, the first game in the series, was released for Microsoft Windows and MS-DOS in October 1997, ported to the PlayStation in 1998 and theGame Boy Color in 1999. Grand Theft Auto 2 was released in 1999 for Microsoft Windows, later receiving ports on the PlayStation, Dreamcast and Game Boy Color.[11]
+The PlayStation 2 also featured three instalments of the main series, all of which have been re-released on several platforms; a deal between Take-Two Interactive and Sony Computer Entertainment resulted in their timed exclusivity on the PlayStation 2, before receiving ports to Microsoft Windows and theXbox.[12] The 2001 title Grand Theft Auto III moved away from the two-dimension (2D) graphics used in the first two games to three-dimension (3D) computer graphics; the game features polygonal characters on pre-rendered backgrounds.[13] Grand Theft Auto: Vice City was published in 2002, and was the first to feature a speaking protagonist, voiced by Ray Liotta.[14] Grand Theft Auto: San Andreas, released in 2004, introduced various new elements, including character customisation and a large map encompassing three cities and surrounding rural area.[15]
+Two main instalments were published for the PlayStation 3 and Xbox 360. The 2008 title Grand Theft Auto IV focused on realism and detail, removing various customisation features, while adding an online multiplayer mode.[16] Grand Theft Auto V, published in 2013, featured three playable protagonists.[17]It was released to massive financial success, breaking multiple records.[18] It was later re-released with various enhancements, in 2014 for the PlayStation 4and Xbox One, and in 2015 for Microsoft Windows.[19]
+Other games[edit]
+Grand Theft Auto has spawned numerous additional games and expansion packs. In 1999, the original game received two expansion packs: Grand Theft Auto: London, 1969 and Grand Theft Auto: London, 1961.[11] Grand Theft Auto Advance, released in 2004 for the Game Boy Advance, featured a top-down perspective. Three games were released for the PlayStation Portable. The 2005 game Grand Theft Auto: Liberty City Stories is a prequel to Grand Theft Auto III, while the 2006 game Grand Theft Auto: Vice City Stories is a prequel to Vice City; both games were later ported to the PlayStation 2. In 2009, Grand Theft Auto: Chinatown Wars was released for the Nintendo DS, and later ported to the PlayStation Portable.[20] In 2009, The Lost and Damned and The Ballad of Gay Tony were released for the Xbox 360 as expansion packs to Grand Theft Auto IV; a "strategic alliance" between Rockstar and Microsoft resulted in the timed exclusivity. They were later released on Xbox 360, PlayStation 3 and Microsoft Windows as part of an expansion pack, titled Grand Theft Auto: Episodes from Liberty City.[21]
+Numerous titles in the series have received ports to mobile devices. Chinatown Wars was released for iOS in 2010 and for Android and Fire OS in 2014.[22] For their tenth anniversaries, Grand Theft Auto III and Vice City were both re-released for iOS and Android in 2011 and 2012, respectively.[23][24] In 2013, San Andreas was ported to iOS, Android & Windows Phone and RT ;[25] the mobile port was later re-released for Xbox 360 in 2014, the year of the game's tenth anniversary.[26] In 2015 Liberty City Stories was ported to iOS, Android & Fire OS.[27][28]
+Related media[edit]
+The series has been expanded into various other formats. Jacked: The Outlaw Story of Grand Theft Auto, a book written by David Kushner chronicling the development of the series, was published in 2012.[29] In March 2015, BBC Two announced The Gamechangers, a 90-minute docudrama based on the creation of Grand Theft Auto,[30] Directed by Owen Harris and written by James Wood, the drama will star Daniel Radcliffe as Rockstar president Sam Houser and Bill Paxton as disbarred attorney Jack Thompson.[31] In May 2015, Rockstar filed a lawsuit against the BBC for trademark infringement, stating that they had no involvement with the development of the film and had unsuccessfully tried to contact the BBC to resolve the matter.[32] It first aired on 15 September 2015 onBBC Two.[33]
+In 2006, McFarland & Company published The Meaning and Culture of Grand Theft Auto.[34] Compiled by Nate Garrelts, the 264-page book is a collection of essays regarding the Grand Theft Autoseries, to help audiences better understand the games and to make a point about due diligence of game criticism. The book is divided into two parts: the first part discusses the controversies surrounding the series, while the second half takes a theoretical look at the games absent of the controversy.[35]
+Common elements[edit]
+Gameplay[edit]
+Each game in this series allows players to take on the role of a criminal in the big city, typically an individual who plans to rise through the ranks of organised crime through the course of the game. The player is given various missions by kingpins and major idols in the city underworld which must be completed to progress through the storyline. Assassinations and other violent crimes are featured regularly. Occasionally taxi driving, firefighting, street racing, bus driving, or learning to fly helicopters and fixed-wing aircraft are also involved in the game.
+In later titles, notably those released after Grand Theft Auto 2, the player is given a more developed storyline in which they are forced to overcome an unfortunate event (e.g., being betrayed and left for dead), which serves as motivation for the character to advance up the criminal ladder and ultimately leads to the triumph of the character by the end of the storyline.
+The Grand Theft Auto series belongs to a genre of free-roaming role-playing video games called open world games, and grants a large amount of freedom to the player. Traditional action games are structured as a single track series of levels with linear gameplay, but in Grand Theft Auto the player can determine the missions that they want to undertake, and their relationship with various characters are changed based on these choices. Influenced by the earlier game Turbo Esprit,[36][37] the cities of the games can be roamed freely at any point in the game, and are examples of open world video game environments which offer accessible buildings with minor missions in addition to the main storyline. There are exceptions: missions follow a linear, overarching plot, and some city areas must be unlocked over the course of the game.
+Grand Theft Auto III and subsequent games have more voice acting and radio stations, which simulate driving to music with disc jockeys, radio personalities, commercials, talk radio, pop music, and American culture.
+The use of vehicles in an explorable urban environment provides a basic simulation of a working city, complete with pedestrians who generally obey traffic signals. Further details are used to flesh out an open-ended atmosphere that has been used in several other games, such as The Simpsons: Hit & Run, which has less emphasis on crime or violence, and Lego City Undercover, which reverses the roles of police officer and criminal, although the player goes undercover in gangs for a portion of the game.
+Criminal activities in Grand Theft Auto games do not go unnoticed by the police. As the player engages in these in-game illegal activities, they may gain a "wanted level", represented by a maximum of five or six stars. A small crime, such as running over a non-player character, may create a one star wanted level situation, while shooting an officer may earn more stars. As the number of stars increase, the amount and strength of the response will increase; a single star might have a few police cars chase after the player, while at 5 or 6 stars, tanks and attack helicopters will chase down the player. Many in-game missions will automatically give the player a wanted level after completing a certain event which they must then get rid of before the mission is complete. Often, trying to keep away from the police while wanted will cause the player to gain even higher wanted levels. The player can remove their character's wanted level by avoiding detection or spending in-game money at specific locations to elude the police (such as a mod shop to repaint their car). Alternatively, if the player-character dies, they will respawn at a home or hospital and the wanted level will be removed, though the player may lose money, guns, and other benefits they had before being chased. The "wanted level" gameplay concept has become common in other GTA Clones and similar open-world games.
+Setting[edit]
+The Grand Theft Auto series is set in a fictional version of the world, in a number of different time periods. The original Grand Theft Auto introduced three main cities: Liberty City, based upon New York City, Vice City, based upon Miami, and San Andreas, based upon mostly parts of California. In the first Grand Theft Auto game, San Andreas was based on San Francisco and parts of Las Vegas. Expansion packs later set the game in London.
+The second entry in the franchise, Grand Theft Auto 2, set the game in the future in a locale named "Anywhere City".
+Subsequent games in the series have re-imagined and expanded upon the original locales. Grand Theft Auto III is set in a different rendition of Liberty City only loosely based on New York City.[38] A revised Vice City and San Andreas are depicted in Vice City and San Andreas, respectively, the latter of which takes the form of an entire state, instead of a single city. The state of San Andreas is based on the states of California and Nevada, and consists of three major cities: Los Santos (Los Angeles), San Fierro (San Francisco), and Las Venturas (Las Vegas). Surrounding towns and areas of desert, water, woodland, and countryside lie between the three cities. The GTA III rendition of Liberty City is also briefly featured during one mission.
+Liberty City Stories and Vice City Stories, originally released on the PlayStation Portable handheld console and later reissued for other consoles, are set in the previous depictions of their respectiveeponymous cities, but in different decades. The maps for the two cities remain the same, with some differences in terms of buildings and geography to reflect the different time periods.
+Grand Theft Auto IV and its subsequent expansion packs The Lost and Damned and The Ballad of Gay Tony are set in a third revision of Liberty City, set in 2008, which is a closer analogue to New York City and its boroughs than the GTA III version.[39] Grand Theft Auto: Chinatown Wars is also set in this version of Liberty City, although the Alderney portion of the map is not present.[40]
+Grand Theft Auto V, released in 2013, is set in a revised depiction of San Andreas that features Los Santos (Los Angeles) to the south and the rural Blaine County to the north.[41] It includes revised landmarks such as the "Vinewood" sign (instead of Hollywood), Rockford Hills (instead of Beverly Hills), Del Perro Pier (instead of Santa Monica Pier), Los Santos International Airport (LSX) (instead of LAX), Los Santos Golf Club (instead of Los Angeles Country Club.), and Galileo Observatory (instead of Griffith Observatory). The game also features the town of Ludendorff in the fictional state of North Yankton. Los Angeles was extensively researched for Grand Theft Auto V. The team organised field research trips with tour guides and architectural historians and captured around 250,000 photos and hours of video footage during these visits.[42] Since the release of the game, hundreds of in-game buildings have been identified as being based on real-world landmarks.[43] The New Yorker's Sam Sweet notes that, with sales of game reaching thirteen million copies, "there will be more people living in the imaginary state of Los Santos than in the real city on which it was modelled."[44]
+In both Grand Theft Auto: San Andreas and Grand Theft Auto V, Los Santos and the state of San Andreas are depicted as being on an island an undetermined distance from the US mainland. In both games it is possible to circumnavigate the state by boat. Similarly, the versions of Liberty City and Alderney in Grand Theft Auto IV and expansion packs are also completely located on islands, as is Vice City. The GTA III rendition of Liberty City however, while mostly island, is connected to mainland on its Northwest corner (a region the player cannot navigate).[citation needed]
+Only the expansion packs for the original Grand Theft Auto, London, 1969 and London, 1961, set in London, have featured a location outside the United States and used a real-life location.
+Voice acting[edit]
+The series has included a wide variety of voice actors. The original Grand Theft Auto, its mission packs and sequel, as well as Grand Theft Auto Advance and Chinatown Wars did not feature any voice credited to specific roles.[45][46] The first game in the series to do so was Grand Theft Auto III which, despite a limited budget and the series' low profile at the time,[47] featured several notable actors from film and television. These included Frank Vincent, Michael Madsen and Kyle MacLachlan, who all had prominent roles. At the time it was rare for a video game to use such high-profile actors, and Grand Theft Auto III is considered a pioneer in doing so.[48] The next game, Grand Theft Auto: Vice City, featured more film actors, including Ray Liotta as the player character. Although the following title, Grand Theft Auto: San Andreas, also featured many notable film actors—such as Samuel L. Jackson, Peter Fonda and James Woods—it had been decided that the use of such actors should be reduced, particularly for leading roles. As a result, many of the prominent roles in San Andreas were voiced by lower profile actors or rappers.[citation needed]
+From Liberty City Stories through to Grand Theft Auto V, the series has continued using lesser known actors to voice main characters, but still uses celebrities and real-life radio personalities to voice the DJs of the many radio stations featured in each game. Some games also feature celebrities portraying themselves, such as Lazlow Jones, Phil Collins, Ricky Gervais and Katt Williams.[citation needed]
+Controversies[edit]
+Former lawyer Jack Thompson has been involved in a number of attempts to get families of murder victims to hold the Grand Theft Auto series accountable for the death of their loved ones. Due to his conduct in this and related cases, Thompson was disbarred in 2008[49] and was fined more than $100,000 by the Florida Bar Association.[50]
+On 20 October 2003, the families of Aaron Hamel and Kimberly Bede, two young people shot by teens William and Josh Buckner (who in statements to investigators claimed their actions were inspired by Grand Theft Auto III) filed a US$246 million lawsuit against publishers Rockstar Games, Take-Two Interactive Software, retailer Walmart, and PlayStation 2 manufacturer Sony Computer Entertainment America.[51][52] Rockstar and its parent company, Take-Two, filed for dismissal of the lawsuit, stating in US District Court on 29 October 2003 that the "ideas and concepts as well as the 'purported psychological effects' on the Buckners are protected by the First Amendment's free-speech clause". The lawyer of the victims, Jack Thompson, denied that, but failed in his attempt to move the lawsuit into a state court and under Tennessee's consumer protection act.[53] Two days later, the plaintiffs filed a Notice of Voluntary Dismissal, and the case was closed.
+In February 2005, a lawsuit was brought upon the makers and distributors of the Grand Theft Auto series claiming the games caused a teenager to shoot and kill three members of the Alabamapolice force. The shooting took place in June 2003 when Devin Moore, 17 years old at the time, was taken in for questioning by police in Fayette, Alabama regarding a stolen vehicle. Moore then grabbed a pistol from one of the police officers and shot and killed him along with another officer and dispatcher before fleeing in a police car.[54][55] One of Moore's attorneys, Jack Thompson, claimed it was Grand Theft Auto's graphic nature—with his constant playing time—that caused Moore to commit the murders, and Moore's family agrees. Damages were being sought from branches of GameStop and Wal-Mart in Jasper, Alabama, the stores from which Grand Theft Auto III and Grand Theft Auto: Vice City, respectively, were purchased and also from the games' publisher Take-Two Interactive, and the PlayStation 2 manufacturer Sony Computer Entertainment. On 29 March 2006 the case was dismissed and permission to appeal was denied.[56]
+In May 2005, Thompson appeared via satellite on the Glenn Beck program on CNN's Headline News. Thompson mentioned Devin Moore and said regarding Grand Theft Auto III and Grand Theft Auto: Vice City "There's no doubt in my mind [...] that but for Devin Moore's training on this cop killing simulator, he would not have been able to kill three cops in Fayette, Alabama who are now dead and in the ground. We are suing Take-Two, Sony, Wal-Mart, and GameStop for having trained Devin Moore to kill. He had no history of violence. No criminal record."[57]
+In September 2006, Thompson brought another lawsuit, claiming that Cody Posey played the game obsessively before murdering his father Delbert Paul Posey, stepmother Tryone Schmid, and stepsister Marilea Schmid on a ranch in Albuquerque, New Mexico. The suit was filed on behalf of the victims' families.[58] During the criminal trial, Posey's defence team argued he was abused by his father, and tormented by his stepmother.[59] Posey was also taking Zoloft at the time of the killings.[60] The suit alleged that were it not for his obsessive playing of Grand Theft Auto: Vice City, the murders would not have taken place.[61] Named in the suit were Cody Posey, Rockstar Games, Take-Two Interactive, and Sony. The suit asked for US$600 million in damages.[62]
+Several celebrities have sued Rockstar Games and/or Take-Two Interactive for violating their intellectual property or personality rights, including hip-hop artist Daz Dillinger,[63] Karen Gravano ofMob Wives,[64] and actress Lindsay Lohan.[65]
+According to The Guinness World Records 2008 and 2009 Gamer's Edition, it is the most controversial video game series in history, with over 4,000 articles published about it, which include accusations of glamorising violence, corrupting gamers, and connection to real life crimes.[66]
+Grand Theft Auto[edit]
+The game was controversial from the very first incarnation of the series.[67] Grand Theft Auto was condemned in Britain, Germany, and France due to its "extreme violence",[68] and Brazil banned it outright.[68] Publicist Max Clifford planted sensational stories in tabloids in order to help sell the first game.[67][69][70]
+Grand Theft Auto III: general violence and crime[edit]
+See also: Grand Theft Auto III controversy
+The controversies flared up again with Grand Theft Auto III, since the 3D graphics made the violence more realistic, and players could pay the services of prostitutes to recover their health, and if they wished, killing them to get some of their money back.[70]
+There is also criticism from the focus on illegal activities in comparison with traditional "heroic" roles that other games offer. The main character can commit a wide variety of crimes and violent acts while dealing with only temporary consequences, including the killing of policemen and military personnel.
+Vice City: ethnic discrimination[edit]
+See also: Grand Theft Auto: Vice City controversy
+The sixth game in the series, Grand Theft Auto: Vice City, also came under criticism. One mission in particular, in which the player must instigate a gang war between Haitian and Cuban gangs, has been controversial. Haitian and Cuban anti-defamation groups criticised the game.
+Jean-Robert Lafortune of the Haitian American Grassroots Coalition is quoted as saying that "The game shouldn't be designed to destroy human life, it shouldn't be designed to destroy an ethnic group," for this and similar scenarios, including lines in the game's script such as "kill the Haitian dickheads" said by character "Diaz" during an altercation between the player and a Haitian gang. After the threat of a lawsuit by the Haitian-American Grassroots Coalition, Rockstar removed the word "Haitians" from this phrase in the game's subtitles.[71]
+San Andreas: sex minigame[edit]
+Main article: Hot Coffee mod
+San Andreas was criticised initially due to its "gangster" elements, which include drugs, prostitution, and murder; but later due to the discovery of disabled interactive sex scenes, nicknamed Hot Coffee, which was a sexual minigame that was cut from the game, but remained in the game code, which was discovered in both the console and Windows versions of the game. Dubbed the "Hot Coffee mod", the minigame allowed players to have sex with their in-game girlfriends.
+After the release of Grand Theft Auto: San Andreas, modders managed to find the unused code in the game and released unofficial patches for the Windows and Xbox (with a modchip) versions as well as a PlayStation 2 version through the use of an Action Replay code enabling the player to engage in these sexual mini-games (dubbed "Hot Coffee" in reference to a euphemism for sex used in the game). These mini-games were left partially intact in the game's code. This prompted application of an AO (Adults Only) ESRB rating to the version of the game containing the leftover code. Take-Two Interactive was forced to re-release the game in order to restore the M (Mature) rating. A class action lawsuit against Take-Two was also filed as a result of the "Hot Coffee" code.[72][73]
+Grand Theft Auto IV: drunk driving[edit]
+Main article: Controversies surrounding Grand Theft Auto IV
+One of the controversies involved with this game was Mothers Against Drunk Driving's (MADD) criticism of the ability to drink and drive as a new feature. MADD had even requested ESRB to change the rating of the game from "M" for ages seventeen and up to "AO", for adults only, because they felt it was inappropriate for children, even at the age of seventeen, to experience drunk driving in such a manner.[74] In the final game, drunk driving is a playable event, but it is a crime that automatically generates a wanted rating and main playable character Niko Bellic loudly (and drunkenly) proclaims that it is a "bad idea" and that he "should know better".[75]
+Notably, it is impossible to drive while drunk in the GTA IV expansions, The Lost and Damned and The Ballad of Gay Tony. These were released after the criticism. It is, however, possible to drive drunk again in the successor, Grand Theft Auto V.[76]
+The Lost and Damned: full-frontal nudity[edit]
+See also: Grand Theft Auto: The Lost and Damned controversy
+The Lost and Damned expansion pack was condemned by US parents group Common Sense Media who issued a public warning against the pack's content due to a full-frontal nudity scene during one of the cutscenes. They claimed the game was "more controversial than its predecessors" because it featured "full frontal male nudity".[77]
+Chinatown Wars: drug dealing minigame[edit]
+See also: Grand Theft Auto: Chinatown Wars controversy
+There has been some controversy over a drug dealing minigame[78] along with comments that some Nintendo games are being aimed at children (despite the fact that the game was rated Mature). The drug dealing mini-game allows players to peddle six types of drugs around the city, but the profit the player makes depends on market conditions, which will be based on the area in which they deal, and the level of regular service this area receives from them.[79][80]
+“Nintendo wanted us to make Grand Theft Auto, and we wanted to make a game on their platform. They didn't want us to make a Grand Theft Auto for kids, and we weren't interested in making a game we wouldn't normally make.”—?Dan Houser[81]Grand Theft Auto V: torture and sexism[edit]
+
+The mission "By the Book" involves a sequence wherein players use torture techniques including waterboarding to interrogate a man.
+Main article: Controversies surrounding Grand Theft Auto V
+A segment in the latest instalment caused controversy for scenes containing player initiated torture. The mission "By the Book" features graphic depictions of kneecapping, electrocution, dental extraction and waterboarding, and the player is required to perform the acts in order to progress in the game.[82][83][84]
+UK-based charity Freedom from Torture publicly condemned the use of torture scenes in Grand Theft Auto V. The organisation who work to rehabilitate survivors of torture, joined other human rights charities who were outraged at a torture scene in the game in which the players have to pull teeth and electrocute an unarmed man in order to extract information. The charity's CEO Keith Best stated: “Rockstar North has crossed a line by effectively forcing people to take on the role of a torturer and perform a series of unspeakable acts if they want to achieve success in the game."[82]
+The game has also been accused of sexism. The Los Angeles Times considered the game's satirical portrayals of women uncreative, and added that violent and sexist themes hurt the game experience.[85] Edge noted that while "every female in the game exists solely to be sneered, leered or laughed at", it treated its all-male lead characters in a similar vein through their stereotyped tendencies towards violence.[86] Sam Houser, Rockstar Games co-founder, felt that the development team sometimes overlooked their portrayal of women in Grand Theft Auto games, but that the weight towards male characters "fit with the story we wanted to tell".[87]
+Reception[edit]
+Aggregate review scores
+As of 5 February 2015.GameGameRankingsMetacriticGrand Theft Auto(PC) 79%[88]
+(PS1) 68%[89]
+(GBC) 57%[90](GBA) 68[91]London, 1969(PC) 75%[92]
+(PS1) 69%[93]-Grand Theft Auto 2(PC) 72%[94]
+(DC) 71%[95]
+(PS1) 70%[96]
+(GBC) 35%[97](PS1) 70[98]Grand Theft Auto III(PS2) 95%[99]
+(PC) 94%[100](PS2) 97[101]
+(PC) 93[102]Vice City(PS2) 94%[103]
+(PC) 94%[104](PS2) 95[105]
+(PC) 94[106]San Andreas(PS2) 95%[107]
+(Xbox) 92%[108]
+(PC) 92%[109](PS2) 95[110]
+(Xbox) 93[111]
+(PC) 93[112]Advance(GBA) 70%[113](GBA) 68[114]Liberty City Stories(PSP) 87%[115]
+(PS2) 77%[116](PSP) 88[117]
+(PS2) 78[118]Vice City Stories(PSP) 85%[119]
+(PS2) 76%[120](PSP) 86[121]
+(PS2) 75[122]Grand Theft Auto IV(PS3) 97%[123]
+(X360) 97%[124]
+(PC) 88%[125](PS3) 98[126]
+(X360) 98[127]
+(PC) 90[128]The Lost and Damned(PC) 94%[129]
+(PS3) 94%[130]
+(X360) 90%[131](X360) 90[132]
+(PS3) 88[133]Chinatown Wars(NDS) 93%[134]
+(PSP) 90%[135](NDS) 93[136]
+(PSP) 90[137]The Ballad of Gay Tony(PC) 90%[138]
+(PS3) 90%[139]
+(X360) 89%[140](X360) 89[141]
+(PS3) 87[142]Grand Theft Auto V(XONE) 98%[143]
+(PS3) 97%[144]
+(PS4) 96%[145]
+(X360) 96%[146]
+(PC) 95%[147](XONE) 97[148]
+(PS3) 97[149]
+(PS4) 97[150]
+(X360) 97[151]
+(PC) 96[152]Ever since 2001, the Grand Theft Auto series has been a major success, both critically and financially. It has generated perfect or near perfect reviews and scores on almost all of the games; by September 2013, the series sold over 150 million copies worldwide,[153] and as of August 2015, Grand Theft Auto shipped over 220 million units worldwide.[6] The Times Online reported that Grand Theft Auto IV recorded 609,000 copies in the UK on its first day of release.[154] In its first week, Grand Theft Auto IV sold approximately 6 million copies worldwide and grossed over $500 million.[155]
+In 2006, Grand Theft Auto was voted one of Britain's top 10 designs among Concorde, Red Telephone Boxes, Catseyes, The Underground, Mini, Tomb Raider and the World Wide Web.[156]
+The series has broken several records, resulting in Guinness World Records awarding the series 10 world records in the Gamer's Edition 2008. These records include Most Guest Stars in a Video Game Series, Largest Voice Cast in a Video Game (Grand Theft Auto: San Andreas), Largest In-Game Soundtrack (Grand Theft Auto: San Andreas) as well as Most Successful Entertainment Launch of All Time (Grand Theft Auto V). Guinness World Records also ranked Grand Theft Auto in third place on their list of top 50 console games of all time based on initial impact and lasting legacy.[157] Grand Theft Auto: San Andreas is listed as the most successful game on the PlayStation 2 according to The Guinness World Records 2009 Gamer's Edition.
+Grand Theft Auto III, San Andreas and Vice City currently lie at the 2nd, 5th and 6th highest rated PlayStation 2 games on Metacritic, respectively,[158] while Chinatown Wars is rated the best game on the Nintendo DS[159] and the second best on the PlayStation Portable,[160] and Grand Theft Auto IV is currently rated the second best game ever, with a score of 98, only trailing behind The Legend of Zelda: Ocarina of Time. Also, Vice City, Grand Theft Auto III, San Andreas, Grand Theft Auto IV and Grand Theft Auto V lie at 11th, 24th, 27th, 93rd and 2nd best PC games of all time, on Metacritic.[161][162] Along with this, The Lost and Damned and The Ballad of Gay Tony are currently placed 35th and 59th in the top Xbox 360 games.[163]
+Sales[edit]
+YearGameSalesAcquired label(s)1997Grand Theft Auto1 million+[164]PS1 Greatest Hits, Platinum1999Grand Theft Auto: London, 1969Grand Theft Auto: London, 1961Grand Theft Auto 2PS1 Greatest Hits2001Grand Theft Auto III17.5 million[165]PS2 Greatest Hits, Platinum2002Grand Theft Auto: Vice City20 million[165]PS2 Greatest Hits, Platinum2004Grand Theft Auto: San Andreas27.5 million[166][167]* PS2 Greatest Hits, Platinum
+* Xbox Platinum Hits
+* 
+PS3 Greatest Hits
+* Xbox 360 Platinum HitsGrand Theft Auto Advance100,0002005Grand Theft Auto: Liberty City Stories8 million[165]* PSP Greatest Hits, Platinum
+* PS2 Platinum2006Grand Theft Auto: Vice City Stories4.5 million[165]* PSP Greatest Hits, Platinum
+* PS2 Platinum2008Grand Theft Auto IV25 million+[168]* PS3 Greatest Hits, Platinum
+* Xbox 360 Platinum Hits2009Grand Theft Auto: The Lost and Damned1 million+[169][170]Grand Theft Auto: Chinatown Wars200,000[171]PSP Greatest HitsGrand Theft Auto: The Ballad of Gay TonyGrand Theft Auto: Episodes from Liberty City160,000+[172]* PS3 Greatest Hits
+* Xbox 360 Platinum Hits2013Grand Theft Auto V65 million[173]Total series sales: 235 million+[6][174]Similar games[edit]
+See also: Grand Theft Auto clone
+The release of Grand Theft Auto III is treated as a major event in the history of video games, much like the release of Doom nearly a decade earlier.[175]
+During interviews to mark the 10th anniversary of the release of Grand Theft Auto III, producer of the Street Fighter series, Yoshinori Ono, said "It would be no exaggeration to say that Grand Theft Auto III changed the industry, and we can basically separate the time before and after its emergence as distinct eras." In the same article Bethesda studios director, Todd Howard, said "The mark of a truly great game is how many people try to recapture or emulate it and fail. There's a long line behind this one."[176]
+Subsequent games that follow this formula of driving and shooting have been called "Grand Theft Auto clones". Some reviewers even extended this label to the Driver series, even though this series began years before the release of Grand Theft Auto III.[177] Grand Theft Auto clones are a type of 3D action-adventure game,[178][179][180][181][182] where players are given the ability to drive any vehicle or fire any weapon as they explore an open world.[183] These games often incorporate violent and criminal themes. Notable games that are comparable to Grand Theft Auto are Saints Row,[184] Scarface: The World Is Yours,[185] True Crime: Streets of LA,[186][187] Watch Dogs,[188] Sleeping Dogs,[189] Just Cause,[190] Mafia[191] and The Godfather.[192]
+See also[edit]
+* List of best-selling video game franchises
+* Video games portal
+* 1990s portal
+* 2000s portal
+* 2010s portal
+* United Kingdom portal
+References[edit]
+1. ^ Jump up to:a b "IGN Presents: The History of Grand Theft Auto". IGN. 28 March 2008. Retrieved 19 June 2014.
+2. Jump up^ David Jones Returns To APB – Edge Magazine. Edge-online.com (12 May 2011). Retrieved on 6 September 2012.
+3. ^ Jump up to:a b "GTA: "Max Clifford made it all happen" | GamesIndustry International". Gamesindustry.biz. 22 October 2012. Retrieved 22 June 2013.
+4. ^ Jump up to:a b "GTA 5: a Great British export". The Telegraph. 17 September 2015.
+5. Jump up^ Orland, Kyle (14 September 2011). "Grand Theft Auto IV Passes 22M Shipped, Franchise Above 114M". Gamasutra. Retrieved 21 September 2011.
+6. ^ Jump up to:a b c Haywald, Justin (August 21, 2015). "Grand Theft Auto Series Passes 220 Million Sales Worldwide". GameSpot. CBS Interactive. Retrieved August 26,2015.
+7. ^ Jump up to:a b c Rockstar. "Grand Theft Auto III: Your Questions Answered – Part One (Claude, Darkel & Other Characters)". Rockstar: The “universes” are the worlds interpreted at different definitions, 2D, 3D and high definition, so we felt brands and radio / back ground characters would exist in both, but 3 dimensional characters would not.
+8. Jump up^ Yoshida, Shuhei (4 December 2015). "8 fan-favourite PS2 games launch on PS4 tomorrow". PlayStation Blog. Sony Computer Entertainment. Retrieved5 December 2015.
+9. Jump up^ Harradence, Michael (16 November 2015). "GTA San Andreas for PS3 gets rated for upcoming re-release". PlayStation Universe. Retrieved 18 November 2015.
+10. Jump up^ Makuch, Eddie (23 October 2014). "GTA: San Andreas Re-Release Coming to Xbox 360 [UPDATE]". GameSpot. CBS Interactive. Retrieved 25 October 2014.
+11. ^ Jump up to:a b Usher, William (14 March 2015). "Grand Theft Auto Drama Heading to BBC Television". Cinema Blend. Retrieved 14 March 2015.
+12. Jump up^ Walker, Trey (21 May 2002). "E3 2002: Sony gets Grand Theft Auto exclusive".GameSpot. CBS Interactive. Retrieved 14 March 2015.
+13. Jump up^ Moses, Travis (23 January 2008). "Preview : Grand Theft Auto IV". Gamepro.com. Archived from the original on 21 July 2009. Retrieved 21 July2009.
+14. Jump up^ McLaughlin, Rus; Thomas, Lucas M. (6 May 2013). "IGN Presents The History of Grand Theft Auto". IGN. Ziff Davis. p. 3. Retrieved 14 March 2015.
+15. Jump up^ McLaughlin, Rus; Thomas, Lucas M. (6 May 2013). "IGN Presents The History of Grand Theft Auto". IGN. Ziff Davis. p. 4. Retrieved 14 March 2015.
+16. Jump up^ McWhertor, Michael (2 August 2007). "Take-Two Execs Explain Grand Theft Auto IV Delay". Kotaku. Gawker Media. Retrieved 14 March 2015.
+17. Jump up^ R* Q (16 September 2013). "Grand Theft Auto V Reviews". Rockstar Games. Retrieved 25 September 2013.
+18. Jump up^ Karmali, Luke (9 October 2013). "GTA 5 Currently Holds Seven Guinness World Records". IGN. Retrieved 10 October 2013.
+19. Jump up^ R* Q (12 September 2014). "Grand Theft Auto V Release Dates and Exclusive Content Details for PlayStation 4, Xbox One and PC". Rockstar Newswire.Rockstar Games. Retrieved 12 September 2014.
+20. Jump up^ Robert Purchese (22 June 2009). "Grand Theft Auto: Chinatown Wars for PSP". Eurogamer.net. Retrieved 21 July 2009.
+21. Jump up^ Ashcraft, Brian (29 January 2010). "Grand Theft Auto: Episodes from Liberty City Announced for PS3 and PC". Kotaku. Gawker Media. Retrieved 14 March 2015.
+22. Jump up^ R* Q (18 December 2014). "Grand Theft Auto: Chinatown Wars Updated for iOS and Now Available for Android and Amazon Devices". Rockstar Newswire.Rockstar Games. Retrieved 14 March 2015.
+23. Jump up^ Q, R*. "Announcing Grand Theft Auto III: 10th Anniversary Edition for Select Mobile Devices & the Limited Edition Claude Action Figure".
+24. Jump up^ "Grand Theft Auto: Vice City 10th Anniversary Edition Coming to iOS and Android Devices on December 6th". Rockstar Games. 21 November 2012. Retrieved30 April 2013.
+25. Jump up^ Johnson, Leif (18 December 2013). "Grand Theft Auto: San Andreas iOS Review". IGN. Retrieved 3 March 2014.
+26. Jump up^ Makuch, Eddie (23 October 2014). "GTA: San Andreas Re-Release Coming to Xbox 360 [UPDATE]". GameSpot. CBS Interactive. Retrieved 26 October 2014.
+27. Jump up^ Vas, Gergo (17 December 2015). "Kotaku". Kotaku. Retrieved 18 December2015.
+28. Jump up^ Fingas, Roger (17 December 2015). "GTA: Liberty City Stories comes to iOS, Pixelmator adds Apple Pencil tilt to more brushes". Apple community. Retrieved18 December 2015.
+29. Jump up^ GameSpot Staff (1 March 2012). "By the Book: Jacked: The Outlaw Story of Grand Theft Auto". GameSpot. CBS Interactive. Retrieved 14 March 2015.
+30. Jump up^ Makuch, Eddie (12 March 2015). "Grand Theft Auto TV Drama Announced".GameSpot. CBS Interactive. Retrieved 14 March 2015.
+31. Jump up^ Makuch, Eddie (22 April 2015). "GTA Drama Casts Daniel Radcliffe and Bill Paxton". GameSpot. CBS Interactive. Archived from the original on 23 April 2015. Retrieved 23 April 2015.
+32. Jump up^ Krupa, Daniel (21 May 2015). "Rockstar Games Files Lawsuit Against the BBC". IGN. Ziff Davis. Archived from the original on 23 May 2015. Retrieved23 May 2015.
+33. Jump up^ Rymer, Barbara. "The Gamechangers". BBC. Retrieved 5 September 2015.
+34. Jump up^ Dredge, Stuart. "Top 10 things you never knew about Grand Theft Auto (because you're not brainy enough)". TechDigest. Retrieved 17 June 2015.
+35. Jump up^ Quijano-Cruz, Johansen. "Using Literary Theory to Read Games: Power, Ideology, and Repression in Atlus' Growlanser: Heritage of War". Eludamos. Journal for Computer Game Culture. Retrieved 17 June 2015.
+36. Jump up^ Retrorevival: Turbo Esprit, Retro Gamer issue 20, page 48. Imagine Publishing, 2006.
+37. Jump up^ Charlie Brooker's Gameswipe, BBC Television, 2009. "Grand Theft Auto ... directly inspired by the pioneering Spectrum game Turbo Esprit"
+38. Jump up^ Goldstein, Hilary (28 March 2008). "Grand Theft Auto IV: Building a Brave New World". IGN. Retrieved 3 May 2008.
+39. Jump up^ Goldstein, Hilary (29 April 2008). "Grand Theft Auto IV: Special Edition Review".IGN. Ziff Davis. Archived from the original on 13 September 2014. Retrieved17 September 2015.
+40. Jump up^ Reparaz, Mike (1 April 2009). "Liberty City landmarks: GTA IV vs Chinatown Wars". GamesRadar. Future plc. Retrieved 17 September 2015.
+41. Jump up^ Rockstar Games Grand Theft Auto V Official Announcement. Retrieved 26 November 2012.
+42. Jump up^ Bernstein, Joseph (13 August 2013). ""Way Beyond Anything We've Done Before": Building The World Of "Grand Theft Auto V"". BuzzFeed. Retrieved3 September 2013.
+43. Jump up^ "Los Santos Landmarks Map". 1 December 2013. Retrieved 18 April 2014.
+44. Jump up^ Sweet, Sam (20 September 2013). "Idling in Los Santos". The New Yorker. Retrieved 29 September 2013.
+45. Jump up^ "Grand Theft Auto instruction manual (PC) (in English)" (PDF). DMA Design. 1997. Retrieved 2008-06-01.
+46. Jump up^ "Grand Theft Auto 2 instruction manual (PC) (in English)" (PDF). Rockstar Games. 1999. Retrieved 2008-06-01.
+47. Jump up^ "Grand Theft Auto: the Inside Story". Edge magazine. 2008-03-16. Retrieved2008-05-11.
+48. Jump up^ "Video game review: Grand Theft Auto III". London: The Daily Telegraph. 2008-04-15. Retrieved 2008-06-01.
+49. Jump up^ "Disbarred!", GamePolitics.com, 25 September 2008
+50. Jump up^ "Judge's report recommending Permanent disbarment for Jack Thompson", Gamepolitics.com, 9 July 2008
+51. Jump up^ "Lawsuit filed against Sony, Wal-Mart over game linked to shootings". CNN. Archived from the original on 3 May 2006. Retrieved 6 May 2006.
+52. Jump up^ "Families sue over Grand Theft Auto III-inspired shooting". GameSpot. Retrieved 6 May 2006.
+53. Jump up^ "Rockstar seeks to dismiss Grand Theft Auto III lawsuit". GameSpot. Retrieved6 May 2006.
+54. Jump up^ "Suit: Video Game Sparked Police Shootings". ABC News. 7 March 2005. Archived from the original on 7 March 2005.
+55. Jump up^ "Grand Theft Auto sparks another lawsuit". GameSpot. Retrieved 18 August2006.
+56. Jump up^ Reeves, Jay "Court rejects appeal in Alabama suit blaming game for slayings".Associated Press, 29 March 2006.
+57. Jump up^ CNN Headline News – Grand Theft Morality Pt.2 YouTube. Retrieved 7 May 2008.
+58. Jump up^ "Video-game maker blamed in '04 killing". The Albuquerque Tribune. Retrieved27 September 2006.
+59. Jump up^ "Jack Thompson Lawsuit to be Filed in Albuquerque". Game Politics.com. 25 September 2006. Archived from the original on 11 October 2007. Retrieved11 July 2007.
+60. Jump up^ "Vera Ockenfels, the Cody Posey defence team's mitigation specialist, discusses his conviction (transcript) (Feb. 8, 2006)". CourtTV. Archived from the originalon 2 May 2008. Retrieved 27 September 2006.
+61. Jump up^ "Antigame Crusader in ABQ". ABQnewsSeeker. Retrieved 27 September 2006.
+62. Jump up^ "Jack Thompson becomes boring". Joystiq. 27 September 2006. Retrieved11 July 2007.
+63. Jump up^ Staff (11 October 2013). "Daz Dillinger accuses Grand Theft Auto V of Stealing his Beats". Pitchfork Media. Retrieved 14 October 2013.
+64. Jump up^ Jackson, Mike (27 February 2014). "Mob Wives' Karen Gravano suing Rockstar over GTA V character". Computer and Video Games. Retrieved 15 April 2014.
+65. Jump up^ "Lindsay Lohan is suing the makers of Grand Theft Auto V". Newsbeat. BBC. 2 July 2014. Retrieved 2 July 2014.
+66. Jump up^ Guinness World Records (ed.). Guinness World Records 2009 Gamer's Edition. pp. 108–109. ISBN 1-904994-45-8.
+67. ^ Jump up to:a b gamesindustry.biz (11 September 2003). "Grand Theft Auto in the dock over JP road killing". The Register. Retrieved 21 July 2009.
+68. ^ Jump up to:a b McLaughlin, Rus; Thomas, Lucas M. (6 May 2013). "IGN Presents: The History of Grand Theft Auto". IGN. Retrieved 21 December 2013.
+69. Jump up^ Peter Ross (27 April 2008). "Grand Theft Auto IV Joyride". Scotland on Sunday
+70. ^ Jump up to:a b Sam Gibson (29 October 2004). "The history of Grand Theft Auto". Play.tm
+71. Jump up^ "Take-Two self-censoring Vice City". GameSpot. Retrieved 2 May 2008.
+72. Jump up^ "IGN: Hot Coffee Lawsuit Finally Mopped Up". IGN. Retrieved 2 May 2008.
+73. Jump up^ "Take-Two Announces 'Hot Coffee' Lawsuit Settlements". Gamasutra. Retrieved2 May 2008.
+74. Jump up^ Sinclair, Brendan (30 April 2008). "Mothers against Grand Theft Auto IV's drunk driving". GameSpot. Retrieved 13 October 2008.
+75. Jump up^ Grand Theft Auto IV, Xbox 360/PlayStation 3 release.
+76. Jump up^ "GTA V players can drive drunk as ESRB states". Attack of the Fanboy. 21 August 2013. Retrieved 5 September 2015.
+77. Jump up^ "Parents Group Warns Against Lost And Damned Nudity". Wired.com. 21 February 2009.
+78. Jump up^ Langshaw, Mark (24 April 2011). "Feature: Video Game Controversy". Digital Spy. Retrieved 20 August 2011.
+79. Jump up^ L.B. Jeffries. "Grand Theft Auto: Chinatown Wars Features Drug-Dealing Minigame". Escapistmagazine.com. Retrieved 20 August 2011.
+80. Jump up^ "Rockstar: Nintendo wanted a bad ass Grand Theft Auto title". Infendo.com. 24 September 2008. Retrieved 20 August 2011.
+81. Jump up^ "Rockstar: Nintendo didn't want us to make Grand Theft Auto for kids". MaxConsole. 25 September 2008. Retrieved 20 August 2011.
+82. ^ Jump up to:a b Alex Hern (18 September 2013). "Grand Theft Auto 5 under fire for graphic torture scene | Technology". theguardian.com. Retrieved 5 November 2013.
+83. Jump up^ Martin Bagot (17 September 2013). "Grand Theft Auto 5 torture row: Teachers slam scenes of extreme violence in most expensive game ever made - Mirror Online". Mirror.co.uk. Retrieved 5 November 2013.
+84. Jump up^ "Why Grand Theft Auto 5's most controversial mission may be unpleasant and repulsive but there is a message behind the degradation - Dan Silver - Mirror Online". Mirror.co.uk. 17 September 2013. Retrieved 5 November 2013.
+85. Jump up^ Martens, Todd (20 September 2013). "'Grand Theft Auto V' review: Stubborn sexism, violence ruin game play". Los Angeles Times. Tribune Company. Retrieved 8 October 2013.
+86. Jump up^ Edge Staff (November 2013). "Play: Economies of scale". Edge. Future plc(259): 85–88.
+87. Jump up^ Suellentrop, Chris (16 September 2013). "Grand Theft Auto V Is a Return to the Comedy of Violence". The New York Times. Retrieved 4 October 2013.
+88. Jump up^ "Grand Theft Auto Reviews". GameRankings. Retrieved 12 August 2012.
+89. Jump up^ "Grand Theft Auto Reviews". GameRankings. Retrieved 12 August 2012.
+90. Jump up^ "Grand Theft Auto Reviews". GameRankings. Retrieved 12 August 2012.
+91. Jump up^ "Grand Theft Auto Reviews". Metacritic. Retrieved 9 April 2015.
+92. Jump up^ "Grand Theft Auto: Mission Pack #1: London 1969 Reviews". GameRankings. Retrieved 12 August 2012.
+93. Jump up^ "Grand Theft Auto: London, 1969 Reviews". GameRankings. Retrieved12 August 2012.
+94. Jump up^ "Grand Theft Auto 2 Reviews". GameRankings. Retrieved 12 August 2012.
+95. Jump up^ "Grand Theft Auto 2 Reviews". GameRankings. Retrieved 12 August 2012.
+96. Jump up^ "Grand Theft Auto 2 Reviews". GameRankings. Retrieved 12 August 2012.
+97. Jump up^ "Grand Theft Auto 2 Reviews". GameRankings. Retrieved 12 August 2012.
+98. Jump up^ "Grand Theft Auto 2 Reviews". Metacritic. Retrieved 12 August 2012.
+99. Jump up^ "Grand Theft Auto III Reviews". GameRankings. Retrieved 12 August 2012.
+100. Jump up^ "Grand Theft Auto III Reviews". GameRankings. Retrieved 12 August 2012.
+101. Jump up^ "Grand Theft Auto III Reviews". Metacritic. Retrieved 12 August 2012.
+102. Jump up^ "Grand Theft Auto III Reviews". Metacritic. Retrieved 12 August 2012.
+103. Jump up^ "Grand Theft Auto: Vice City Reviews". GameRankings. Retrieved 12 August2012.
+104. Jump up^ "Grand Theft Auto: Vice City Reviews". GameRankings. Retrieved 12 August2012.
+105. Jump up^ "Grand Theft Auto: Vice City Reviews". Metacritic. Retrieved 12 August 2012.
+106. Jump up^ "Grand Theft Auto: Vice City Reviews". Metacritic. Retrieved 12 August 2012.
+107. Jump up^ "Grand Theft Auto: San Andreas Reviews". GameRankings. Retrieved12 August 2012.
+108. Jump up^ "Grand Theft Auto: San Andreas Reviews". GameRankings. Retrieved12 August 2012.
+109. Jump up^ "Grand Theft Auto: San Andreas Reviews". GameRankings. Retrieved12 August 2012.
+110. Jump up^ "Grand Theft Auto: San Andreas Reviews". Metacritic. Retrieved 12 August2012.
+111. Jump up^ "Grand Theft Auto: San Andreas Reviews". Metacritic. Retrieved 12 August2012.
+112. Jump up^ "Grand Theft Auto: San Andreas Reviews". Metacritic. Retrieved 12 August2012.
+113. Jump up^ "Grand Theft Auto Reviews". GameRankings. Retrieved 12 August 2012.
+114. Jump up^ "Grand Theft Auto Reviews". Metacritic. Retrieved 12 August 2012.
+115. Jump up^ "Grand Theft Auto: Liberty City Stories Reviews". GameRankings. Retrieved12 August 2012.
+116. Jump up^ "Grand Theft Auto: Liberty City Stories Reviews". GameRankings. Retrieved12 August 2012.
+117. Jump up^ "Grand Theft Auto: Liberty City Stories Reviews". Metacritic. Retrieved12 August 2012.
+118. Jump up^ "Grand Theft Auto: Liberty City Stories Reviews". Metacritic. Retrieved12 August 2012.
+119. Jump up^ "Grand Theft Auto: Vice City Stories Reviews". GameRankings. Retrieved12 August 2012.
+120. Jump up^ "Grand Theft Auto: Vice City Stories Reviews". GameRankings. Retrieved12 August 2012.
+121. Jump up^ "Grand Theft Auto: Vice City Stories Reviews". Metacritic. Retrieved 12 August2012.
+122. Jump up^ "Grand Theft Auto: Vice City Stories Reviews". Metacritic. Retrieved 12 August2012.
+123. Jump up^ "Grand Theft Auto IV Reviews". GameRankings. Retrieved 12 August 2012.
+124. Jump up^ "Grand Theft Auto IV Reviews". GameRankings. Retrieved 12 August 2012.
+125. Jump up^ "Grand Theft Auto IV Reviews". GameRankings. Retrieved 12 August 2012.
+126. Jump up^ "Grand Theft Auto IV Reviews". Metacritic. Retrieved 12 August 2012.
+127. Jump up^ "Grand Theft Auto IV Reviews". Metacritic. Retrieved 12 August 2012.
+128. Jump up^ "Grand Theft Auto IV Reviews". Metacritic. Retrieved 12 August 2012.
+129. Jump up^ "Grand Theft Auto IV: The Lost and Damned Reviews". GameRankings. Retrieved 12 August 2012.
+130. Jump up^ "Grand Theft Auto IV: The Lost and Damned Reviews". GameRankings. Retrieved 12 August 2012.
+131. Jump up^ "Grand Theft Auto IV: The Lost and Damned Reviews". GameRankings. Retrieved 12 August 2012.
+132. Jump up^ "Grand Theft Auto IV: The Lost and Damned Reviews". Metacritic. Retrieved12 August 2012.
+133. Jump up^ "Grand Theft Auto IV: The Lost and Damned Reviews". Metacritic. Retrieved12 August 2012.
+134. Jump up^ "Grand Theft Auto: Chinatown Wars Reviews". GameRankings. Retrieved12 August 2012.
+135. Jump up^ "Grand Theft Auto: Chinatown Wars Reviews". GameRankings. Retrieved12 August 2012.
+136. Jump up^ "Grand Theft Auto: Chinatown Wars Reviews". Metacritic. Retrieved 12 August2012.
+137. Jump up^ "Grand Theft Auto: Chinatown Wars Reviews". Metacritic. Retrieved 12 August2012.
+138. Jump up^ "Grand Theft Auto IV: The Ballad of Gay Tony Reviews". GameRankings. Retrieved 12 August 2012.
+139. Jump up^ "Grand Theft Auto IV: The Ballad of Gay Tony Reviews". GameRankings. Retrieved 12 August 2012.
+140. Jump up^ "Grand Theft Auto IV: The Ballad of Gay Tony Reviews". GameRankings. Retrieved 12 August 2012.
+141. Jump up^ "Grand Theft Auto IV: The Ballad of Gay Tony Reviews". Metacritic. Retrieved12 August 2012.
+142. Jump up^ "Grand Theft Auto IV: The Ballad of Gay Tony Reviews". Metacritic. Retrieved12 August 2012.
+143. Jump up^ "Grand Theft Auto V Reviews". GameRankings. Retrieved 5 February 2015.
+144. Jump up^ "Grand Theft Auto V Reviews". GameRankings. Retrieved 5 February 2015.
+145. Jump up^ "Grand Theft Auto V Reviews". GameRankings. Retrieved 5 February 2015.
+146. Jump up^ "Grand Theft Auto V Reviews". GameRankings. Retrieved 5 February 2015.
+147. Jump up^ "Grand Theft Auto V Reviews". GameRankings. Retrieved 5 February 2015.
+148. Jump up^ "Grand Theft Auto V Reviews". Metacritic. Retrieved 5 February 2015.
+149. Jump up^ "Grand Theft Auto V Reviews". Metacritic. Retrieved 5 February 2015.
+150. Jump up^ "Grand Theft Auto V Reviews". Metacritic. Retrieved 5 February 2015.
+151. Jump up^ "Grand Theft Auto V Reviews". Metacritic. Retrieved 5 February 2015.
+152. Jump up^ "Grand Theft Auto V Reviews". Metacritic. Retrieved 5 February 2015.
+153. Jump up^ Stephen McGinty (20 September 2013). "Grand Theft Auto V: Scottish game conquering world". scotsman.com. Retrieved 13 October 2013.
+154. Jump up^ Sabbagh, Dan. "Grand Theft Auto IV records 609,000 first-day sales", The Times, 1 May 2008
+155. Jump up^ Franklin Paul (7 May 2008). "Take-Two's Grand Theft Auto 4 sales top $500 million". Reuters. Retrieved 8 May 2008.
+156. Jump up^ "Grand Theft Auto Voted British Icon".[better reference needed]
+157. Jump up^ Ivan, Tom (28 February 2009). "Guinness ranks top 50 games of all time".Computer and Video Games. Retrieved 14 March 2009.
+158. Jump up^ "Legacy Platform Games at Metacritic – Metacritic". Metacritic.com. Retrieved5 November 2013.
+159. Jump up^ "New and Upcoming Nintendo 3DS Games at Metacritic – Metacritic". Metacritic.com. Retrieved 5 November 2013.
+160. Jump up^ "New and Upcoming PSP Games at Metacritic – Metacritic". Metacritic.com. Retrieved 5 November 2013.
+161. Jump up^ "New and Upcoming PC Games at Metacritic – Metacritic". Metacritic.com. 27 October 2013. Retrieved 5 November 2013.
+162. Jump up^ "Best PC Video Games of All Time". Metacritic. Retrieved 2016-08-14.
+163. Jump up^ "New and Upcoming Xbox 360 Games at Metacritic – Metacritic". Metacritic.com. 27 October 2013. Retrieved 5 November 2013.
+164. Jump up^ Kushner, David (2012). "Chapter 7: Gang Warfare". Jacked: The Outlaw Story of Grand Theft Auto. Wiley. p. 59. ISBN 978-0-470-93637-5. By 1999, GTA had sold more than a million copies worldwide but remained little more than a culty underground anomaly.
+165. ^ Jump up to:a b c d Internet Archive Wayback Machine. Web.archive.org (8 April 2008). Retrieved on 6 September 2012.
+166. Jump up^ GTA IV Overtakes San Andreas in Lifetime Sales [Correction]. Kotaku.com (15 September 2011). Retrieved on 6 September 2012.
+167. Jump up^ CCBN – Lobby. Corporate-ir.net (26 September 2007). Retrieved on 6 September 2012.
+168. Jump up^ "Grand Theft Auto series shipments reach 125 million". GameSpot.com. 27 November 2012. Retrieved 22 June 2013.
+169. Jump up^ Analyst: Lost & Damned May Sell 2m by Year-End by Kris Graft (6 March 2009) Edge Magazine.com
+170. Jump up^ Analyst: Lost And Damned Sales At 1 Million, All-New GTA In 2010. Kotaku.com (6 March 2009). Retrieved on 6 September 2012.
+171. Jump up^ thorsen-ink. "Only 200,000 Chinatown Wars sold in March? – GameSpot Rumor Control". GameSpot.com. Retrieved 21 July 2009.
+172. Jump up^ GTA: Episodes from Liberty City sells under 160K in Oct.-Nov. by Tor Thorsen (11 December 2009) GameSpot.com
+173. Jump up^ Makuch, Eddie (18 May 2016). "GTA 5 Reaches 60 Million Copies Shipped".IGN. j2 Global. Retrieved 23 May 2016.
+174. Jump up^ "Take-Two Interactive Software - Investor Relations - SEC Filings". Retrieved7 February 2016.
+175. Jump up^ Game Informer Issue 138 p.73
+176. Jump up^ Page 2 – What devs think of Grand Theft Auto III. GamesRadar (18 October 2011). Retrieved on 6 September 2012.
+177. Jump up^ Jeff Gerstmann (14 March 2006). "Driver: Parallel Lines Review". GameSpot. Retrieved 26 October 2016.
+178. Jump up^ Jonathan Parkyn (18 April 2006). "Review: The Godfather 3D action game".Personal Computer World. Retrieved 25 July 2008.
+179. Jump up^ Steve Tilley (1 April 2007). "Wii 'Godfather' for newbies only". CANOE. Retrieved 25 July 2008.
+180. Jump up^ Sam Bishop (16 May 2003). "E3 2003: True Crime: Streets of L.A. Update". IGN. Retrieved 25 July 2008.
+181. Jump up^ Will Tuttle (30 August 2006). "GameSpy Review — Saints Row". GameSpy. Retrieved 25 July 2008.
+182. Jump up^ Blake Snow (30 January 2008). "Just Cause 2 announced for Xbox 360, PS3, PC". GamePro. Archived from the original on 1 February 2008. Retrieved24 July 2008.
+183. Jump up^ "Crackdown Community Q&A". EuroGamer. 27 March 2007. Retrieved 25 July2008.
+184. Jump up^ Douglass C. Perry, Saints Row Review, Saints Row 2 IGN, 28 August 2006
+185. Jump up^ Chris Roper, Scarface: The World Is Yours Review, IGN, 6 October 2006
+186. Jump up^ True Crime: Streets of LA, IGN, 31 October 2003
+187. Jump up^ "Gameranking PS2 Average 77%". Gamerankings.com. 3 November 2003. Retrieved 16 March 2011.
+188. Jump up^ Independent.ie http://www.independent.ie/entertainment/games/all-eyes-on-watch-dogs-but-have-we-seen-it-before-30313403.html, Monday 9 June 2014
+189. Jump up^ "5 Ways Sleeping Dogs Improves On Grand Theft Auto". Kotaku. 27 August 2012. Retrieved 27 October 2016.
+190. Jump up^ "What GTA V can learn from Just Cause 2". Metro News. 17 November 2012. Retrieved 5 September 2015.
+191. Jump up^ Lemne, Bengt (26 August 2010). "Mafia II vs GTA IV". Gamereactor UK. Retrieved 5 September 2015.
+192. Jump up^ Totilo, Stephen (9 January 2009). "What Godfather II Did Better Than GTA".Kotaku. Retrieved 5 September 2015.
+

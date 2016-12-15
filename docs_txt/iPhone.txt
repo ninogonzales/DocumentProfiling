@@ -1,0 +1,873 @@
+iPhone
+From Wikipedia, the free encyclopedia
+This article is about the line of smartphones by Apple. For other uses, see iPhone (disambiguation).
+iPhone
+The front face of the Jet Black iPhone 7DeveloperApple Inc.ManufacturerFoxconn, Pegatron
+(contract manufacturers)TypeSmartphoneRelease date* 1st gen: June 29, 2007
+* 3G: July 11, 2008
+* 3GS: June 19, 2009
+* 4: June 24, 2010
+* 4S: October 14, 2011
+* 5: September 21, 2012
+* 5C, 5S: September 20, 2013
+* 6 / 6 Plus: September 19, 2014
+* 6S / 6S Plus: September 25, 2015
+* SE: March 31, 2016
+* 7 / 7 Plus: September 16, 2016Units sold1 billion+ [1]Operating systemiOSSystem-on-chip used* 1st gen and 3G: S5L8900
+* 3GS: S5PC100
+* 4: Apple A4
+* 4S: Apple A5
+* 5 / 5C: Apple A6
+* 5S: Apple A7
+* 6 / 6 Plus: Apple A8
+* 6S / 6S Plus and SE: Apple A9
+* 7 / 7 Plus: Apple A10CPU* 1st gen and 3G:
+* Samsung 32-bit RISC ARM1176JZ(F)-S v1.0[2]
+* 3GS: 600 MHz ARM Cortex-A8[3]
+* 4: 800 MHz ARM Cortex-A8[4]
+* 4S: 800 MHz dual-core ARM Cortex-A9[5]
+* 5 / 5C: 1.3 GHz dual-core Apple A6
+* 5S: 1.3 GHz 64-bit dual-core Apple A7
+* 6 / 6 Plus: 1.4 GHz 64-bit dual-core Apple A8
+* 6S / 6S Plus and SE: 1.85 GHz 64-bit dual-core Apple A9
+* 7 / 7 Plus: 2.23 GHz 64-bit quad-core Apple A10Memory* 1st gen and 3G:
+* 128 MB LPDDR RAM (137 MHz)
+* 3GS: 256 MB LPDDR RAM (200 MHz)
+* 4: 512 MB LPDDR2 RAM (200 MHz)
+* 4S: 512 MB LPDDR2 RAM
+* 5 / 5C: 1 GB LPDDR2 RAM
+* 5S and 6 / 6 Plus: 1 GB LPDDR3RAM
+* 6S / 6S Plus, SE and 7: 2 GB LPDDR4 RAM
+* 7 Plus: 3 GB LPDDR4 RAMStorage4, 8, 16, 32, 64, 128, or 256 GBflash memory[6]Display* 1st gen and 3G:
+* 3.5 in (89 mm)
+* 3:2 aspect ratio, scratch-resistant[7] glossy glass covered screen, 262,144-color (18-bit) TNLCD, 480 × 320 px (HVGA) at 163 ppi, 200:1 contrast ratio
+* 3GS:
+* In addition to prior, features a fingerprint-resistant oleophobiccoating,[8] and 262,144-color (18-bit) TN LCD with hardware spatial dithering[9]
+* 4 and 4S:
+* 3.5 in (89 mm); 3:2 aspect ratio,aluminosilicate glass covered 16,777,216-color (24-bit) IPS LCD screen, 960 × 640 px at 326 ppi, 800:1 contrast ratio, 500 ?cd?m² max brightness
+* 5 / 5C / 5S / SE:
+* 4.0 in (100 mm); 16:9 aspect ratio; 1136 × 640 px screen resolution at 326 ppi
+* 6 / 6S / 7:
+* 4.7 in (120 mm); 16:9 aspect ratio; 1334 × 750 px screen resolution at 326 ppi
+* 6 Plus / 6S Plus / 7 Plus:
+* 5.5 in (140 mm); 16:9 aspect ratio; 1920 × 1080 px screen resolution at 401 ppiGraphics* 1st gen and 3G:
+* PowerVR MBX Lite 3D GPU[10](103 MHz)
+* 3GS: PowerVR SGX535 GPU
+* (150 MHz)[11][12]
+* 4: PowerVR SGX535 GPU (200 MHz)[11][12]
+* 4S: PowerVR SGX543MP2 (2-core) GPU
+* 5 / 5C: PowerVR SGX543MP3 (3-core) GPU
+* 5S: PowerVR G6430 (4-core) GPU
+* 6 / 6 Plus: PowerVR GX6450 (4-core) GPU
+* 6S / 6S Plus and SE: PowerVR GT7600 (6-core) GPU[13]Sound* Bluetooth
+* stereo speaker
+* microphone
+* 3.5mm stereo audio jack
+* lightning portConnectivity1st gen, 3G, and 3GS:
+
+Wi-Fi (802.11 b/g)
+4, and 4S:
+Wi-Fi (802.11 b/g/n)
+5, 5C, and 5S:
+Wi-Fi (802.11 a/b/g/n)
+6 / 6 Plus, 6S / 6S Plus:, and SE:
+Wi-Fi (802.11 a/b/g/n/ac)
+1st gen, 3G, 3GS, and 4:
+Bluetooth 2.1 + EDR
+4S, 5, 5C, 5S, and 6 / 6 Plus:
+Bluetooth 4.0
+6S / 6S Plus, SE and 7 / 7 Plus:
+Bluetooth 4.2
+GSM models also include
+ 
+LTE
+700, 2100 MHz
+ 
+UMTS /HSDPA/HSPA+ / DC-HSDPA
+850, 900, 1900, 2100 MHz
+ 
+GSM / EDGE 
+850, 900, 1800, 1900 MHz
+CDMA model also includes
+ 
+LTE
+700 MHz
+ 
+CDMA/EV-DO Rev. A
+800, 1900 MHz
+ 
+UMTS /HSDPA/HSPA+/DC-HSDPA 
+850, 900, 1900, 2100 MHz
+ 
+GSM /EDGE 
+850, 900, 1800, 1900 MHzPower* Built-in rechargeable Lithium-ion battery
+* 1st gen:3.7 V 5.18 W·h (1400 mA·h)
+* 3G: 3.7 V 4.12 W·h (1150 mA·h)
+* 3GS 3.7 V 4.51 W·h (1219 mA·h)
+* 4: 3.7 V 5.25 W·h (1420 mA·h)
+* 4S: 3.7 V 5.3 W·h (1432 mA·h)
+* 5: 3.8 V 5.45 W·h (1440 mA·h)
+* 5C: 3.8 V 5.73 W·h (1510 mA·h)
+* 5S: 3.8 V 5.92 W·h (1560 mA·h)
+* 6: 3.82 V 6.91 W·h (1810 mA·h)
+* 6 Plus: 3.82 V 11.1 W·h(2915 mA·h)
+* 6S: 3.82 V 6.55 W·h (1715 mA·h)
+* 6S Plus: 3.8 V 10.45 W·h(2750 mA·h)
+* SE: 3.82 V 6.21 W·h (1624 mA·h)
+* 7: 3.8 V 7.45 W·h (1960 mA·h)
+* 7 Plus: 3.82 V 11.10 W·h(2900 mA·h)Online services* iTunes Store
+* App Store
+* iCloud
+* iBooks
+* Podcast
+* Apple Music
+* PassbookDimensions* 1st gen:
+* 115 mm (4.5 in) H
+* 61 mm (2.4 in) W
+* 11.6 mm (0.46 in) D
+* 3G & 3GS:
+* 115.5 mm (4.55 in) H
+* 62.1 mm (2.44 in) W
+* 12.3 mm (0.48 in) D
+* 4 & 4S:
+* 115.2 mm (4.54 in) H
+* 58.6 mm (2.31 in) W
+* 9.3 mm (0.37 in) D
+* 5, 5S & SE:
+* 123.8 mm (4.87 in) H
+* 58.6 mm (2.31 in) W
+* 7.6 mm (0.30 in) D
+* 5C:
+* 124.4 mm (4.90 in) H
+* 59.2 mm (2.33 in) W
+* 8.97 mm (0.353 in) D
+* 6:
+* 138.1 mm (5.44 in) H
+* 67 mm (2.6 in) W
+* 6.9 mm (0.27 in) D
+* 6 Plus:
+* 158.1 mm (6.22 in) H
+* 77.8 mm (3.06 in) W
+* 7.1 mm (0.28 in) D
+* 6S & 7:
+* 138.3 mm (5.44 in) H
+* 67.1 mm (2.64 in) W
+* 7.1 mm (0.28 in) D
+* 6S Plus & 7 Plus:
+* 158.2 mm (6.23 in) H
+* 77.9 mm (3.07 in) W
+* 7.3 mm (0.29 in) DWeight* 1st gen and 3GS:
+* 135 g (4.8 oz)
+* 3G: 133 g (4.7 oz)
+* 4: 137 g (4.8 oz)
+* 4S: 140 g (4.9 oz)
+* 5 and 5S:
+* 112 g (4.0 oz)
+* 5C: 132 g (4.7 oz)
+* 6: 129 g (4.6 oz)
+* 6 Plus: 172 g (6.1 oz)
+* 6S: 143 g (5.0 oz)
+* 6S Plus: 192 g (6.8 oz)
+* SE: 113 g (4.0 oz)
+* 7: 138 g (4.9 oz)
+* 7 Plus: 188 g (6.6 oz)Related articles* iPad
+* iPod Touch
+* (Comparison)Websitewww.apple.com/iphoneiPhone (/?a?fo?n/ EYE-fohn) is a line of smartphones designed and marketed by Apple Inc. They run Apple's iOS mobile operating system.[14] Thefirst generation iPhone was released on June 29, 2007; the most recent iPhone model is the iPhone 7, which was unveiled at a special event on September 7, 2016.[15][16]
+The user interface is built around the device's multi-touch screen, including a virtual keyboard. The iPhone has Wi-Fi and can connect to cellular networks. An iPhone can shoot video (though this was not a standard feature until the iPhone 3GS), take photos, play music, send and receive email,browse the web, send and receive text messages, follow GPS navigation, record notes, perform mathematical calculations, and receive visual voicemail.[17] Other functions—video games, reference works, social networking, etc.—can be enabled by downloading mobile apps. As of June 2016, Apple's App Store contained more than 2 million applications available for the iPhone.[18]
+Apple has released ten generations of iPhone models, each accompanied by one of the ten major releases of the iOS operating system. The original1st-generation iPhone was a GSM phone and established design precedents, such as a button placement that has persisted throughout all releases and a screen size maintained for the next four iterations. The iPhone 3G added 3G network support, and was followed by the 3GS with improved hardware, the 4 with a metal chassis, higher display resolution and front-facing camera, and the 4S with improved hardware and the voice assistantSiri. The iPhone 5 featured a taller, 4-inch display and Apple's newly introduced Lightning connector. In 2013, Apple released the 5S with improved hardware and a fingerprint reader, and the lower-cost 5C, a version of the 5 with colored plastic casings instead of metal. They were followed by the larger iPhone 6, with models featuring 4.7 and 5.5-inch displays. The iPhone 6S was introduced the following year, which featured hardware upgrades and support for pressure-sensitive touch inputs, as well as the SE—which featured hardware from the 6S but the smaller form factor of the 5S. In 2016, Apple unveiled the iPhone 7 and 7 Plus, which add water resistance, improved system and graphics performance, a new dual-camera setup on the Plus model, new color options, and remove of the 3.5 mm headphone jack found on previous phones.[19]
+The iPhone's commercial success has been credited with reshaping the smartphone industry and helping to make Apple one of the world's most valuable publicly traded companies by 2011.[20] The original iPhone was one of the first phones to use a design featuring a slate format with a touchscreen interface.[21] Almost all modern smartphones have replicated this style of design.[citation needed]
+In the US, the iPhone holds the largest share of the smartphone market. As of late 2015, the iPhone had a 43.6% market share, followed bySamsung (27.6%), LG (9.4%), and Motorola (4.8%).[22]
+Contents
+  [hide] 
+* 1History and availability
+o 1.1Sales and profits
+o 1.2Apple Upgrade Program
+o 1.3Legacy
+* 2Production
+* 3Hardware
+o 3.1Screen and input
+o 3.2Sensors
+* 3.2.1Proximity sensor
+* 3.2.2Ambient light sensor
+* 3.2.3Accelerometer
+* 3.2.4Magnetometer
+* 3.2.5Gyroscopic sensor
+* 3.2.6Radio
+* 3.2.6.1Fingerprint sensor
+o 3.3Audio and output
+o 3.4Battery
+o 3.5Camera
+o 3.6Storage
+o 3.7SIM card
+o 3.8Liquid contact indicators
+o 3.9Included items
+* 4Software
+o 4.1Interface
+o 4.2Phone
+o 4.3Multimedia
+o 4.4Internet connectivity
+o 4.5Text input
+o 4.6Email and text messages
+o 4.7Third-party applications
+* 5Accessibility features
+* 6Models
+* 7Intellectual property
+* 8Secret tracking
+* 9Encryption and intelligence agency access
+* 10Restrictions
+o 10.1Activation
+o 10.2Unapproved third-party software and jailbreaking
+o 10.3SIM unlocking
+* 10.3.1United States
+* 10.3.2United Kingdom
+* 10.3.3Australia and other countries
+* 11Legal battles over brand name
+o 11.1Mexico
+o 11.2Brazil
+o 11.3Philippines
+* 12See also
+* 13References
+* 14External links
+History and availability
+
+Main article: History of iPhone
+See also: List of iOS devices
+Development of what was to become the iPhone began in 2004, when Apple started to gather a team of 1000 employees to work on the highly confidential "Project Purple",[23] including Jonathan Ive, the designer behind the iMac and iPod.[24] Apple CEO Steve Jobs steered the original focus away from a tablet, like the iPad, and towards a phone.[25] Apple created the device during a secretive collaboration with AT&T Mobility—Cingular Wireless at the time—at an estimated development cost of US$150 million over thirty months.[26]
+Apple rejected the "design by committee" approach that had yielded the Motorola ROKR E1, a largely unsuccessful collaboration with Motorola. Instead, Cingular gave Apple the liberty to develop the iPhone's hardware and software in-house[27][28] and even paid Apple a fraction of its monthly service revenue (until the iPhone 3G),[29] in exchange for four years of exclusive US sales, until 2011.
+Jobs unveiled the iPhone to the public on January 9, 2007, at the Macworld 2007 convention at the Moscone Center in San Francisco.[30] The two initial models, a 4 GB model priced at US$499 and an 8 GB model at US$599 (both requiring a 2-year contract), went on sale in the United States on June 29, 2007, at 6:00 pm local time, while hundreds of customers lined up outside the stores nationwide.[31] The passionate reaction to the launch of the iPhone resulted in sections of the media dubbing it the 'Jesus phone'.[32][33] Following this successful release in the US, the first generation iPhone was made available in the UK, France, and Germany in November 2007, and Ireland and Austria in the spring of 2008.
+
+Worldwide iPhone availability:
+  iPhone available since its original release
+  iPhone available since the release of iPhone 3G
+  Coming soon
+On July 11, 2008, Apple released the iPhone 3G in twenty-two countries, including the original six.[34] Apple released the iPhone 3G in upwards of eighty countries and territories.[35] Apple announced the iPhone 3GS on June 8, 2009, along with plans to release it later in June, July, and August, starting with the US, Canada and major European countries on June 19. Many would-be users objected to the iPhone's cost,[36] and 40% of users had household incomes over US$100,000.[37]
+The back of the original first generation iPhone was made of aluminum with a black plastic accent. The iPhone 3G and 3GS feature a full plastic back to increase the strength of the GSM signal.[38] The iPhone 3G was available in an 8 GB black model, or a black or white option for the 16 GB model. The iPhone 3GS was available in both colors, regardless of storage capacity.
+The iPhone 4 has an aluminosilicate glass front and back with a stainless steel edge that serves as the antennas. It was at first available in black; the white version was announced, but not released until April 2011, 10 months later.
+The iPhone has gained positive reviews from such critics as David Pogue[39] and Walt Mossberg.[40][41] The iPhone attracts users of all ages,[37] and besides consumer use, the iPhone has also been adopted for business purposes.[42]
+Users of the iPhone 4 reported dropped/disconnected telephone calls when holding their phones in a certain way. This became known asantennagate.[43]
+On January 11, 2011, Verizon announced during a media event that it had reached an agreement with Apple and would begin selling a CDMA iPhone 4. Verizon said it would be available for pre-order on February 3, with a release set for February 10.[44][45] In February 2011, the Verizon iPhone accounted for 4.5% of all iPhone ad impressions in the US on Millennial Media's mobile ad network.[46]
+From 2007 to 2011, Apple spent $647 million on advertising for the iPhone in the US.[23]
+On Tuesday, September 27, Apple sent invitations for a press event to be held October 4, 2011, at 10:00 am at the Cupertino Headquarters to announce details of the next generation iPhone, which turned out to be iPhone 4S. Over 1 million 4S models were sold in the first 24 hours after its release in October 2011.[47] Due to large volumes of the iPhone being manufactured and its high selling price, Apple became the largest mobile handset vendor in the world by revenue, in 2011, surpassing long-time leader Nokia.[48] American carrier C Spire Wireless announced that it would be carrying the iPhone 4S on October 19, 2011.[49]
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37 million iPhones, at an average selling price of nearly $660. The average selling price has remained fairly constant for most of the phone's lifespan, hovering between $622 and $660.[50] The production price of the iPhone 4S was estimated by IHS iSuppli, in October 2011, to be $188, $207 and $245, for the 16 GB, 32 GB and 64 GB models, respectively.[51] Labor costs are estimated at between $12.50 and $30 per unit, with workers on the iPhone assembly line making $1.78 an hour.[52]
+In February 2012, ComScore reported that 12.4% of US mobile subscribers used an iPhone.[53] Approximately 6.4 million iPhones are active in the US alone.[37]
+On September 12, 2012, Apple announced the iPhone 5. It has a 4-inch display, up from its predecessors' 3.5-inch screen. The device comes with the same 326 pixels per inch found in the iPhone 4 and 4S. The iPhone 5 has the SoC A6 processor, the chip is 22% smaller than the iPhone 4S' A5 and is twice as fast, doubling the graphics performance of its predecessor. The device is 18% thinner than the iPhone 4S, measuring 7.6 millimetres (0.3 in), and is 20% lighter at 112 grams (4 oz).
+On July 6, 2013, it was reported that Apple was in talks with Korean mobile carrier SK Telecom to release the next generation iPhone with LTE Advanced technology.[54]
+On July 22, 2013, the company's suppliers said that Apple is testing out larger screens for the iPhone and iPad. "Apple has asked for prototype smartphone screens larger than 4 inches and has also asked for screen designs for a new tablet device measuring slightly less than 13 inches diagonally, they said."[55]
+On September 10, 2013, Apple unveiled two new iPhone models during a highly anticipated press event in Cupertino. The iPhone 5C, a mid-range-priced version of the handset that is designed to increase accessibility due to its price is available in five colors (green, blue, yellow, pink, and white) and is made of plastic. The iPhone 5S comes in three colors (black, white, and gold) and the home button is replaced with a fingerprint scanner (Touch ID). Both phones shipped on September 20, 2013.[56]
+On September 9, 2014, Apple revealed the iPhone 6 and the iPhone 6 Plus at an event in Cupertino. Both devices had a larger screen than their predecessor, at 4.7 and 5.5 inches respectively.[57]
+In January 2015, "Apple stands on second slot i.e only 31% in US market".[58] Competing devices with Android operating system have a market share approximately 62% of the US, 82.7% of the Chinese market, and 73.3% of the European market (countries such as the UK, France, Germany Spain and Italy).
+In 2016, Apple unveiled the iPhone 7 and 7 Plus, which add water resistance, improved system and graphics performance, a new dual-camera setup on the Plus model, new color options, and remove the 3.5 mm headphone jack.[19]
+Sales and profits
+Apple sold 6.1 million first generation iPhone units over five quarters.[59] Sales in the fourth quarter of 2008, temporarily surpassed those of Research In Motion's (RIM) BlackBerry sales of 5.2 million units, which briefly made Apple the third largest mobile phone manufacturer by revenue, after Nokiaand Samsung[60] (However, some of this income is deferred[61]). Recorded sales grew steadily thereafter, and by the end of fiscal year 2010, a total of 73.5 million iPhones were sold.[62]
+By 2010, the iPhone had a market share of barely 4% of all cellphones, however Apple pulled in more than 50% of the total profit that global cellphone sales generate.[63] Apple sold 14.1 million iPhones in the third quarter of 2010, representing a 91% unit growth over the year-ago quarter, which was well ahead of IDC's latest published estimate of 64% growth for the global smartphone market in the September quarter. Apple's sales surpassed that of Research in Motion's 12.1 million BlackBerry units sold in their most recent quarter ended August 2010.[64] In the United States market alone for the third quarter of 2010, while there were 9.1 million Android-powered smartphones shipped for 43.6% of the market, Apple iOS was the number two phone operating system with 26.2% but the 5.5 million iPhones sold made it the most popular single device.[65]
+On March 2, 2011, at the iPad 2 launch event, Apple announced that they had sold 100 million iPhones worldwide.[66] As a result of the success of the iPhone sales volume and high selling price, headlined by the iPhone 4S, Apple became the largest mobile handset vendor in the world by revenue in 2011, surpassing long-time leader Nokia.[48] While the Samsung Galaxy S II has proven more popular than the iPhone 4S in parts of Europe, the iPhone 4S is dominant in the United States.[67]
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37 million iPhones, at an average selling price of nearly $660. The average selling price has remained fairly constant for most of the phone's lifespan, hovering between $622 and $660.[50]
+For the eight largest phone manufacturers in Q1 2012, according to Horace Dediu at Asymco, Apple and Samsung combined to take 99% of industry profits (HTC took the remaining 1%, while RIM, LG, Sony Ericsson, Motorola, and Nokia all suffered losses), with Apple earning 73 cents out of every dollar earned by the phone makers. As the industry profits grew from $5.3 billion in the first quarter of 2010 to $14.4 billion in the first quarter of 2012 (quadruple the profits in 2007),[68][69] Apple had managed to increase its share of these profits. This is due to increasing carrier subsidies and the high selling prices of the iPhone, which had a negative effect on the wireless carriers (AT&T Mobility, Verizon, and Sprint) who have seen their EBITDA service margins drop as they sold an increasing number of iPhones.[70][71][72] By the quarter ended March 31, 2012, Apple's sales from the iPhone alone (at $22.7 billion) exceeded the total of Microsoft from all of its businesses ($17.4 billion).[73]
+In the fourth quarter of 2012, the iPhone 5 and iPhone 4S were the best-selling handsets with sales of 27.4 million (13% of smartphones worldwide) and 17.4 million units, respectively, with the Samsung Galaxy S III in third with 15.4 million. According to Strategy Analytics' data, this was "an impressive performance, given the iPhone portfolio’s premium pricing," adding that the Galaxy S III’s global popularity "appears to have peaked" (the Galaxy S III was touted as an iPhone-killer by some in the press when it was released[74][75]). While Samsung has led in worldwide sales of smartphones, Apple's iPhone line has still managed to top Samsung's smartphone offerings in the United States,[76] with 21.4% share and 37.8% in that market, respectively. iOS grew 3.5% to a 37.8%, while Android slid 1.3% to fall to a 52.3% share.[77]
+The continued top popularity of the iPhone despite growing Android competition was also attributed to Apple being able to deliver iOS updates over the air, while Android updates are frequently impeded by carrier testing requirements and hardware tailoring, forcing consumers to purchase a new Android smartphone to get the latest version of that OS.[78] However, by 2013, Apple's market share had fallen to 13.1%, due to the surging popularity of the Android offerings.[79]
+Apple announced on September 1, 2013, that its iPhone trade-in program would be implemented at all of its 250 specialty stores in the US. For the program to become available, customers must have a valid contract and must purchase a new phone, rather than simply receive credit to be used at a later date. A significant part of the program's goal is to increase the number of customers who purchase iPhones at Apple stores rather than carrier stores.[80]
+On September 20, 2013, the sales date of the iPhone 5S and 5C models, the longest ever queue was observed at the New York City flagship Apple store, in addition to prominent queues in San Francisco, US and Canada; however, locations throughout the world were identified for the anticipation of corresponding consumers.[81] Apple also increased production of the gold-colored iPhone 5S by an additional one-third due to the particularly strong demand that emerged.[82] Apple had decided to introduce a gold model after finding that gold was seen as a popular sign of a luxury product among Chinese customers.[83]
+Apple released its opening weekend sales results for the 5C and 5S models, showing an all-time high for the product's sales figures, with 9 million handsets sold—the previous record was set in 2012, when 5 million handsets were sold during the opening weekend of the 5 model. This was the first time that Apple has simultaneously launched two models and the inclusion of China in the list of markets contributed to the record sales result.[84] Apple also announced that, as of September 23, 2013, 200 million devices were running the iOS 7 update, making it the "fastest software upgrade in history."[85]
+An Apple Store located at the Christiana Mall in Newark, Delaware, US claimed the highest iPhones sales figures in November 2013. The store's high sales results are due to the absence of a sales tax in the state of Delaware.[86]
+The finalization of a deal between Apple and China Mobile, the world's largest mobile network, was announced in late December 2013. The multi-year agreement provides iPhone access to over 760 million China Mobile subscribers.[87]
+Apple Upgrade Program
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (November 2015) (Learn how and when to remove this template message)The Apple Upgrade Program was designed for consumers to be able to purchase an iPhone 6s or 6s plus directly from Apple by paying monthly installments for 24 months. The benefit of this program is that consumers can trade in their iPhone every 12 months for the latest iPhone models directly through Apple, without having to wait till their carrier contract ends. Each iPhone bought under this program will include 2 years of Apple Care+ protection plan and will not be network locked, hence it can be used with any carrier.[88]
+Although the program has benefits, there are downsides. For instance, the plan does not include cell phone service. Apple will only send the unlocked iPhone itself, so consumers will need to pay for their cell phone service separately. In addition, it can be more costly to pay for the iPhone over 24 months, than paying up front.[89]
+Legacy
+Before the release of the iPhone, handset manufacturers such as Nokia and Motorola were enjoying record sales of cell phones based more on fashion and brand rather than technological innovation.[90] The smartphone market, dominated at the time by BlackBerry OS and Windows Mobile devices, was a "staid, corporate-led smartphone paradigm" focused on enterprise needs. Phones at the time were designed around carrier and business limits which were conservative with regards to bandwidth usage and battery life.[91][92] Phones were sold in a very large number of models, often segmented by marketing strategy, confusing customers and sapping engineering resources.[93][94] For example, phones marketed at business were often deliberately stripped of cameras or the ability to play music and games.[95] Apple's approach was to deliberately simplify its product line by offering just one model a year for all customers, while making it an expensive, high-end product.
+Apple's marketing, developing from the success of iPod campaigns, allowed the phone to become a mass-market product with many buyers on launch day. Some market research has found that, unusually for a technology product, iPhone users are disproportionately female.[96] Ars Technica noted in 2012 that Apple had avoided 'patronizing' marketing to female customers, a practice used (often to sell low-quality, high-priced products) by many of its competitors.[97]
+When then-CEO of Research in Motion Mike Lazaridis pried open an iPhone, his impression was of a Mac stuffed into a cellphone, as it used much more memory and processing power than the smartphones on the market at the time.[91][92] With its capacitive touchscreen and consumer-friendly design, the iPhone fundamentally changed the mobile industry, with Steve Jobs proclaiming in 2007, that the phone was not just a communication tool but a way of life.[98]
+The dominant mobile operating systems at the time such as Symbian, BlackBerry OS, and Windows Mobile were not designed to handle additional tasks beyond communication and basic functions. These operating systems never focused on applications and developers, and due to infighting among manufacturers as well as the complexity of developing on their low-memory hardware, they never developed a thriving ecosystem like Apple's App Store or Android's Google Play.[98][99] IPhone OS (renamed iOS in 2010) was designed as a robust OS with capabilities such as multitasking and graphics in order to meet future consumer demands.[95] Many services were provided by mobile carries, who often extensively customized devices. Meanwhile, Apple's decision to base its OS on OS X had the unexpected benefit of allowing OS X developers to rapidly expand into iOS development.[100] Rival manufacturers have been forced to spend more on software and development costs to catch up to the iPhone. The iPhone's success has led to a decline in sales of high-end fashion phones and business-oriented smartphones such as Vertu and BlackBerry and respectively, as well as Nokia.[98][101] Nokia realised the limitations of its operating system Symbian and attempted to develop a more advanced system, Maemo, without success. It ultimately agreed to a technology-sharing deal and then a takeover from Microsoft.[102]
+Production
+Up to the iPhone 4, all iPhone models, as well as other iOS devices were manufactured exclusively by Foxconn, based in Taiwan. In 2011, after Tim Cook became CEO of the company, Apple changed its outsourcing strategy, for the first time increasing its supply partners. The iPhone 4s in 2012, was the first model which was manufactured simultaneously by two stand-alone companies; Foxconn as well as Pegatron, also based in Taiwan. Although Foxconn is still responsible for the larger share of production, Pegatron's orders have been slowly increased, with the company being tasked with producing a part of the iPhone 5C line in 2013, and 30% of the iPhone 6 devices in 2014. The 6 Plus model is being produced solely by Foxconn.[103]
+Hardware
+Screen and input
+The touchscreen on the first five generations is a 9 cm (3.5 in) liquid crystal display with scratch-resistant glass, while the one on the iPhone 5 is 4 inches.[7] The capacitive touchscreen is designed for a bare finger, or multiple fingers for multi-touch sensing. The screens on the first three generations have a resolution of 320×480 (HVGA) at 163 ppi; those on the iPhone 4 and iPhone 4S have a resolution of 640×960 at 326 ppi, and the iPhone 5, 640×1136 at 326 ppi. All iPhones were and still are equipped with LCDs. The initial models were using twisted-nematic (TN) LCDs. Starting with iPhone 4, the technology was changed to in-plane switching (IPS) LCDs. The iPhone 5 model's screen results in an aspect ratio of approximately 16:9.
+The touch and gesture features of the iPhone are based on technology originally developed by FingerWorks.[104] Most gloves and styli prevent the necessary electrical conductivity;[105][106][107][108]although capacitive styli can be used with iPhone's finger-touch screen. The iPhone 3GS and later also feature a fingerprint-resistant oleophobic coating.[109]
+
+The top and side of an iPhone 5S, externally identical to the iPhone 5. From left to right, sides: wake/sleep button, silence switch, volume up, and volume down.
+The iPhone has a minimal hardware user interface, featuring five buttons. The only physical menu button is situated directly below the display, and is called the "Home button" because it closes the active app and navigates to the home screen of the interface. The home button is denoted not by a house, as on many other similar devices, but a rounded square, reminiscent of the shape of icons on the home screen. However, the Home button on iPhones with Apple'sfingerprint recognition feature Touch ID (which use the Home button as the fingerprint sensor) have no symbol.
+A multifunction sleep/wake button is located on the top of the device. It serves as the unit's power button, and also controls phone calls. When a call is received, pressing the sleep/wake button once silences the ringtone, and when pressed twice transfers the call to voicemail. Situated on the left spine are the volume adjustment controls. The iPhone 4 has two separate circular buttons to increase and decrease the volume; all earlier models house two switches under a single plastic panel, known as a rocker switch, which could reasonably be counted as either one or two buttons.
+Directly above the volume controls is a ring/silent switch that when engaged mutes telephone ringing, alert sounds from new & sent emails, text messages, and other push notifications, camera shutter sounds, Voice Memo sound effects, phone lock/unlock sounds, keyboard clicks, and spoken autocorrections. This switch does not mute alarm sounds from the Clock application, and in some countries or regions it will not mute the camera shutter or Voice Memo sound effects.[110] All buttons except Home were made of plastic on the original first generation iPhone and metal on all later models. The touchscreen furnishes the remainder of the user interface.
+A software update in January 2008[111] allowed the first-generation iPhone to use cell tower and Wi-Fi network locations trilateration,[112] despite lacking GPS hardware. Since the iPhone 3G generation, the iPhone employs A-GPS operated by the United States. Since the iPhone 4S generation the device also supports the GLONASS global positioning system, which is operated by Russia.
+The iPhone 6S and 6S Plus, introduced in 2015, feature "force-touch" displays which allows the screen to recognise how hard it is being pressed. An example of how this technology will be used is lightly pressing the screen to preview a photograph and pressing down to take it.
+Sensors
+Latest iPhone devices feature seven sensors, which are used to adjust the screen based on operating conditions, enable motion-controlled games, and location-based services.
+Proximity sensor
+A proximity sensor deactivates the display and touchscreen when the device is brought near the face during a call. This is done to save battery power and to prevent inadvertent inputs from the user's face and ears.
+Ambient light sensor
+An ambient light sensor adjusts the display brightness which saves battery power and prevents the screen from being too bright or too dark.
+Accelerometer
+A 3-axis accelerometer senses the orientation of the phone and changes the screen accordingly, allowing the user to easily switch between portrait and landscape mode.[113] Photo browsing, web browsing, and music playing support both upright and left or right widescreen orientations.[114] Unlike the iPad, the iPhone does not rotate the screen when turned upside-down, with the Home button above the screen, unless the running program has been specifically designed to do so. The 3.0 update added landscape support for still other applications, such as email, and introduced shaking the unit as a form of input.[115][116] The accelerometer can also be used to control third-party apps, notably games. It is also used for fitness tracking purposes, primarily as a pedometer.
+Magnetometer
+A magnetometer is built-in since the iPhone 3GS generation, which is used to measure the strength and/or direction of the magnetic field in the vicinity of the device. Sometimes certain devices or radio signals can interfere with the magnetometer requiring users to either move away from the interference or re-calibrate by moving the device in a figure 8 motion. Since the iPhone 3GS, the iPhone also features a Compass app which was unique at time of release, showing a compass that points in the direction of the magnetic field.
+Gyroscopic sensor
+Beginning with the iPhone 4 generation, Apple's smartphones also include a gyroscopic sensor, enhancing its perception of how it is moved.
+Radio
+The iPhone has a built-in am/fm radio, which is disabled by default.[117]
+Fingerprint sensor
+The iPhone 5S, 6, 6 Plus, 6S, 6S Plus, SE, 7 and 7 Plus feature Apple's fingerprint recognition sensor, which is located on the Home button.
+Audio and output
+
+From left to right is the headphone jack, microphone, Lightning connector, and built-in speaker on the base of the iPhone 5S.
+On the bottom of the iPhone, there is a speaker to the left of the dock connector and a microphone to the right. There is an additional loudspeaker above the screen that serves as an earpiece during phone calls. The iPhone 4 includes an additional microphone at the top of the unit for noise cancellation, and switches the placement of the microphone and speaker on the base on the unit—the speaker is on the right.[118] Volume controls are located on the left side of all iPhone models and as a slider in the iPod application.
+The 3.5mm TRRS connector for the headphones is located on the top left corner of the device for the first five generations (original through 4S), after which time it was moved to the bottom left corner.[119] The headphone socket on the 1st-generation iPhone is recessed into the casing, making it incompatible with most headsets without the use of an adapter.[120] Subsequent generations eliminated the problem by using a flush-mounted headphone socket. Cars equipped with an auxiliary jack allow handsfree use of the iPhone while driving as a substitute for Bluetooth. The iPhone 7 and 7 Plus have no 3.5mm headphone jack,[121] and instead headsets must connect to the iPhone by Bluetooth, use Apple's Lightning port (which has replaced the 3.5mm headphone jack), or (for traditional headsets) use the Lightning to 3.5mm headphone jack adapter, which still plugs into the Lightning port.
+Apple's own headset has a multipurpose button near the microphone that can play or pause music, skip tracks, and answer or end phone calls without touching the iPhone. Some third-party headsets designed for the iPhone also include the microphone and control button.[122] The current headsets also provide volume controls, which are only compatible with more recent models.[123] A fourth ring in the audio jack carries this extra information.
+The built-in Bluetooth 2.x+EDR supports wireless earpieces and headphones, which requires the HSP profile. Stereo audio was added in the 3.0 update for hardware that supports A2DP.[115][116]While non-sanctioned third-party solutions exist, the iPhone does not officially support the OBEX file transfer protocol.[124] The lack of these profiles prevents iPhone users from exchanging multimedia files, such as pictures, music and videos, with other Bluetooth-enabled cell phones.
+Composite[125] or component[126] video at up to 576i and stereo audio can be output from the dock connector using an adapter sold by Apple. IPhone 4 also supports 1024×768 VGA output[127]without audio, and HDMI output,[128] with stereo audio, via dock adapters. The iPhone did not support voice recording until the 3.0 software update.[115][116]
+Battery
+
+Replacing the battery requires disassembling the iPhone unit and exposing the internal hardware
+The iPhone features an internal rechargeable lithium-ion battery. Like an iPod, but unlike most other mobile phones at the time of its launch, the battery is not user-replaceable.[120][129] The iPhone can be charged when connected to a computer for syncing across the included USB to dock connector cable, similar to charging an iPod. Alternatively, a USB to AC adapter (or "wall charger," also included) can be connected to the cable to charge directly from an AC outlet.
+Apple runs tests on preproduction units to determine battery life. Apple's website says that the battery life "is designed to retain up to 80% of its original capacity after 400 full charge and discharge cycles",[130] which is comparable to iPod batteries.
+The battery life of early models of the iPhone has been criticized by several technology journalists as insufficient and less than Apple's claims.[131][132][133][134] This is also reflected by a J. D. Power and Associates customer satisfaction survey, which gave the "battery aspects" of the iPhone 3G its lowest rating of 2 out of 5 stars.[135][136]
+If the battery malfunctions or dies prematurely, the phone can be returned to Apple and replaced for free while still under warranty.[137] The warranty lasts one year from purchase and can be extended to two years with AppleCare. The battery replacement service and its pricing was not made known to buyers until the day the product was launched;[138][139] it is similar to how Apple (and third parties) replace batteries for iPods. The Foundation for Taxpayer and Consumer Rights, a consumer advocate group, has sent a complaint to Apple and AT&T over the fee that consumers have to pay to have the battery replaced.[138]
+Since July 2007, third-party battery replacement kits have been available[140] at a much lower price than Apple's own battery replacement program. These kits often include a small screwdriver and an instruction leaflet, but as with many newer iPod models the battery in the first generation iPhone has beensoldered in. Therefore, a soldering iron is required to install the new battery. The iPhone 3G uses a different battery fitted with a connector that is easier to replace.[141]
+A patent filed by the corporation, published in late July 2013, revealed the development of a new iPhone battery system that uses location data in combination with data on the user's habits to moderate the handsets power settings accordingly. Apple is working towards a power management system that will provide features such as the ability to estimate the length of time a user will be away from a power source to modify energy usage and a detection function that adjusts the charging rate to best suit the type of power source that is being used.[142]
+
+The iPhone 4 is the first generation to have two cameras. The LED flashfor the rear-facing camera (top) and the forward-facing camera (bottom) are available on the iPhone 4 and subsequent models.
+Camera
+The 1st-generation iPhone and iPhone 3G have a fixed-focus 2.0-megapixel camera on the back for digital photos. It has no optical zoom, flash or autofocus, and does not natively support video recording. (iPhone (original) & 3G can record video via a third-party app available on the App Store, and jailbreaking also allows users to do so.) IPhone OS 2.0 introduced geotagging for photos.
+The iPhone 3GS has a 3.2-megapixel camera with autofocus, auto white balance, and auto macro (up to 10 cm). Manufactured by OmniVision, the camera can also capture 640×480 (VGA resolution) video at 30 frames per second,[143] although unlike higher-end CCD-based video cameras, it exhibits the rolling shutter effect.[144] The video can be cropped on the iPhone and directly uploaded to YouTube, MobileMe, or other services.
+The iPhone 4 introduced a 5.0-megapixel camera (2592×1936 pixels) that can record video at 720p resolution, considered high-definition. It also has abackside-illuminated sensor that can capture pictures in low light and an LED flash that can stay lit while recording video.[145] It is the first iPhone that can natively do high dynamic range photography.[146] The iPhone 4 also has a second camera on the front that can take VGA photos and record SD video. Saved recordings may be synced to the host computer, attached to email, or (where supported) sent by MMS.
+The iPhone 4S' camera can shoot 8-MP stills and 1080p video, can be accessed directly from the lock screen, and can be triggered using the volume-up button as a shutter trigger. The built-in gyroscope can stabilize the image while recording video.
+The iPhone 5 and iPhone 4S, running iOS 6 or later, can take panoramas using the built-in camera app,[147] and the iPhone 5 can also take still photos while recording video.[148]
+The camera on the iPhone 5 reportedly shows purple haze when the light source is just out of frame,[149] although Consumer Reports said it "is no more prone to purple hazing on photos shot into a bright light source than its predecessor or than several Android phones with fine cameras..."[150]
+On all five model generations, the phone can be configured to bring up the camera app by quickly pressing the home key twice.[151] On all iPhones running iOS 5, it can also be accessed from the lock screen directly.
+The iPhone 6S and 6S Plus are outfitted with 12 megapixel camera, with 4K HD video capability. Just as well, the user may change the resolution between 4K and 1080p from settings.
+The iPhone 7 features Optical Image Stabilization on its rear camera, and the 7 Plus is the first iPhone to feature dual-lens camera (both 12 MP), and they both have a 7 MP front-facing camera. The second camera on the iPhone 7 Plus is a telephoto lens, which enables 2x optical zoom and up to 10x digital zoom. The rear cameras on the 7 and 7 Plus are both f/1.8 aperture.[121]
+Storage
+The iPhone was initially released with two options for internal storage size: 4 GB or 8 GB. On September 5, 2007, Apple discontinued the 4 GB models.[152] On February 5, 2008, Apple added a 16 GB model.[153] The iPhone 3G was available in 16 GB and 8 GB. The iPhone 3GS came in 16 GB and 32 GB variants and remained available in 8 GB until September 2012, more than three years after its launch. The iPhone 4 was available in 16 GB and 32 GB variants, as well as an 8 GB variant to be sold alongside the iPhone 4S at a reduced price point. The iPhone 4S was available in three sizes: 16 GB, 32 GB and 64 GB. The iPhone 5 and 5s were available in the same three sizes previously available to the iPhone 4S: 16 GB, 32 GB, and 64 GB. The lower-cost iPhone 5C model was initially available in 16 GB and 32 GB models; a 8 GB model was added later. The iPhone 6 and 6S are available in three sizes: 16 GB, 64 GB, and 128 GB. The iPhone SE is available in 16 GB and 64 GB variants. By the time the iPhone 7 and 7 Plus was released, Apple ditched the based model from 16 GB to 32 GB as the base storage. Both 7 & 7 Plus has a configuration of 32, 128, & 256 GB storage option. And Apple also doubled the storage on the iPhone 6s & 6s Plus in 2 configurations (32 GB & 128 GB).
+SIM card
+
+An iPhone 5S with the SIM slot open. The SIM ejector tool is still placed in the eject hole.
+GSM models of the iPhone use a SIM card to identify themselves to the GSM network. The SIM sits in a tray, which is inserted into a slot at the top of the device. The SIM tray can be ejected with a paper clip or the "SIM ejector tool" (a simple piece of die-cut sheet metal) included with the iPhone 3G and 3GS in the United States and with all models elsewhere in the world.[154][155] Some iPhone models shipped with a SIM ejector tool which was fabricated from an alloy dubbed "Liquidmetal".[156] In most countries, the iPhone is usually sold with a SIM lock, which prevents the iPhone from being used on a different mobile network.[157]
+The GSM iPhone 4 features a MicroSIM card that is located in a slot on the right side of the device.[158]
+The CDMA model of the iPhone 4, just the same as any other CDMA-only cell phone, does not use a SIM card or have a SIM card slot.
+An iPhone 4S activated on a CDMA carrier, however, does have a SIM card slot but does not rely on a SIM card for activation on that CDMA network. A CDMA-activated iPhone 4S usually has a carrier-approved roaming SIM preloaded in its SIM slot at the time of purchase that is used for roaming on certain carrier-approved international GSM networks only. The SIM slot is locked to only use the roaming SIM card provided by the CDMA carrier.[159]
+In the case of Verizon, for example, one can request that the SIM slot be unlocked for international use by calling their support number and requesting an international unlock if their account has been in good standing for the past 60 days.[160] This method only unlocks the iPhone 4S for use on international carriers. An iPhone 4S that has been unlocked in this way will reject any non international SIM cards (AT&T Mobility or T-Mobile USA, for example).
+The iPhone 5 and later iPhones use the nano-SIM, in order to save more space for internal components.
+Liquid contact indicators
+All iPhones (as well as many other devices by Apple) have a small disc at the bottom of the headphone jack that changes from white to red on contact with water; the iPhone 3G and later models also have a similar indicator at the bottom of the dock connector.[161] Because Apple warranties do not cover water damage, employees examine the indicators before approving warranty repair or replacement.
+The iPhone's indicators are more exposed than those in some mobile phones from other manufacturers, which carry them in a more protected location, such as beneath the battery behind a battery cover. The iPhone's can be triggered during routine use, by an owner's sweat,[162] steam in a bathroom, and other light environmental moisture.[163] Criticism led Apple to change its water damage policy for iPhones and similar products, allowing customers to request further internal inspection of the phone to verify if internal liquid damage sensors were triggered.[164]
+Included items
+
+The contents of the box of an iPhone 4. From left to right: iPhone 4 in plastic holder, written documentation, and (top to bottom) headset, USB cable, wall charger.
+All iPhone models include written documentation, and a dock connector to USB cable. The first generation and 3G iPhones also came with a cleaning cloth. The first generation iPhone included a stereo headset (earbuds and a microphone) and a plastic dock to hold the unit upright while charging and syncing. The iPhone 3G includes a similar headset plus a SIM eject tool (the first generation model requires a paperclip). The iPhone 3GS includes the SIM eject tool and a revised headset, which adds volume buttons (not functional with previous iPhone versions).[123][165]
+The iPhone 3G and 3GS are compatible with the same dock, sold separately, but not the first generation model's dock.[166] All versions include a USB power adapter, or "wall charger," which allows the iPhone to charge from an AC outlet. The iPhone 3G and iPhone 3GS sold in North America, Japan, Colombia, Ecuador, and Peru[167][168] include an ultracompact USB power adapter.
+Software
+Main articles: iOS and iOS version history
+
+The iPhone Home screen of iOS 9 shows most of the applications provided by Apple. Users can download additional applications from the App store, create Web Clips, rearrange the icons, and create and delete folders.
+The iPhone, iPod Touch and iPad run an operating system known as iOS (formerly iPhone OS). It is a variant of the same Darwin operating system core that is found in Mac OS X. Also included is the "Core Animation" software component from Mac OS X v10.5 Leopard. Together with the PowerVR hardware (and on the iPhone 3GS, OpenGL ES 2.0), it is responsible for the interface's motion graphics. The operating system takes up less than half a gigabyte.[169]
+It is capable of supporting bundled and future applications from Apple, as well as from third-party developers. Software applications cannot be copied directly from Mac OS X but must be written and compiled specifically for iOS.
+Like the iPod, the iPhone is managed from a computer using iTunes. The earliest versions of the OS required version 7.3 or later, which is compatible with Mac OS X version 10.3.9 Panther or later, and 32-bit Windows XP or Vista.[170] The release of iTunes 7.6 expanded this support to include 64-bit versions of XP and Vista,[171]and a workaround has been discovered for previous 64-bit Windows operating systems.[172]
+Apple provides free updates to the OS for the iPhone through iTunes,[169] and major updates have historically accompanied new models.[173] Such updates often require a newer version of iTunes—for example, the 3.0 update requires iTunes 8.2—but the iTunes system requirements have stayed the same. Updates include bug fixes, security patches and new features.[174] For example, iPhone 3G users initially experienced dropped calls until an update was issued.[175][176]
+Version 3.1 required iTunes 9.0, and iOS 4 required iTunes 9.2. iTunes 10.5, which is required to sync and activate iOS 5, requires Mac OS X 10.5.8 or Leopard onG4 or G5 computers on 800 MHz or higher; versions 10.3 and 10.4 and 10.5–10.5.7 are no longer supported.
+From September 9, 2014, all new iPhone models released were expected to include a new mobile wallet feature developed in conjunction with major credit card issuers American Express, MasterCard, and Visa.[177] Support was later added for Discover[178] and UnionPay[179] cards.
+Interface
+The interface is based around the home screen, a graphical list of available applications. iPhone applications normally run one at a time. Starting with the iPhone 4, a primitive version of multitasking came into play. Users could double click the home button to select recently opened applications.[180] However, the apps never ran in the background. Starting with iOS 7, though, apps can truly multitask, and each open application runs in the background when not in use, although most functionality is still available when making a call or listening to music. The home screen can be accessed at any time by a hardware button below the screen, closing the open application in the process.[181]
+By default, the Home screen contains the following icons: Messages (SMS and MMS messaging), Calendar, Photos, Camera, YouTube, Stocks, Maps (Google Maps), Weather, Voice Memos, Notes, Clock, Calculator, Settings, iTunes (store), App Store, (on the iPhone 3GS and iPhone 4) Compass, FaceTime and GameCenter were added in iOS 4.0 and 4.1 respectively. In iOS 5, Reminders and Newsstand were added, as well as the iPod application split into separate Music and Videos applications. iOS 6 added Passbook as well as an updated version of Maps that relies on data provided by TomTom as well as other sources. iOS 6 also added a Clock application onto the iPad's homescreen. YouTube no longer came as a pre-installed application. Docked at the base of the screen, four icons for Phone, Mail, Safari (Internet), and Music delineate the iPhone's main purposes.[182] On January 15, 2008, Apple released software update 1.1.3, allowing users to create "Web Clips", home screen icons that resemble apps that open a user-defined page in Safari. After the update, iPhone users can rearrange and place icons (by holding down on any icon and moving it to the desired location once they start shaking) on up to nine other adjacent home screens, accessed by a horizontal swipe.[111]
+Users can also add and delete icons from the dock, which is the same on every home screen. Each home screen holds up to twenty icons for iPhone 2G, 3G, 4 and 4S, while each home screen foriPhone 5 holds up to twenty-four icons due to a larger screen display, and the dock holds up to four icons. Users can delete Web Clips and third-party applications at any time, and may select only certain applications for transfer from iTunes. Apple's default programs, could only be removed since the iOS 10 update. The 3.0 update adds a system-wide search, known as Spotlight, to the left of the first home screen.[115][116]
+Almost all input is given through the touch screen, which understands complex gestures using multi-touch. The iPhone's interaction techniques enable the user to move the content up or down by a touch-drag motion of the finger. For example, zooming in and out of web pages and photos is done by placing two fingers on the screen and spreading them farther apart or bringing them closer together, a gesture known as "pinching".
+Scrolling through a long list or menu is achieved by sliding a finger over the display from bottom to top, or vice versa to go back. In either case, the list moves as if it is pasted on the outer surface of a wheel, slowly decelerating as if affected by friction. In this way, the interface simulates the physics of a real object.
+Other user-centered interactive effects include horizontally sliding sub-selection, the vertically sliding keyboard and bookmarks menu, and widgets that turn around to allow settings to be configured on the other side. Menu bars are found at the top and bottom of the screen when necessary. Their options vary by program, but always follow a consistent style motif. In menu hierarchies, a "back" button in the top-left corner of the screen displays the name of the parent folder.
+Phone
+
+When making a call, the iPhone presents a number of options, including FaceTimeon supported models. The screen is automatically disabled when held close to the face.
+The iPhone allows audio conferencing, call holding, call merging, caller ID, and integration with other cellular network features and iPhone functions. For example, if music is playing when a call is received, the music fades out, and fades back in when the call has ended.
+The proximity sensor shuts off the screen and touch-sensitive circuitry when the iPhone is brought close to the face, both to save battery and prevent unintentional touches. The iPhone does not support video calling or videoconferencing on versions prior to the fourth generation, as there is only one camera on the opposite side of the screen.[183]
+The iPhone 4 supports video calling using either the front or back camera over Wi-Fi, a feature Apple calls FaceTime.[184] Voice control, introduced in the iPhone 3GS, allows users to say a contact's name or number and the iPhone will dial it.[185] The first two models only support voice dialing through third-party applications.[186]
+The iPhone includes a visual voicemail (in some countries)[187] feature allowing users to view a list of current voicemail messages on-screen without having to call into their voicemail. Unlike most other systems, messages can be listened to and deleted in a non-chronological order by choosing any message from an on-screen list.
+A music ringtone feature was introduced in the United States on September 5, 2007. Users can create custom ringtones from songs purchased from the iTunes Store for a small additional fee. The ringtones can be 3 to 30 seconds long from any part of a song, can fade in and out, pause from half a second to five seconds when looped, or loop continuously. All customizing can be done in iTunes,[188] or with Apple's GarageBand software 4.1.1 or later (available only on Mac OS X)[189]or third-party tools.[190]
+With the release of iOS 6, which was released on September 19, 2012, Apple added features that enable the user to have options to decline a phone call when a person is calling them. The user can reply with a message, or to set a reminder to call them back at a later time.[191]
+Multimedia
+The layout of the music library is similar to that of an iPod or current Symbian S60 phones. The iPhone can sort its media library by songs, artists, albums, videos, playlists, genres, composers,podcasts, audiobooks, and compilations. Options are always presented alphabetically, except in playlists, which retain their order from iTunes. The iPhone uses a large font that allows users plenty of room to touch their selection.
+Users can rotate their device horizontally to landscape mode to access Cover Flow. Like on iTunes, this feature shows the different album covers in a scroll-through photo library. Scrolling is achieved by swiping a finger across the screen. Alternatively, headset controls can be used to pause, play, skip, and repeat tracks. On the iPhone 3GS, the volume can be changed with the included Apple Earphones, and the Voice Control feature can be used to identify a track, play songs in a playlist or by a specific artist, or create a Genius playlist.[185]
+The iPhone supports gapless playback.[192] Like the fifth-generation iPods introduced in 2005, the iPhone can play digital video, allowing users to watch TV shows and movies in widescreen. Double-tapping switches between widescreen and fullscreen video playback.
+The iPhone allows users to purchase and download songs from the iTunes Store directly to their iPhone. The feature originally required a Wi-Fi network, but now since 2012, can use the cellular data network if one is not available.[193]
+The iPhone includes software that allows the user to upload, view, and email photos taken with the camera. The user zooms in and out of photos by sliding two fingers further apart or closer together, much like Safari. The camera application also lets users view the camera roll, the pictures that have been taken with the iPhone's camera. Those pictures are also available in the Photos application, along with any transferred from iPhoto or Aperture on a Mac, or Photoshop on a Windows PC.
+Internet connectivity
+
+Wikipedia Main Page on the iPhoneSafari web browser in landscape mode
+Internet access is available when the iPhone is connected to a local area Wi-Fi or a wide area GSM or EDGE network, both second-generation (2G) wireless data standards. The iPhone 3G introduced support for third-generation UMTS and HSDPA 3.6,[194] the iPhone 4S introduced support for HSUPA networks (14.4 Mbit/s), and support for HSDPA 7.2 was introduced in the iPhone 3GS .[195] Networks accessible from iPhone models include 1xRTT (represented by a 1x on the status bar) and GPRS (shown as GPRS on the status bar), EDGE (shown as a capital E on the status bar), UMTS and EV-DO (shown as 3G), a faster version of UMTS and 4G (shown as a 4G symbol on the status bar), and LTE (shown as LTE on the status bar).[196]
+AT&T introduced 3G in July 2004,[197] but as late as 2007, Steve Jobs stated that it was still not widespread enough in the US, and the chipsets not energy efficient enough, to be included in the iPhone.[106][198] Support for 802.1X, an authentication system commonly used by university and corporate Wi-Fi networks, was added in the 2.0 version update.[199]
+By default, the iPhone will ask to join newly discovered Wi-Fi networks and prompt for the password when required. Alternatively, it can join closed Wi-Fi networks manually.[200] The iPhone will automatically choose the strongest network, connecting to Wi-Fi instead of EDGE when it is available.[201] Similarly, the iPhone 3G and onwards prefer 3G to 2G, and Wi-Fi to either.[202]
+Wi-Fi, Bluetooth, and 3G (on the iPhone 3G onwards) can all be deactivated individually. Airplane mode disables all wireless connections at once, overriding other preferences. However, once in Airplane mode, one can explicitly enable Wi-Fi and/or Bluetooth modes to join and continue to operate over one or both of those networks while the cellular network transceivers remain off.
+The iPhone 3GS has a maximum download rate of 7.2 Mbit/s.[203] Furthermore, email attachments as well as apps and media from Apple's various stores must be smaller than 20 MB to be downloaded over a cellular network.[204] Larger files, often email attachments or podcasts, must be downloaded over Wi-Fi (which has no file size limits). If Wi-Fi is unavailable, one workaround is to open the files directly in Safari.[205]
+Safari is the iPhone's native web browser, and it displays pages similar to its Mac and Windows counterparts. Web pages may be viewed in portrait or landscape mode and the device supports automatic zooming by pinching together or spreading apart fingertips on the screen, or by double-tapping text or images.[206][207] Safari does not allow file downloads except for predefined extensions. The iPhone does not support Flash.[208]
+Consequently, the UK's Advertising Standards Authority adjudicated that an advertisement claiming the iPhone could access "all parts of the internet" should be withdrawn in its current form, on grounds of false advertising. In a rare public letter in April 2010, Apple CEO Steve Jobs outlined the reasoning behind the absence of Flash on the iPhone (and iPad).[209] The iPhone supports SVG,CSS, HTML Canvas, and Bonjour.[210]
+Google Chrome was introduced to the iOS on June 26, 2012. In a review by Chitika on July 18, 2012, they announced that the Google Chrome web browser has 1.5% of the iOS web browser market since its release.[211]
+The Maps application can access Google Maps in map, satellite, or hybrid form. It can also generate directions between two locations, while providing optional real-time traffic information. During the iPhone's announcement, Jobs demonstrated this feature by searching for nearby Starbucks locations and then placing a prank call to one with a single tap.[212][213] Support for walking directions, public transit, and street view was added in the version 2.2 software update, but no voice-guided navigation.[214]
+The iPhone 3GS and iPhone 4 can orient the map with its digital compass.[215] Apple also developed a separate application to view YouTube videos on the iPhone, which streams videos after encoding them using the H.264 codec. Simple weather and stock quotes applications also tap into the Internet.
+IPhone users can and do access the Internet frequently, and in a variety of places. According to Google, in 2008, the iPhone generated 50 times more search requests than any other mobile handset.[216] According to Deutsche Telekom CEO René Obermann, "The average Internet usage for an iPhone customer is more than 100 megabytes. This is 30 times the use for our average contract-based consumer customers."[217] Nielsen found that 98% of iPhone users use data services, and 88% use the internet.[37] In China, the iPhone 3G and iPhone 3GS were built and distributed without Wi-Fi.[218]
+With the introduction of the Verizon iPhone in January 2011, the issue of using internet while on the phone was brought to the public's attention. Under the two US carriers, internet and phone could be used simultaneously on AT&T networks, whereas Verizon networks only support the use of each separately.[219]
+However, in 2014, Verizon announced that the iPhone 6 and 6 Plus would allow simultaneous voice and data over its LTE Network.[citation needed] T-Mobile and Sprint have enabled calls over Wi-Fi, with Verizon and AT&T soon doing the same.[220]
+Text input
+
+The virtual keyboard on the first generation iPhone touchscreen
+For text input, the iPhone implements a virtual keyboard on the touchscreen. It has automatic spell checking and correction, predictive word capabilities, and a dynamic dictionary that learns new words. The keyboard can predict what word the user is typing and complete it, and correct for the accidental pressing of keys near the presumed desired key.[221]
+The keys are somewhat larger and spaced farther apart when in landscape mode, which is supported by only a limited number of applications. Touching a section of text for a brief time brings up a magnifying glass, allowing users to place the cursor in the middle of existing text. The virtual keyboard can accommodate 21 languages, including character recognition for Chinese.[222]
+Alternate characters with accents (for example, letters from the alphabets of other languages) and emoji can be typed from the keyboard by pressing the letter for 2 seconds and selecting the alternate character from the popup.[223] The 3.0 update brought support for cut, copy, or pasting text, as well as landscape keyboards in more applications.[115][116] On iPhone 4S and above, Siri allows dictation.
+Email and text messages
+The iPhone also features an email program that supports HTML email, which enables the user to embed photos in an email message. PDF, Word, Excel, and PowerPoint attachments to mail messages can be viewed on the phone.[224] Apple's MobileMe platform offers push email, which emulates the functionality of the popular BlackBerry email solution, for an annual subscription. Yahoo! offers a free push-email service for the iPhone. IMAP (although not Push-IMAP) and POP3 mail standards are also supported, including Microsoft Exchange[225] and Kerio Connect.[226]
+In the first versions of the iPhone firmware, this was accomplished by opening up IMAP on the Exchange server. Apple has also licensed Microsoft ActiveSync and supports the platform (including push email) with the release of iPhone 2.0 firmware.[227][228] The iPhone will sync email account settings over from Apple's own Mail application, Microsoft Outlook, and Microsoft Entourage, or it can be manually configured on the device itself. The email program can access almost any IMAP or POP3 account.[229]
+Text messages are presented chronologically in a mailbox format similar to Mail, which places all text from recipients together with replies. Text messages are displayed in speech bubbles (similar toiChat) under each recipient's name. The iPhone has built-in support for email message forwarding, drafts, and direct internal camera-to-email picture sending. Support for multi-recipient SMS was added in the 1.1.3 software update.[230] Support for MMS was added in the 3.0 update, but not for the original first generation iPhone[115][116] and not in the US until September 25, 2009.[231][232]
+Third-party applications
+See also: iOS SDK and App Store
+At WWDC 2007 on June 11, 2007, Apple announced that the iPhone would support third-party web applications using Ajax that share the look and feel of the iPhone interface.[233] On October 17, 2007, Steve Jobs, in an open letter posted to Apple's "Hot News" weblog, announced that a software development kit (SDK) would be made available to third-party developers in February 2008. The iPhone SDK was officially announced and released on March 6, 2008, at the Apple Town Hall facility.[234]
+It is a free download, with an Apple registration, that allows developers to develop native applications for the iPhone and iPod Touch, then test them in an "iPhone simulator". However, loading an application onto a real device is only possible after paying an Apple Developer Connection membership fee. Developers are free to set any price for their applications to be distributed through theApp Store, of which they will receive a 70% share.[235]
+Developers can also opt to release the application for free and will not pay any costs to release or distribute the application beyond the membership fee. The App Store was launched with the release of iOS 2.0, on July 11, 2008.[228] The update was free for iPhone users; owners of older iPod Touches were required to pay US$10 for it.[236]
+Once a developer has submitted an application to the App Store, Apple holds firm control over its distribution. Apple can halt the distribution of applications it deems inappropriate, for example, I Am Rich, a US$1000 program that simply demonstrated the wealth of its user.[237] Apple has been criticized for banning third-party applications that enable a functionality that Apple does not want the iPhone to have: In 2008, Apple rejected Podcaster, which allowed iPhone users to download podcasts directly to the iPhone claiming it duplicated the functionality of iTunes.[238] Apple has since released a software update that grants this capability.[214]
+NetShare, another rejected app, would have enabled users to tether their iPhone to a laptop or desktop, using its cellular network to load data for the computer.[239] Many carriers of the iPhone later globally allowed tethering before Apple officially supported it with the upgrade to the iOS 3.0, with AT&T Mobility being a relative latecomer in the United States.[240] In most cases, the carrier charges extra for tethering an iPhone.
+Before the SDK was released, third parties were permitted to design "Web Apps" that would run through Safari.[241] Unsigned native applications are also available for "jailbroken" phones.[242] The ability to install native applications onto the iPhone outside of the App Store is not supported by Apple, the stated reason being that such native applications could be broken by any software update, but Apple has stated it will not design software updates specifically to break native applications other than those that perform SIM unlocking.[243]
+As of October 2013, Apple has passed 60 billion app downloads.[244] As of September 2016, there have been over a 140 billion apps downloaded from the App Store.[245]
+Accessibility features
+Starting with the iPhone 4S, Apple added an accessibility feature to optimize the function of the iPhone with hearing aids.[246] Apple released a program of Made for iPhone Hearing Aids.[247] These hearing aids deliver a power-efficient, high-quality digital audio experience and allow the user to manage the hearing aid right from your iPhone. Made for iPhone hearing aids also feature Live Listen. With Live Listen the iPhone acts as a remote microphone that sends sound to a Made for iPhone hearing aid. Live Listen can help the user hear a conversation in a noisy room or hear someone speaking across the room.[248]
+The Braille Displays for iOS program was announced by Apple coinciding with the release of the iPhone 3GS, iPad and iPod Touch (3rd Generation). This program added support for more than 50 Bluetooth wireless braille displays that work with iOS out of the box. The user only needs to pair the keyboard to the device to start using it to navigate the iOS device with VoiceOver without any additional software. iOS supports braille tables for more than 25 languages.[249]
+IPhone lets the user know when an alert is sent to the it, in a variety of notice methods. It delivers both visual and vibrating alerts for incoming phone and FaceTime calls, new text messages, new and sent mail, and calendar events. You can set an LED light flash for incoming calls and alerts. Or have incoming calls display a photo of the caller. Users can choose from different vibration patterns or even create their own.[250]
+The iPhone can enlarge text to make it more accessible for vision-impaired users,[251] and can accommodate hearing-impaired users with closed captioning and external TTY devices.[252] The iPhone 3GS also features white on black mode, VoiceOver (a screen reader), and zooming for impaired vision, and mono audio for limited hearing in one ear.[253] Apple regularly publishes Voluntary Product Accessibility Templates which explicitly state compliance with the US regulation "Section 508".[254]
+With the release of the newer iOS 9 for all iPhones, users now have the ability to choose between 2 different screen view options. The user can choose to have a standard view or zoomed view. When the iPhone is placed in a standard view setting, the icons are normal size and the text remains the same. With a zoomed view option, the icons on the screen and the text become slightly larger. This enables the user to have a more customized appearance and it can potentially help some users read the screen easier.
+AssistiveTouch helps to adapt the Multi-Touch screen of an iOS device to your unique physical needs. This can be of great assistance to those who have difficulty with some gestures, like pinch, one can make them accessible with just a tap of a finger. The user can create their own gestures and customize the layout of the AssistiveTouch menu. If the user has trouble pressing the Home button, it can be set so that it can be activated with an onscreen tap. Gestures like rotate and shake are available even when if the iOS device is mounted on a wheelchair.[250]
+Guided Access helps people with autism or other attention and sensory challenges stay focused on the task (or app) at hand. With Guided Access, a parent, teacher, or therapist can limit an iOS device to stay on one app by disabling the Home button, and limit the amount of time spent in an app. The user can even restrict access to the keyboard or touch input on certain areas of the screen. So wandering taps and gestures won’t distract from learning.[250]
+Models
+See also: iPhone model comparison
+As of September 2016, 15 different iPhone models were produced. The models in bold are the current flagship devices of the series:
+* iPhone (2007–2008)
+* iPhone 3G (2008–2010)
+* iPhone 3GS (2009–2012)
+* iPhone 4 (2010–2013)
+* iPhone 4S (2011–2014)
+* iPhone 5 (2012–2013)
+* iPhone 5C (2013–2015)
+* iPhone 5S (2013–2016)* iPhone 6 (2014–2016)
+* iPhone 6 Plus (2014–2016)
+* iPhone 6S (2015–present)
+* iPhone 6S Plus (2015–present)
+* iPhone SE (2016–present)
+* iPhone 7 (2016–present)
+* iPhone 7 Plus (2016–present)
+Sources: Apple press release library[255]
+
+Intellectual property
+Apple has filed more than 200 patent applications related to the technology behind the iPhone.[256][257]
+LG Electronics claimed the design of the iPhone was copied from the LG Prada. Woo-Young Kwak, head of LG Mobile Handset R&D Center, said at a press conference: "we consider that Apple copied Prada phone after the design was unveiled when it was presented in the iF Design Award and won the prize in September 2006."[258]
+On September 3, 1993, Infogear filed for the US trademark "I PHONE"[259] and on March 20, 1996, applied for the trademark "IPhone".[260] "I Phone" was registered in March 1998,[259] and "IPhone" was registered in 1999.[260] Since then, the I PHONE mark had been abandoned.[259] Infogear trademarks cover "communications terminals comprising computer hardware and software providing integrated telephone, data communications and personal computer functions" (1993 filing),[259] and "computer hardware and software for providing integrated telephone communication with computerized global information networks" (1996 filing).[261]
+Infogear released a telephone with an integrated web browser under the name iPhone in 1998.[262] In 2000, Infogear won an infringement claim against the owners of the iphones.com domain name.[263] In June 2000, Cisco Systems acquired Infogear, including the iPhone trademark.[264] On December 18, 2006, they released a range of re-branded Voice over IP (VoIP) sets under the name iPhone.[265]
+In October 2002, Apple applied for the "iPhone" trademark in the United Kingdom, Australia, Singapore, and the European Union. A Canadian application followed in October 2004, and a New Zealand application in September 2006. As of October 2006, only the Singapore and Australian applications had been granted.
+In September 2006, a company called Ocean Telecom Services applied for an "iPhone" trademark in the United States, United Kingdom and Hong Kong, following a filing in Trinidad and Tobago.[266] As the Ocean Telecom trademark applications use exactly the same wording as the New Zealand application of Apple, it is assumed that Ocean Telecom is applying on behalf of Apple.[267] The Canadian application was opposed in August 2005, by a Canadian company called Comwave who themselves applied for the trademark three months later. Comwave has been selling VoIP devices called iPhone since 2004.[264]
+Shortly after Steve Jobs' January 9, 2007 announcement that Apple would be selling a product called iPhone in June 2007, Cisco issued a statement that it had been negotiating trademark licensing with Apple and expected Apple to agree to the final documents that had been submitted the night before.[268] On January 10, 2007, Cisco announced it had filed a lawsuit against Apple over the infringement of the trademark iPhone, seeking an injunction in federal court to prohibit Apple from using the name.[269] More recently,[when?] Cisco claimed that the trademark lawsuit was a "minor skirmish" that was not about money, but about interoperability.[270]
+On February 2, 2007, Apple and Cisco announced that they had agreed to temporarily suspend litigation while they held settlement talks,[271] and subsequently announced on February 20, 2007, that they had reached an agreement. Both companies will be allowed to use the "iPhone" name[272] in exchange for "exploring interoperability" between their security, consumer, and business communications products.[273]
+The iPhone has also inspired several leading high-tech clones,[274] driving both the popularity of Apple and consumer willingness to upgrade iPhones quickly.[275]
+On October 22, 2009, Nokia filed a lawsuit against Apple for infringement of its GSM, UMTS and WLAN patents. Nokia alleges that Apple has been violating ten Nokia patents since the iPhone initial release.[276]
+In December 2010, Reuters reported that some iPhone and iPad users were suing Apple Inc. because some applications were passing user information to third-party advertisers without permission. Some makers of the applications such as Textplus4, Paper Toss, The Weather Channel, Dictionary.com, Talking Tom Cat and Pumpkin Maker have also been named as co-defendants in the lawsuit.[277]
+In August 2012, Apple won a smartphone patent lawsuit in the USA against Samsung, the world's largest maker of smartphones.[278]
+In March 2013, an Apple patent for a wraparound display was revealed.[279]
+Secret tracking
+Since April 20, 2011, a hidden unencrypted file on the iPhone and other iOS devices has been widely discussed in the media.[280][281] It was alleged that the file, labeled "consolidated.db", constantly stores the iPhone user's movement by approximating geographic locations calculated by triangulating nearby cell phone towers, a technology proven to be inaccurate at times.[282] The file was released with the June 2010 update of Apple iOS4 and may contain almost a year's worth of data. Previous versions of iOS stored similar information in a file called "h-cells.plist".[283]
+F-Secure discovered that the data is transmitted to Apple twice a day and postulate that Apple is using the information to construct their global location database similar to the ones constructed by Google and Skyhook through wardriving.[284] Nevertheless, unlike the Google "Latitude" application, which performs a similar task on Android phones, the file is not dependent upon signing a specific EULA or even the user's knowledge, but it is stated in the 15,200 word-long terms and conditions of the iPhone that "Apple and [their] partners and licensees may collect, use, and share precise location data, including the real-time geographic location of [the user's] Apple computer or device".[285]
+The file is also automatically copied onto the user's computer once synchronized with the iPhone. An open source application named "iPhoneTracker", which turns the data stored in the file into a visual map, was made available to the public in April 2011.[286] While the file cannot be erased without jailbreaking the phone, it can be encrypted.[287]
+Apple gave an official response on their web site on April 27, 2011,[288] after questions were submitted by users, the Associated Press and others. Apple clarified that the data is a small portion of their crowd-sourced location database cache of Wi-Fi hotspots and cell towers which is downloaded from Apple into the iPhone for making location services faster than with only GPS, therefore the data does not represent the locations of the iPhone. The volume of data retained was an error. Apple issued an update for iOS (version 4.3.3, or 4.2.8 for the CDMA iPhone 4) which reduced the size of the cache, stopped it being backed up to iTunes, and erased it entirely whenever location services were turned off.[288] The upload to Apple can also be selectively disabled from "System services", "Cell Network Search." Regardless, in July 2014, a report on state-owned China Central Television labeled the iPhone a "national security concern."[289]
+A feature that can be found under "location services" in the settings of the iPhone has also been found to be secretly tracking the user's information. This feature is called "frequent locations" and it can either be kept on or turned off. This feature is said to help the accuracy of the GPS and Apple Maps since it can log information about the locations the user has frequently visited. However, this feature also keeps track of the number of times that he/she has been to that location, the dates, and the exact times. A lot of people have found this feature to be intrusive of their personal lives and have since then had an option to keep it on or shut it off.[290]
+Encryption and intelligence agency access
+It was revealed as a part of the 2013 mass surveillance disclosures that the American and British intelligence agencies, the National Security Agency (NSA) and the Government Communications Headquarters (GCHQ) have access to the user data in iPhones, BlackBerrys, and Android phones, respectively. They can read almost all smartphone information, including SMS, location, emails, and notes.[291]
+According to a The New York Times article titled "Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.", Apple has developed a new encryption method for iOS 8, described as "so deep that Apple could no longer comply with government warrants asking for customer information to be extracted from devices."[292]
+Throughout 2015, prosecutors in the United States argued for the U.S. government to be able to compel decryption of iPhone contents.[293][294][295][296] After the 2015 San Bernardino attack, theFBI recovered an iPhone 5C that was issued to one of the shooters by his employer, and iCloud backups of that phone from a month and a half before the shooting. (The shooters had destroyed their personal phones.) The U.S. government attempted to use the arcane and outdated All Writs Act to obtain a court order ordering Apple to produce an IPSW file that would allow investigators to brute force the passcode of the iPhone, which would equate to modernized slavery.[297][298][299] Tim Cook responded on the company's website, outlining a need for encryption, arguing that if they produce a backdoor for one device, it would inevitably be used to compromise the privacy of other iPhone users.[300] On February 19, Apple communicated to journalists that the password for the Apple ID for the iPhone had been changed within a day of the government obtaining it, preventing Apple from producing a workaround that would only target older devices.[301] See FBI–Apple encryption dispute.
+As of April 2016, Apple's Privacy Policy addresses requests from government agencies for access to customers' data: "Apple has never worked with any government agency from any country to create a “backdoor” in any of our products or services. We have also never allowed any government access to our servers. And we never will."[302] In 2015 the Electronic Frontier Foundationawarded Apple 5 out of 5 stars “commend[ing] Apple for its strong stance regarding user rights, transparency, and privacy.”[303]
+Restrictions
+See also: Hardware restrictions § Apple devices
+Apple tightly controls certain aspects of the iPhone. According to Jonathan Zittrain, the emergence of closed devices like the iPhone have made computing more proprietary than early versions ofMicrosoft Windows.[304]
+The hacker community has found many workarounds, most of which are disallowed by Apple and make it difficult or impossible to obtain warranty service.[305] "Jailbreaking" allows users to install apps not available on the App Store or modify basic functionality. SIM unlocking allows the iPhone to be used on a different carrier's network.[306] However, in the United States, Apple cannot void an iPhone's warranty unless it can show that a problem or component failure is linked to the installation or placement of an after-market item such as unauthorized applications, because of theFederal Trade Commission's Magnuson-Moss Warranty Act of 1975.[307]
+The iPhone also has an area and settings where users can set restrictions or parental controls[308] on apps that can be downloaded or used within the iPhone. The restrictions area requires a password.[309]
+Activation
+The iPhone normally prevents access to its media player and web features unless it has also been activated as a phone with an authorized carrier. On July 3, 2007, Jon Lech Johansen reported on his blog that he had successfully bypassed this requirement and unlocked the iPhone's other features with a combination of custom software and modification of the iTunes binary. He published the software and offsets for others to use.[310]
+Unlike the first generation iPhone, the iPhone 3G must be activated in the store in most countries.[311] This makes the iPhone 3G more difficult, but not impossible, to hack. The need for in-store activation, as well as the huge number of first-generation iPhone and iPod Touch users upgrading to iPhone OS 2.0, caused a worldwide overload of Apple's servers on July 11, 2008, the day on which both the iPhone 3G and iPhone OS 2.0 updates as well as MobileMe were released. After the update, devices were required to connect to Apple's servers to authenticate it, causing many devices to be temporarily unusable.[312]
+Users on the O2 network in the United Kingdom, however, can buy the phone online and activate it via iTunes as with the previous model.[313] Even where not required, vendors usually offer activation for the buyer's convenience. In the US, Apple has begun to offer free shipping on both the iPhone 3G and the iPhone 3GS (when available), reversing the in-store activation requirement.Best Buy and Walmart will also sell the iPhone.[314]
+Unapproved third-party software and jailbreaking
+See also: iOS jailbreaking and iPhone Dev Team
+The iPhone's operating system is designed to only run software that has an Apple-approved cryptographic signature. This restriction can be overcome by "jailbreaking" the phone,[315] which involves replacing the iPhone's firmware with a slightly modified version that does not enforce the signature check. Doing so may be a circumvention of Apple's technical protection measures.[316] Apple, in a statement to the United States Copyright Office in response to Electronic Frontier Foundation (EFF) lobbying for a DMCA exception for this kind of hacking, claimed that jailbreaking the iPhone would be copyright infringement due to the necessary modification of system software.[317] However, in 2010, Jailbreaking was declared officially legal in the United States by the DMCA.[318]Jailbroken iPhones may be susceptible to computer viruses, but few such incidents have been reported.[319][320]
+iOS and Android 2.3.3 'Gingerbread' may be set up to dual boot on a jailbroken iPhone with the help of OpeniBoot or iDroid.[321][322]
+In 2007, 2010, and 2011, developers released a series of tools called JailbreakMe that used security vulnerabilities in Mobile Safari rendering to jailbreak the device (which allows users to install any compatible software on the device instead of only App Store apps).[323][324][325] Each of these exploits were quickly fixed by iOS updates from Apple. Theoretically these flaws could have also been used for malicious purposes.[326]
+In July 2011, Apple released iOS 4.3.5 (4.2.10 for CDMA iPhone) to fix a security vulnerability with certificate validation.
+Following the release of the iPhone 5S model, a group of German hackers called the Chaos Computer Club announced on September 21, 2013, that they had bypassed Apple's new Touch ID fingerprint sensor by using "easy everyday means." The group explained that the security system had been defeated by photographing a fingerprint from a glass surface and using that captured image as verification. The spokesman for the group stated: "We hope that this finally puts to rest the illusions people have about fingerprint biometrics. It is plain stupid to use something that you can't change and that you leave everywhere every day as a security token."[327][328]
+SIM unlocking
+United States
+
+iPhone 3G shown with the SIM tray partially ejected
+Most iPhones were and are still sold with a SIM lock, which restricts the use of the phone to one particular carrier, a common practice with subsidized GSMphones. Unlike most GSM phones however, the phone cannot be officially unlocked by entering a code.[citation needed] The locked/unlocked state is maintained on Apple's servers per IMEI and is set when the iPhone is activated.
+While the iPhone was initially sold in the US only on the AT&T network with a SIM lock in place, various hackers have found methods to "unlock" the phone from a specific network.[329] Although AT&T, Sprint, T-Mobile and Verizon are the only authorized iPhone carriers in the United States, unlocked iPhones can be used with other carriers.[330] For example, an unlocked iPhone may be used on the T-Mobile network in the US but, while an unlocked iPhone is compatible with T-Mobile's voice network, it may not be able to make use of 3G functionality (i.e. no mobile web or e-mail, etc.).[331][not in citation given] More than a quarter of the original 1st generation iPhones sold in the US were not registered with AT&T. Apple speculates that they were likely shipped overseas and unlocked, a lucrative market before the iPhone 3G's worldwide release.[36][332]
+On March 26, 2009, AT&T in the United States began selling the iPhone without a contract, though still SIM-locked to their network.[333] The up-front purchase price of such iPhone units is often twice as expensive as those bundled with contracts.[334]
+Outside of the United States, policies differ, especially in US territories and insular areas like Guam; GTA Teleguam was the exclusive carrier for the iPhone since its introduction, as none of the four US carriers (AT&T, Sprint, T-Mobile, and Verizon) have a presence in the area.[335] Since 2013, Docomo Pacific ended GTA's exclusivity starting with the iPhone 5.[336]
+Beginning April 8, 2012, AT&T began offering a factory SIM unlock option (which Apple calls a "whitelisting", allowing it to be used on any carrier the phone supports) for iPhone owners.[337]
+It has been reported that all of the Verizon 4G LTE phones come factory unlocked. After such discovery, Verizon announced that all of their 4G LTE phones, including iPhones, would remain unlocked. This is due to the regulations that the FCC has placed on the 700 MHz C-Block spectrum, which is used by Verizon.[338]
+United Kingdom
+In the United Kingdom, O2, EE, 3, Vodafone, and Tesco Mobile sell the device under subsidised contracts, or for use on pay as you go. They are locked to the network initially, though they can usually be unlocked either after a certain period of contract length has passed, or for a small fee (with the exception of the 3 network, which will unlock the device at any time for no charge).[339]However, all current versions of iPhone are available for purchase SIM-free from the Apple Store or Apple's Online Store, consequently, they are unlocked for use on any GSM network too.[340]
+Australia and other countries
+Four major carriers in Australia (Optus, Telstra, Virgin Mobile, and Vodafone)[341] offer legitimate unlocking, now at no cost for all iPhone devices, both current and prior models.
+Internationally, policies vary, but many carriers sell the iPhone unlocked for full retail price.[157]
+Legal battles over brand name
+Mexico
+In 2003, four years before the iPhone was officially introduced, the trademark iFone was registered in Mexico by a communications systems and services company, iFone.[342] Apple tried to gain control over its brandname, but a Mexican court denied the request. The case began in 2009, when the Mexican firm sued Apple. The Supreme court of Mexico upheld that iFone is the rightful owner and held that Apple iPhone is a trademark violation.[343]
+Brazil
+In Brazil the brand IPHONE was registered in 2000 by the company then called Gradiente Eletrônica S.A., now IGB Eletrônica S.A. According to the filing, Gradiente foresaw the revolution in the convergence of voice and data over the Internet at the time.[344]
+In Brazil, the final battle over the brandname concluded in 2008. On December 18, 2012, IGB launched its own line of Android smartphones under the tradename to which it has exclusive rights in the local market.[344] In February 2013, the Brazilian Patent and Trademark Office (known as "Instituto Nacional da Propriedade Industrial") issued a ruling that Gradiente Eletrônica, not Apple, owned the "iPhone" mark in Brazil. The "iPhone" term was registered by Gradiente in 2000, 7 years before Apple’s release of its first iPhone. This decision came 3 months after Gradiente Eletrônica launched a lower-cost smartphone using the iPhone brand.[345]
+In June 2014, Apple won, for the second time, the right to use the brandname in Brazil. The court ruling determined that the Gradiente's registration does not own exclusive rights on the brand. Although Gradiente intended to appeal, with the decision Apple can use freely the brand without paying royalties to the Brazilian company.[346]
+Philippines
+In the Philippines, Solid Group launched the MyPhone brand in 2007. Stylized as "my|phone", Solid Broadband filed a trademark application of that brand. Apple later filed a trademark case at the Intellectual Property Office of the Philippines (IPOPHL) against Solid Broadband's MyPhone for "confusingly similar" to the iPhone and that it may likely "deceive" or "cause confusion" among consumers.
+However, on May 19, 2015, Apple lost the trademark battle over Solid Group. The decision was signed by IPO director Nathaniel Arevalo, who also reportedly said that it was unlikely that consumers would be confused between the "iPhone" and the "MyPhone". "This is a case of a giant trying to claim more territory than what it is entitled to, to the great prejudice of a local "Pinoy Phone" merchant who has managed to obtain a significant foothold in the mobile phone market through the marketing and sale of innovative products under a very distinctive trademark," Arevalo later added.[347][348]
+Solid Broadband noted that Apple can still appeal the IPO's decision within 30 days after receipt of a copy of the decision. The decision becomes final and executory if no appeal is filed on time.[349]
+See also
+* Newton (platform), an early personal digital assistant and the first tablet platform developed by Apple
+* Apple Inc. portal
+References
+1. Jump up^ "1 billion iPhones have now been sold worldwide since 2007.". Apple Inc. Retrieved 27 July 2016.
+2. Jump up^ "Under the Hood: The iPhone's Gaming Mettle". Touch Arcade. June 14, 2008. Retrieved June 13, 2013.
+3. Jump up^ "The iPhone 3GS Hardware Exposed & Analyzed". AnandTech. Retrieved June 13, 2013.
+4. Jump up^ "iPhone 4 Teardown – Page 2". iFixit. Retrieved June 13,2013.
+5. Jump up^ Toor, Amar (October 11, 2011). "Benchmarks clock iPhone 4S' A5 CPU at 800MHz, show major GPU upgrade over iPhone 4". Engadget.com. Retrieved June 13, 2013.
+6. Jump up^ "iPhone 5 - View all the technical specifications". Apple. Retrieved June 13, 2013.
+7. ^ Jump up to:a b "iPhone Delivers Up to Eight Hours of Talk Time" (Press release). Apple Inc. June 18, 2007.
+8. Jump up^ Slivka, Eric (June 10, 2009). "More WWDC Tidbits: iPhone 3G S Oleophobic Screen, "Find My iPhone" Live lLP". Mac Rumors. Retrieved July 3, 2009.
+9. Jump up^ Po-Han Lin. "iPhone Secrets and iPad Secrets and iPod Touch Secrets". Technology Depot. Retrieved December 8,2011.
+10. Jump up^ "Update: UK graphics specialist confirms that iPhone design win". EE Times.
+11. ^ Jump up to:a b Shimpi, Anand (June 10, 2009). "The iPhone 3GS Hardware Exposed & Analyzed". AnandTech. RetrievedJune 10, 2009.
+Sorrel, Charlie (June 10, 2009). "Gadget Lab Hardware News and Reviews T-Mobile Accidentally Posts Secret iPhone 3G S Specs". Wired.com. Retrieved June 14, 2009.
+12. ^ Jump up to:a b "Apple A4 Teardown". ifixit.com. June 10, 2009. Retrieved September 9, 2010.
+13. Jump up^ "A9's GPU: Imagination PowerVR GT7600 - The Apple iPhone 6s and iPhone 6s Plus Review". AnandTech. November 2, 2015. Retrieved November 4, 2015.
+14. Jump up^ Patel, Nilay (June 7, 2010). "iPhone OS 4 renamed iOS 4, launching June 21 with 1500 new features". Engadget. Retrieved April 26, 2013.
+15. Jump up^ "iPhone 7 - Everything you need to know". Techradar. Retrieved 14 September 2016.
+16. Jump up^ "Apple March 2016 event". Apple. Apple. March 21, 2016. Retrieved April 23, 2016.
+17. Jump up^ "50 Things You Didn't Know Your iPhone Could Do". Huffingtonpost.com. December 6, 2013. Retrieved February 3,2014.
+18. Jump up^ Golson, Jordan (June 13, 2016). "Apple's App Store now has over 2 million apps". The Verge. Retrieved October 17, 2016.
+19. ^ Jump up to:a b Seifert, Dan (September 7, 2016). "iPhone 7 and 7 Plus announced with water resistance, dual cameras, and no headphone jack". The Verge. Retrieved September 24, 2016.
+20. Jump up^ Satariano, Adam. "Apple Overtakes Exxon Becoming World's Most Valuable Company". Bloomberg. Retrieved June 13,2013.
+21. Jump up^ Souppouris, Aaron (April 6, 2012). "LG Prada Phone 3.0 review". The Verge.
+22. Jump up^ Heisler, Yoni (2015-11-09). "Samsung keeps bleeding market share to Apple's benefit". BGR. Retrieved 2016-05-31.
+23. ^ Jump up to:a b Dan Rowinski (August 7, 2012). "4 Real Secrets We've Learned So Far About Apple". Readwriteweb.com. RetrievedOctober 25, 2012.
+24. Jump up^ Gladwell, Malcolm (November 14, 2011). "The Tweaker: The real genius of Steve Jobs." The New Yorker. p. 2
+25. Jump up^ Murtazin, Eldar (June 20, 2010). "Apple's Phone: From 1980s' Sketches to iPhone. Part 3". Mobile-review. RetrievedMarch 27, 2011.
+26. Jump up^ "The Untold Story: How the iPhone Blew Up the Wireless Industry". Wired. January 9, 2008. Archived from the original on February 13, 2015.
+27. Jump up^ Lewis, Peter (January 12, 2007). "How Apple kept its iPhone secrets". CNN. Retrieved January 11, 2009.
+28. Jump up^ Vogelstein, Fred (January 9, 2008). "The Untold Story: How the iPhone Blew Up the Wireless Industry". Wired. RetrievedJanuary 10, 2008.
+29. Jump up^ Cheng, Jacqui (June 9, 2008). "AT&T remains sole iPhone carrier in US, revenue sharing axed (Updated)". Ars Technica. Retrieved May 4, 2011.
+30. Jump up^ Farber, Dan (January 9, 2014). "When iPhone met world, 7 years ago today | Apple - CNET News". News.cnet.com. Retrieved February 3, 2014.
+31. Jump up^ "Apple Inc. Q3 2007 Unaudited Summary Data" (PDF)(Press release). Apple Inc. July 25, 2007. Retrieved June 6,2008. Consists of iPhones and Apple-branded and third-party iPhone accessories.
+32. Jump up^ Iain Mackenzie (January 26, 2010). "Speculation that Apple may launch touchscreen 'iSlate'". BBC. RetrievedSeptember 27, 2011.
+33. Jump up^ "Where would Jesus queue?". The Economist. July 5, 2007. Retrieved September 27, 2011.
+34. Jump up^ Costello, Sam. "Initial iPhone 3G Country Availability List". about.com. Retrieved January 11, 2009.
+35. Jump up^ "iPhone 3G Coming to countries everywhere". Apple Inc. Retrieved April 12, 2009.
+36. ^ Jump up to:a b "iPhone 3G Price Decrease Addresses Key Reason Consumers Exhibit Purchase Resistance". NPD Group. June 22, 2009. Retrieved June 27, 2009.
+37. ^ Jump up to:a b c d "iPhone Users Watch More Video... and are Older than You Think". The Nielsen Company. October 10, 2009. Retrieved June 27, 2009.
+38. Jump up^ "Apple, AT&T mum on iPhone 3G issues". CNET. August 11, 2008. Retrieved September 23, 2008.
+39. Jump up^ Pogue, David (June 27, 2007). "The iPhone Matches Most of its Hype". The New York Times. Retrieved June 27, 2009.
+40. Jump up^ Mossberg, Walter (July 8, 2008). "Newer, Faster, Cheaper iPhone 3G". All Things Digital. Retrieved June 27, 2009.
+41. Jump up^ Mossberg, Walter (June 17, 2009). "New iPhone Is Better Model–Or Just Get OS 3.0". All Things Digital. RetrievedJune 27, 2009.
+42. Jump up^ "Early Signs Of iPhone Adoption In Business". July 14, 2007.
+43. Jump up^ Ionescu, Daniel. (July 17, 2010) Apple's iPhone 4 Antennagate Timeline. PCWorld. Retrieved November 6, 2011.
+44. Jump up^ "Liveblog: The Verizon iPhone". The Washington Post.
+45. Jump up^ Raice, Shayndi (January 12, 2011). "Verizon Unwraps iPhone". The Wall Street Journal.
+46. Jump up^ Devindra Hardawar (March 18, 2011). "Report: Verizon iPhone snagged 4.5% of iPhone mobile ad impressions in February". Venturebeat.com. Retrieved March 24, 2011.
+47. Jump up^ Press Info – iPhone 4S Pre-Orders Top One Million in First 24 Hours. Apple (October 10, 2011). Retrieved November 6, 2011.
+48. ^ Jump up to:a b "Strategy Analytics: Apple Becomes World's Largest Handset Vendor by Revenue in the first quarter of 2011"(Press release). April 21, 2011.
+49. Jump up^ David Goldman (October 19, 2011). "Tiny regional carrier C Spire lands iPhone 4S". CNN. Retrieved October 18, 2011.
+50. ^ Jump up to:a b Jordan, Golson (January 26, 2012). "iPhone Average Selling Price Remains Steady Even With Free 3GS Offer". MacRumours. Retrieved September 6, 2012.
+51. Jump up^ Hesseldahl, Arik (October 19, 2011). "Apple's iPhone 4S Cracked Open, Money Spills Out". AllThingsD. RetrievedSeptember 6, 2012.
+52. Jump up^ Mack, Eric (February 22, 2012). "iPhone manufacturing costs revealed?". Retrieved September 6, 2012.
+53. Jump up^ "comScore Reports December 2011 US Mobile Subscriber Market Share". February 2, 2012.
+54. Jump up^ "iPhone 5S Release Date Rumors: New Phone Will Have 4G LTE Advanced Capabilities : Tech : Headlines & Global News". Hngn.com. July 5, 2013. Retrieved July 30, 2013.
+55. Jump up^ "Apple Reportedly Testing Bigger iPhone And iPad Screens, Starting Production On New 9.7" iPad".
+56. Jump up^ "Apple unveils 2 new iPhones including cheaper model".CBC News. September 10, 2013. Retrieved September 10,2013.
+57. Jump up^ "The Apple Watch, iPhone 6 and iPhone 6 Plus - as it happened". The Guardian. September 10, 2014. RetrievedFebruary 5, 2015.
+58. Jump up^ "Complete History of Androids Operating System". Smarty Phones Hub. January 16, 2015. Retrieved January 26, 2015.
+59. Jump up^ "Apple Reports First Quarter Results" (Press release). Apple Inc. January 21, 2009.
+60. Jump up^ "Apple iPhone 3G sales surpass RIM's Blackberry".AppleInsider. October 21, 2008.
+61. Jump up^ "Apple Reports Second Quarter Results" (Press release). Apple Inc. April 22, 2009. For additional sales information, see the table of quarterly sales.
+62. Jump up^ Kumparak, Greg (October 18, 2010). "Apple sold 14.1 million iPhones last quarter, over 70 million since launch". MobileCrunch. Retrieved October 18, 2010.
+63. Jump up^ The Economist (February 10, 2011). "Nokia at the crossroads: Blazing platforms". Retrieved February 18, 2011.
+64. Jump up^ Ng, Gary (October 18, 2010). "Apple 2010 Q4 Results: 14.1M iPhone Sold, Jobs Blasts RIM". iPhone in Canada.
+65. Jump up^ Chen, Brian X. (November 1, 2010). "iPhone Wins Phone Popularity Contest, Android Dominates OS | Gadget Lab". Wired.com. Retrieved June 13, 2013.
+66. Jump up^ "Apple: 100 Million iPhones Sold". Mashable. March 2, 2011.
+67. Jump up^ "the iPhone 4S Has Maintained Its Popularity in the US Market". Planetinsane.com. December 25, 2011. RetrievedJune 13, 2013.
+68. Jump up^ Cooper, Daniel (May 4, 2012). "Visualized: Apple and Samsung occupy the 99 percent... of phone profits". Engadget.com. Retrieved June 13, 2013.
+69. Jump up^ Jeff Blagdon (May 4, 2012). "Apple and Samsung scoop up 99 percent of handset profits". The Verge. Retrieved June 13,2013.
+70. Jump up^ Goldman, David. (February 8, 2012) Apple's subsidy makes iPhone a nightmare for carriers - Feb. 8, 2012. Money.cnn.com. Retrieved on July 10, 2013.
+71. Jump up^ Sprint Nextel: Apple drinks the juice. The Globe and Mail. Retrieved on July 10, 2013.
+72. Jump up^ Gustin, Sam. (February 8, 2012) How Apple's iPhone Actually Hurts AT&T, Verizon and Sprint | TIME.com. Business.time.com. Retrieved on July 10, 2013.
+73. Jump up^ Apple's iPhone Is Now Worth More Than All Of Microsoft. Forbes (August 19, 2012). Retrieved on July 10, 2013.
+74. Jump up^ Is Samsung Galaxy S3 an Apple iPhone killer? | FP Tech Desk | Financial Post. Business.financialpost.com (June 26, 2012). Retrieved on July 10, 2013.
+75. Jump up^ Everything you need to know about the Samsung Galaxy S4. Fox News (March 11, 2013). Retrieved on July 10, 2013.
+76. Jump up^ With 18M iPhones sold during Q4, Apple outsells Samsung in U.S. — Tech News and Analysis. Gigaom.com (February 1, 2013). Retrieved on July 10, 2013.
+77. Jump up^ Comscore: Android still top US smartphone OS, but iPhone top smartphone and iOS gaining — Tech News and Analysis. Gigaom.com (March 6, 2013). Retrieved on July 10, 2013.
+78. Jump up^ iPhone Brand Outshines Samsung’s Galaxy As iPhone 5 Becomes Best-Selling Smartphone Globally In Q4, iPhone 4S 2nd — Analyst. TechCrunch (February 20, 2013). Retrieved on July 10, 2013.
+79. Jump up^ AP (July 26, 2013). "Apple's smartphone market share slips". USA TODAY.
+80. Jump up^ Seth Fiegerman (September 1, 2013). "Apple Rolls Out iPhone Trade-In Program Nationwide". Mashable. Mashable. Retrieved September 1, 2013.
+81. Jump up^ Darrell Etherington (September 20, 2013). "Apple's iPhone 5s And 5c Launch Draws Big Crowds, Including Biggest Ever Line At NYC Flagship Store". TechCrunch. AOL Inc. RetrievedSeptember 20, 2013.
+82. Jump up^ Juro Osawa; Lorraine Luk (September 19, 2013). "Apple Suppliers to Boost Gold iPhone Production". Wall Street Journal. Retrieved September 20, 2013.
+83. Jump up^ Chan & Chen (June 22, 2015). "Cook Says Chinese Tastes Considered in Apple Product Designs". Bloomberg. RetrievedAugust 15, 2015.
+84. Jump up^ Poornima Gupta; Jennifer Saba (September 23, 2013). "Apple polishes forecast after selling 9 million new iPhones".Reuters. Retrieved September 24, 2013.
+85. Jump up^ Darrell Etherington (September 23, 2013). "Apple's iPhone 5s And iPhone 5c Sell 9M Units Over Opening Weekend, Topping 5M For iPhone 5 Last Year". TechCrunch. AOL Inc. RetrievedSeptember 23, 2013.
+86. Jump up^ Rodriguez, Salvador (November 14, 2013). "Why an Apple store in Delaware is No. 1 in iPhone sales". Los Angeles Times. Retrieved November 21, 2013.
+87. Jump up^ "Apple signs deal to open connection between iPhones and China Mobile". The Guardian. December 22, 2013. RetrievedDecember 25, 2013.
+88. Jump up^ "iPhone Upgrade Program - Apple". www.apple.com. Retrieved October 27, 2015.
+89. Jump up^ "Apple Could Trap You Forever With Its New 'Upgrade Program'". The Huffington Post. Retrieved October 27, 2015.
+90. Jump up^ Peter Burrows; Olga Kharif (March 4, 2013). "Apple's Planned 'IWatch' Could Be More Profitable Than TV". Bloomberg. Retrieved February 8, 2016.
+91. ^ Jump up to:a b Sean Silcoff, Jacquie Mcnish And Steve Ladurantaye (November 6, 2013). "How BlackBerry blew it: The inside story". Toronto: The Globe and Mail. Retrieved February 3,2014.
+92. ^ Jump up to:a b Hamburger, Ellis (February 21, 2012). "Research, no motion: How the BlackBerry CEOs lost an empire". The Verge. Retrieved February 3, 2014.
+93. Jump up^ Orlowski, Andrew. "When Dilbert came to Nokia". The Register. Retrieved August 2, 2015.
+94. Jump up^ Orlowski, Andrew (October 1, 2007). "Why I want the iPhone to succeed". I've seen the established players become lazy and complacent, go down blind alleys, or standardize on horrible designs and feature sets. So the iPhone should focus minds wonderfully - it should raise the bar for everyone.
+95. ^ Jump up to:a b "RIM's long road to reinvent the BlackBerry". Toronto: The Globe and Mail. January 28, 2013. Retrieved June 13,2013.
+96. Jump up^ Williams, Rhiannon (January 9, 2015). "Women more likely to own an iPhone than men". Daily Telegraph. London. Retrieved August 15, 2015.
+97. Jump up^ Johnston, Casey. "Does this smartphone make me look stupid? Meet the "ladyphones"". Ars Technica. RetrievedAugust 15, 2015.
+98. ^ Jump up to:a b c "Why does Symbian collapse?". Pixelstech.net. Retrieved June 13, 2013.
+99. Jump up^ Streitfeld, David (November 17, 2012). "As Boom Lures App Creators, Tough Part Is Making a Living". The New York Times. Retrieved April 2, 2013.
+100. Jump up^ Siracusa, John. "Let a million iPhones bloom". Ars Technica. Retrieved August 2, 2015.
+101. Jump up^ "The iPhone's Impact on Rivals". Businessweek. June 16, 2008. Retrieved June 13, 2013.
+102. Jump up^ Malkavaara, Lauri. "This is how a Helsingin Sanomat journalist tried to save Nokia". Helsingin Sanomat. RetrievedDecember 2, 2015.
+103. Jump up^ "Taiwan's Pegatron to get most iPhone 6S orders in 2015: brokerage". Focus Taiwan. Retrieved December 9, 2014.
+104. Jump up^ Fingerworks, Inc. (2003). "iGesture Game Mode Guide". fingerworks.com. Retrieved April 30, 2009.
+105. Jump up^ Wilson, Tracy. "How the iPhone Works". HowStuffWorks. Retrieved June 6, 2008.
+106. ^ Jump up to:a b Pogue, David (January 11, 2007). "The Ultimate iPhone Frequently Asked Questions". The New York Times. Retrieved June 6, 2008.
+107. Jump up^ Pogue, David (January 13, 2007). "Ultimate iPhone FAQs list, Part 2". The New York Times. Retrieved June 6, 2008.
+108. Jump up^ "How the iPhone's touchscreen Works". How Stuff Works. Retrieved June 6, 2008.
+109. Jump up^ Slivka, Eric (June 10, 2009). "More WWDC Tidbits: iPhone 3G S Oleophobic Screen, "Find My iPhone" Live". Mac Rumors. Retrieved July 3, 2009.
+110. Jump up^ manuals.info.apple.com/en_US/iphone_user_guide.pdf. (PDF) . Retrieved November 6, 2011.
+111. ^ Jump up to:a b "Apple Enhances Revolutionary iPhone with Software Update" (Press release). Apple Inc. January 15, 2008. Retrieved December 13, 2008.
+112. Jump up^ XFF et al. (June 13, 2008). "Memo: iPhone does not use triangulation". HowardForums. Retrieved June 1, 2009.
+113. Jump up^ Johnson, R. Collin (July 9, 2007). "There's more to MEMS than meets the iPhone". EE Times. Archived from the original on September 29, 2007. Retrieved June 6, 2008.
+114. Jump up^ "iPod touch – A Guided Tour". Apple Inc. Archived from the original on May 14, 2008. Retrieved September 23, 2008.
+115. ^ Jump up to:a b c d e f "The most advanced mobile OS. Now even more advanced". Apple Inc. March 17, 2009. Retrieved April 1,2009.
+116. ^ Jump up to:a b c d e f Cohen, Peter (March 17, 2009). "Cut and paste, MMS highlight iPhone 3.0 improvements". Macworld. Retrieved April 1, 2009.
+117. Jump up^ "The Hidden FM Radio Inside Your Pocket, And Why You Can't Use It". NPR.org. April 16, 2015.
+118. Jump up^ "Apple – iPhone 4 – Size, weight, battery life, and other specs". Apple Inc. Archived from the original on July 1, 2010. Retrieved July 1, 2010.
+119. Jump up^ "tip and ring". The Computer Language Company Inc. Retrieved March 15, 2009.
+120. ^ Jump up to:a b German, Kent; Bell, Donald (June 29, 2007). "Apple iPhone – 8 GB (AT&T)". CNET. Retrieved January 10, 2009.
+121. ^ Jump up to:a b "iPhone 7 - Technical Specifications". Apple. Retrieved2016-10-20.
+122. Jump up^ Frakes, Dan (May 14, 2008). "Review: iPhone headsets".Macworld. Retrieved January 10, 2009.
+123. ^ Jump up to:a b "Apple Earphones with Remote and Mic". Apple Store. Retrieved May 19, 2009.
+124. Jump up^ Sadun, Erica (January 26, 2009). "iBluetooth team achieves OBEX file transfer". Ars Technica. Retrieved May 12, 2009.
+125. Jump up^ "Apple Composite AV Cable". Apple Inc. RetrievedSeptember 7, 2011.
+126. Jump up^ "Apple Component AV Cable". Apple Inc. RetrievedSeptember 7, 2011.
+127. Jump up^ "Apple VGA Adapter". Apple Inc. April 3, 2011. RetrievedSeptember 7, 2011.
+128. Jump up^ "Apple Digital AV Adapter". Apple Inc. March 11, 2011. Retrieved September 7, 2011.
+129. Jump up^ Oryl, Michael (July 3, 2007). "Review: Apple iPhone, In-Depth". Mobile Burn. Retrieved January 10, 2009.
+130. Jump up^ "Batteries—iPhone". Apple Inc. Retrieved June 6, 2008.
+131. Jump up^ Cheng, Jacqui; Chartier, David; Ecker, Clint (July 14, 2008)."The Second Coming: Ars goes in-depth with the iPhone 3G". Ars Technica. Retrieved June 23, 2009.
+132. Jump up^ Lam, Brian (July 11, 2008). "iPhone 3G Review". Gizmodo. Retrieved June 23, 2009.
+133. Jump up^ Kramer, Staci D. (July 9, 2008). "First iPhone 3G Reviews: Mossberg: Battery 'Significant Problem'; Pogue: Limited 3G, Good Audio". The Washington Post. Retrieved June 23,2009.
+134. Jump up^ Mossberg, Walt (July 8, 2008). "Newer, Faster, Cheaper iPhone 3G". All Things Digital. Retrieved June 23, 2009.
+135. Jump up^ "2008 Business Wireless Smartphone Customer Satisfaction Study". J. D. Power and Associates. November 6, 2008. Retrieved June 10, 2009.
+136. Jump up^ Krazit, Tom (November 6, 2008). "Apple's iPhone wins J.D. Power award". CNET. Retrieved June 10, 2009.
+137. Jump up^ "iPhone Service Frequently Asked Questions". Apple Inc. Retrieved June 6, 2008.
+138. ^ Jump up to:a b Lee, Ellen (July 11, 2007). "Will a Cheaper iPhone click before Christmas?". San Francisco Chronicle. RetrievedJune 6, 2008.
+139. Jump up^ Wong, May (July 8, 2007). "Apple Issues Battery Program for IPhone". The Washington Post. Retrieved July 8, 2007.
+140. Jump up^ Topolsky, Joshua (July 31, 2007). "iPhone's first sketchy battery replacement kit appears". Engadget. RetrievedAugust 6, 2012.
+141. Jump up^ Wilson, Mark (July 10, 2008). "The iPhone 3G Battery Is Quasi-Replaceable". Gizmodo. Retrieved January 10, 2009.
+142. Jump up^ Darrell Etherington (July 26, 2013). "Main Event Page gadgets Comment 1 inShare36 Apple Working On Location-Aware Battery Management For iPhone". TechCrunch. AOL Inc. Retrieved July 25, 2013.
+143. Jump up^ "Apple – iPhone 3Gs – Technical Specifications". Apple Inc. Archived from the original on June 11, 2010. RetrievedJune 21, 2010.
+144. Jump up^ "Foundry's RollingShutter can Fix iPhone Jellocam". Hand Held Hollywood. November 16, 2009. Retrieved February 24,2010.
+145. Jump up^ "Apple — iPhone 4 — Technical Specifications". Apple Inc. Retrieved June 21, 2010.
+146. Jump up^ HDR photography with iPhone 4 and iOS 4.1: how good is it?, Chris Foresman, September 13, 2010, Ars Technica, retrieved at June 19, 2011
+147. Jump up^ "What's New in iOS 6". Apple Inc. Retrieved October 7,2012.
+148. Jump up^ "iPhone 5 Features – Apple". Apple Inc. RetrievedOctober 7, 2012.
+149. Jump up^ "iPhone 5 Camera Problem".
+150. Jump up^ "Our tests find 'purple haze' effect isn't limited just to the iPhone 5". News.consumerreports.org. October 10, 2012. Retrieved October 25, 2012.
+151. Jump up^ Neues iPhone 4S, by Der Speigel, 05.10.2011 (Translation by Google)
+152. Jump up^ "Apple kills 4 GB iPhone, cuts 8 GB price to $399 – iPhone Atlas". iPhone Atlas. September 5, 2007.
+153. Jump up^ "Apple offers 16 GB iPhone, 32 GB iPod touch". Macworld. February 6, 2008.
+154. Jump up^ "Removing SIM card". Apple Inc. July 10, 2008. RetrievedJune 11, 2009.
+155. Jump up^ Diaz, Jesus (June 9, 2008). "iPhone 3G's New SIM Ejector Tool Makes It Instant Must-Buy". Gizmodo. RetrievedJune 24, 2008.
+156. Jump up^ Hughes, Neil (August 17, 2010). "Liquidmetal created SIM ejector tool for Apple's iPhone, iPad". AppleInsider. RetrievedJanuary 1, 2012.
+157. ^ Jump up to:a b "About activating iPhone 3G with a wireless carrier". Apple Inc. December 13, 2008. Retrieved December 14, 2008.
+158. Jump up^ Apple Inc. "iPhone 4 – Size, weight, battery life, and other specs". Apple Inc. Retrieved June 23, 2010.
+159. Jump up^ Slivka, Eric. "Sprint Offers Clarification on iPhone 4S International Micro-SIM Unlocking". MacRumors. RetrievedJuly 13, 2012.
+160. Jump up^ Miller, Matthew. "International travelers: Here is how to SIM unlock your Verizon Apple iPhone 4S". ZDNet. RetrievedJuly 13, 2012.
+161. Jump up^ "iPhone and iPod: Liquid damage is not covered by warranty". Apple Inc. August 27, 2010. RetrievedDecember 25, 2010.
+162. Jump up^ Martin, David (April 8, 2009). "Sweaty workouts killing iPhones?". CNET. Retrieved November 5, 2009.
+163. Jump up^ Lisa Respers (April 14, 2009). "Moisture, cold irritate some smart phone users". CNN. Retrieved November 5, 2009.
+164. Jump up^ Epstein, Zach (November 9, 2010). "Apple Amends Internal iPod Water Damage Policy". Boy Genius Report. RetrievedJanuary 7, 2011.
+165. Jump up^ "Apple Earphones with Remote and Mic". Apple Inc. Retrieved January 26, 2011.
+166. Jump up^ "Apple iPhone 3G Dock". Apple Store. Retrieved June 14,2009.
+167. Jump up^ "Apple – Support – Apple Ultracompact USB Power Adapter Exchange Program". Apple Inc. Retrieved January 9, 2009.
+168. Jump up^ "Apple – Support – Apple Ultracompact USB Power Adapter Exchange Program – Latin American Countries". Apple Inc. Retrieved January 9, 2009.
+169. ^ Jump up to:a b Haslam, Karen (January 12, 2007). "Macworld Expo: Optimised OS X sits on 'versatile' flash". Macworld. RetrievedJune 6, 2008.
+170. Jump up^ "iPhone: Minimum system requirements". Apple Inc. Retrieved July 13, 2007.
+171. Jump up^ Murph, Darren (January 15, 2008). "Apple's iTunes 7.6 plays nice with 64 bit Vista". Engadget. Retrieved January 22,2008.
+172. Jump up^ "iTunes is now 64-bit". PlanetAMD64.
+173. Jump up^ "To Upgrade or Not: the iPhone 3G S Dilemma". Macworld Canada. June 24, 2009. Retrieved June 27, 2009.
+174. Jump up^ Kharif, Olga (July 10, 2007). "Coming Soon: iPhone Software Updates". BusinessWeek. Retrieved June 6, 2008.
+175. Jump up^ Cohen, Peter (September 12, 2008). "Apple releases iPhone 2.1 update". Macworld. Retrieved June 10, 2009.
+176. Jump up^ Aviv (August 12, 2008). "iPhone 3G Connection Issues Caused by Immature Infineon Chipset?". MacBlogz. Retrieved December 17, 2008.
+177. Jump up^ "Apple teams with payment networks to turn iPhone into wallet". San Diego News.Net. September 1, 2014. RetrievedSeptember 1, 2014.
+178. Jump up^ "Apple Pay - Apple". Apple. Retrieved January 26, 2016.
+179. Jump up^ "Apple Pay - Apple (??)". Apple. Retrieved January 26,2016.
+180. Jump up^ applications
+181. Jump up^ "Apple – iPhone – Features – Home screen". Apple Inc. 2008. Retrieved December 13, 2008.
+182. Jump up^ "iPhone Applications". Apple Inc. July 11, 2007. RetrievedNovember 4, 2007.
+183. Jump up^ Melanson, Donald (September 13, 2007). "Mirror-based video conferencing developed for iPhone". Engadget. RetrievedDecember 20, 2009.
+184. Jump up^ "Apple – iPhone 4 – One-tap video calling with FaceTime on iPhone 43". Retrieved June 11, 2010.
+185. ^ Jump up to:a b "iPhone: Make calls and play music using voice control". Apple Inc. June 10, 2009. Archived from the original on June 10, 2009. Retrieved June 10, 2009.
+186. Jump up^ Tessler, Franklin (December 12, 2008). "Review: iPhone voice dialers". Macworld. Retrieved May 9, 2009.
+187. Jump up^ Starrett, Charles (June 11, 2008). "iPhone 3G carriers, Apple vary on Visual Voicemail". iLounge. Retrieved May 24, 2009.
+188. Jump up^ "Apple Unveils the iTunes Wi-Fi Music Store" (Press release). Apple Inc. November 5, 2007. Retrieved May 24,2009.
+189. Jump up^ "How to create custom ringtones in GarageBand 4.1.1". Apple Inc. Retrieved December 15, 2007.
+190. Jump up^ Gilbertson, Scott (September 12, 2007). "How to Make Custom IPhone Ringtones Without Paying Apple $2". Wired. Retrieved March 8, 2008.
+191. Jump up^ "iOS 6 Preview". Apple Inc. Retrieved June 11, 2012.
+192. Jump up^ "What is Gapless Playback?". Apple Inc. Retrieved May 13,2008.
+193. Jump up^ Gruber, John (September 30, 2007). "The Reason It's Called the Wi-Fi Music Store". Daring Fireball. Retrieved January 6,2008.
+194. Jump up^ "Apple's Joswiak: iPhone 3G Runs Fast HSDPA 3.6, Not Slower 1.8". Gearlog. Archived from the original on October 4, 2008. Retrieved October 12, 2008.
+195. Jump up^ Michaels, Philip; Jason Snell (June 8, 2009). "iPhone 3GS offers speed boost, video capture". Macworld. RetrievedJune 8, 2009.
+196. Jump up^ "iOS: Understanding cellular data networks". Support.apple.com. September 24, 2013. Retrieved February 3,2014.
+197. Jump up^ Rojas, Peter (July 20, 2004). "AT&T Wireless introduces 3G wireless". Engadget. Retrieved December 17, 2008.
+198. Jump up^ "Jobs: battery life issues delaying 3G iPhone". MacNN. Retrieved June 6, 2008.
+199. Jump up^ "Apple – iPhone – Enterprise". Apple Inc. Archived from the original on July 21, 2008. Retrieved June 11, 2008.
+200. Jump up^ "iPhone: About Connections Settings". Apple Inc. RetrievedNovember 4, 2007.
+201. Jump up^ "iPhone: Connecting to the Internet with EDGE or Wi-Fi". Apple Inc. Retrieved November 4, 2007.
+202. Jump up^ "Apple – iPhone – Features – 3G". Apple Inc. 2008. Retrieved December 14, 2008.
+203. Jump up^ "iPhone 3G S features 7.2 Mbit/s, AT&T's network does not". Macworld. June 10, 2009. Retrieved May 16, 2010.
+204. Jump up^ "Apple Increases iPhone Download Limit to 20 MB". February 19, 2010. Retrieved November 6, 2013.
+205. Jump up^ Lanxon, Nate (December 1, 2008). "iPhone: Beat 10 MB 3G download limit". CNET. Retrieved August 6, 2012.
+206. Jump up^ "iPhone: Zooming In to See a Page More easily". Apple Inc. Retrieved November 4, 2007.
+207. Jump up^ Walter S. Mossberg; Katherine Boehret (June 26, 2007). "The iPhone Is a Breakthrough Handheld Computer". The Mossberg Solution. The iPhone is the first smart phone we've tested with a real, computer-grade Web browser, a version of Apple's Safari. It displays entire Web pages, in their real layouts, and allows you to zoom in quickly by either tapping or pinching with your finger.
+208. Jump up^ Chartier, David (June 12, 2007). "It's official: No Flash support on the iPhone (yet)". The Unofficial Apple Weblog. RetrievedJune 6, 2008.
+209. Jump up^ Jobs, Steve (April 2010). "Thoughts on Flash". Apple Inc. Retrieved May 1, 2010.
+210. Jump up^ Wilson, Ben (March 8, 2008). "iPhone OS 2.0 will include Bonjour, full-screen Safari mode, more". iPhone Atlas. Retrieved January 9, 2009.
+211. Jump up^ Reisinger, Don. "Chrome already nabs 1.5 percent of iOS browser market". CNET. Retrieved July 18, 2012.
+212. Jump up^ Cohen, Peter (January 9, 2007). "Macworld Expo Keynote Live Update". Macworld. Retrieved February 1, 2007.
+213. Jump up^ Block, Ryan (January 9, 2007). "Live from Macworld 2007: Steve Jobs keynote". Engadget. Retrieved June 6, 2008.
+214. ^ Jump up to:a b Snell, Jason (November 21, 2008). "Apple releases iPhone 2.2 update". Macworld. Retrieved June 10, 2009.
+215. Jump up^ "Apple — iPhone — Get directions with GPS maps and a new compass". Apple Inc. June 8, 2009. Archived from the original on June 12, 2009. Retrieved June 8, 2009.
+216. Jump up^ Lane, Slash (February 14, 2008). "Google iPhone usage shocks search giant". AppleInsider. Retrieved February 18,2008.
+217. Jump up^ "iPhone Data Booms at T-Mobile". Unstrung. January 30, 2008. Retrieved February 18, 2008.
+218. Jump up^ Chen, Brian X. (August 28, 2009). "iPhone Goes to China Without Wi-Fi". Wired.
+219. Jump up^ Sande, Steven (January 11, 2011). "Verizon iPhone Can't Handle Data and Voice Simultaneously". The Unofficial Apple Weblog.
+220. Jump up^ Van Allen, Fox (December 2014). "Here's When Your Carrier will Support the iPhone 6's Wi-Fi Calling".
+221. Jump up^ Markoff, John (June 13, 2007). "That iPhone Has a Keyboard, but It's Not Mechanical". The New York Times. RetrievedJune 6, 2008.
+222. Jump up^ "Apple – iPhone – Features – Keyboard". Apple Inc. Retrieved December 15, 2008.
+223. Jump up^ "Apple – iPhone – Tips and Tricks". Apple Inc. RetrievedNovember 11, 2011.
+224. Jump up^ "Apple – iPhone – Technical Specifications". Apple Inc. Retrieved June 10, 2009.
+225. Jump up^ "Apple – iPhone – Enterprise". Apple Inc. RetrievedMay 16, 2009.
+226. Jump up^ Frausto-Robledo, Anthony (July 24, 2007). "Analysis: Kerio MailServer delivers email to Apple iPhone". Retrieved June 6,2008.
+227. Jump up^ "iPhone to support Exchange". TechTraderDaily. March 6, 2008.
+228. ^ Jump up to:a b "Apple Introduces the New iPhone 3G" (Press release). Apple Inc. June 9, 2008. iPhone 2.0 software will be available on July 11 as a free software update via iTunes 7.7 or later for all iPhone customers
+229. Jump up^ "iPhone – Features – Mail". Apple Inc. Retrieved May 16,2009.
+230. Jump up^ Moren, Dan (January 16, 2008). "First Look: iPhone 1.1.3".Macworld. Retrieved June 10, 2009.
+231. Jump up^ Mies, Ginny (June 9, 2009). "AT&T tight-lipped on MMS, tethering". Macworld. Retrieved June 10, 2009.
+232. Jump up^ "AT&T slates iPhone MMS launch for Friday".ComputerWorld. September 24, 2009. Retrieved September 25,2009.
+233. Jump up^ "iPhone to Support Third-Party Web 2.0 Applications"(Press release). Apple Inc. June 11, 2007. RetrievedDecember 15, 2008.
+234. Jump up^ Block, Ryan (March 6, 2008). "Live from Apple's iPhone SDK press conference". Engadget. Retrieved August 6, 2012.
+235. Jump up^ Quinn, Michelle (July 10, 2008). "Apple will open App Store in bid to boost iPhone sales". Los Angeles Times. RetrievedJuly 10, 2008.
+236. Jump up^ Breen, Christopher (July 15, 2008). "Is the iPod touch 2.0 update worth $10?". Macworld. Retrieved May 16, 2009.
+237. Jump up^ Wingfield, Nick (August 11, 2008). "IPhone Software Sales Take Off: Apple's Jobs". The Wall Street Journal. Archived from the original on August 11, 2008. Retrieved September 3,2008.
+238. Jump up^ "Podcasting app rejected from App Store". Macworld. September 12, 2008. Retrieved January 23, 2009.
+239. Jump up^ Raphael, JR (September 15, 2008). "Apple App Store Ban: Android, Here's Your Chance". PC World. RetrievedDecember 13, 2008.
+240. Jump up^ Previous post Next post (June 2, 2010). "AT&T Adds iPhone Tethering, Kills Unlimited Data for iPad, Smartphones | Gadget Lab". Wired. Retrieved November 11, 2010.
+241. Jump up^ "Apple – Web apps". Apple Inc. Retrieved May 16, 2009.
+242. Jump up^ Healey, Jon (August 6, 2007). "Hacking the iPhone". Los Angeles Times. Retrieved June 6, 2008.
+243. Jump up^ "Apple's Joswiak: We Do not Hate iPhone Coders". gearlog.com. September 2007.
+244. Jump up^ "Apple App Store hits 60 billion cumulative downloads Mobile". Engadget. October 22, 2013. Retrieved November 2,2013.
+245. Jump up^ Apple iPhone 7 Live blog The Verge
+246. Jump up^ "About Hearing Aid Compatibility (HAC) requirements for iPhone – Apple Support". support.apple.com. Retrieved2016-04-03.
+247. Jump up^ "Use Made for iPhone hearing aids – Apple Support".support.apple.com. Retrieved 2016-04-03.
+248. Jump up^ "Use Live Listen with Made for iPhone hearing aids – Apple Support". support.apple.com. Retrieved 2016-04-03.
+249. Jump up^ "Accessibility – iOS – Braille Displays – Apple".www.apple.com. Retrieved 2016-04-05.
+250. ^ Jump up to:a b c "Accessibility – iOS – Apple". www.apple.com. Retrieved 2016-04-05.
+251. Jump up^ "Apple — Accessibility — iPhone — Vision". Apple Inc. Retrieved December 15, 2008.
+252. Jump up^ "Apple – Accessibility – iPhone – Hearing". Apple Inc. Retrieved December 15, 2008.
+253. Jump up^ "Apple – iPhone – Accessibility". Apple Inc. June 8, 2009. Retrieved June 8, 2009.
+254. Jump up^ "Apple – Voluntary Product Accessibility Templates". Apple Inc. July 18, 2009. Retrieved July 18, 2009.
+255. Jump up^ Apple Inc. (2004-2016). Press Release Library. Retrieved April 6, 2016.
+256. Jump up^ Ishimaru, Heather (January 9, 2007). "Apple Options Not An Issue At Macworld". abc7news.com. Retrieved January 11,2007.
+257. Jump up^ "iPhone – Features – High Technology". Apple Inc. Retrieved June 6, 2008.
+258. Jump up^ Wright, Aaron (February 20, 2007). "The iPhone Lawsuits". Apple Matters. Retrieved June 25, 2007.
+259. ^ Jump up to:a b c d "Trademark Applications and Registrations Retrieval, serial number 74431935 (I PHONE)". United States Patent and Trademark Office. January 12, 2007. Retrieved June 6,2008.
+260. ^ Jump up to:a b Berlind, David (January 7, 2007). "On the eve of a new phone, Apple appears to want in on the Cisco "iPhone" trademark". Retrieved January 10, 2009.
+261. Jump up^ "Trademark Applications and Registrations Retrieval, serial number 75076573 (IPHONE)". United States Patent and Trademark Office. July 31, 2006. Retrieved June 6, 2008.
+262. Jump up^ Needle, David (June 10, 1999). "InfoGear upgrades phone of the future". CNN. Retrieved January 27, 2007.
+263. Jump up^ "InfoGear Technology Corporation v iPhones". National Arbitration Forum. April 13, 2000. Retrieved June 6, 2008.
+264. ^ Jump up to:a b Kawamoto, Dawn (January 26, 2007). "Cisco faces iPhone trademark challenge in Canada". ZDNet. Archived from the original on April 24, 2008. Retrieved June 6, 2008.
+265. Jump up^ Smith, Tony (December 18, 2006). "iPhone launched ... but not by Apple". The Register. Retrieved June 6, 2008.
+266. Jump up^ "Case details for Community Trade Mark E5341301". UK Intellectual Property Office. Retrieved June 6, 2008.
+267. Jump up^ "Apple filing for iPhone trademarks worldwide". 10layers.com. October 17, 2006. Archived from the originalon January 13, 2007. Retrieved January 28, 2007.
+268. Jump up^ Thomas, Owen (January 9, 2007). "Apple: Hello, iPhone". CNN. Retrieved January 27, 2007.
+269. Jump up^ "Cisco Sues Apple for Trademark Infringement" (Press release). Cisco Systems. January 10, 2007. Retrieved June 6,2008.
+270. Jump up^ "Report: Cisco CEO calls iPhone suit 'minor skirmish'".News.com. Reuters. January 25, 2007. Retrieved June 6, 2008.
+271. Jump up^ Wong, May (February 2, 2007). "Cisco, Apple decide to talk over iPhone". Seattle Times. Associated Press. RetrievedJune 6, 2008.
+272. Jump up^ Wingfield, Nick (February 22, 2007). "Apple, Cisco Reach Accord Over iPhone". The Wall Street Journal. RetrievedJune 6, 2008.
+273. Jump up^ "Cisco and Apple Reach Agreement on iPhone Trademark"(Press release). Apple Inc. February 21, 2007. RetrievedApril 1, 2008.
+274. Jump up^ Gikas, Mike (April 8, 2008). "Send in the iClones".Consumer Reports. Retrieved June 10, 2009.
+275. Jump up^ Perepelkin, Plato (September 1, 2008). "Cashing In on the Outdated iPhone" (PDF) (Press release). Cash For Laptops. Retrieved April 8, 2009.
+276. Jump up^ "Nokia sues Apple in Delaware District Court for infringement of Nokia GSM, UMTS and WLAN patents". Nokia. October 22, 2009. Retrieved October 24, 2009.
+277. Jump up^ "IPhone and iPad users sue Apple over privacy issues". Reuters. December 28, 2010. Retrieved December 28, 2010.
+278. Jump up^ Chen, Brian X. (August 24, 2012). "A Verdict That Alters an Industry". The New York Times.
+279. Jump up^ "Apple seeks patent for wraparound displayl". 3 News NZ. April 2, 2013.
+280. Jump up^ Christopher Vance (April 20, 2011). "Consolidated.db: Final Thoughts". Retrieved April 25, 2011.
+281. Jump up^ Chen, Brian X. (April 20, 2011). "iPhone Tracks Your Every Move, and There's a Map for That". Wired. Retrieved April 22,2011.
+282. Jump up^ Warden, Pete (April 24, 2011). "Additional iPhone tracking research". O'Reilly Media. Retrieved April 25, 2011.
+283. Jump up^ Alex Levinson (April 21, 2011). "3 Major Issues with the Latest iPhone Tracking "Discovery"". Retrieved April 25, 2011.
+284. Jump up^ Mikko Hypponen (April 21, 2011). "Actually, iPhone sends your location to Apple twice a day". Retrieved April 25, 2011.
+285. Jump up^ Arthur, Charles (April 20, 2011). "iPhone keeps record of everywhere you go". The Guardian. UK. Retrieved April 22,2011.
+286. Jump up^ Allan, Alasdair; Warden, Pete. "iPhone Tracker". GitHub. Retrieved April 22, 2011.
+287. Jump up^ Aamoth, Doug (April 22, 2011). "How to Encrypt The Location Data of your iPhone (Consolidated.db)". Time. RetrievedApril 22, 2011.
+288. ^ Jump up to:a b "Apple Q&A on Location Data" (Press release). Apple Inc. April 27, 2011. Retrieved June 7, 2011.
+289. Jump up^ "Influential China TV alleges iPhone exposing 'state secrets'". Beijing News.Net. Retrieved July 10, 2014.
+290. Jump up^ "Your iPhone Knows Exactly Where You've Been And This Is How To See It". BuzzFeed. Retrieved October 27, 2015.
+291. Jump up^ Staff (September 7, 2013). "Privacy Scandal: NSA Can Spy on Smart Phone Data". Retrieved September 7, 2013.
+292. Jump up^ David E Sanger; Brian X Chen (September 27, 2014)."Signaling Post-Snowden Era, New iPhone Locks Out N.S.A.". The New York Times. Retrieved September 27,2014.
+293. Jump up^ "Manhattan DA: iPhone Crypto Locked Out Cops 74 Times". WIRED. July 8, 2015.
+294. Jump up^ Cat Zakrzewski (October 12, 2015). "Encrypted Smartphones Challenge Investigators". WSJ.
+295. Jump up^ "Prosecutors press on with 'think of the children' campaign against encryption in iOS, Android". AppleInsider. August 12, 2015.
+296. Jump up^ Tiffany Kary; Chris Dolmetsch (November 18, 2015). "Apple, Google Urged to Crack Encrypted Phones in Terror Probes".Bloomberg.com.
+297. Jump up^ Michael Riley; Jordan Robertson (February 19, 2016). "Secret Memo Details U.S.'s Broader Strategy to Crack Phones".Bloomberg.com.
+298. Jump up^ "Apple ordered to unlock San Bernardino shooter's iPhone".Ars Technica UK. February 17, 2016.
+299. Jump up^ Andrew Blankstein (February 16, 2016). "Judge Forces Apple to Help Unlock San Bernardino Shooter iPhone". NBC News.
+300. Jump up^ Tim Cook. "A Message to Our Customers". Archived fromthe original on February 17, 2016. The United States government has demanded that Apple take an unprecedented step which threatens the security of our customers. We oppose this order, which has implications far beyond the legal case at hand.
+301. Jump up^ Jordan Novet. "Apple vs. FBI: A timeline of the iPhone encryption case". VentureBeat.
+302. Jump up^ "Privacy - Government Information Requests - Apple".Apple. Retrieved 2016-04-23.
+303. Jump up^ "Who Has Your Back? Government Data Requests 2015".Electronic Frontier Foundation. Retrieved 2016-04-23.
+304. Jump up^ Braiker, Brian (May 2, 2008). "A Killer Product: Will closed devices like Apple's iPhone murder the Web?". RetrievedJune 16, 2009. Through historical accident, we've ended up with a global network that pretty much allows anybody to communicate with anyone else at any time. Devices could be reprogrammed by them at any time, including code written by other people, so you don't have to be a nerd to get the benefits of reprogramming it. [But] this is an historical accident. Now, I see a movement away from that framework—even though it doesn't feel like a movement away. [For example,] an iPhone can only be changed by Steve Jobs or soon, with the software development kit, by programmers that he personally approves that go through his iPhone apps store. Or whimsical applications that run on the Facebook platform or the new Google apps. These are controllable by their vendors in ways that Bill Gates never dreamed of controlling Windows applications. [...] That's the ironic thing. Bill Gates is Mr. Proprietary. But for my purposes, even under the standard Windows operating system from 1990, 1991, you write the code, you can hand it to somebody else and they can run it. Bill Gates has nothing to say about it. So it's funny to think that by moving in Steve Jobs's direction it actually ends up far more proprietary.
+305. Jump up^ Johnston, Michael (October 20, 2007). "Do iPhone Hacks Void Your Warranty?". iPhone Alley. Retrieved May 14, 2009.
+306. Jump up^ Moren, Dan (May 28, 2008). "iPhone hackers look to an uncertain future". Macworld. Retrieved May 25, 2009.
+307. Jump up^ FAQ Details. Eshop.macsales.com (March 27, 2013). Retrieved on July 30, 2013.
+308. Jump up^ "set restrictions". Imore.com. April 13, 2009. RetrievedOctober 25, 2012.
+309. Jump up^ "IOS Understanding Restrictions". Apple Inc. Apple Inc. Retrieved September 26, 2012.
+310. Jump up^ Johansen, Jon Lech (July 3, 2007). "iPhone Independence Day". nanocr.eu. Retrieved June 6, 2008.
+311. Jump up^ Baldwin, Roberto (June 9, 2008). "iPhone 3G – In-Store Activation Only". MacLife. Retrieved June 13, 2008.
+312. Jump up^ Markoff, John (July 12, 2008). "iPhone Users Plagued by Software Problems". The New York Times. Retrieved July 13,2008.
+313. Jump up^ "iPhone 3G". Apple Store (UK). Retrieved May 14, 2009.
+314. Jump up^ "Apple – iPhone – Buy iPhone 3G". Apple Inc. RetrievedJune 14, 2009.[verification needed]
+315. Jump up^ Krazit, Tom (October 19, 2007). "iPhone jailbreak for the masses released". CNET. Retrieved May 14, 2009.
+316. Jump up^ Granick, Jennifer (August 28, 2007). "Legal or Not, IPhone Hacks Might Spur Revolution". Wired. Retrieved May 14,2009.
+317. Jump up^ Krazit, Tom (February 23, 2009). "Apple: iPhone jailbreaking violates our copyright". CNET. Retrieved February 14, 2009.
+318. Jump up^ "Jailbreaking and Unlocking is Now Officially Legal in United States".
+319. Jump up^ Australian admits creating first iPhone virus, Brigid Andersen, ABC Online, November 9, 2009. Retrieved November 10, 2009.
+320. Jump up^ "Jailbreaking puts iPhone owners at risk, says researcher".
+321. Jump up^ David Wang (May 19, 2010). "How to Install Android on Your iPhone". PC World.
+322. Jump up^ "Idroidproject.org". Idroidproject.org. Retrieved August 8,2011.
+323. Jump up^ Ben Wilson (October 29, 2007). "One-step method for adding third-party apps to iPhone 1.1.1, iPod Touch debuts". CNET. Retrieved August 25, 2011.
+324. Jump up^ Hollister, Sean (August 1, 2010). "Official: iPhone 4 jailbreak hits from iPhone Dev Team (updated with video)". Engadget. Retrieved September 11, 2010.
+325. Jump up^ Mathew J. Schwartz (July 7, 2011). "Apple iOS Zero-Day PDF Vulnerability Exposed". InformationWeek. RetrievedOctober 23, 2011.
+326. Jump up^ Robertson, Jordan (July 8, 2011). "Security holes discovered in iPhones, iPads". News & Record. Associated Press. Retrieved July 9, 2011.
+327. Jump up^ Stephen Musil (September 22, 2013). "Hackers claim to have defeated Apple's Touch ID print sensor". Cnet. CBS Interactive Inc. Retrieved September 23, 2013.
+328. Jump up^ Frank Rieger: Chaos Computer Club breaks Apple TouchID. Chaos Computer Club, September 21, 2013.
+329. Jump up^ Farivar, Cyrus (November 14, 2007). "Unlocking an iPhone". Macworld. Retrieved May 25, 2009.
+330. Jump up^ Kharif, Olga (September 2, 2008). "What's Hot: Used Apple iPhones: After the iPhone 3G launch, consumers want the original, hackable iPhone, and vendors are springing up to sell them—for a premium". BusinessWeek. Retrieved March 17,2009.
+331. Jump up^ T-Mobile CEO says frequency band issue is 'key reason' for lack of iPhone. Appleinsider.com. Retrieved January 19, 2012.
+332. Jump up^ "Quarter of US iPhones 'unlocked'". BBC News Online. January 28, 2008.
+333. Jump up^ Krazit, Tom (May 14, 2009). "AT&T: No-contract iPhones coming next week". CNET. Retrieved May 14, 2009.
+334. Jump up^ "Orange to sell iPhone SIM-free for €749". PC Retail Magazine. November 29, 2007. Retrieved January 6, 2008.
+335. Jump up^ iPhone overview from GTA TeleGuam
+336. Jump up^ "iPhone overview". Docomo Pacific.
+337. Jump up^ "AT&T eligibility requirements for unlocking iPhone".
+338. Jump up^ Verizon Wireless says iPhone 5 won't be 'relocked' . NBC Nnws.com (September 24, 2012). Retrieved on July 10, 2013.
+339. Jump up^ "Ofcom mobile phone locking and unlocking".
+340. Jump up^ "Buy iPhone 4 and iPhone 3GS – Apple Store (UK)". store.apple.com. Retrieved August 6, 2011.
+341. Jump up^ "iPhone 3G & iPhone 3GS – Apple Store (Australia)". store.apple.com. Retrieved May 19, 2010.
+342. Jump up^ Dirks, Brent (November 2, 2012). "Apple Losing The Battle Over The iPhone Brand Name In Mexico". AppAdvice. Retrieved February 5, 2013.
+343. Jump up^ "Mexican Supreme Court upholds iFone ruling". WIPR. March 19, 2013. Retrieved November 11, 2013.
+344. ^ Jump up to:a b "STXNEWS LATAM-Brazil's IGB says registered brand 'IPHONE' in Brazil-filing". Reuters. December 18, 2012. Retrieved February 5, 2013.
+345. Jump up^ Vergara del Carril, Marcos; Sheppard, Mullin, Richter & Hampton LLP (October 11, 2013). "Apple is Fighting Back in Brazilian Courts to Get its iPhone Trademark". National Law Review. Retrieved November 6, 2013.
+346. Jump up^ "Apple volta a vencer Gradiente em ação pela marca iPhone (English: Apple wins again Gradient in lawsuit for the brand iPhone)". Veja. Retrieved August 27, 2015.
+347. Jump up^ Beltran, Sam (June 3, 2015). "iPhone vs. MyPhone: Apple Loses in Trademark Case". When In Manila. RetrievedJune 4, 2015.
+348. Jump up^ Gonzales, Yuji (June 2, 2015). "Apple loses trademark case vs PH's MyPhone". Philippine Daily Inquirer. RetrievedJune 4, 2015.
+349. Jump up^ "Apple loses trademark case vs MyPhone". ABS-CBNnews.com. June 2, 2015. Retrieved June 4, 2015.
+

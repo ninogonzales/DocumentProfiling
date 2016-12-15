@@ -1,0 +1,266 @@
+League of Legends
+From Wikipedia, the free encyclopedia
+This article is about the video game. For the darts tournament, see BetFred League of Legends.
+"LoL" redirects here. For other uses, see Lol (disambiguation).
+League of LegendsDeveloper(s)Riot GamesPublisher(s)Riot GamesDirector(s)Tom CadwellProducer(s)Steven Snow
+Travis GeorgeDesigner(s)Christina Norman
+Rob Garrett
+Steve FeakArtist(s)Edmundo Sanchez
+Troy Adam
+Paul KwonWriter(s)George KrsticComposer(s)Christian LinkePlatform(s)Microsoft Windows, OS XRelease date(s)* WW: October 27, 2009Genre(s)Multiplayer online battle arenaMode(s)MultiplayerLeague of Legends (abbreviated LoL) is a multiplayer online battle arena video game developed and published by Riot Games for Microsoft Windowsand OS X. The game follows a freemium model and is supported by microtransactions, and was inspired by the Warcraft III: The Frozen Throne mod,Defense of the Ancients.[1]
+In League of Legends, players assume the role of an unseen "summoner" that controls a "champion" with unique abilities and battle against a team of other players or computer-controlled champions. The goal is usually to destroy the opposing team's "nexus", a structure which lies at the heart of a base protected by defensive structures. Each League of Legends match is discrete, with all champions starting off fairly weak but increasing in strength by accumulating items and experience over the course of the game.[2]
+League of Legends was generally well received at release, and has grown in popularity. By July 2012, League of Legends was the most played PC game in North America and Europe in terms of the number of hours played.[3] As of January 2014, over 67 million people played League of Legends per month, 27 million per day, and over 7.5 million concurrently during peak hours.[4]
+League of Legends has an active and widespread competitive scene. In North America and Europe, Riot Games organizes the League Championship Series, located in Los Angeles and Berlin respectively, which consists of 10[5] professional teams in each continent. Similar regional competitions exist inChina, South Korea, Taiwan, South America,[6] and Southeast Asia. These regional competitions culminate with the annual World Championship, which in 2013, had a grand prize of $1 million and attracted 32 million viewers online.[7] The 2014 and 2015 tournaments each gave out one of the largest prize pools in eSports history, at $2.3 million.[8][9] Winners also receive trophies, such as the Summoner's Cup, which was made by silversmiths Thomas Lyte.[10]
+Contents
+  [hide] 
+* 1Gameplay
+o 1.1Game maps
+* 1.1.1Summoner's Rift
+* 1.1.2Twisted Treeline
+* 1.1.3Howling Abyss
+* 1.1.4Crystal Scar
+o 1.2Games types and matchmaking
+o 1.3Champion selection
+o 1.4Champion introduction
+o 1.5Game modes
+o 1.6Micro purchases
+* 2Development
+* 3Release
+* 4Reception
+o 4.1Popular reception
+o 4.2Critical reception
+o 4.3Awards and nominations
+* 5Professional competition
+o 5.1World Championship
+o 5.2Championship Series
+o 5.3Other tournaments
+* 6References
+* 7External links
+Gameplay
+
+Champions Quinn and Jinx (bottom) face off against Taric (top) in the bottom lane of Summoner's Rift
+League of Legends is a 3D, third-person multiplayer online battle arena (MOBA) game.[11] The game consists of 3 current running game modes: Summoner's Rift, Twisted Treeline and Howling Abyss.[12] The game used to have 4 game modes, however, the game mode played on The Crystal Scar has since been removed.[13] Players compete in matches, typically lasting 20–60 minutes. In each game mode teams work together to accomplish a terminal objective and achieve a victory condition, either to destroy a central objective (called a Nexus) controlled by the enemy team, or to capture and hold the most strategic points for the longest period of time. Each game mode includes a variety of smaller intermediate objectives that give players and teams advantages in achieving overall victory.
+In all game modes, players control characters called champions, chosen or assigned every match, who each have a set of unique abilities.[14]Champions begin every match at a low level (level one for Summoner's rift and Twisted Treeline, and level three for Crystal Scar and Howling Abyss), and then gain experience over the course of the match to achieve a maximum level of 18. Gaining champion levels in matches allows players to unlock their champion's special abilities and augment them in a number of ways unique to each character. Players also begin each match with a low amount of gold, and can earn additional gold throughout the match in a variety of ways: by killing non-player characters known as minions and monsters, by killing or helping to kill enemy players, by destroying enemy structures, passively over time, and through unique item interactions or champion abilities. This gold can then be spent throughout the match to buy in-game items that further augment each champion's abilities and game play in a variety of ways. Champion experience, gold earned, and items bought are specific to each match and do not carry over to subsequent matches. Thus, all players begin each match on more-or-less equal footing relative to their opposing team.
+Across matches, players also earn rewards that are specific to the individual, and augment matches played. Player experience is earned by playing matches over time on a particular account. Player accounts begin at level one and progress through a maximum level of 30. As a player progresses they unlock various maps and game modes not available to new players, as well as an additional two abilities to be used in matches, known as summoner spells. Players also unlock Runes and Masteries, which can be used to provide small bonuses to a player's champion in battle.
+All game modes use automated matchmaking based on the Elo formula, with proprietary adjustments.[15] A player's behavior is tracked between matches, and players that display poor behavior may be subject to varying sanctions. These are delivered by an automated system, and range from warnings, to chat restriction, to temporary and permanent bans from the game. This system replaced an earlier system, called the Tribunal, which sent game logs to the community to collectively decide whether a player's behavior was sanctionable. Permanent bans were still reviewed manually as of 2014.[16]
+Game maps
+League of Legends consists of three main maps, or "Fields of Justice." Each have different terrain, objectives and victory conditions, as well as varied summoner spells and items. A fourth map, Crystal Scar, was discontinued.
+Summoner's Rift
+Summoner's Rift is the most popular map in League of Legends.[12] On this map type, two teams of five players compete to destroy an enemy building called a Nexus, which is guarded by a number of defensive structures, Towers, and defended by the enemy team.[17] One nexus is located in each enemy base on opposite sides of the map, in the lower-left and upper-right hand corners. These structures continually create weak non-player characters known as minions, which advance toward the enemy base along three lanes: top, bottom and middle lanes. Players compete to advance these waves of minions into the enemy base, which allows them to destroy enemy structures, achieve intermediate objectives, and ultimately victory.
+Between enemy lanes are more neutral areas of the map known as the Jungle and the River. The Jungle is arrayed in four quadrants and contains a variety of more powerful non-player characters known as Monsters. The River bisects the map from the upper-left to the lower-right-hand corners and contains three types of neutral Monsters, the Scuttle Crab, Dragon, and Rift Herald/Baron Nashor.
+Summoner's Rift features a number of intermediate objectives. These provide a range of advantages which allows players to better achieve overall victory:[18]
+* Turrets - Each lane is guarded on either side by powerful defensive structures called turrets. Turrets will attack enemy minions and players that approach them. Turret's will prioritize enemy minions in their vicinity, but will immediately attack enemy players if they attack allied players. Thus, by advancing an allied minion wave into the range of a turret, a player can do damage to the structure without themselves being attacked. When destroyed, turrets, depending on location, provide gold and experience. Turrets that are destroyed are destroyed permanently for that match and will not respawn. Some turrets, depending on location, will regenerate health over time if they are damaged but not destroyed.
+* Inhibitor - Each lane contains one Inhibitor. Inhibitors may be attacked after a team has destroyed the three turrets guarding each lane. Destroying an Inhibitor will cause the allied Nexus to spawn Super Minions, more powerful Minions that provide a buff to surrounding Minions. When destroyed, Inhibitors provide gold to the destroying champion. Inhibitors will respawn after five minutes. Inhibitors will regain health over time if they are damaged but not destroyed.
+* Rift Herald - The Rift Herald is a powerful Monster located in the upper side of the River. Killing the Rift Herald provides a buff that can be picked up by a member of the killing team, which makes this member take less damage from enemies. This buff will stay for 20 minutes and persists even the holder has been slain. This monster will never respawn after it is killed, though it despawns after 19 minutes and 45 seconds, which it is replaced with Baron Nashor.
+* Baron Nashor - Baron Nashor is a powerful Monster located in the upper side of the River. It will spawn after twenty minutes, replacing the Rift Herald. All living members of the team that kills Baron Nashor are given a buff, which makes surrounding Minions more powerful, as well as experience and gold. This Monster will respawn seven minutes after it is killed.
+* Elemental drakes/Elder Dragon - Elemental drakes are powerful monsters located in the bottom half of the river. All members of the team that kills the drake are provided with buffs that accrue cumulatively, depending of the type of drake killed. A random elemental drake will respawn six minutes after the previous one is killed; cloud, ocean, infernal or mountain. The Elder Dragon spawns instead after 35 minutes. When killed, it provides a timed buff which increases in power with every elemental drake the team has previously killed.
+* Blue Sentinel and Red Brambleback - One Blue Sentinel is located in the first and third quadrants of the Jungle. One Red Brambleback is located in the second and fourth quadrants of the Jungle. Killing these Monsters will grant a buff, which provides additional combat statistics for the killing player. These buffs decay after a set period of time. Each monster will respawn five minutes after killed.
+* Scuttle Crab - One Scuttle Crab is located on either side of the river. Killing this monster will grant vision of an area and create a Speed Shrine, which temporarily increases the speed of allied champions to move through the area. This Monster respawns, and the shrine disappears three minutes after it is killed.
+* Additional Neutral Monsters - Other Neutral Monsters spawn at various intervals in the Jungle, and provide the player with various beneficial effects if the Summoner Spell Smite is used on them.
+Twisted Treeline
+Similar to Summoner's Rift, in Twisted Treeline two teams of three players compete to destroy the opposing team's Nexus, which is guarded enemy Towers.[19] One nexus is located in each enemy base on the right and left sides of the map. These structures continually create minions, which advance toward the enemy base along two lanes: top, and bottom lanes, which run horizontally across the bottom and top of the map. Players compete to advance these waves of minions into the enemy base, which allows then to destroy enemy structures, achieve intermediate objectives, and ultimately victory. Between enemy lanes is a neutral area of the map known as the Jungle. The Jungle is arrayed across the center of the map, running between the top and bottom lanes.
+Twisted Treeline also features a number of intermediate objectives, which provide a range of advantages allowing players to better achieve overall victory:[19]
+* Turrets - Each lane is guarded on either side by powerful defensive structures called turrets. Turrets will attack enemy minions and players that approach them. Turret's will prioritize enemy minions in their vicinity, but will immediately attack enemy players if they attack allied players. Thus, by advancing an allied minion wave into the range of a turret, a player can do damage to the structure without themselves being attacked. When destroyed, turrets, depending on location, provide gold and experience. Turrets that are destroyed are destroyed permanently for that match and will not respawn. Some turrets, depending on location, will regenerate health over time if they are damaged but not destroyed.
+* Inhibitor - Each lane contains one Inhibitor. Inhibitors may be attacked after a team has destroyed the three turrets guarding each lane. Destroying an Inhibitor will cause the allied Nexus to spawn Super Minions, more powerful Minions that provide a buff to surrounding Minions. When destroyed, Inhibitors provide gold to the destroying champion. Inhibitors will respawn after five minutes Inhibitors will regain health over time if they are damaged but not destroyed.
+* Altars - The Jungle contains two altars, located on the left and right sides, which may be captured by players standing on them for a short period of time. Captured altars provide additional combat stats to owning teams. These are lost upon losing the position to the enemy team.
+* Vile Maw - Vile Maw is a powerful Monster located in the center top of the map. Killing Vile Maw grants gold and a combat stat buff to the killing team which decays over time. Vile Maw respawns five minutes after it is killed.
+* Speed Shrine - In the center of the map is located a Speed Shrine which temporarily increases the movement speed of players who walk through the area, and periodically spawns a health buff that will restore the health of champions for a small amount.
+Howling Abyss
+Similar to Summoner's Rift, in Howling Abyss two teams of five players compete to destroy the opposing team's Nexus, which is guarded enemy Towers.[17] One nexus is located in each enemy base on the right and left sides of the map. These structures continually create minions, which advance toward the enemy base along one central lane. Players compete to advance these waves of minions into the enemy base, which allows then to destroy enemy structures and ultimately achieve victory. Unlike Summoners Rift and Twisted treeline, Howling Abyss consists of one central lane and no neutral jungle area. Also unlike these maps, players cannot return to their allied base to replenish health and mana and to purchase items unless they have been killed.
+Howling Abyss features a few intermediate objectives, which provide advantages allowing players to better achieve overall victory:[19]
+* Turrets - Each lane is guarded on either side by powerful defensive structures called turrets. Turrets will attack enemy minions and players that approach them. Turret's will prioritize enemy minions in their vicinity, but will immediately attack enemy players if they attack allied players. Thus, by advancing an allied minion wave into the range of a turret, a player can do damage to the structure without themselves being attacked. When destroyed, turrets, depending on location, provide gold and experience. Turrets that are destroyed are destroyed permanently for that match and will not respawn.
+* Inhibitor - Each lane contains one Inhibitor. Inhibitors may be attacked after a team has destroyed the two turrets guarding each lane.[20] Destroying the Inhibitor will cause the allied Nexus to spawn two Super Minions, more powerful Minions that provide a buff to surrounding Minions. When destroyed, Inhibitors provide gold to the destroying champion. Inhibitors will respawn after five minutes Inhibitors will regain health over time if they are damaged but not destroyed.
+* Health Shrines - Located throughout the lane are Health Shrines, which will periodically spawn an item that when consumed heals a player for a small amount of their health and mana.
+Crystal Scar
+Unlike the other modes, two teams of five players on the Crystal Scar (also called Dominion) compete to capture strategic points and hold those points for the longest possible period of time.[21] The map consists of a circle with points located at the twelve, one-thirty, four-thirty, seven-thirty, and ten-thirty positions. Each team controls a base known as a fountain, located at the bottom left and right hand corners of the map. Each team scores points by capturing and owning more objectives than the other team over time. These points count down from an initial score of 200. The first team to reduce the other team to 0 points achieves victory.
+Captured positions spawn minions which move clockwise and counterclockwise attempting to capture adjacent points. Captured points will attack enemy minions and champions that enter their area in a similar manner to the Turrets on the other maps.
+The Crystal Scar contains three intermediate objective that allows teams to better capture and hold points, ultimately achieving victory.
+* Storm Shield - Located in the center of the map, a Storm Shield shrine periodically spawns. Players who capture the Storm Shield are granted significant combat statistics for a period of time.
+* Speed Shrines - Located throughout the center of the map are Speed Shrines which grant players passing through them with increased movement speed for a short period of time.
+* Health Shrines - Located through the center of the map are Health Shrines which heal players for a small portion of their health.
+As of February 22, 2016, Crystal Scar is no longer a permanent game mode.[22]
+Games types and matchmaking
+League of Legends includes a number of game types and match making options which augment the various conditions of the game modes.[11][23]
+* The Tutorial is the first game type available to new players. The tutorial is played on Howling Abyss and includes a regimen of Battle Training to help better acquaint players to the basics of the game.
+* Co-op Vs. AI is available to new players after completing or opting out of the Tutorial. It is played on Summoner's Rift, Twisted Treeline, and Crystal Scar, and pits teams of five or three players against an opposing team of computer controlled artificial intelligence champions.
+* Custom Games allow players to play any game mode with any combination of player or AI teammates and opponents.
+* Normal Matchmaking is available to players upon reaching level 10, and uses an automated match making system to pair teams of similarly-skilled players against one another.
+* Ranked Matchmaking is available to players upon reaching level 30. It uses a similar system as Normal Matchmaking and allows players to play competitively against players from throughout their region.
+* Team Matchmaking allows pre-made teams of three or five players to compete against other similarly-skilled teams.
+Champion selection
+League of Legends includes three ways teams may choose what champion they will play for a given match.
+* Blind Pick allows two teams to select their champions simultaneously, while not knowing the champion selections of the opposing team until the match begins. It is available on Summoner's Rift, Twisted Treeline, and the Crystal Scar for matchmaking games, and for all modes in custom games.
+* Draft Pick allows each team to ban three champions each (a total of six champions banned), removing them from the match. Teams then take turns selecting their champions while being able to see the selections of the other team. It is available on Summoners Rift for match making games, and for all modes in custom games.
+* ARAM, or All Random All Mid, randomly assigns a champion to each player. Players accumulate re-rolls by playing multiple matches, which they can use to randomly select another champion for that match. It is available on Howling Abyss for matchmaking games, and for all modes in custom games.
+Champion introduction
+League of Legends has a few distinct champion types: Tanks, Damages Dealers per Seconds (melee or ranged), Mages, Support and Hybrids. Each group has their own unique characteristics and strengths.[24] These champion types can be filtered to 6 main roles: Assassin, Fighter, Mage, Support, Tank, Marksman. In Summoner's Rift Map, Support and Marksman usually fight in bottom line ; Mages and Assassin are play in middle line; top line usually is Tank, Fighter and Assassin, but some Mages and Marksman can be played in top as well; Jungle also is Tank, Fighter, Assassin and Mages.
+* Assassin: A champion who specializes in killing one champion as fast as possible.[25] On mobafire it is quoted that these champions go after the enemy's AD/AP Carry and other 'squishy' champion. These champions are usually strong and can be tough to kill if they are fed. Examples of an assassin are Akali, Diana, Fizz, Katarina, and Zed.[26]
+* Marksman: Marksman is usually weak in the beginning, but can become really strong towards the end. Marksman can 'carry' the team to victory. These champions are usually high team DPS with a high amount of Maneuverability/ escaping ability, making it easier to get very positive kill/death ratios. Examples of a marksman are Caitlyn, Miss Fortune, Tristana, and Varus.[27]
+* Fighter: Champions that blend the attributes of a damager and tank, combing moderate to heavy survivability with the damage of assassin or carry. These just like any other champion they can get really strong if fed a lot. Examples of a fighter are Jax, Elise, Rek'Sai, and Wukong.[26]
+* Support: Champions whose skills are meant to directly aid the rest of the team. They can either babysit a champion to make landing easier for them by providing healing, bugging allies, applying the buffs to the enemy team, or a combination of the above. The most common ability for a support champion is providing an ally with a shield of some kind. One of the main goals of a support is to let their lane partner farm minions for gold, as supports can by key gold plus items to get gold for themselves, as well as controlling the map with wards, warding all key areas of the map. These champions usually rely on their skills more than there auto-attack. Example of a support are Alistar, Morgana, Nami, Soraka, Taric, and Zilean.[26]
+* Mage: Champions with powerful magic damage skills or support skills but low defense. some are meant to deal a high amount of damage in a short period of time (AP burst) while others usually deal damage over time (AP sustain). Like carry champions, they can bring their team to victory due to their ability power, but tend to fall off in the very late game. Examples of a mage are Karthus, Kassasdin, Lissandra, Lux, Malzahar, Rumble, Swain, and Vel'Koz.[26]
+Game modes
+There are two primary game modes: Classic and ARAM (All Random All Mid).
+* Classic game mode requires you to destroy the enemy's nexus while defending your own and is played on the maps Summoner's Rift, the Twisted Treeline and the Howling Abyss.
+* The ARAM game mode is played on the Howling abyss and the goal is the same as mentioned above.
+* Dominion game mode requires you to hold the majority of capture points on the map to damage the enemy nexus and is played on the Crystal Scar map. (This game mode was retired on February 22)[28]
+Occasionally, special limited-time game modes will occur allowing players access to various game modes with a range of special alterations to the regular conditions and rules.
+* One for All mode was the first limited-time game type that was available during the 2013 Harrowing event. In this mode, teams banned champions similar to draft-mode. They then voted on which champion to play, and the champion with the most votes was played by the entire five person team. In the case of a tie, the champion was randomly selected from among the tied champions. One for All was played on Summoners Rift and Howling Abyss. This game mode later returned at the end of May 2014 as One For All: Mirror Mode, in which all ten players played the same champion. Mirror Mode was played on Howling Abyss.
+* Showdown was the second limited-time game mode, available during the 2013 Snowdown Showdown even. Showdown was played either one vs. one, or 2 vs. 2 on Howling Abyss. Each team played until a team achieved one of three goals: destroying an enemy turret, reaching 100 team minion kills, or killing the enemy player (or two players in two vs. two matches).
+* Hexakill mode was the third limited time game mode and was played on Summoners Rift. Each team consisted of six players instead of the typical five. Hexakill returned onto the Twisted Treeline Map, in October 24, 2014, as the seventh limited time game mode.
+* Ultra Rapid Fire (URF) mode was introduced on April Fools' Day, 2014 as the fourth limited-time game type. All champions gained powerful buffs to their combat stats including: increased movement speed, faster passive gold gain, abilities cost no mana or energy, and more powerful ranged attacks. Several champions had to be disabled in this type.[29][30]
+* Doom Bots of Doom was the fifth limited time game type, released on July 17, 2014. It took place on Summoner's Rift, where five players would face five AI enemies with drastically modified abilities, allowing them to deal greatly increased damage. There were three difficulty modes were available.
+* Ascension was the sixth limited time game mode and was released as part of the Shurima event on September 10, 2014. It was played on Crystal Scar. Points leading to victory could be accrued in numerous ways: by killing enemy champions, capturing Relics of Shurima, or by killing the Ascended, a powerful enemy which spawned in the center of the map, and which granted a powerful buff to the killing player. The Crystal Scar map was also modified so that the outermost area of the map was engulfed in a sandstorm so that players could only exit the spawning platforms via a teleportation item available to everyone, but players could not reenter unless they were killed. Gold and experience gain was modified so that every player gained the same amount of gold and experience, regardless of kills or assists.
+* Legend of the Poro King was the eighth limited time game mode, ending January 6, 2015, and took place on Howling Abyss. Both teams were provided with unique summoner spells allowing them to use porous, a fictional animal, in various ways. Throwing a poro and hitting an enemy champion granted one point. Once a side reached 10 points, the Poro King, a powerful minion, was spawned and fought with the allied team.
+Micro purchases
+League of Legends is funded through micro purchases using Riot Points (RP), an in-game currency which can be purchased by players in the client store. RP can be used to purchase champions, champion skins, ward skins, summoner icons, and certain multi-game boosts. Alternatively, players earn Influence Points (IP), a secondary currency, by playing matches. IP may be used to purchase all in-game items besides skins, which cosmetically alter the appearance of champions. Conversely, RP may be used to buy all in-game items besides Runes, which provide boosts to the power of champions in matches, and may only be purchased using IP. Runes can only be purchased by IP, but the "pages" that the runes are placed on (in order for runes to take effect in-game) can be bought through both IP and RP. League of Legends is free-to-play and all in-game purchases with a material effect on game-play may be acquired by continually playing the game.
+Development
+The game's developer Riot Games was co-founded by Brandon "Ryze" Beck and Marc "Tryndamere" Merrill, who were roommates while they attended the University of Southern California. They partnered with Steve "Guinsoo" Feak, the previous designer of the popular Warcraft III: The Frozen Throne custom map Defense of the Ancients, and Steve "Pendragon" Mescon, the administrator of the former official support base for the map, to develop League of Legends.[31] Using the original DotA created by Eul (the original Defence of The Ancients map for Warcraft III: Reign of Chaos) as a base, Guinsoo made DotA Allstars by inserting his own mix of content, greatly expanding the number of heroes, added recipes and items, and introduced various gameplay changes. Guinsoo then passed version 6 of the map on to a new developer, IceFrog.[citation needed]
+The idea of a spiritual successor to Defense of the Ancients was that it would be its own stand-alone game with its own engine, rather than another mod of Warcraft III, began to materialize at the end of 2005. League of Legends was born "when a couple of very active DotA community members believed that the gameplay was so much fun and so innovative that it represented the spawning of a new genre and deserved to be its own professional game with significantly enhanced features and around-game services."[32]
+Riot Games officially opened its office in September 2006, and currently[when?] has over 1,000 people working on League of Legends.[citation needed] According to Marc Merrill, when creating the various champions in the game, instead of leaving the champion creation to just a few people, they decided to open up the champion creation process to everyone in the company based upon a template where they could vote on which champions made it into the game.[citation needed]
+League of Legends was first announced on October 7, 2008. It was in a closed beta from April 10, 2009 to October 22, 2009. It then transitioned to open beta until release.[33][34]
+Release
+League of Legends was released on October 27, 2009.[35] Riot Games self-publishes and operates the game and all of its customer service aspects in North America. Riot Games has signed deals regarding the distribution of League of Legends in Asia, Europe, and North America. By July 2013, the game has been released and was distributed in Australia, the United States, Canada, Europe, Philippines,[36] and South Korea. No public announcements regarding other regions have been made.
+The game is distributed in China by Tencent Inc., the largest Internet value-added services company in China best known for its QQ Instant Messaging client. The game has been distributed to Tencent's growing 300 million Internet user base through its leading QQ Game portal. The deal was one of only a handful of partnerships to bring a U.S.-developed online game directly to China.
+On July 14, 2009, Riot Games announced that League of Legends will be free with "no catch".[37][38] There will be a digital copy for download, but there is also a Digital Collector's Copy that will be available to purchase that contains exclusive skins, $10 credit for Riot Points, and 20 champions to access without unlocking them normally via gameplay as well as 4 "special" runes. This Collector's Pack is currently available for US$29.99.[39][40] Even though the game is free, Riot Games "plan[s] to continue to add content (characters etc...) with a full production team at very frequent intervals."[41] Using both free-to-play and freemium models, the game is supported by microtransactions (see store) rather than ads or boxed copy sales.[42]
+In Europe, Riot Games has signed an international licensing partnership with GOA, the video games department of Orange's Content Division and Europe's largest gaming portal. On October 13, 2009, GOA and Riot announced that they would start channeling server access for players located in Europe to GOA's dedicated servers.[43] This restriction meant that players located in Europe would not be able to play on Riot's servers in the United States. Due to negative community feedback, the channeling decision was rescinded October 16, 2009.[44]
+On February 25, 2010, Riot Games announced that League of Legends would be distributed in Southeast Asian countries by an unspecified publisher and blocked SEA IP addresses pursuant to its distribution agreement.[45] The community has raised a number of concerns about the deal and the immediate IP block. On July 16, 2010, Riot Games announced that Garena would publish the game in Southeast Asia.[46] Additionally, Southeast Asian players had the ability "transfer accounts" to import their progress stored in North American or European servers into the Southeast Asian server. The game has since been distributed by Garena in Taiwan as well.[47]
+On May 10, 2010, Riot Games announced that they would take over distribution and operation of the game in Europe.[48] To do so, Riot Games established a European HQ in Dublin.[49]
+On March 23, 2013, the cinematographic studios in Rome hosted the Italian launch of League of Legends. More than 1,500 people were present, along with Riot Games developers, journalists, and various guests. The show schedule included a cosplay contest and a challenge match between two Italian clans.[50]
+In March 2013, Riot Games released a beta version of an OS X client in addition to their Windows client.[51]
+In April 2014, Riot Games announced its Toyko office as a part of their efforts to push the game into the Japanese eSports community.[52] In conjunction with their announcement of a localized client in the works at the Tokyo Game Show 2014, it was revealed that Japan would feature its own League of Legends Japan League where teams would compete on the professional level.[53][54]
+Reception
+
+League of Legends character Teemo at the Taiwan Lantern Festivalin 2013.
+Popular reception
+In a release published in November 2011, Riot Games stated that League of Legends had accumulated 32.5 million players, 11.5 million of whom play monthly, of which 4.2 million play daily.[55] Riot said in October 2013, the game had 12 million active daily players and 32 million active monthly players. In January 2014, the game had 27 million active daily players, 7.5 million concurrent players at peak times, and 67 million active monthly players.[56] Global concurrent users online peaked at over 5 million players as of March 2013.[54][57]
+By March 2012, League of Legends had become the #1 title in Korean PC cafés.[58] In July 2012, Xfire released a report stating that League of Legends was the most played PC game in North America and Europe, with 1.3 billion hours logged by players in those regions between July 2011 and June 2012.[3]League of Legends is also very popular in the Philippines, and, as of July 2013, it is the second most played game in internet cafés in the country (just behind Defense of the Ancients).[59] In Taiwan, it is estimated that almost 5 percent of their entire population played the game, with almost 1 million players subscribed on the server.[60]
+Critical reception
+ReceptionAggregate scoresAggregatorScoreGameRankings78.72%[61]Metacritic78%[62]Review scoresPublicationScore1UP.comA-[63]AllGame[64]Eurogamer[65]Game RevolutionB+[66]GameSpy[67]GameZone[68]IGN9.2/10[69]AwardsPublicationAwardGamespyGamer's Choice Award for PC Game of the Year (2009)IGNReader's Choice Award for PC Best Strategy Game and PC Best Multiplayer Game (2009)Gamasutra2010 Best Online Technology
+
+2010 Best Online Visual Arts
+2010 Best Online Game Design
+2010 Best New Online Game
+2010 Audience AwardLeague of Legends has received generally favorable reviews, and currently holds a Metacritic score of 78 out of 100.[62]
+IGN initially awarded League of Legends 8.0 out of 10 in 2009, highlighting an enjoyable game design, inventive champion design with good customization options, and lively visuals. However, the game's confusing launch was criticized: it was felt that the title was released too early, with some features missing and others to be removed. Finally, the reviewer noted that high level players in the game have "little patience for newcomers", though the reviewer believed that matchmaking (not implemented at the time of review) would solve the problem by matching players of similar level together.[70]
+Leah B. Jackson of IGN re-reviewed the game in 2014, changing IGN's score from 8.0 to 9.2. Jackson hailed the game "as an example of excellence", praising the variety of champions, rewarding progression systems, and fast but intensely strategic team play.[69]
+As compared to fellow MOBA games Heroes of Newerth and Dota 2, Mike Minotti of VentureBeat considered the game the easiest to learn and to have fastest gameplay pace of the three.[71]
+In 2015, the game placed 15th on USgamer's The 15 Best Games Since 2000 list.[72]
+Awards and nominations
+DateAwardsCategoryResultDecember 14, 2009IGN PC Best Strategy Game 2009Readers' ChoiceWinner[73]December 21, 2009Gamespy Gamers' Choice Awards 2009PC Gamers' ChoiceWinner[74]October 8, 20101st Game Developers Online Choice AwardsBest Online Technology, Visual Arts, Game Design, New Online Game, Audience AwardWinner[75]October 29, 2010Golden Joystick AwardOnline Game of the YearWinner[76]October 21, 2011Golden Joystick AwardBest Free-to-Play GameWinner[77]December 3, 2015The Game AwardeSports Game of the Year AwardNominated[78]Professional competition
+
+A League of Legends show match at Gamescom 2014
+League of Legends is one of the largest eSports, with various annual tournaments taking place worldwide.[79]
+World Championship
+See also: League of Legends World Championship
+Season 1 Championship was held at DreamHack in Sweden, in June 2011 and had US$100,000 in prizes. The European team Fnatic defeated teams from Europe, the USA, and Southeast Asia to win the tournament and received US$50,000 in prize money.[80] Over 1.6 million viewers watched the streamed broadcast of the event, with a peak of over 210,000 simultaneous viewers in one semi-final match.[81] After Season 1, Riot announced that US$5,000,000 would be paid out over Season 2. Of this amount, $2 million was to go to Riot's partners, including the IPL and other major eSports associations. Another $2 million was to go to Riot's Season 2 qualifiers and championship. The final $1 million was to go to small organizers who apply to Riot to host League of Legends tournaments.[82]
+After a series of network issues during the Season 2 World Playoffs that led to several matches being delayed, Riot revealed on October 13, 2012, that a special LAN-based client had been quickly developed, designed for use in tournament environments where the effects of lag and other network issues can be detrimental to the proper organization of an event. The LAN client was deployed for the first time during the first quarter-final and semi-final matches played following the re-scheduled matches, and was in use during the finals.[83] On October 13, 2012, the Taipei Assassins (TPA) of Taiwan triumphed over Azubu Frost of South Korea in the Finals of Season 2 World Championship with a score of 3 to 1, and claimed the $1 million in prize money.[84]
+In October 2013, Korean team SK Telecom T1 and Chinese team Royal Club competed at the Season 3 World Championship at the Staples Center in Los Angeles. SK Telecom T1 won the grand prize of $1 million, and Royal Club received $250,000.[85]
+As of 2013, League of Legends is the most popular e-sports game in South Korea.[86]
+
+SK Telecom T1 at the World Championship 2013
+On July 11, 2013, Riot manager Nick Allen announced that the United States Citizenship and Immigration Services recognized League of Legends pro-players as professional athletes and that the P visa application process would be more simplified for them.[87] These changes allowed professional players to stay in the United States for up to five years.[88] Despite these reforms, there have still been a number of visa problems that have occurred for players in the LCS and other LoL tournaments entering the United States.[89][90]
+Silversmith Thomas Lyte was asked to craft the winner trophy for the 2014 games, having already created the Season Two World Championship Cup in 2012. Riot Games, which owns League of Legends, commissioned the Summoner’s Cup and specified that it should weigh 70 pounds. However, the weight was later reduced as it was too heavy to be lifted in victory.[91]
+On October 31, 2015, SK Telecom T1 became the first-ever two-time World Champion when they defeated fellow Korean team KOO Tigers with a score of 3 to 1 in the best-of-five finals in Berlin, Germany.[92][93]
+Championship Series
+Main article: League of Legends Championship Series
+On February 7, 2013, Riot Games made the League of Legends Championship Series (LCS) in Europe and North America. This is a league system where ten teams compete to stay in the league. A season consists of two splits, each split separated into a regular season and a playoff. The top three teams from each continent advance to the world championships. Equivalent leagues run independently of Riot also exist some other regions such as the League of Legends Pro League in China and League of Legends Champions Korea in Korea.
+Other tournaments
+Main article: List of League of Legends tournaments
+The World Cyber Games 2011 Grand Finals in Los Angeles hosted a League of Legends tournament, at which teams from China, Europe, and the Americas competed. The Counter Logic Gaming team from North America won the tournament, earning a $7,000 prize.[94]
+References
+1. Jump up^ Nguyen, Thierry (September 1, 2009). "Clash of The DOTAs". 1UP.com. Retrieved October 21, 2009.
+2. Jump up^ "New Player Guide". League of Legends. Riot Games. Retrieved July 21, 2014.
+3. ^ Jump up to:a b Gaudiosi, John (July 11, 2012). "Riot Games' League Of Legends Officially Becomes Most Played PC Game In The World". Forbes. Retrieved March 18, 2013.
+4. Jump up^ Sheer, Ian (January 27, 2014). "Player Tally for 'League of Legends' Surges". Wsj.com. Retrieved January 31, 2014.
+5. Jump up^ "2015 SEASON: 10 Teams, Expansion Tournament & Circuit Points".
+6. Jump up^ Desafío Internacional - League of Legends - Santiago, Chile - 2015. "Desafio Internacional - League of Legends - Santiago, Chile - 2015". Desafio Internacional.
+7. Jump up^ Makuch, Eddie. "32 million people watched League of Legends Season 3 World Championships". Gamespot. CBS Interactive. Retrieved July 21, 2014.
+8. Jump up^ "League of Legends 2014 World Championships". E-Sports Earnings. Retrieved January 23, 2015.
+9. Jump up^ "Top 100 Largest Overall Prize Pools". E-Sports Earnings. Retrieved January 23, 2015.
+10. Jump up^ http://www.hallels.com/articles/9403/20141013/brains-behind-popular-video-game-league-of-legends.htm Brains behind the popular Video Game: League of Legends
+11. ^ Jump up to:a b "New Player Guide". leagueoflegends.com.
+12. ^ Jump up to:a b "Game Modes". leagueoflegends.com.
+13. Jump up^ "Retiring Dominion | League of Legends".na.leagueoflegends.com. Retrieved March 16, 2016.
+14. Jump up^ "Champions : League of Legends". Riot Games. RetrievedFebruary 25, 2014.
+15. Jump up^ "New Player Guide". Leagueoflegends.com. RetrievedJanuary 4, 2015.
+16. Jump up^ "Upgrading the Tribunal". leagueoflegends.com.
+17. ^ Jump up to:a b "Summoner's Rift". leagueoflegends.com.
+18. Jump up^ "League of Legends Objectives guide: Priority and Timers".boosteria.org.
+19. ^ Jump up to:a b c "The Twisted Treeline". leagueoflegends.com.
+20. Jump up^ "Howling Abyss". gameinfo.na.leagueoflegends.com/. Retrieved October 22, 2015.
+21. Jump up^ "The Crystal Scar". leagueoflegends.com.
+22. Jump up^ "Retiring Dominion".
+23. Jump up^ "Matchmaking Guide". Riot Games Support.
+24. Jump up^ "League of Legends Beginner's Guide".
+25. Jump up^ Mackey, Patrick (May 9, 2013). "The Summoner's Guidebook: How do assassins work in League of Legends?". Engadget.
+26. ^ Jump up to:a b c d "Beginners Guide to League of Legends".
+27. Jump up^ "Beginners Guide to League of Legends".
+28. Jump up^ "Retiring Dominion | League of Legends".na.leagueoflegends.com. Retrieved March 9, 2016.
+29. Jump up^ "Riot Broke League Of Legends, And Fans Love It". Kotaku. Retrieved April 3, 2014.
+30. Jump up^ "League of Legends Releases Ultra Rapid Fire Mode". IGN. Retrieved April 3, 2014.
+31. Jump up^ "Riot Games Insider Team". Riot Games. Retrieved July 19,2007.[dead link]
+32. Jump up^ Ford, Suzie. "League of Legends: Marc Merrill Q&A".Warcry Network. Defy Media, LLC. Retrieved August 4, 2014.
+33. Jump up^ "RIOT GAMES INVITES ALL GAMERS TO JOIN THE LEAGUE OF LEGENDS BETA BEFORE START OF THE PRE-SEASON" (PDF). Riotgames.com. Retrieved January 4,2015.
+34. Jump up^ "League of Legends pre-season to begin October 27th 2009!". Riot Games. September 29, 2009. RetrievedMarch 18, 2013.
+35. Jump up^ "League of Legends - GameSpot.com". GameSpot. Retrieved March 18, 2013.
+36. Jump up^ Maierbrugger, Arno (July 25, 2013). "Top PC games in Filipino computer cafés". Inside Investor. Retrieved July 25, 2013.
+37. Jump up^ "Riot Games Summoner Page". Riot Games. July 14, 2009. Retrieved May 23, 2013.
+38. Jump up^ "League of Legends is Free". Riot Games. July 14, 2009. Retrieved July 19, 2007.
+39. Jump up^ "Pre-Order the League of Legends Digital Collector's Pack".Riot Games. July 14, 2009. Archived from the original on July 18, 2009. Retrieved July 19, 2007.
+40. Jump up^ "League of Legends is Free thread page 12". Riot Games. July 15, 2009. Retrieved July 19, 2007.
+41. Jump up^ "League of Legends is Free Forum page 7". Riot Games. July 14, 2009. Retrieved July 19, 2007.
+42. Jump up^ "League of Legends is Free Forum page 13". Riot Games. July 15, 2009. Retrieved July 19, 2007.
+43. Jump up^ "IP Restrictions in Europe". GOA (a subsidiary of Wanadoo, specialising in online gaming). October 13, 2009. RetrievedDecember 10, 2009.
+44. Jump up^ "GOA and Riot Rescind IP Restriction Decision". GOA (a subsidiary of Wanadoo), specialising in online gaming. October 16, 2009. Retrieved December 10, 2009.
+45. Jump up^ "Southeast Asia megathread". Leagueoflegends.com. Retrieved January 4, 2015.
+46. Jump up^ "Riot Games Partners with Garena to bring League of Legends to Southeast Asia". Riot Games. July 16, 2010. Retrieved July 27, 2010.
+47. Jump up^ "?? ????? LoL?????". ????? LoL????? - ?????????????????????? (in Chinese). Retrieved 30 July 2016.
+48. Jump up^ "Riot Games to Publish League of Legends in Europe". Riot Games. May 10, 2010. Retrieved July 26, 2010.
+49. Jump up^ "Riot Games Inc establishes EMEA Headquarters in Dublin". IDA Ireland. July 15, 2010. Retrieved July 26, 2010.
+50. Jump up^ Irene "Ribesbianco" Caroti/Eleonora Lucheroni (March 25, 2013). "League of Legends Italian Launch! Eyes in Rome was there and let us tell you…". EIR Games. Retrieved March 25,2013.
+51. Jump up^ "Review: League of Legends makes its way to the Mac". MacWorld. Retrieved April 18, 2013.
+52. Jump up^ "Riot Games Tokyo". Riot Games. Retrieved February 13,2015.
+53. Jump up^ "League of Legends is coming to Japan!". in2 LoL. Retrieved February 13, 2015.
+54. ^ Jump up to:a b "League of Legends Japan Server Got its First Game Trailer". MMOSite. Retrieved February 13, 2015.
+55. Jump up^ Ryze (November 18, 2011). "Community Grows to 32 Million". Archived from the original on September 22, 2012.
+56. Jump up^ Purchese, Robert (January 28, 2014). "LOL: 27 million people play it every day!". Eurogamer. Gamer Network. RetrievedJanuary 28, 2014.
+57. Jump up^ "League of Legends players summit a new peak". Riot Games. March 13, 2013. Retrieved March 18, 2013.
+58. Jump up^ "League of Legends now #1 Game in Korea". Mmo-champion.com. Retrieved January 4, 2015.
+59. Jump up^ Maierbrugger, Arno (July 2013). "Top PC games in Filipino computer cafés". Investvine. Retrieved October 15, 2013.
+60. Jump up^ "Taipei lights up to celebrate". Taipei lights up to celebrate 1 million LoL players.
+61. Jump up^ "League of Legends for PC – Game Rankings". GameRankings. Retrieved May 19, 2011.
+62. ^ Jump up to:a b "League of Legends for PC". Metacritic. RetrievedMay 19, 2011.
+63. Jump up^ "League of Legends for PC from 1UP". 1UP. RetrievedMay 19, 2011.
+64. Jump up^ "League of Legends – Overview – allgame". RetrievedMay 19, 2011.
+65. Jump up^ "League of Legends – Review – PC". Eurogamer. RetrievedMay 19, 2011.
+66. Jump up^ Hunt, Geoff. "League of Legends Review for the PC". Game Revolution. Retrieved May 19, 2011.
+67. Jump up^ "Game Spy The Consensus League of Legend Review". GameSpy. Retrieved May 19, 2011.
+68. Jump up^ "League of Legends – PC – Review". GameZone. Retrieved May 19, 2011.
+69. ^ Jump up to:a b Jackson, Leah B. (February 13, 2014). "League of Legends Review – PC Review at IGN". RetrievedFebruary 21, 2014.
+70. Jump up^ Butts, Steve. "League of Legends Review". IGN. Archived from the original on November 10, 2009. Retrieved May 23,2010. The strategy elements are sound, and it can be fun to just pick a lane and start chewing through minions as you work your way towards enemy towers and champions. But sometimes it feels like League of Legends throws too much at the player, both in terms of the number of champions and the general confusion of the larger battles. While that's not enough to dampen your enthusiasm of the game, the vague status of the launch and the more-than-occasional hostility of the community just might.
+71. Jump up^ Minotti, Mike (July 27, 2013). "Comparing MOBAs: Dota 2 vs. League of Legends vs. Heroes of Newerth". VentureBeat. Retrieved January 23, 2014.
+72. Jump up^ "Page 2: The 15 Best Games Since 2000: Number 15 through 11". USgamer. Gamer Network. July 28, 2015. Archivedfrom the original on July 29, 2015. Retrieved July 29, 2015.
+73. Jump up^ "PC Best Strategy Game Readers' Choice 2009". IGN. December 21, 2009. Retrieved May 28, 2011.
+74. Jump up^ "PC Gamers' Choice 2009". Gamespy. December 21, 2009. Retrieved May 28, 2011.
+75. Jump up^ "Riot's League of Legends Leads Game Developers Choice Online Award Winners". Gamasutra. October 28, 2010. Retrieved May 28, 2011.
+76. Jump up^ "GJ10: Online Game Of The Year is...". computerandvideogames.com. October 29, 2010. RetrievedOctober 16, 2013.
+77. Jump up^ "Beta Gamezone". GameZone. October 22, 2011. RetrievedOctober 25, 2011.
+78. Jump up^ "Nominees | The Game Awards 2015". The Game Awards.Ola Balola. November 12, 2015. Retrieved November 13, 2015.
+79. Jump up^ Segal, David (October 10, 2014). "Behind League of Legends, E-Sports's Main Attraction". New York Times.
+80. Jump up^ Fnatic hxd Harry Wiggett (June 20, 2011). "FnaticMSI.LoL are DHS Champions! Winning $50,000". FNATIC.com. RetrievedDecember 7, 2011.
+81. Jump up^ John Funk (June 23, 2011). "The Escapist : News : League of Legends Championship Draws 1.69 Million Viewers". The Escapist. Retrieved December 7, 2011.
+82. Jump up^ "League of Legends Season 2". Retrieved December 31,2011.
+83. Jump up^ "Riot announces LAN client for Season 2 Finals". GameSpot. Retrieved October 13, 2012.
+84. Jump up^ "Taipei Assassins triumph in 'League of Legends' world finals". Retrieved October 14, 2012.
+85. Jump up^ Farokhmanesh, Megan (October 5, 2013). "League of Legends 2013 World Championship winner crowned". Polygon. Retrieved February 2, 2014.
+86. Jump up^ Prell, Sophie (January 29, 2013). "League of Legends plans to dominate eSports with consistency, quality, and accessibility". The PA Report. Archived from the original on August 26, 2013. Retrieved January 29, 2013.
+87. Jump up^ "League of Legends". GameSpot. Retrieved January 4,2015.
+88. Jump up^ "Forms". Uscis.gov. Retrieved January 4, 2015.
+89. Jump up^ "Marcel 'dexter1' Feldkamp's Visa cancelled, CLG left without a starting jungler".
+90. Jump up^ "theScore eSports". thescoreesports.com.
+91. Jump up^ "Behind League of Legends, E-Sports's Main Attraction".The New York Times. October 12, 2014 – via New York Times.
+92. Jump up^ "LoL Esports".
+93. Jump up^ Philip Kollar. "SK Telecom T1 becomes first two-time League of Legends world championship team". Polygon.
+94. Jump up^ "WCG 2010 prize money + distribution revealed - SK Gaming". Sk-gaming.com. Retrieved January 4, 2015.
+

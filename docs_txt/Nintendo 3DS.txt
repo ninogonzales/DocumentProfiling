@@ -1,0 +1,404 @@
+Nintendo 3DS
+From Wikipedia, the free encyclopedia
+"3DS" redirects here. For other uses, see 3DS (disambiguation).
+This article is about the Nintendo 3DS and its larger model, the Nintendo 3DS XL. For the current revision, see New Nintendo 3DS. For the budget model, see Nintendo 2DS. For the entire 3DS series, see Nintendo 3DS family.
+Nintendo 3DS
+Nintendo 3DS XL
+An Aqua Blue Nintendo 3DS in the open position.Also known as3DS, 3DS XL (abbreviation)DeveloperNintendo REDManufacturerNintendo, FoxconnProduct familyNintendo 3DS familyTypeHandheld game consoleGenerationEighth generationRelease dateNintendo 3DS:
+* JP: February 26, 2011[1]
+* NA: March 27, 2011[2]
+* EU: March 25, 2011[3]
+* AUS: March 31, 2011[4]
+Nintendo 3DS XL:
+
+* JP: July 28, 2012
+* NA: August 19, 2012
+* EU: July 28, 2012
+* AUS: August 23, 2012Retail availability2011–presentIntroductory priceNintendo 3DS:
+¥25,000/US$249/AU$349.95
+Nintendo 3DS XL: ¥18,900/US$199/AU$349Units shippedWorldwide: 61.57 million (as of September 30, 2016)[5]MediaPhysical and digital[show]Operating systemNintendo 3DS system softwareCPUDual-Core ARM11 MPCore, single-core ARM9Memory128 MB FCRAM, 6 MB VRAMStorage1 GB internal flash memoryRemovable storageIncluded 2 GB SD card (3DS)
+Included 4 GB SDHC card (3DS XL)
+Cartridge saveDisplayLCD screens[show]GraphicsDMP PICA200 GPUSoundStereo speakers (pseudo-surround),microphoneInputA/B/X/Y buttons, Circle Pad, L/R bumpers, D-pad, 3D depth slider, volume slider, wireless switch, power buttonCameraOne user-facing and two forward-facing VGA camerasConnectivity2.4 GHz 802.11b/g Wi-Fi, InfraredPowerBattery[show]Online servicesNintendo Network[show]DimensionsBody[show]WeightBody[show]Best-selling gamePokémon X and Y, 15.64 million units
+(as of September 30, 2016)[6]Backward
+compatibilityNintendo DS/DSi, Virtual ConsolePredecessorNintendo DS lineRelated articlesFamicom 3D System
+Virtual BoyWebsitewww.nintendo.com/3dsThe Nintendo 3DS (Japanese: ??????3DS Hepburn: Nintend? Sur? D? Esu?, abbreviated to 3DS) is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories. Nintendo announced the device in March 2010 and officially unveiled it at E3 2010 on June 15, 2010.[7][8] The console succeeds the Nintendo DS, featuring backward compatibility with older Nintendo DS and Nintendo DSi video games.[9] Its primary competitor is the PlayStation Vita from Sony.[10]
+The handheld offers new features such as the StreetPass and SpotPass tag modes, powered by Nintendo Network; augmented reality, using its3D cameras; and Virtual Console, which allows owners to download and play games originally released on older video game systems. It is also pre-loaded with various applications including these: an online distribution store called Nintendo eShop, a social networking service calledMiiverse; an Internet Browser; the Netflix, Hulu Plus and YouTube streaming video services; Nintendo Video; a messaging application calledSwapnote (known as Nintendo Letter Box in Europe and Australia); and Mii Maker.
+The Nintendo 3DS was first released in Japan on February 26, 2011, and worldwide beginning in March 2011.[11][12] Less than six months later on July 28, 2011, Nintendo announced a significant price reduction from US$249 to US$169 amid disappointing launch sales.[13] The company offered ten free Nintendo Entertainment System games and ten free Game Boy Advance games from the Nintendo eShop to consumers who bought the system at the original launch price.[14] This strategy was considered a major success, and the console has gone on to become one of Nintendo's most successfully sold handheld consoles in the first two years of its release. As of September 30, 2016, the Nintendo 3DS family of systems combined have sold 61.57 million units.[5]
+Several redesigns have been made since; the Nintendo 3DS XL, a larger model, first released in Japan and Europe in July 2012, featuring a 90% larger screen.[15] An "entry-level" version of the console, the Nintendo 2DS, with a fixed "slate" form factor and lacking autostereoscopic (3D) functionality, was released in Western markets in October 2013.[16] The New Nintendo 3DS (and XL) features a more powerful CPU, a second analog stick called the C-Stick, additional buttons, an improved camera, and other changes, and was first released in Japan in October 2014.[17][18]
+Contents
+  [hide] 
+* 1History
+o 1.1Background
+o 1.2Development
+o 1.3Announcement
+o 1.4Pre-launch events
+o 1.5Launch
+o 1.6Larger model
+* 2Hardware
+o 2.1Controls
+o 2.2Game card
+o 2.3Circle Pad Pro
+* 3Other models
+o 3.1Nintendo 2DS
+o 3.2New Nintendo 3DS
+* 4User interface
+o 4.1Camera
+o 4.2Sound
+o 4.3Multitasking
+* 5Software and services
+o 5.1Nintendo eShop
+o 5.2Miiverse
+o 5.3Internet browser
+o 5.4Video services
+o 5.5Swapnote
+o 5.6Mii Maker
+o 5.7Activity Log
+o 5.8Other network features
+* 6Games
+o 6.1Launch titles
+o 6.2Augmented reality
+o 6.3Download Play
+o 6.4Virtual Console
+o 6.5Backward compatibility
+o 6.6Non-gaming uses
+* 7Reception
+o 7.1Sales
+o 7.2Health concerns
+* 8Legal issues
+* 9See also
+* 10References
+* 11External links
+History[edit]
+Background[edit]
+Nintendo began experimenting with stereoscopic 3D video game technology in the 1980s. The Famicom 3D System, an accessory consisting ofliquid crystal shutter glasses, was Nintendo's first product that enabled stereoscopic 3D effects. Although very few titles were released, Nintendo helped design one—called Famicom Grand Prix II: 3D Hot Rally—which was co-developed by Nintendo and HAL Laboratory and released in 1988. The Famicom 3D System failed to garner market interest and was never released outside Japan.[19][20]
+Despite the limited success, Nintendo would press ahead with 3D development into the 1990s. Gunpei Yokoi, creator of the Game Boy handheld device and popular Metroid video game, developed a new 3D device for Nintendo called the Virtual Boy. It was a portable table-top system consisting of goggles and a controller that used a spinning disc to achieve full stereoscopic monochrome 3D.[21] Released in 1995, the Virtual Boy sold fewer than a million units, spawning only 22 compatible game titles, and was widely considered to be a commercial failure.[20][22] Shigeru Miyamoto, known for his work on popular game franchises such as Mario and The Legend of Zelda, commented in a 2011 interview that he felt conflicted about Yokoi's decision to use wire-frame models for 3D and suggested that the product may not have been marketed correctly.[20] The failure of the Virtual Boy left many at Nintendo doubting the viability of 3D gaming.[23] Despite this, Nintendo continued to investigate the incorporation of 3D technology into other products.
+The GameCube, released in 2001, is another 3D-capable system. With an LCD attachment, it could display true stereoscopic 3D, though only the launch title Luigi's Mansion was ever designed to utilize it. Due to the expensive nature of the requisite peripheral technology at the time, the GameCube's 3D functionality was never marketed to the public. Nintendo later experimented with a 3D LCD during development of the Game Boy Advance SP, but the idea was shelved after it failed to achieve satisfactory results. Another attempt was made in preparation for a virtual navigation guide to be used on the Nintendo DS at Shigureden, an interactive museum in Japan.[24][25] Nintendo president Hiroshi Yamauchi encouraged additional 3D research in an effort to use the technology in the exhibition. Although the project fell short, Nintendo was able to collect valuable research on liquid crystal which would later aid in the development of the Nintendo 3DS.[20]
+Development[edit]
+Speculation on the development of a successor to the Nintendo DS began to ramp up in late 2009. At the time, Nintendo controlled as much as 68.3 percent of the handheld gaming market.[26] In October 2009, tech tabloid Bright Side of News reported that Nvidia, a graphics processing unit (GPU) developer that recently made headway with its Tegra System-on-Chip processors, had been selected by Nintendo to develop hardware for their next generation portable game console.[27] Later that month, speaking about the future for Nintendo's portable consoles, company presidentSatoru Iwata mentioned that while mobile broadband connectivity via subscription "doesn't fit Nintendo customers", he was interested in exploring options like Amazon's Whispernet found on theAmazon Kindle which provides free wireless connectivity to its customers for the sole purpose of browsing and purchasing content from the Kindle Store.[28]
+Nintendo has expressed interest in motion-sensing capabilities since the development of the original Nintendo DS,[29] and an alleged comment by Satoru Iwata from a 2010 interview with Asahi Shimbun implied that the successor to the Nintendo DS would incorporate a motion sensor. The claim led to a minor dispute between the publication and Nintendo over its accuracy.[30] In February 2010, video gaming website Computer and Video Games reported that a select "handful" of Japanese developers were in possession of software development kits for the Nintendo DS successor, with The Pokémon Company given special priority. According to their insider at an unspecified third-party development studio, the hardware features a "tilt" function that is similar to that of theiPhone, "but does a lot more".[31]
+Announcement[edit]
+The Nintendo 3DS E3 2010 unveiling involved an elaborate stage with moving set pieces.
+On March 23, 2010, Nintendo officially announced the Nintendo 3DS handheld console, successor to the Nintendo DS family.[9] According to industry analysts, the timing of Nintendo's original announcement, which had drawn attention away from the launch of the company's still-new Nintendo DSi XLhandheld, was likely intended to preempt impending news leaks about the product by the Japanese press.[32] In April 2010, a picture of a possible development build of the internal components of the 3DS was released as part of a U.S. Federal Communications Commission (FCC) filing byMitsumi.[33] An analysis of the image showed that it was likely genuine as it featured components known to be used in the Nintendo DS line along with features of the 3DS that had not been announced like a 5:3 top screen and a control nub similar to those used in Sony's PlayStation Portablesystems.[34]
+In June 2010, video gaming website IGN reported that according to "several developers who have experienced 3DS in its current form," the system possesses processing power that "far exceed[s] the Nintendo Wii" and with 3D shaders, they could make games that "look close to current generation visuals on the Xbox 360 and PlayStation 3". They also cited "several developer sources" as saying that the system does not use the Nvidia Tegramobile chipset.[35]
+The system was officially revealed at Nintendo's conference at E3 2010 on June 15, 2010. The first game revealed was Kid Icarus: Uprising, with several other titles from third parties also announced, including Square Enix with Kingdom Hearts and Final Fantasy, Konami with Metal Gear Solid 3: Snake Eater 3D, Warner Bros. Interactive witha Batman title, Ubisoft with Assassin's Creed: Lost Legacy, Capcom with Resident Evil Revelations and Super Street Fighter IV: 3D Edition, and Activision with DJ Hero. Other Nintendo titles were later revealed after the conference, such as Mario Kart 7, Animal Crossing, and remakes of Star Fox 64[36] and The Legend of Zelda: Ocarina of Time.[37] Nintendo also demoed 3D trailers for DreamWorks' How to Train Your Dragon, Warner Bros' Legend of the Guardians: The Owls of Ga'Hoole, and Disney's film Tangled on the 3DS.[38][39] The 3DS design shown at E3 was almost final, but subject to minor changes.[40]
+On September 29, 2010, Nintendo announced the release date of the Nintendo 3DS in Japan to be on February 26, 2011. Furthermore, several additional features were announced: the inclusion of a Mii Maker (similar to the Mii Channel on the Wii), Virtual Console (including Game Boy and Game Boy Color), 3D Classics, a cradle for recharging the system's battery, multitasking, several included augmented reality games, an included 2 GB SD card, and stored game data, as well as the final names for the 3DS tag modes, StreetPass and SpotPass collectively. The colors available at launch were revealed to be Aqua Blue and Cosmos Black, and the launch price in Japan was revealed to be ¥25,000.[41] The final physical design was also revealed at this event.[42]
+Pre-launch events[edit]
+On January 19, 2011, Nintendo held two simultaneous press conferences in Amsterdam and New York City, where they revealed all of the features of the Nintendo 3DS.[43] In North America, the release date was confirmed as March 27, 2011 with a retail price of $249.99. In Europe, the release date was announced as March 25, 2011, though Nintendo said that pricing would be up to retailers. Most retailers have priced the handheld between £219.99 and £229.99,[44] though some retailers, such as Amazon, lowered the price following Sony's announcement of the PSP's successor on January 26, 2011,[45] with some retailers pricing the handheld at around £200 in February.[46]
+In February 2011, Nintendo held four hands-on events in the UK named "Believe Your Eyes". February 5 and 6 saw simultaneous events in London and Manchester, while the 12th and 13th saw events in Glasgow and Bristol. Invitations to the events were offered first to Club Nintendo members, then later to members of the public via an online registration form.[47] Guests watched two brief performances and trailers, then were given time to play a selection of games on 3DS devices. Attendees were then allowed into a second room, containing further games to play (mainly augmented reality-based) and in-device videos.[48] In March, Nintendo held a few events in Australia at selected Westfield stores for people to try out the console, with a number of demos available.
+Launch[edit]
+Further information: List of Nintendo 3DS colors and styles
+The Nintendo 3DS launched in Japan on February 26, 2011, priced at ¥25,000. On March 25, 2011, the system launched in Europe, with pricing set by individual retailers. On March 27, 2011 the Nintendo 3DS launched in North America, priced at US$249.99. On March 31, 2011, the system launched in Australia and New Zealand, priced at A$349.95. The system originally launched in all regions in both Aqua Blue and Cosmo Black color variations.
+On July 28, 2011, Nintendo announced the Nintendo 3DS would be getting a price cut of almost a third of the console's original price, from $249.99 to $169.99 in North America, 25,000¥ to 15,000¥ in Japan, and $349.95 to $249.95 in Australia. Although in Europe, pricing is up to retailers, the system also received a substantial price cut.[49] In an effort to compensate those who had paid the original price, the company introduced the Nintendo 3DS Ambassador Program, through which existing 3DS owners were eligible (conditional that they must have accessed the Nintendo eShop at least once prior to August 21) to download ten Nintendo Entertainment System games and ten Game Boy Advance games at no extra cost.[50][51] Nintendo further stated that the NES Ambassador titles would see future release to the general public on the Nintendo eShop, while there were no plans to make the Game Boy Advance Ambassador titles available.[52] The ten NES games were released in North America on August 31 and in Europe on September 1, 2011. These include: Balloon Fight, Donkey Kong Jr., Ice Climber, Metroid, NES Open Tournament Golf, Super Mario Bros.,The Legend of Zelda, Wrecking Crew, Yoshi (North America) / Mario & Yoshi (Europe & Australia) and Zelda II: The Adventure of Link.[53][54] The ten Game Boy Advance games were released in North America on December 16, 2011. These include: F-Zero: Maximum Velocity, Fire Emblem: The Sacred Stones, Kirby & The Amazing Mirror, Mario Kart: Super Circuit, Mario vs. Donkey Kong,Metroid Fusion, Super Mario Advance 3: Yoshi's Island, The Legend of Zelda: The Minish Cap, Wario Land 4 and WarioWare, Inc.: Mega Microgames! [55]
+On April 28, 2012, the Nintendo 3DS launched in South Korea, in Cosmos Black, Misty Pink and Cobalt Blue color variations.[56] On September 28, 2012, the system launched in two other regions, Hong Kong and Taiwan, in Cerulean Blue and Shimmer Pink.[57][58]
+Larger model[edit]
+
+A Nintendo 3DS XL in the open position
+Rumors of a larger model of the Nintendo 3DS being in production appeared during June 2012, when Japanese publication Nikkei wrote an article stating that the system was initially scheduled to be unveiled at E3 2012. However, Nintendo responded that these rumors were false and that the article was "entire speculation", but refrained from further commenting on the subject.[59] Finally, on June 21, 2012, the system was announced during a Nintendo Direct presentation. Featuring 90% larger screens than the original Nintendo 3DS, the system was set to launch on all major regions during the middle of the year.[60]
+The Nintendo 3DS XL (Nintendo 3DS LL in Japan) was released on July 28, 2012 in Japan, priced at ¥18,900, and was available in Silver + Black, Red + Black and White color variations.[61] In Europe, the system launched on the same day but in Silver + Black, Blue + Black and Red + Black color variations.[61] On August 19, the Nintendo 3DS XL launched in North America, priced at US$199.99, and available in Red + Black and Blue + Black.[62] On August 23, 2012, Australia and New Zealand saw the launch of the new handheld, priced at AU$249.95, and available in the same color variations as in Europe, Silver + Black, Blue + Black and Red + Black.[63] The launch of the Nintendo 3DS XL coincided with the release of New Super Mario Bros. 2, the first Nintendo 3DS game to be available in both retail and downloadable versions.
+On September 20, 2012, the Nintendo 3DS XL launched in South Korea, in Silver + Black, Red + Black and White color variations.[64] On September 28, 2012 the system launched in two other regions, Hong Kong and Taiwan, in Blue + Black and White color variations.[65] In December 2012, Nintendo Chinese distribution partner, iQue, launched the iQue 3DS XL in three special editions, one featuring a Mario decal while the other two feature both Mario and Luigi.[66]
+Hardware[edit]
+See also: List of Nintendo 3DS colors and styles
+
+Regular Nintendo 3DS button and features layout.
+The following explicitly refers to the original Nintendo 3DS model. Some technical details do not apply to later Nintendo 2DS and New Nintendo 3DS models
+The console has custom components codeveloped by the Nintendo Research & Engineering Department and other manufacturers, all combined into a unified system on chip. The main processor (CPU) is a ARM11 MPCore-based dual-core processor manufactured at 45 nm. One processor core is dedicated to games and applications, while the other core is exclusive to the operating system, enabling multitasking and background tasks. These tasks are handled seamlessly in the background during gameplay or while the system is in sleep mode. The system also contains a single-core ARM9 processor, enabling backwards compatibility withNintendo DS games. The graphics processor (GPU) is developed by Digital Media Professionals, and consists of a semi-custom PICA200 processor.[67][68] The system contains a total of 128 MB of system memoryconsisting of two 64 MB (512 Mb) FCRAM chips developed by Fujitsu, with a maximum bandwidth of 3.2 GB/s. However, 32 MB is reserved for the operating system and unavailable to games. Additionally, the system contains 6 MB of VRAM. The console also contains a dedicated hardware audio DSP module capable of outputting mono, stereo or pseudo-surround sound through either its two speakers or headphone jack.
+The Nintendo 3DS contains two separate screens. The top screen is a 15:9 (5:3) autostereoscopic LCD screenwith a display resolution of 800×240 pixels (400×240 pixels per eye, WQVGA). On the original Nintendo 3DS, the screen measures at 3.53 in (90 mm), while on the 3DS XL it measures at 4.88 in (124 mm). The screen is able to produce a three-dimensional effect without the need of 3D-enabling glasses using a parallax barrier. In order to adjust the effect's intensity, there is a 3D Depth Slider next to the screen allowing the user to adjust the intensity of the 3D effect or turn it off altogether. The bottom screen is a 4:3 resistive touchscreen with a display resolution of 320×240 pixels (QVGA). On the original Nintendo 3DS, the screen measures at 77 mm (3.02 in), while on the 3DS XL it measures at 106 mm (4.18 in).[69][70]
+The system features three camera sensors: two cameras on the outside of the device, capable of taking 3D photos and capturing 3D video; and one camera facing the user positioned above the top screen. All camera sensors have a maximum resolution of 640×480 pixels (0.3 megapixels, VGA) with one-point focus and can only achieve digital zoom. There is also a microphone in the bottom of the system.[69]
+The system includes 1 GB of internal flash memory manufactured by Toshiba, but it is mostly used by the operating system and its pre-installed applications. The system's memory can be expanded via an SD memory card slot, which supports SD and SDHC memory cards.[71] All Nintendo 3DS systems come packaged with a 2 GB SD card while Nintendo 3DS XL systems include a 4 GBSDHC card. The system uses 2.4 GHz 802.11 b/g wireless network connectivity with enhanced WPA2 security. There is also an infrared port on the back of the console, which allows the system to connect with certain peripherals such as the Circle Pad Pro and the amiibo reader/writer.[72]
+The Nintendo 3DS comes with a 1300 mAh lithium ion battery. Its longevity fluctuates between 3 and 5 hours while playing Nintendo 3DS games and between 5 and 8 hours while playing Nintendo DS games, depending on brightness, volume and wireless settings. The Nintendo 3DS XL however, comes with a 1750 mAh lithium-ion battery capable of lasting between 3.5 and 6.5 hours playing 3DS games and 6 to 10 hours playing DS games. While the original 3DS weighs approximately 230 grams (8.1 oz), the larger XL version weighs approximately 336 grams (11.9 oz). When opened, the original 3DS is 134 mm (5.3 in) wide, 74 mm (2.9 in) broad, and 21 mm (0.83 in) thick. The XL version however, is 156 mm (6.1 in) wide, 93 mm (3.7 in) broad, and 22 mm (0.87 in) thick. The 3DS also come with a telescoping stylus, extendable to up to 100 mm (3.9 in) long, while the 3DS XL come with a regular 93 mm (3.7 in) stylus.[69]
+All systems in the Nintendo 3DS family use the same AC adapter used with the Nintendo DSi and Nintendo DSi XL. In order to reduce production costs, certain console bundles, such as Japanese and European releases of the Nintendo 3DS XL and the New Nintendo 3DS, are not bundled with an AC adapter, requiring players to either use one from an older system they may own or purchase one separately. Along with plugging the adapter directly into the system, the standard Nintendo 3DS comes with a charging cradle, which players place their system into to charge. Charging cradles for the Nintendo 3DS XL and New Nintendo 3DS systems are sold separately from their respective systems, and there is no cradle for the Nintendo 2DS.[73]
+Controls[edit]
+The Nintendo 3DS input controls include the following: a round nub analog input called the Circle Pad, a D-pad, four face buttons (A, B, X, Y), bumper buttons (L, R), a HOME button, START and SELECT buttons, and a POWER button. It also features a dedicated volume slider and a wireless switch, which turns on or off wireless communications. The touchscreen can be interacted with either the user's finger or a stylus bundled with the handheld. There is also a six-axis motion sensor, which includes a 3-axis accelerometer and a 3-axis gyroscope. Through the Circle Pad Proaccessory the system has access to a second Circle Pad and trigger buttons (ZL, ZR).
+Game card[edit]
+The Nintendo 3DS Game Card is a media format used to physically distribute video games for Nintendo 3DS systems. Despite looking near-identical to its predecessor, the Nintendo DS Game Card, there is a small tab jutting out on the side of the card, preventing 3DS game cards from being inserted into a Nintendo DS.[74] These game cards can hold up to either 1 GB, 2 GB or 4 GB of game data depending on the game, which is 2, 4 and 8 times more storage, respectively, than the biggest Nintendo DS Game Card's capacity (512 MB). Some sources claim that an 8 GB version could be produced should a game ever require it.[75]
+Circle Pad Pro[edit]
+The Circle Pad Pro (Slide Pad Expansion/??????????? in Japan) is an accessory/add-on which connects to a Nintendo 3DS system through Infrared adding support for a second Circle Pad, a subtitute R button input (as the original one becomes difficult to reach), extra set of trigger buttons (ZL/ZR).[76] The device was first released in Japan on December 10, 2011, coinciding with the release of Monster Hunter 3G in the region.[77] It was subsequently released in Europe on January 27, 2012, in Australia on February 2, 2012, and in North America in February 7, 2012, coinciding with the release of Resident Evil: Revelations in those regions.[78]
+Images of the device first appeared on September 2011 in Famitsu[79][80] The first titles confirmed to compatible with the add-on were Monster Hunter 3G, Resident Evil Revelations, Ace Combat 3D Cross Rumble (Japanese version only), Metal Gear Solid: Snake Eater 3D, Kingdom Hearts 3D: Dream Drop Distance and Shin Sangoku Musou VS.[81]
+The Nintendo 3DS XL version of the device, called the Circle Pad Pro XL, was released in Japan on November 15, 2012, Europe on March 22, 2013, and North America on April 17, 2013.[82][83][84][85]
+The C-Stick and ZL/ZR buttons on the New Nintendo 3DS are backwards compatible with Circle Pad Pro-compatible titles.[86][87]
+[show]List of Circle Pad Pro compatible software[88]Other models[edit]
+Main article: Nintendo 3DS family
+The Nintendo 3DS family currently has five models available. Apart from the regular-sized Nintendo 3DS, the Nintendo 3DS XL is a larger model of the console which was released on July 28, 2012, and features 90% larger screens than the original Nintendo 3DS.[15] The Nintendo 2DS is a complete redesign of the handheld which was released on October 12, 2013, and is described as an "entry level" version of the 3DS. This console, while still capable of playing Nintendo DS and 3DS games, removes the 3D functionality and changes the form factor to a fixed, "slate" design.[16]The New Nintendo 3DS, which also has an XL variant, adds additional controls and improved functionality, and will be able to play certain games not compatible with previous models.
+Nintendo 2DS[edit]
+
+A Black + Blue Nintendo 2DS.
+Main article: Nintendo 2DS
+The Nintendo 2DS (abbreviated to 2DS) was announced on August 28, 2013, as a new entry-level model of the Nintendo 3DS family. While its hardware and software are relatively similar to the Nintendo 3DS (and still offers compatibility with Nintendo DS and 3DS games), it lacks the 3DS's signature 3D screen, does not have internal stereo speakers (only using a mono speaker), and uses a slate-like form factor as opposed to the clamshell design used by its Nintendo DS and 3DS predecessors. The Nintendo 2DS was released in North America and Europe on October 12, 2013, coinciding with the launch ofPokémon X & Y and is being sold alongside the Nintendo 3DS and 3DS XL at a relatively lower price point.[99]
+As a cheaper model of the Nintendo 3DS family, that still plays Nintendo DS and 3DS games, the Nintendo 2DS is seen as a market strategy to broaden the overall Nintendo handheld gaming market. As such, the 2DS is a handheld console targeted at a different audience than that of the regular Nintendo 3DS models, particularly younger users. Despite concerns from critics who felt that the company was trying to de-emphasize the 3D functionality by releasing the 2DS, Nintendo maintains that 3D is still part of their future plans.[100]
+New Nintendo 3DS[edit]
+Main article: New Nintendo 3DS
+The New Nintendo 3DS and New Nintendo 3DS XL (known as New Nintendo 3DS LL in Japan) are updated revisions of the 3DS and 3DS XL that were first unveiled during the JapaneseNintendo Direct presentation on August 29, 2014. The new models feature a processor with more cores, face tracking for improved 3D viewing angles, additional ZL/ZR shoulder buttons and a new "C-Stick" pointing stick that are comparable to and backwards compatible with games that support the Circle Pad Pro, colored face buttons inspired by those of Super NES controllers, automatic brightness adjustment, microSD storage, larger batteries, and integrated near-field communications support for use with Amiibo products. The regular-sized New Nintendo 3DS also has slightly larger screens than the prior model, and a suite of interchangeable faceplates.[101][102]
+As with its predecessors, the New Nintendo 3DS is compatible with existing DS and 3DS titles; there will also be games that are specifically optimized for the device and its upgraded processor, such as Xenoblade Chronicles 3D. These games will be exclusive to New Nintendo 3DS (and its XL variant) and are incompatible with 2DS and older 3DS models.[103][104][105]
+The systems were released in Japan on October 11, 2014, in Australia and New Zealand on November 21, 2014,[106][107] and at retail in Europe and North America on February 13, 2015. Only the XL version was made available in North America at launch,[103][104] though the smaller model was later released in a series of limited edition bundles.[108]
+User interface[edit]
+Main article: Nintendo 3DS system software
+
+The latest version of the Nintendo 3DSHome Menu. The upper screen displays a 3D animated logo for each individual app, while the bottom screen displays application icons.
+The Home Menu (stylized as HOME Menu) is a graphical user interface similar to the Nintendo DSi Menu and Wii U Menu for Nintendo 3DS systems. It is used to launch software stored on Nintendo DS and Nintendo 3DS Game Cards, applications installed on a SD card and DSiWare titles installed in the system's internal memory. Application icons are set in a customizable grid navigable on the lower screen. On the upper screen, a special 3D animated logo is displayed for each individual app, as well as system information such as wireless signal strength, date and time, and battery life.[109]Using the Home button, users can suspend the current software that is running and bring up the Home Menu, allowing the user to launch certain multitasking applications, such as the Internet Browser and Miiverse.
+Similarly to the Nintendo DSi, the menu has updateable firmware. On April 25, 2012, a system update brought the introduction of a folder system, which allows users to put applications inside folders.[110] On June 20, 2013, a system update brought the introduction of the Save Data Backup feature, which allows the user to back up save data from downloadable Nintendo 3DS software and most Virtual Console games.[111] An update was released on October 30, 2014 to enable players to download custom themes for the Home Menu, based on various Nintendo titles.[112]
+Camera[edit]
+Nintendo 3DS Camera is a built-in photo and video recorder with an integrated media gallery and photo editing functionality. The app uses the system's two front-facing cameras to take 3D photos, and the user-facing camera to take regular 2D photos. All photographs are taken at a resolution of 640 x 480 px (VGA), or 0.3 megapixels. There are various options and filters available when taking photos or recording video. There is also a Low-Lightoption, which is useful when taking photos and recording video in low lighting conditions.[113]
+On December 7, 2011, a system update added the ability to record 3D video along special recording options, such as the ability to make stop motionanimations.[114] All recording modes only allow a single video to be up to 10 minutes long.[115]
+Sound[edit]
+Nintendo 3DS Sound is a built-in music player and sound recorder. Supported filename extensions include MP3 audio with .mp3 and AAC audio with .mp4, .m4a, or .3GP. Audio files can be played from an SD card, with visualizations displayed on the upper screen. Music can be played while the console is closed, using the system's headphone jack. A set of sound manipulation options are available, as well as several audio filters. Ten-second voice recordings can be also be recorded and edited.[116] These can then be shared throughout other applications such asSwapnote.[citation needed] There is also a StreetPass function built-into the app, where users exchange song data to make a compatibility chart between them.[116]
+Multitasking[edit]
+The Nintendo 3DS is capable of suspending an application and run one of six multitasking applications. Once a game or application is running, the user can press the Home button to suspend it and temporarily open the Home Menu. It is then possible to open another specially designed multitasking application built into the system without closing the currently suspended software. Attempting to open a game or application while another is already running will result in a warning prompt.[109] These multitasking applications include:
+* Game Notes, which allows users to write and save notes, with screenshots from both screens of the current suspended software present to aid the user.
+* Friend List, a list of registered friends, with information such as their current status as well as current/favorite application; up to 100 friends can be registered by exchanging friend codes or using the Local option.
+* Notifications, whilst receiving notifications the top LED light will flash either blue or green, depending if it is a SpotPass or StreetPass notification, respectively.
+* Internet Browser
+* Miiverse, a social networking service dedicated to games and other applications; comments and software screenshots can be posted on dedicated software communities.
+* Camera, a lightweight version of Nintendo 3DS Camera with most features omitted, accessed by holding the L and R buttons; QR codes can be read by the camera.
+Software and services[edit]
+See also: Nintendo 3DS system software
+Nintendo eShop[edit]
+Main article: Nintendo eShop
+Nintendo eShop is the Nintendo 3DS's online software distribution service. The eShop provides downloadable retail and download-only Nintendo 3DS titles, Virtual Console titles, and various applications and videos. It also allows users to purchase downloadable content (DLC) and automatically download patches for both physical and downloadable games. All content obtained from Nintendo eShop is attached to a Nintendo Network ID but can only be used in one system. Background downloading is possible via SpotPass, while playing games or in sleep mode. Up to ten downloads can be queued at a time and their status can be checked on the Home Menu.[117] The Nintendo eShop supports simple user software reviews. Users can submit a review with "stars" ranging from one to five, representing its quality in a crescent order, and categorize software by whether it is suitable for hardcore or more casual players. User reviews can only be submitted after using the software for at least one hour.[citation needed]
+Miiverse[edit]
+Main article: Miiverse
+Miiverse (portmanteau of "Mii" and "Universe") is an integrated social networking service, which allows players to interact and share their gaming experiences through their personal Mii characters. It was originally launched on Wii U and was launched on the Nintendo 3DS on December 11, 2013 via a firmware update.[118] Its functionality is similar to the Wii U version albeit without the private messaging feature, and requires a Nintendo Network ID.
+Miiverse allows users to seamlessly share accomplishments, comments, hand written notes, and game screenshots with other players on various communities specific to their games and applications. It is possible to access Wii U communities on the Nintendo 3DS and vice versa. It is also possible to access Miiverse on every internet enabled smartphone, tablet and PC.[119] The service is moderated through software filtering as well as a human resource team in order to ensure that the content shared by users is appropriate and that no spoilers are shared.[120] It is also possible to post screenshots from certain games to social networking websites such as Twitter, Tumblr and/or Facebook via the Nintendo 3DS Image Share service.[121]
+Internet browser[edit]
+Main article: Internet Browser (Nintendo 3DS)
+The Nintendo 3DS's internet browser was released via a firmware update on June 6, 2011 in North America and June 7, 2011 in Europe and Japan.[122] It functions as a multitasking system application and can be used while another application is suspended in the background. The browser contains a text wrap option to automatically wrap text to the width of the screen at different zoom levels, and is mainly controlled with the stylus or the Circle Pad and the D-pad to cycle through links on the page. The browser supports HTML, CSS, JavaScript and some HTML5 elements but does not support Flash video or music.[123] It can also download and show 3D images with the .mpo file extension and allows users to save images on an SD card. Additionally the browser supportsJPEG and MPO image uploads from the system's photo gallery. The user can also choose between the Google and the Yahoo! search engines, and can also create bookmarks.
+Video services[edit]
+Nintendo Video launched in Australia, Europe, and Japan on July 13, 2011, and in North America on July 21, 2011, along with a tutorial video.[124][125][126] The service periodically updates its video content availability through SpotPass, automatically adding and deleting content from the console. Up to four videos can be available through the app at the same time. Nintendo Video content include: established series such as Oscar's Oasis and Shaun the Sheep (with fifteen exclusive episodes);[127] original series such as Dinosaur Office and BearShark by CollegeHumor; short films; movie trailers; and sports videos by Redbull and BSkyB. The Nintendo Video app had since gone defunct in the Japanese, European and Oceania regions by April 2014, and in North America by July 2015. In North America at least, the "Nintendo Video" name continues to exist a permanent Nintendo eShop category for all hosted videos that previously featured on the former app, as well as potential new content. The permanently hosted online "Nintendo Video" eShop videos can be viewed on-demand at any time without additional costs.
+The Netflix streaming video service was released in North America on July 14, 2011.[128] Netflix users are able to pause streaming video on the Nintendo 3DS and resume it on other Netflix-enabled devices. Only 2D content is available through the service.[129] Nintendo announced on October 21, 2011, that Hulu Plus would be released on the Nintendo 3DS by the end of the year.[130] On February 16, 2012, following the debut of Hulu on the Wii, Nintendo reiterated the announcement this time claiming it would be available on the 3DS sometime in 2012.[131] Finally, on August 6, 2013, the Hulu application became available in Japan and on October 17, 2013, the Hulu Plus application was launched in North America, along with a one-week free trial.[132][133] On November 29, 2013, the YouTube application was released for the Nintendo 3DS.
+Discontinued video services[edit]
+The SpotPass TV service launched in Japan on June 19, 2011. The service was a joint service between Nihon TV and Fuji TV that brought free 3D video content to Nintendo 3DS users in Japan. Types of content included programming teaching the user how to do magic tricks, Japanese idol sumo wrestling, sports, 3D dating, among others. The service was terminated on June 20, 2012, a year after its inception.[134] An Eurosport app launched in Europe and Australia on December 15, 2011, and worked similarly to the Nintendo Video app. It featured weekly episodes of Watts Zapand other compilation videos containing Eurosport content.[135] The service was terminated on December 31, 2012, a year after its inception.[136]
+Swapnote[edit]
+Main article: Swapnote
+Swapnote (known as Nintendo Letter Box in Europe and Australia) is a messaging application for the Nintendo 3DS. Swapnote was released on December 21, 2011 in Japan and on December 22 in Europe, Australia and North America, via the Nintendo eShop. The application is free and is pre-installed on newer systems. It allows users to send hand-written/drawn messages to registered friends via SpotPass either or other users via StreetPass.[137] The app also allows users to freely embed pictures and sounds into their messages.
+On October 31, 2013, Nintendo abruptly suspended the Swapnote/Nintendo Letter Box SpotPass functionality after discovering minors were sharing Friend Codes with strangers who had exploited the messaging service to allegedly exchange pornographic imagery.[138][139]
+Mii Maker[edit]
+Mii Maker is a system application that allows users to create Mii characters through either a selection of facial and body features, such as the nose, mouth, eyes, hair, among other, or by taking a photo using the system's cameras and auto-generate a personal Mii. Mii characters can also be added and shared by reading special QR codes with one of the cameras.[140] It is also possible to import Mii characters from a Wii or a Wii U system. However, Mii created on Nintendo 3DS systems cannot be exported back to a Wii due to the addition of character parts in Mii Maker not present on the Wii's Mii Channel.[141] This restriction, however, is not applied when exporting a Mii from a Nintendo 3DS to a Wii U system.
+Activity Log[edit]
+Activity Log is a system application that tracks game-play and keeps a record of which games have been played and for how long, as well as physical activity, such as counting every step taken while carrying a Nintendo 3DS using its built in pedometer. The feature encourages walking every day with the system in order to earn Play Coins, at a maximum of 10 each day at a rate of one per 100 steps, to a total of 300 coins. Play Coins can then be used with compatible games and applications to acquire special content and a variety of other benefits.[142]
+Other network features[edit]
+Other network features of the Nintendo 3DS include the Nintendo Network, SpotPass and StreetPass, and StreetPass Mii Plaza is a StreetPass application which comes pre-installed on every Nintendo 3DS system, while Nintendo Zone Viewer is a built-in application that detects and makes use of certified SpotPass hotspots (discontinued service).
+Games[edit]
+Further information: List of Nintendo 3DS games and List of best-selling Nintendo 3DS games
+Retail copies of games are supplied on proprietary cartridges called Nintendo 3DS Game Cards, which are packaged in keep cases with simple instructions. In Europe, the boxes have a triangle at the bottom corner of the paper sleeve-insert side. The triangle is color-coded to identify the region for which the title is intended and which manual languages are included. Unlike with previous Nintendo consoles, the complete software manual is only available digitally via the system's Home Menu. Software published by Nintendo and by some third parties come packaged with come withClub Nintendo points, which can be redeemed for special rewards.[143] Retail and download-only games are also available for download in the Nintendo eShop. All Nintendo 3DS consoles areregion locked (software purchased in a region can be only played on that region's hardware).[144]
+A total of 293.40 million Nintendo 3DS games have been sold worldwide as of September 30, 2016,[5] with 34 titles surpassing the million-unit mark. The most successful game, Pokémon X and Y, has sold approximately 15.64 million units worldwide.[6]
+Launch titles[edit]
+The Nintendo 3DS launched in Japan with 8 games,[145] in North America with 15 games[146] and in Europe with 14 games.[147] An additional thirty games were announced for release during the system's "launch window", which includes the three months after the system's launch date.
+[show]List of Nintendo 3DS launch titles by region releasedAugmented reality[edit]
+
+An augmented reality tech demo calledTarget Shooting, as seen at E3 2010.
+AR Games is a compilation of several augmented reality mini-games and simple tools, which is pre-installed on every Nintendo 3DS, along with 6 paper cards that interact with certain games. Five of the six cards have a picture of a character on them, consisting of Mario, Link, Kirby, Pikmin, and Samus. The sixth one is a question mark box from the Super Mario Bros. series. Nintendo has also published downloadable versions of this card in larger sizes.[148] By scanning the cards, real time graphics are augmented onto live footage. It is also possible to take 3D photos of Nintendo characters, using any to all 6 AR Cards, as well as their Miis.
+Some AR cards are also compatible with other Nintendo 3DS games including Nintendogs + Cats, Kid Icarus: Uprising, Pokédex 3D Pro, Freakyforms: Your Creations, Alive! and Tetris: Axis.[149][150]
+Face Raiders is another augmented reality application pre-installed on every Nintendo 3DS system. In order to start playing, the user must take pictures of peoples' faces. These faces then turn into enemies and attack the player, who must shoot them using the system's gyroscope. The background of the game is the rear camera's viewpoint.[151] As people walk by in the background, the game takes their pictures from their faces, also adding them as enemies. It is also possible to collect faces from the system's image gallery, which is searched automatically for faces.[152]
+There are other Nintendo 3DS applications that similarly use the system's AR capabilities, such as Pokémon Dream Radar and Spirit Camera: The Cursed Memoir.[153][154]
+Download Play[edit]
+See also: List of Nintendo 3DS Local Multiplayer games
+Download Play allows users to play local multiplayer games with other Nintendo 3DS systems using only one Game Card. Players must have their systems within wireless range (up to approximately 65 feet) of each other for the guest system to download the necessary data from the host system. Download Play on Nintendo 3DS systems is also backwards compatible, meaning that it is also available for Nintendo DS games. Unlike Download Play on Nintendo DS, game data, once downloaded to the guest system, is stored on the system's SD card, no longer requiring a re-download for a future game session.[155] Nintendo 3DS games can only transfer a maximum of 32 MB of data to other systems while in download play.[156] Other forms of local multiplayer modes require each player to own the software that is currently being used.
+Virtual Console[edit]
+Main article: Virtual Console
+The Virtual Console service allows Nintendo 3DS owners to download and play games originally released for the Game Boy, Game Boy Color, Sega Game Gear and Nintendo Entertainment System. Virtual Console games are distributed over broadband Internet via the Nintendo eShop, and are saved to a removable SD card. Once downloaded, Virtual Console games can be accessed from the Home Menu as individual apps. The service was launched on June 6 in North America and June 7, 2011 in Japan and Europe[citation needed] as part of a system update.[157]
+Nintendo and Sega also launched the 3D Classics series, a selection of enhanced retro games for the Nintendo 3DS featuring updated stereoscopic graphics.[158][159]
+Backward compatibility[edit]
+See also: List of Nintendo DS games and List of DSiWare games and applications
+In addition to its own software, the Nintendo 3DS is backward compatible with most Nintendo DS and Nintendo DSi software. Like the DSi, the Nintendo 3DS is incompatible with DS software that requires the use of the Game Boy Advance port. Nintendo DS and DSi software cannot be played with 3D visuals on the 3DS. The original DS display resolutions are displayed in a scaled and stretched fashion due to the increased resolution of the 3DS's screens. If the user holds down the START or SELECT buttons upon launching Nintendo DS software, the emulated screens will be displayed in Nintendo DS's native resolution, albeit smaller with black borders. On the Nintendo 3DS XL, this method yields a viewing size for DS games similar to their native sizes (due to the larger screen size of the XL), unlike on the original 3DS models, where the games appear to be shrunk.[160][161]
+Non-gaming uses[edit]
+The Louvre Museum in Paris contracted Nintendo to create a 3DS-based audiovisual visitor guide.[162][163][164] The guide contains over 30 hours of audio and over 1,000 photographs of artwork and the museum itself, including 3D views,[162] and also provides navigation thanks to differential GPS transmitters installed within the museum.[165] 3DS XLs pre-loaded with the guide are available for hire at the museum, and the software can also be purchased from the Nintendo eShop. Unlike most 3DS titles, the guide is not region locked.[166]
+Reception[edit]
+The Nintendo 3DS hardware has received very positive reviews. IGN called its hardware design a "natural evolution of the Nintendo DSi system."[39] CNET praised the device's 3D effect, while IGN called it "impressively sharp and clean", and impressively superior to its predecessors,[167][168] although it was noted that the 3D effect only worked if the system was held at the right distance and angle.[168][169] A common complaint was the 3DS's battery life; Engadget reported to get 3 hours of battery life from the system,[169] while IGN reported 2 to 4.5 hours of play.
+The Nintendo 3DS XL was very well received at launch. Reviewers generally recommended the console to new buyers of the Nintendo 3DS family, although not so much to current owners of a Nintendo 3DS. Kotaku mentioned it as "possibly the best portable gaming device ever...[and] a well-designed machine..." and that "it plays great games"[170] while The Verge called it "the best portable gaming buy around right now."[171] The Nintendo 3DS XL improves upon the battery life of the original 3DS. Kotaku claimed that the Nintendo 3DS XL's battery "lasts a cross-country flight.".[172] The Verge noted that the larger top screen makes more obvious problems with aliasing and low-resolution textures. It did, however, say that the 3D felt more immersive. "Where the 3DS felt like peering through a peephole into another world," they said, "the XL is almost like stepping through a door."[173] On the other hand, Destructoid said the 3D effect on the XL was more subtle than on its predecessor.[174] The Verge spoke positively of the build quality and design choices, saying the console improved on the original.[173] A Destructoid reviewer said the 3DS XL was easier to use than the regular Nintendo 3DS, mainly due to his large hands.[174] The Verge noted lowered sound quality from the original, the result of smaller speakers.[173] Both The Verge and Gizmodo complained of low-quality cameras.[173]
+Sales[edit]
+Main article: Nintendo 3DS sales
+As of September 30, 2016, Nintendo reports 61.57 million units have been shipped worldwide, of which 21.63 million were shipped to Japan, 20.11 million were shipped to the Americas, and 18.05 million were shipped to other territories including Europe.[5]
+Health concerns[edit]
+Nintendo has publicly stated that the 3D mode of the Nintendo 3DS is not intended for use by children ages six and younger, citing possible harm to their vision. Nintendo suggests that younger players use the device's 2D mode instead,[175] although the American Optometric Association has assured parents that 3D gaming in moderation would not be harmful for children.[176] Additionally, the 3DS may help in screening children before the age of 6 who have depth related vision problems according to Dr. Michael Duenas, associate director for health sciences and policy for theAmerican Optometric Association, and Dr. Joe Ellis, the president of the optometrists' association.[177] However, Dr. David Hunter, a pediatric ophthalmologist affiliated with the American Academy of Ophthalmology believes that it is largely speculative whether a child who has problems perceiving depth in real life would react to a 3DS in any way that parents would recognize as indicating any problems with depth perception.[177] Nintendo's vague warning, that, "there is a possibility that 3-D images which send different images to the left and right eye could affect the development of vision in small children," was not specifically backed up by any scientific evidence, leading Duenas to believe it is motivated by preventing possible liability rather than safeguarding against realistic harm.[177]
+Nintendo has stated that a parental control involving a PIN will allow parents to disable autostereoscopic effects.[178] Playing games in 3D has been suspected of causing headaches among some gamers.[179] The dizziness experienced by some users may be explained similarly to the headaches that watchers of 3D movies have similarly experienced, which is believed to be due to confusion caused by a lack of visual cues that humans use to perceive depth in their everyday environment.[177]
+Nintendo of America president Reggie Fils-Aimé partially cited these concerns as one of the influences of the Nintendo 2DS, an entry-level version of the Nintendo 3DS systems lacking 3D functionality.[99]
+Legal issues[edit]
+In 2011, 58-year-old former Sony employee Seijiro Tomita sued Nintendo for infringing a patent on the 3D screen that obviates the need for 3D glasses. On March 13, 2013, a United States federal jury ordered Nintendo to pay him US$30.2 million in damages.[180] However, on August 7, 2013, that amount was reduced by 50% to US$15.1 million because the initial figure was, according to Judge Jed Rakoff, a federal judge, “intrinsically excessive" and "unsupported by the evidence presented at trial.” He added that when the suit was originally filed in 2011 the 3DS was not profitable. Nintendo appealed unsuccessfully.[181] On December 11, 2013, it was decided by Judge Rakoff that Nintendo pay 1.82% of the wholesale price of each unit sold to Tomita.[182] On July 17, 2015, Nintendo won a patent suit filed against eight of its handheld consoles, including the 3DS.[183] The suit was originally filed by the Quintal Research Group after it secured a patent for a "computerized information retrieval system" in 2008.[184]
+See also[edit]
+* Nintendo 3DS line
+* Nintendo DS and 3DS storage devices
+References[edit]
+1. Jump up^ Harris, Craig (September 28, 2010). "Nintendo Conference 2010 Details". IGN. Retrieved September 26, 2013.
+2. Jump up^ Kaluszka, Aaron (January 19, 2011). "3DS North American Price, Date, Colors Set". Nintendo World Report.
+3. Jump up^ "Supplementary Information about Earnings Release"(PDF). Nintendo. October 29, 2010. p. 9. Retrieved November 7,2010.
+4. Jump up^ Daniel Vuckovic (February 8, 2011). "Nintendo 3DS launches in Australia on March 31st for $349". Vooks.net. RetrievedSeptember 26, 2013.
+5. ^ Jump up to:a b c d "Consolidated Sales Transition by Region" (PDF). Nintendo. September 30, 2016. Retrieved September 30, 2016.
+6. ^ Jump up to:a b "Top Selling Software Sales Units". Nintendo. September 30, 2016. Retrieved September 30, 2016.
+7. Jump up^ Tabuchi, Hiroko (March 23, 2010). "Nintendo to Make 3-D Version of Its DS Handheld Game". The New York Times. The New York Times Company. Retrieved April 4, 2010.
+8. Jump up^ Snider, Mike (June 15, 2010). "E3 2010: Nintendo 3DS unveiled". USA Today. Retrieved November 26, 2012.
+9. ^ Jump up to:a b "Launch of New Portable Game Machine" (PDF) (Press release). Minami-ku, Kyoto: Nintendo. March 23, 2010. Retrieved March 23, 2010.
+10. Jump up^ "Nintendo 3DS vs. PS Vita: Handheld Wars, The Next Generation". IndustryGamers. September 16, 2011. Archived from the original on April 29, 2012. Retrieved November 1,2011.
+11. Jump up^ "Nintendo's 3DS Hits the U.S. On March 27 for $249.99". Kotaku.com. January 19, 2011. Retrieved July 7, 2012.
+12. Jump up^ "Nintendo's 3DS Hits Europe On March 25". Kotaku.com. January 19, 2011. Retrieved July 7, 2012.
+13. Jump up^ Schroeder, Stan (July 28, 2011). "Nintendo 3DS Price Cut to $169 Amid Disappointing Sales". Mashable.com. RetrievedNovember 27, 2012.
+14. Jump up^ "What Do You Think About Nintendo's Big 3DS Announcement?". IGN DS. IGN. July 28, 2011. RetrievedSeptember 26, 2013.
+15. ^ Jump up to:a b McEntegart, Jane (June 23, 2012). "Nintendo 3DS XL Arriving in UK On July 28". Tom's Hardware. RetrievedNovember 26, 2012.
+16. ^ Jump up to:a b Yin, Wesley. "Nintendo announces Nintendo 2DS handheld console • News •". Eurogamer.net. Retrieved August 30,2013.
+17. Jump up^ "New Nintendo 3DS And New Nintendo 3DS XL Announced, Are More Powerful — Siliconera". Siliconera. August 29, 2014. Retrieved August 30, 2014.
+18. Jump up^ "Nintendo's new 3DS console hits shelves in Japan". Japan Times. October 11, 2014.
+19. Jump up^ "Nintendo's First 3D Technology Shot A Spaceship At Mario's Face". Kotaku. April 30, 2010. Retrieved November 27, 2012.
+20. ^ Jump up to:a b c d "Volume 1: And That's How the Nintendo 3DS Was Made". January 7, 2011. Retrieved November 27, 2012.
+21. Jump up^ Conneally, Tim. "Nintendo wants to try its hand at 3D again". betanews.com. Retrieved November 27, 2012.
+22. Jump up^ Blake Snow (May 4, 2007). "The 10 Worst-Selling Consoles of All Time". GamePro. Archived from the original on September 5, 2008. Retrieved November 25, 2007.
+23. Jump up^ "Nintendo 'Traumatized' By 3D Virtual Boy, But '(Laughs)' About It Now". Kotaku.
+24. Jump up^ Ashcraft, Brian (February 22, 2011). "Nintendo-Powered Museum Closes Its Doors". kotaku.com. RetrievedDecember 4, 2012.
+25. Jump up^ Kelly, Tim (December 25, 2006). "Shigureden celebrates poetry and a centuries-old card game". Forbes. RetrievedDecember 4, 2012.
+26. Jump up^ Hartley, Adam (October 14, 2009). "Rumour: Nvidia Tegra-powered Nintendo handheld due 2010". TechRadar.com. Retrieved November 28, 2012.
+27. Jump up^ Valich, Theo (October 13, 2009). "nVidia Tegra wins contract for next-gen Nintendo DS". Bright Side of News*. Bright Side Network. Retrieved April 4, 2010. Currently, we have no information what exact chip is being used [just that nVidia won the contract], but with the debut set for February 2010, the second generation of Tegra chips could make an excellent base [to be launched at Mobile World Congress in Barcelona].
+28. Jump up^ Harding, Robin (October 30, 2009). "Nintendo considers Kindle tactics for consoles". Financial Times. RetrievedApril 4, 2010.
+29. Jump up^ Totilo, Stephen (May 13, 2004). "Taking the Game War To a Second Front". The New York Times. The New York Times Company. Retrieved April 4, 2010.
+30. Jump up^ Ashcraft, Brian (February 2, 2010). "Nintendo vs. Japanese Newspaper, It Continues!". Kotaku. Gawker Media. RetrievedApril 4, 2010.
+31. Jump up^ Ingham, Tim (February 16, 2010). "DS2 in the hands of Pokemon Company". CVG. Future Publishing. RetrievedApril 4, 2010. Any kind of March announcement wouldn't fit with the timeline I understand the second DS to be on,' he added.
+32. Jump up^ "Did Nintendo Doom New Handheld Before Its Release?".CNBC. March 29, 2010. Retrieved April 3, 2010. 'Apparently, the Japanese press was all over it and talked with suppliers there and Nintendo just wanted to get out ahead by breaking the news to prevent a leak,' says Billy Pigeon, senior analyst with M2 Research.
+33. Jump up^ "Nintendo DS testing platform revealed by FCC". Wireless Goodness. April 30, 2010. Archived from the original on March 8, 2015. Retrieved May 18, 2010. An FCC filing today by Mitsumi exposed what appears to be a Nintendo DS testing platform.
+34. Jump up^ Predy, Logan (May 17, 2010). "3DS Dev-Build Hardware Analysis". Game Usagi. Retrieved May 18, 2010. For their '3D Control Stick' Nintendo has decided to go for something much more akin to the 'control nub' on the PSP systems.
+35. Jump up^ Harris, Craig (June 4, 2010). "E3 2010: Everything We Know About the 3DS". IGN. Retrieved September 26, 2013.
+36. Jump up^ "Nintendo 3DS – Games at Nintendo — Nintendo of America Inc". Nintendo.com. Retrieved July 7, 2012.
+37. Jump up^ "E3 2010: Ocarina of Time 3DS On the Way! – Nintendo 3DS News at IGN". IGN. March 29, 2010. Retrieved June 18,2010.
+38. Jump up^ E3 2010 Nintendo 3DS Unveiled CNET
+39. ^ Jump up to:a b Harris, Craig (June 15, 2010). "E3 2010: 3DS: Our First Hands-on". IGN. Retrieved September 26, 2013.
+40. Jump up^ Towell, Justin (August 23, 2010). "Is the design of the 3DS final or not? Nintendo clears up the confusion". GamesRadar UK. Retrieved August 25, 2010.
+41. Jump up^ "Nintendo Conference 2010 Converage: 3DS Launch Details Revealed". WiiNintendo. September 29, 2010. Archived fromthe original on January 7, 2011. Retrieved September 29,2010.
+42. Jump up^ "Nintendo 3DS Final Design". WiiNintendo. September 29, 2010. Archived from the original on July 24, 2011. RetrievedSeptember 29, 2010.
+43. Jump up^ Nintendo 3DS Preview Event Nintendo of Europe
+44. Jump up^ Nintendo allowing retailers to set 3DS price in Europe. Good luck if you have a pre-order Nintendo 3DS News at GamesRadar
+45. Jump up^ Interactive, Disney. "Nintendo 3DS at". Amazon.co.uk. Retrieved November 1, 2011.
+46. Jump up^ "Nintendo 3DS UK price war rages on". CVG.
+47. Jump up^ "Find out where you can try Nintendo 3DS near you!". Nintendo. Retrieved February 6, 2011.
+48. Jump up^ "Nintendo 3DS – Preview Event". Nintendo.com. RetrievedNovember 1, 2011.
+49. Jump up^ "Welcome to Nintendo of America's Media Site". Press.nintendo.com. Retrieved November 1, 2011.
+50. Jump up^ Boxer, Steve (July 28, 2011). "3DS price cut by almost a third as Nintendo reports loss". London: The Guardian.
+51. Jump up^ "| Nintendo 3DS — Nintendo 3DS Ambassador Program". Nintendo.com. August 11, 2011. Retrieved May 2, 2012.
+52. Jump up^ Brendan Sinclair (December 16, 2011). "3DS Ambassador GBA games released". Gamespot.com. CNet. RetrievedJune 28, 2012.
+53. Jump up^ Newton, James. "NES Ambassador Games for North America Available Now". nintendolife. Retrieved September 12, 2012.
+54. Jump up^ Newton, James. "NES Ambassador Games Available in Europe Now". nintendolife. Retrieved August 23, 2013.
+55. Jump up^ Reilly, Jim. "3DS GBA Ambassador Games Now Available". gameinformer. Retrieved September 12, 2012.
+56. Jump up^ "'Super Mario 3D Land', Launched with Nintendo 3DS simultaneously in April 28" (in Korean). Ruliweb. March 22, 2012. Retrieved June 7, 2012.
+57. Jump up^ "Nintendo 3DS/Nintendo 3DS XL" (in Chinese). Nintendo. Retrieved May 11, 2013.
+58. Jump up^ "Nintendo 3DS/Nintendo 3DS XL" (in Chinese). Nintendo. Retrieved May 11, 2013.
+59. Jump up^ Fingas, Jon (June 4, 2012). "Nintendo may have supersized 3DS with 4.3-inch screen in store for E3, Mario never looked bigger (update: Nintendo response)". Engadget.com. Retrieved September 29, 2013.
+60. Jump up^ Buckley, Sean (June 21, 2012). "Nintendo announces $199 3DS XL with 4.88-inch top screen, available August 19th". Engadget.com. Retrieved September 29, 2013.
+61. ^ Jump up to:a b East, Thomas (June 22, 2012). "Nintendo 3DS XL revealed — UK release date and first pictures". Official Nintendo Magazine. Retrieved September 7, 2014.
+62. Jump up^ "Nintendo Reveals 3DS XL". IGN. June 21, 2012. RetrievedJuly 7, 2012.
+63. Jump up^ Bray, Nicholas. "News 3DS Australian Nintendo 3DS XL Launch Details Revealed". NintendoWorldReport. Retrieved24 September 2016.
+64. Jump up^ "Nintendo of Korea, "Nintendo 3DS XL" Release Date and Pricing Announced" (in Korean). Nintendo of Korea. Retrieved November 8, 2013.
+65. Jump up^ New 3DS Colors Coming to Taiwan and Hong Kong - News. Nintendo World Report. Retrieved on August 23, 2013.
+66. Jump up^ ""iQue 3DS XL" ??12???". Ique.com. RetrievedNovember 9, 2012.
+67. Jump up^ Yam, Marcus (June 22, 2010). "DMP's Pica200 GPU is Behind Nintendo 3DS". Tom's Guide.
+68. Jump up^ Ishaan (June 21, 2010). "This Is What's Powering The 3DS' Graphics". Siliconera. Retrieved August 5, 2010. And so, we finally know who's providing the graphics chip for the Nintendo 3DS.
+69. ^ Jump up to:a b c "Nintendo 3DS Spec Sheet" (PDF) (in Japanese). Nintendo Co., Ltd. September 29, 2010. RetrievedSeptember 29, 2010.
+70. Jump up^ "Nintendo 3DS Family — Comparison Chart" (PDF). Nintendo of Europe. Archived from the original (PDF) on September 21, 2013. Retrieved November 11, 2013.
+71. Jump up^ "What SD Cards and microSD Cards Are Compatible?". Retrieved June 22, 2015.
+72. Jump up^ "Nintendo 3DS teardown". Ifixit.com. Retrieved July 7,2012.
+73. Jump up^ "3DS XL charging cradle released in UK next week, price revealed". Archived from the original on December 30, 2012. Retrieved November 11, 2013.
+74. Jump up^ Pereira, Chris (June 21, 2010). "A Look at the New Nintendo 3DS Game Cards". 1UP.com. UGO Entertainment. RetrievedJuly 16, 2010.
+75. Jump up^ Yeung, Karlie (December 17, 2010). "3DS Cartridges Could Store Up to 8GB". Nintendo World Report. RetrievedJanuary 31, 2012. The memory size for Nintendo 3DS cartridges will range from one to eight gigabytes, reports major Taiwanese newspaper China Times.
+76. Jump up^ McFerran, Damien (January 27, 2012). "3DS XL Circle Pad Pro finally makes its way to North America". Digital Foundry via Eurogamer. Gamer Network. Retrieved February 29, 2016.
+77. ^ Jump up to:a b Byford, Sam (December 14, 2011). "Nintendo 3DS Circle Pad Pro review". The Verge. Retrieved April 18, 2013.
+78. Jump up^ Hidalgo, Jason (February 2, 2012). "Nintendo Slide Pad for 3DS review". Engadget. Retrieved April 18, 2013.
+79. Jump up^ post a comment. "Nintendo 3DS Getting Dual Analogs, More Shoulder Buttons with Monster Hunter 3G, News from". GamePro. Archived from the original on December 1, 2011. Retrieved November 1, 2011.
+80. Jump up^ Leo, Jonathan (September 6, 2011). "3DS to receive right analog pad, Monster Hunter - Report". Gamespot.com. Retrieved March 6, 2011.
+81. ^ Jump up to:a b c d e f g "3DS Slide Pad Attachment Formally Announced". Andriasang.com. September 13, 2011. Retrieved November 1, 2011.
+82. Jump up^ Madden, Orla (October 7, 2012). "3DS XL Circle Pad Pro Release Date Confirmed". Nintendo Life. RetrievedDecember 12, 2012.
+83. Jump up^ Nintendo: Online Store - Product Detail. Store.nintendo.com (January 1, 2000). Retrieved on August 23, 2013.
+84. Jump up^ McWhertor, Michael (April 17, 2013). "Nintendo 3DS XL Circle Pad Pro available for pre-order through official Nintendo store". Polygon. Retrieved April 18, 2013.
+85. Jump up^ Matulef, Jeffrey (April 20, 2013). "3DS XL Circle Pad Pro finally makes its way to North America". Eurogamer. Gamer Network. Retrieved April 20, 2013.
+86. Jump up^ "New Nintendo 3DS Comes To Australia On November 21".Siliconera. September 23, 2014. Retrieved October 13, 2014.
+87. ^ Jump up to:a b Zorine Te (February 15, 2015). "Games That Are Better On The New Nintendo 3DS". GameSpot.
+88. Jump up^ "Official Japanese Nintendo 3DS & XL Circle Pad Pro Support List". Nintendo.
+89. Jump up^ Shaan Joshi (KneehighPark) (February 28, 2013). "Monster Hunter 3 Ultimate (3DS) Demo Impressions". COGconnected. Retrieved June 7, 2016.
+90. Jump up^ Ingram, Christopher (January 3, 2012). "Review: Ace Combat: Assault Horizon Legacy (3DS)". NintendoLife. RetrievedMarch 7, 2016.
+91. Jump up^ Henry Gilbert (January 19, 2012). "Resident Evil: Revelations 3DS demo works with the Circle Pad Pro". GamesRadar. Retrieved May 26, 2016.
+92. Jump up^ Dutton, Fred. "Kid Icarus: Uprising gets Circle Pad Pro support". Eurogamer. Retrieved January 28, 2012.
+93. Jump up^ Morgan Sleeper. "Review: One Piece Unlimited World Red".NintendoLife. Retrieved May 25, 2016.
+94. Jump up^ Culafi, Alex; Ronaghan, Neal. "The Different Controls of Monster Hunter 4 Ultimate". NintendoWorldReport. RetrievedMay 25, 2016.
+95. Jump up^ Morgan Sleeper. "Review: Attack on Titan: Humanity in Chains (3DS)". NintendoLife. Retrieved May 25, 2016.
+96. Jump up^ "C stick, Circle Pad Pro support confirmed for Cube Creator 3D". NintendoEverything. Retrieved March 5, 2016.
+97. Jump up^ "Nintendo Direct 2016.3.4 ???????????".YouTube. Retrieved March 5, 2016.
+98. Jump up^ Sato (March 7, 2016). "Metroid Prime: Federation Force Supports Circle Pad Pro And Gyro Sensor Controls".Siliconera. Retrieved March 7, 2016.
+99. ^ Jump up to:a b "Nintendo Announces 2DS". IGN. Retrieved August 29,2013.
+100. Jump up^ Green, Andy (August 28, 2013). "3D Gaming is Very Much A Part of Nintendo's Future Plans". Nintendo Life. RetrievedSeptember 1, 2013.
+101. Jump up^ Kubba, Sinan (August 29, 2014). "Nintendo unveils 'new' 3DS, 3DS XL [update]". Joystiq. Retrieved September 6, 2014.
+102. Jump up^ Ashcraft, Brian (August 29, 2014). "Nintendo Just Announced a New 3DS. It Has Another Analog Stick.". Kotaku. RetrievedSeptember 6, 2014.
+103. ^ Jump up to:a b "New Nintendo 3DS XL hits North America Feb. 13".Polygon. Retrieved January 14, 2015.
+104. ^ Jump up to:a b "New Nintendo 3DS Release Date Confirmed--Only XL Version Coming to US". GameSpot. CBS Interactive. Retrieved January 14, 2015.
+105. Jump up^ "Xenoblade Chronicles comes to New Nintendo 3DS on April 10". Polygon. Vox Media. Retrieved February 14, 2015.
+106. Jump up^ "New Nintendo 3DS Comes To Australia On November 21".Siliconera. Retrieved October 13, 2014.
+107. Jump up^ Phillips, Tom. "Nintendo announces new 3DS and 3DS XL designs with extra buttons, improved CPU". eurogamer.net. Retrieved August 29, 2014.
+108. Jump up^ https://www.nintendo.com/whatsnew/detail/K2zf0kVCs-zIPGKnlu6sTRWrZvaE-EoV
+109. ^ Jump up to:a b "Nintendo 3DS Family — HOME Menu". Nintendo. Retrieved November 11, 2013.
+110. Jump up^ "How to do a 3DS System Update and create folders". Official Nintendo Magazine. Retrieved September 18, 2013.
+111. Jump up^ Mallory, Jordan. "3DS system update adds on-board save data backup". Joystiq.
+112. Jump up^ "Nintendo 3DS To Get Custom Themes For Home Menu".Siliconera. Retrieved October 13, 2014.
+113. Jump up^ "Nintendo 3DS Camera". Nintendo. RetrievedNovember 11, 2013.
+114. Jump up^ Stuart, Keith (December 7, 2011). "3DS gets 3D video recording in latest system update to console". The Guardian. Retrieved September 24, 2012.
+115. Jump up^ "Nintendo 3DS: Record 10 Minutes Of 3D Video On Nintendo 3DS With November Firmware Update". My Nintendo News. October 20, 2011. Retrieved September 25, 2013.
+116. ^ Jump up to:a b "Nintendo 3DS Sound". Nintendo. RetrievedNovember 11, 2013.
+117. Jump up^ "Nintendo adding sleep mode downloads to 3DS eShop, planning web interface". Joystiq. Retrieved November 11,2013.
+118. Jump up^ Joe Skrebels on (December 10, 2013). "3DS System Update released — adds Miiverse and NNIDs". Official Nintendo Magazine UK. Retrieved June 3, 2014.
+119. Jump up^ Miiverse Now Accessible on PC, Smartphones - IGN. Uk.ign.com. Retrieved on August 23, 2013.
+120. Jump up^ JC Fletcher on (June 7, 2012). "Miiverse messages will be subject to moderation before posting". Joystiq. RetrievedOctober 25, 2012.
+121. Jump up^ "Nintendo 3DS Image Share". Nintendo.com. RetrievedOctober 18, 2013.
+122. Jump up^ Yin-Poole, Wesley. "Nintendo 3DS e-Shop and browser delayed". Eurogamer. Retrieved December 22, 2013.
+123. Jump up^ "Internet Browser | Nintendo 3DS". Nintendo. RetrievedDecember 22, 2013.
+124. Jump up^ "Download the free Nintendo Video application, only for Nintendo 3DS". Nintendo. July 11, 2011. Retrieved July 14,2011.
+125. Jump up^ Fletcher, JC (July 12, 2011). "3DS 'Nintendo Video' service available tomorrow in Japan". Joystiq. RetrievedSeptember 24, 2012.
+126. Jump up^ Kaluska, Aaron (July 21, 2011). "Nintendo Video Goes Live in North America". Nintendo World Report. RetrievedSeptember 24, 2012.
+127. Jump up^ "Shaun the Sheep comes to life on Nintendo 3DS". Nintendo. February 16, 2012. Retrieved September 24, 2012.
+128. Jump up^ Heater, Brian (July 14, 2011). "Nintendo confirms Netflix on the 3DS hitting today". Engadget. Retrieved July 14, 2011.
+129. Jump up^ "Netflix Coming to 3DS Tomorrow". Nintendo World Report. July 13, 2011. Retrieved October 8, 2012.
+130. Jump up^ Paul, Ian (October 21, 2011). "Hulu Plus Comes to Nintendo 3DS, Wii; 3DS Gets 3D Video Recording". PCWorld. Retrieved September 24, 2012.
+131. Jump up^ "Nintendo Teams Up with Hulu Plus to Offer Thousands of Current TV Shows and Classic Movies on the Wii Console". Business Wire. February 16, 2012. Retrieved September 24,2012.
+132. Jump up^ "Hulu Now Available on 3DS eShop in Japan — News". Nintendo World Report. Retrieved September 25, 2013.
+133. Jump up^ Gruver, Tim (October 13, 2013). "Hulu Plus Now Available On 3DS And 2DS — News". www.GameInformer.com. RetrievedOctober 18, 2013.
+134. Jump up^ "SpotPass TV Canceled in Japan — News". Nintendo World Report. Retrieved September 18, 2013.
+135. Jump up^ "3DS News: Eurosport 3DS video player app is live". Official Nintendo Magazine. Retrieved September 18, 2013.
+136. Jump up^ "Nintendo/Eurosport 3DS app to see support end in 2013 | GoNintendo — What are YOU waiting for?". GoNintendo. December 18, 2012. Retrieved September 18, 2013.
+137. Jump up^ Wahlgren, Jon (October 21, 2011). "Kid Icarus, Kirby Getting 3D Classics Makeovers". Nintendo Life. RetrievedOctober 22, 2011.
+138. Jump up^ "Accused Child Predator Allegedly Used Nintendo's Swapnote Service". Kotaku. Retrieved November 8, 2013.
+139. Jump up^ ??????:???????????????????????????? (in Japanese). Mainichi Shimbun. RetrievedNovember 8, 2013.
+140. Jump up^ "Mii Maker". Nintendo. Retrieved November 11, 2013.
+141. Jump up^ "3DS can import your Wii Mii, too 'robust' to export them back". Joystiq. Retrieved November 11, 2013.
+142. Jump up^ Article by John Artest Published 2 years ago. "How To Spend Nintendo 3DS Play Coins". Modojo.com. RetrievedSeptember 30, 2013.
+143. Jump up^ "Club Nintendo points available in third-party 3DS games". PocketGamer. Retrieved November 10, 2013.
+144. Jump up^ "3DS region block confirmed, US won't even read JP games". Destructoid. Retrieved November 10, 2013.
+145. Jump up^ "Here Are Japan's 3DS Launch Titles". Kotaku.com. Retrieved September 25, 2013.
+146. Jump up^ "3DS: North American Launch Titles". Destructoid. Retrieved September 25, 2013.
+147. Jump up^ "Nintendo confirms day one launch line-up for Nintendo 3DS". Nintendo. Retrieved September 25, 2013.
+148. Jump up^ "Big AR Card" (PDF). Retrieved September 26, 2013.
+149. Jump up^ "Nintendo 3DS Official Site — AR Cards". Nintendo.com. Retrieved July 7, 2012.
+150. Jump up^ "Make Your Nintendogs + cats Pop Out Onto Your Desk With AR Cards". Siliconera. January 16, 2011. Retrieved July 7,2012.
+151. Jump up^ Maxwell McGee (January 19, 2011). "Face Raiders Hands-On - 3DS Previews at GameSpot". GameSpot. Archived from the original on January 22, 2011. Retrieved March 28, 2011.
+152. Jump up^ Andrew Yoon (January 19, 2011). "Face Raiders preview: seriously, it is called Face Raiders". Joystiq. RetrievedMarch 28, 2011.
+153. Jump up^ "Two New Pokemon Games Come to eShop". RetrievedJune 26, 2012. 'Nintendo has finally confirmed that two downloadable Pokemon games first teased during last month’s Nintendo Direct Japanese broadcast will be coming to North America this fall. The first is Pokémon Dream Radar, an AR shooting game that allows players to use the system’s gyroscope and Augmented Reality capabilities along with its internal camera to find and catch monsters in the real world. [...]
+154. Jump up^ Mitchell, Richard (April 13, 2012). "Spirit Camera: The Cursed Memoir review: Behind you!". Joystiq. RetrievedSeptember 18, 2013.
+155. Jump up^ "Nintendo Patents Improvements for 3DS Download Play - 3DS News @ Nintendo Life". Nintendolife.com. RetrievedSeptember 25, 2013.
+156. Jump up^ "Developer Interview: Next Level Games And Nintendo Talk Luigi's Mansion: Dark Moon — Nintendo Life". Nintendolife.com. June 3, 2013. Retrieved April 12, 2014.
+157. Jump up^ "Upcoming Nintendo 3DS system update information at Nintendo :: What's New". Nintendo.com. Retrieved August 6,2011.
+158. Jump up^ Fletcher, JC. "Excitebike 3D Classic to be offered free with 3DS eShop update". Joystiq.
+159. Jump up^ "SEGA Blog | 'SEGA 3D Classic Series' Coming to Nintendo 3DS". Blogs.sega.com. July 18, 2013. RetrievedSeptember 30, 2013.
+160. Jump up^ "Nintendo 3DS Operations Manual Page 31 (US)" (PDF). Retrieved November 1, 2011.
+161. Jump up^ "Nintendo 3DS — Getting Started — First-Time Set Up". Nintendo.com. Retrieved August 6, 2011.
+162. ^ Jump up to:a b Nintendo, The Louvre Guide for 3DS
+163. Jump up^ Eurogamer, Nintendo's 3DS Louvre guide released on eShop
+164. Jump up^ tor.com, How Navigating the Louvre with a Nintendo 3DS Made Me Rethink the Future of Gaming, Art, and Virtual Reality
+165. Jump up^ Los Angeles Times, How the Louvre and Nintendo are reinventing the museum audio tour
+166. Jump up^ Wired, Nintendo 3DS Louvre guide escapes region locking
+167. Jump up^ "Nintendo 3DS (Cosmo Black)". Reviews.cnet.com. Retrieved November 1, 2011.
+168. ^ Jump up to:a b "IGN Nintendo 3DS Review". Uk.gear.ign.com. RetrievedNovember 1, 2011.
+169. ^ Jump up to:a b 3DS (March 21, 2011). "Engadget Nintendo 3DS Review". Engadget.com. Retrieved November 1, 2011.
+170. Jump up^ "The Nintendo 3DS XL: The Kotaku Review". Kotaku.com.
+171. Jump up^ "Vox-games-eyebrow Nintendo 3DS XL review". theverge.com.
+172. Jump up^ 8/19/12 2:30pm 8/19/12 2:30pm. "The Nintendo 3DS XL: The Kotaku Review". Kotaku.com. Retrieved September 30, 2013.
+173. ^ Jump up to:a b c d "Nintendo 3DS XL review". The Verge. October 1, 2012. Retrieved September 30, 2013.
+174. ^ Jump up to:a b "Review: The 3DS XL". Destructoid. RetrievedSeptember 30, 2013.
+175. Jump up^ "Nintendo warns children not to play new player in 3D". Reuters. January 3, 2011. Retrieved January 6, 2011.
+176. Jump up^ "Doctors Say The 3DS Is Safe, Potentially Beneficial To Children". Kotaku. January 5, 2011. Retrieved January 7,2011.
+177. ^ Jump up to:a b c d "3DS may spot kids' eye problems". The Japan Times Online. The Japan Times. Retrieved October 25, 2011.
+178. Jump up^ Sean Poulter (January 1, 2011). "Nintendo warns children under six not to play console in 3D as it may harm their eyesight". London: DailyMail.
+179. Jump up^ "Nintendo responds to 3DS headache complaints". MaxConsole. March 28, 2011. Retrieved June 20, 2011.
+180. Jump up^ U.S. jury finds Nintendo liable for patent infringement - Reuters, Bernard Vaughan, March 13, 2013
+181. Jump up^ Kubba, Sinan (August 15, 2013). "Nintendo wins 50 percent reduction of $30M 3D infringement award". Joystiq. RetrievedSeptember 25, 2013.
+182. Jump up^ Whitehead, Thomas (January 6, 2014). "Nintendo Ordered to Pay Royalties on 3DS Sales For Patent Infringement".Nintendo Life. Archived from the original on September 25, 2015. Retrieved December 10, 2015.
+183. Jump up^ Quintal Research Group, Inc. -v- Nintendo - Docket Alarm, 17 July 2015
+184. Jump up^ Nintendo Victorious in Handheld Patent Lawsuit - IGN, Luke Karmali, July 22, 2015
+

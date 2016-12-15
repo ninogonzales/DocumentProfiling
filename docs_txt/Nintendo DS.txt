@@ -1,0 +1,226 @@
+Nintendo DS
+From Wikipedia, the free encyclopedia
+This article is about the 2004 Nintendo DS game console. For the entire series, see Nintendo DS line and Nintendo DS (disambiguation).
+Nintendo DS
+A blue original Nintendo DS.Also known asiQue DSDeveloperNintendoManufacturerFoxconnProduct familyNintendo DS familyTypeHandheld game consoleGenerationSeventh generation eraRelease date* NA: November 21, 2004
+* JP: December 2, 2004
+* AUS: February 24, 2005
+* EU: March 11, 2005Retail availability2004-2014[1]Units sold18.87 million (as of 30 June 2016),[2] with all models combined 154.02 million worldwide (as of June 30, 2016)[3] (details)MediaNintendo DS Game Card
+Game Boy Advance cartridgeCPUOne 67.028 MHz ARM946E-S[4] and one 33.514 MHzARM7TDMIStorage4 MB RAM
+Cartridge save
+256 KB flash memoryDisplayTwo TFT LCD 256x192 pixelsGraphics32-bitConnectivityWi-FiOnline servicesNintendo Wi-Fi Connection(closed May 20, 2014)Best-selling gameNew Super Mario Bros.,30.79 million (as of September 30, 2015)[5]Backward
+compatibilityGame Boy Advance (DS & DS Lite only)PredecessorGame Boy Advance (Game Boy line)SuccessorNintendo 3DS (Nintendo 3DS line)The Nintendo DS (??????DS Nintend? DS?) is a 32-bit[6] dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004. The DS, short for "Developers' System" or "Dual Screen",[7] introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one featuring a touchscreen), a built-in microphone, and support for wireless connectivity.[8] Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using the now-closed Nintendo Wi-Fi Connection service. Its main competitor was Sony's PlayStation Portable as part of the seventh generation era.
+Prior to its release, the Nintendo DS was marketed as an experimental, "third pillar" in Nintendo's console lineup, meant to complement the Game Boy Advance and GameCube. However, backward compatibility with Game Boy Advance titles and strong sales ultimately established it as the successor to the Game Boy series.[9] On March 2, 2006, Nintendo launched the Nintendo DS Lite, a slimmer and lighter redesign of the original Nintendo DS with brighter screens. On November 1, 2008, Nintendo released the Nintendo DSi, another redesign with several hardware improvements and new features. All Nintendo DS models combined have sold 154.02 million units,[10] making it the best selling handheld game console to date, and the second best selling video game console of all time.[3][11] The Nintendo DS line was succeeded by the Nintendo 3DS line in 2011.
+Contents
+  [hide] 
+* 1History
+o 1.1Development
+o 1.2Launch
+o 1.3Promotion
+o 1.4Sales
+o 1.5Legacy
+* 2Games
+o 2.1Compatibility
+o 2.2Regional division
+o 2.3Media specifications
+* 3Hardware
+o 3.1Models
+o 3.2Technical specifications
+o 3.3Accessories
+* 4Software and features
+o 4.1Nintendo Wi-Fi Connection
+o 4.2Download Play
+o 4.3Multi-Card Play
+o 4.4PictoChat
+o 4.5Firmware
+* 5Hacking and homebrew
+* 6See also
+* 7References
+* 8External links
+History[edit]
+Development[edit]
+On November 13, 2003, Nintendo announced that they would be releasing a new game product in 2004. The company did not provide many details, but stated it would not succeed the Game Boy Advance or GameCube.[12] On January 20, 2004, the console was announced under the codename "Nintendo DS".[13] Nintendo released only a few details at that time, saying that the console would have two separate, 3-inch TFT LCD display panels, separate processors, and up to 1 gigabit (128 Megabytes) of semiconductor memory.[13][14] Nintendo president Satoru Iwata said, "We have developed Nintendo DS based upon a completely different concept from existing game devices in order to provide players with a unique entertainment experience for the 21st century."[13] He also expressed optimism that the DS would help put Nintendo back at the forefront of innovation and move away from the conservative image that has been described about the company in years past.[15] In March 2004, a document containing most of the console's technical specifications was leaked, also revealing its internal development name, "Nitro."[16] In May 2004, the console was shown in prototype form atE3 2004, still under the name "Nintendo DS."[17] On July 28, 2004, Nintendo revealed a new design that was described as "sleeker and more elegant" than the one shown at E3 and announced Nintendo DS as the device's official name.[18] Following lukewarm GameCube sales, former Nintendo president Hiroshi Yamauchi stressed the importance of its success to the company's future stating, "If the DS succeeds, we will rise to heaven, but if it fails we will sink to hell."[19][20]
+Launch[edit]
+Main article: Nintendo DS launch
+President Iwata referred to Nintendo DS as "Nintendo's first hardware launch in support of the basic strategy 'Gaming Population Expansion'" because the touch-based device "allows users to play intuitively".[21] On September 20, 2004, Nintendo announced that the Nintendo DS would be released in North America on November 21, 2004 for US$149.99.[22] It was set to release on December 2, 2004 in Japan (¥15000);[23] on February 24, 2005 in Australia ($199.95);[24] and on March 11, 2005 in Europe (£99.99/€149.99).[25] The console was released in North America with a midnight launch event at Universal CityWalk EB Games in Los Angeles, California. The console was launched quietly in Japan compared to the North America launch; one source cites the cold weather as the reason.[26] Regarding the European launch, Nintendo President Satoru Iwata said:
+Europe is an extremely important market for Nintendo, and we are pleased we can offer such a short period of time between the US and European launch. We believe that the Nintendo DS will change the way people play video games and our mission remains to expand the game play experience. Nintendo DS caters for the needs of all gamers whether for more dedicated gamers who want the real challenge they expect, or the more casual gamers who want quick, pick up and play fun.[27]
+Promotion[edit]
+The system's promotional slogans revolve around the word "Touch" in almost all countries, with the North American slogan being "Touching is good."[28]
+The Nintendo DS was seen by many analysts to be in the same market as Sony's PlayStation Portable, although representatives from both companies have said that each system targets a different audience.[citation needed] At one point, Time magazine awarded the DS a Gadget of the Week award.[29]
+At the time of its release in the United States, the Nintendo DS retailed for US $149.99. The price dropped to US $129.99 on August 21, 2005, one day before the anticipated North American releases of Nintendogs and Advance Wars: Dual Strike.
+The console's North American slogan "Touching is good." caused minor controversy, for its inappropriate expression, as "touching" is slang for rape. As a result, the slogan was changed to "Pick up and play!" in some countries.
+Nine official colors of the Nintendo DS were available through standard retailers. Titanium (silver and black) were available worldwide, Electric Blue was exclusive to North and Latin America. There was also a red version of the DS which was bundled with the game Mario Kart DS. Graphite Black, Pure White, Turquoise Blue, and Candy Pink were available in Japan. Mystic Pink and Cosmic Blue were available in Australia and New Zealand. Japan's Candy Pink and Australia's Cosmic Blue were also available in Europe and North America through a Nintendogs bundle, although the colors are just referred to as pink and blue; however, these colors were available only for the original style Nintendo DS; a different and more-limited set of colors have been used for the Nintendo DS Lite.
+Sales[edit]
+Main article: Nintendo DS sales
+As of March 31, 2016, all Nintendo DS models combined have sold 154.02 million units, making it the best selling handheld game console to date, and the second best selling video game console of all time.[3][11]
+Legacy[edit]
+The success of the DS paved the way for its successor, the Nintendo 3DS, a handheld gaming console with a similar dual-screen setup. It can display images on the top screen in a three-dimensional look.[30]
+On January 29, 2014, Nintendo announced that Nintendo DS games would be added to the Wii U Virtual Console,[31] with the first game, Brain Age: Train Your Brain in Minutes a Day!, being released in Japan on June 3, 2014.[32]
+Games[edit]
+See also: List of Nintendo DS games
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2015) (Learn how and when to remove this template message)Compatibility[edit]
+
+Game Boy Advance game slot on Game Boy Advance SP (below) and Nintendo DS Lite (above).
+The Nintendo DS is backward compatible with Game Boy Advance (GBA) cartridges. The smaller Nintendo DS game cards fit into a slot on the top of the system, while Game Boy Advance games fit into a slot on the bottom of the system. The Nintendo DS is not backward compatible with games for the Game Boy Color and the original Game Boy[citation needed] because the Sharp Z80 compatible processor is not included and the console has physical incompatibility with Game Boy and Game Boy Color games. The original Gameboy sound processor used in the older systems is still included, and indeed necessary for some GBA games that use the older sound hardware.[citation needed]
+The handheld does not have a port for the Game Boy Advance Link Cable, so multiplayer or GameCube–Game Boy Advance link-up modes are not available in Game Boy Advance titles. Only single-player mode is supported on the Nintendo DS, as is the case with Game Boy Advance games played via the Virtual Console on the 3DS and Wii U.
+The Nintendo DS only uses one screen when playing Game Boy Advance games. The user can configure the system to use either the top or bottom screen by default. The games are displayed within a black border on the screen, due to the slightly different screen resolution between the two systems (256 × 192 px for the Nintendo DS, and 240 × 160 px for the Game Boy Advance).
+Nintendo DS games inserted into the top slot are able to detect the presence of specific Game Boy Advance games in the bottom slot. In many such games, either stated in the game during gameplay or mostly explained in the games' instruction manuals, extra content can be unlocked or added by starting the Nintendo DS game with the appropriate Game Boy Advance game inserted. Among those games were the popular Pokémon Diamond and Pearl or Pokémon Platinum, that allowed the player to find more/exclusive Pokémon in the wild if a suitable Game Boy Advance cartridge was inserted.[33] Some of the content can stay permanently, even when the GBA game has been removed after content has been added.
+Additionally, GBA slot can be used to house expansion paks, such as the Rumble Pak, the Nintendo DS Memory Expansion Pak, and the Guitar Grip for the Guitar Hero: On Tour series. The Nintendo DSi and the DSi XL do not have a second cartridge slot and cannot play Game Boy Advance games, or Guitar Hero: On Tour.
+Regional division[edit]
+The Nintendo DS is region free in the sense that any console will run a Nintendo DS game purchased anywhere in the world; however, the Chinese version games can only be played on the Chinese iQue DS, whose larger firmware chip contains the required Chinese character glyph images. Although the Nintendo DS of other regions cannot play the Chinese games, the iQue DS can play games of other regions. Also, as with Game Boy games, some games that require both players to have a Nintendo DS game card for multiplayer play will not necessarily work together if the games are from different regions (e.g. a Japanese Nintendo DS game may not work with a North American Nintendo DS game, even though some titles, such as Mario Kart DS and Pokémon Diamond and Pearl versions are mutually compatible). With the addition of the Nintendo Wi-Fi Connection, certain games can be played over the Internet with users of a different region game.
+Some Wi-Fi enabled games (e.g. Mario Kart DS) allow the selection of opponents by region. The options are "Regional" ("Continent" in Europe) and "Worldwide", as well as two non-location specific settings. This allows the player to limit competitors to only those opponents based in the same geographical area. This is based on the region code of the game in use.[citation needed]
+The Nintendo DSi, however, has a region lock for the DSiWare downloadable games, as well as DSi-specific cartridges. It still runs normal DS games of any region, however.
+Media specifications[edit]
+Main article: Nintendo game card
+Nintendo DS games use a proprietary solid state mask ROM in their game cards.[34] The mask ROM chips are manufactured by Macronix and have an access time of 150 ns.[35] Cards currently range from 8–512 MiB (64 Mib to 4 Gib) in size (although data on the maximum capacity has not been released).[36][37] Larger cards have a 25% slower data transfer rate than more common smaller cards.[38] The cards usually have a small amount of flash memory or an EEPROM to save user data such as game progress or high scores. However, there are few games that have no save memory such as Electroplankton. The game cards are 35 mm × 33 mm × 3.8 mm (1.38 in × 1.30 in × 0.15 in) (about half the width and depth of Game Boy Advance cartridges) and weigh around 3.5 g (?1?8 oz).
+Hardware[edit]
+See also: Special versions of the Nintendo DS
+
+Stylus for the DS Lite
+The Nintendo DS[39] design resembles that of the multi-screen games from the Game & Watch line, such as Donkey Kong and Zelda, which was also made by Nintendo.
+The lower display of the Nintendo DS is overlaid with a touchscreen designed to accept input from the included stylus, the user's fingers, or a curved plastic tab attached to the optional wrist strap. The touchscreen lets users interact with in-game elements more directly than by pressing buttons; for example, in the included chatting software, PictoChat, the stylus is used to write messages or to draw.
+The handheld features four lettered buttons (X, Y, A, B), a directional pad, and Start, Select, and Power buttons. On the top of the device are two shoulder buttons, a game card slot, a stylus holder and a power cable input. The bottom features the Game Boy Advance game card slot. The overall button layout resembles that of the Super Nintendo Entertainment System controller. When using backward compatibility mode on the DS, buttons X and Y and the touchscreen are not used as the Game Boy Advance line of systems do not feature these controls.
+It also has stereo speakers providing virtual surround sound (depending on the software) located on either side of the upper display screen. This is a first for a Nintendo handheld, as the Game Boy line of systems has only supported stereo sound through the use of headphones or external speakers. A built-in microphone is located below the left side of the bottom screen. It has been used for a variety of purposes, including speech recognition, chatting online between and during gameplay sessions, and minigames that require the player to blow or shout into the microphone.
+Models[edit]
+Main article: Nintendo DS family
+See also: List of Nintendo DS colors and styles
+
+Nintendo DS Lite
+The Nintendo DS Lite (??????DS Lite Nintend? D? Esu Raito?) is the first redesign of the Nintendo DS. While retaining the original model's basic characteristics, it features a sleeker appearance, and brighter screens. Nintendo considered a larger model of the Nintendo DS Lite for release, but decided against it as sales of the original redesign were still strong.[40] As of March 31, 2014, shipments of the DS Lite have reached 93.86 million units worldwide, according to Nintendo.[3]
+
+Nintendo DSi
+The Nintendo DSi (??????DSi Nintend? DSi?) is the second redesign of the Nintendo DS. It is based on the unreleased larger Nintendo DS Lite model. While similar to the previous DS redesign, new features include two inner and outer 0.3 megapixel digital cameras, a larger 3.25 inch display, internal and external content storage, compatibility with WPA wireless encryption, and connectivity to the Nintendo DSi Shop. Backwards compatibility with Game Boy Advance games was removed.
+The Nintendo DSi XL (DSi LL in Japan) is a larger design of the Nintendo DSi, and the first model of the Nintendo DS family of consoles to be a size variation of a previous one.[41] It features larger screens with wider view angles, improved battery life, and a greater overall size than the original DSi.[42][43] While the original DSi was specifically designed for individual use, Nintendo president Satoru Iwata suggested that DSi XL buyers give the console a "steady place on a table in the living room", so that it might be shared by multiple household members.[41]
+Technical specifications[edit]
+MassDimensionsDisplayResolutionCPURAMInputVoltageBatteryStorageWireless connectivity275 g (9.7 oz)148.7 mm wide × 84.7 mm deep × 28.9 mm high (5.85 in. × 3.33 in. × 1.13 in.)Two TFT LCDscreens:
+62 mm × 46 mm (2.4 in × 1.8 in), 77 mm (3.0 in) diagonal, 0.24 mm dot pitch, 18-bit depth (262,144 colors), 21 mm gap between screens (?92 lines).256 × 192pixelsTwo ARM processors:
+* 32 bit ARM946E-Smain CPU; 67 MHz clock speed. Processes gameplay mechanisms and video rendering
+* 32 bit ARM7TDMI coprocessor; 33 MHz clock speed. Processes sound output, Wi-Fi support and takes on second-processor duties in Game Boy Advance mode4 MB (expandable via the Game Boy Advance slot, only officially used by the Opera web browser).* Power button
+* 8 digital buttons
+* D-pad
+* Resistive touchscreen(lower screen only)
+* Microphone1.65 vRechargeable 850 mAhlithium-ion battery.256 kB of serial flash memoryBuilt-in802.11Wireless Network Connection (WEPencryption support only)[44]The system's 3D hardware[39][45] consist of Rendering Engine and Geometry Engine which perform transform and lighting, Transparency Auto Sorting, Transparency Effects, Texture Matrix Effects, 2D Billboards, Texture Streaming, texture-coordinate transformation, perspective-correct texture mapping, per-pixel Alpha Test, per-primitive alpha blending, texture blending, Gouraud Shading, cel shading, z-buffering, W-Buffering, 1bit Stencil Buffer, per-vertex directional lighting and simulated point lighting, Depth Test, Stencil Test, Render to Texture, Lightmapping, Environment Mapping, Shadow Volumes, Shadow Mapping, Distance Fog, Edge Marking, Fade-In/Fade-Out, Edge-AA. Sprite special effects: scrolling, scaling, rotation, stretching, shear. However, it uses point (nearest neighbor) texture filtering, leading to some titles having a blocky appearance. Unlike most 3D hardware, it has a set limit on the number of triangles it can render as part of a single scene; the maximum amount is about 6144 vertices, or 2048 triangles per frame. The 3D hardware is designed to render to a single screen at a time, so rendering 3D to both screens is difficult and decreases performance significantly. The DS is generally more limited by its polygon budget than by its pixel fill rate. There are also 512 kilobytes of texture memory, and the maximum texture size is 1024 × 1024 pixels.
+The system has 656 kilobytes of video memory[46] and two 2D engines (one per screen). These are similar to (but more powerful than) the Game Boy Advance's single 2D engine.
+The Nintendo DS has compatibility with Wi-Fi (IEEE 802.11 (legacy mode)). Wi-Fi is used for accessing the Nintendo Wi-Fi Connection, compete with other users playing the same Wi-Fi compatible game, PictoChat[47] or with a special cartridge and RAM extension, browse the internet.
+Nintendo claims the battery lasts a maximum of 10 hours under ideal conditions on a full four-hour charge. Battery life is affected by multiple factors including speaker volume, use of one or both screens, use of wireless connectivity, and use of backlight, which can be turned on or off in selected games such as Super Mario 64 DS. The battery is user-replaceable using only a Phillips-head screwdriver. After about 500 charges the battery life starts dropping.[48]
+Users can close the Nintendo DS system to trigger its 'sleep' mode, which pauses the game that is being played and saves battery life by turning off the screens, speakers, the wireless communications; however, closing the system while playing a Game Boy Advance game will not put the Nintendo DS into sleep mode, and the game will continue to run normally. Certain DS games (such as Animal Crossing: Wild World) also will not pause but the backlight, screens, and speakers will turn off. Additionally, when saving the game in certain games,[49] the DS will not go into sleep mode.[50] Some games, such as The Legend of Zelda: Phantom Hourglass even use the closing motion needed to enter sleep mode as an unorthodox way of solving puzzles.
+Accessories[edit]
+Main article: Nintendo DS accessories
+Although the secondary port on the Nintendo DS does accept and support Game Boy Advance cartridges (but not Game Boy or Game Boy Color cartridges), Nintendo has emphasized that its main intention for its inclusion was to allow a wide variety of accessories to be released for the system, the Game Boy Advance compatibility titles being a logical extension.[citation needed]
+Due to the lack of a second port on the Nintendo DSi, it is not compatible with any accessory that uses it.
+Rumble Pak[edit]
+Main article: Rumble Pak § Nintendo DS
+The Rumble Pak was the first official expansion slot accessory. In the form of a Game Boy Advance cartridge, the Rumble Pak vibrates to reflect the action in compatible games, such as when the player bumps into an obstacle or loses a life. It was released in North America and Japan in 2005 bundled with Metroid Prime Pinball.[51] In Europe, it was first available with the game Actionloop, and later Metroid Prime Pinball. The Rumble Pak was also released separately in those regions.
+Headset[edit]
+The Nintendo DS Headset is the official headset for the Nintendo DS. It plugs into the headset port (which is a combination of a standard 3.5mm(1/8-inch) headphone connector and a proprietary microphone connector) on the bottom of the system. It features one earphone and a microphone, and is compatible with all games that use the internal microphone. It was released alongsidePokémon Diamond and Pearl in Japan, North America, and Australia.
+Browser[edit]
+Main article: Nintendo DS Browser
+On February 15, 2006, Nintendo announced a version of the cross-platform web browser Opera for the DS system.[52] The browser can use one screen as an overview, a zoomed portion of which appears on the other screen, or both screens together to present a single tall view of the page.[53] The browser went on sale in Japan and Europe in 2006,[54][55] and in North America on June 4, 2007.[56] Browser operation requires that an included memory expansion pak is inserted into the GBA slot. The DSi has an internet browser available for download from the Nintendo DSi shop for free.[57]
+Wi-Fi USB Connector[edit]
+Main article: Nintendo Wi-Fi USB Connector
+This USB-flash-disk-sized accessory plugs into a PC's USB port and creates a miniature hotspot/wireless access point, allowing a Wii and up to five Nintendo DS units to access the Nintendo Wi-Fi Connection service through the host computer's Internet connection. When tried under Linux, it acts as a regular wireless adapter, connecting to wireless networks, an LED blinks when there is data being transferred. There is also a hacked driver for Windows XP/Vista to make it function the same way. The Wi-Fi USB Connector was discontinued from retail stores.
+MP3 Player[edit]
+Main article: Play-Yan
+The Nintendo MP3 Player (a modified version of the device known as the Play-Yan in Japan) was released on December 8, 2006 by Nintendo of Europe at a retail price of £29.99/€30. The add-on uses removable SD cards to store MP3 audio files, and can be used in any device that features support for Game Boy Advance cartridges; however, due to this, it is limited in terms of its user-interface and functionality, as it does not support using both screens of the DS simultaneously, nor does it make use of its touch-screen capability. It is not compatible with the DSi, due to the lack of the GBA slot, but the DSi includes a music player via SD card. Although it stated on the box that it is only compatible with the Game Boy Micro, Nintendo DS and Nintendo DS Lite, it is also compatible with the Game Boy Advance SP and Game Boy Advance.
+Guitar grip controller[edit]
+The Guitar grip controller comes packaged with the game Guitar Hero: On Tour and is plugged into the GBA game slot. It features four colored buttons just like the ones that can be found on regularGuitar Hero guitar controllers for the stationary consoles, though it lacks the fifth orange button found on the guitar controllers. The DS Guitar Hero controller comes with a small "pick-stylus" (which is shaped like a guitar pick, as the name suggests) that can be put away into a small slot on the controller. It also features a hand strap. The game works with both the DS Lite and the original Nintendo DS as it comes with an adapter for the original DS.[58] It is not compatible with the DSi or 3DS, due to the lack of GBA slot. The Guitar Grip also works with its sequels, Guitar Hero On Tour: Decades, Guitar Hero On Tour: Modern Hits, and Band Hero.
+Software and features[edit]
+Nintendo Wi-Fi Connection[edit]
+Main article: Nintendo Wi-Fi Connection
+The examples and perspective in this section deal primarily with North America and do not represent a worldwide view of the subject.You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (February 2011) (Learn how and when to remove this template message)Nintendo Wi-Fi Connection was a free online game service run by Nintendo. Players with a compatible Nintendo DS game could connect to the service via a Wi-Fi network using a Nintendo Wi-Fi USB Connector or a wireless router. The service was launched in North America on November 14, 2005 with the release of Mario Kart DS.[59] Various online games and a web browser were released since then. Nintendo believed that the online platform's success directly propelled the commercial success of the entire Nintendo DS platform. The Nintendo Wi-Fi Connection then served as part of the basis of what would become the Wii.[60] Most functions (for games on both the DS and Wii consoles) were discontinued worldwide as of May 20, 2014.[61]
+Download Play[edit]
+See also: Nintendo Zone
+With Download Play, it is possible for users to play multiplayer games with other Nintendo DS systems, and later Nintendo 3DS systems, using only one game card. Players must have their systems within wireless range (up to approximately 65 feet) of each other for the guest system to download the necessary data from the host system.
+Download Play is also utilized to migrate Pokémon from fourth generation games into the fifth generation Pokémon Black and White, an example of a task requiring two different game cards, two handheld units, but only one player.
+Some Nintendo DS retailers feature DS Download Stations that allow users to download demos of upcoming and currently available DS games; however, due to memory limitations, the downloads are erased once the system is powered off. The Download Station is made up of 1 to 8 standard retail DS units, with a standard DS card containing the demo data. On May 7, 2008, Nintendo released the Nintendo Channel for download on the Wii. The Nintendo Channel uses Nintendo's WiiConnect24 to download Nintendo DS demos through the Nintendo Channel. From there, a user can select the game demo he/she wishes to play and, similar to the Nintendo DS Download Stations at retail outlets, download the demo (until the user turns off the console) to their DS' 4MB RAM.
+Multi-Card Play[edit]
+Multi-Card Play, like Download Play, allows users to play multiplayer games with other Nintendo DS systems. In this case, each system requires a game card. This mode is accessed from an in-game menu, rather than the normal DS menu.
+PictoChat[edit]
+Main article: PictoChat
+PictoChat allows users to communicate with other Nintendo DS users within local wireless range. Users can enter text (via a small on screen keyboard), handwrite messages or draw pictures (via the stylus and touchscreen). There are four chatrooms (A, B, C, D) in which people can go to chat. Up to sixteen people can connect in any one room.
+On Nintendo DS and Nintendo DS Lite systems users can only write messages in black. However, the DSi and DSi XL includes a new function, letting users write in either black or rainbow colored pen.
+This feature was removed with the Nintendo 3DS.
+Firmware[edit]
+Nintendo's own firmware boots the system. A health and safety warning is displayed first, then the main menu is loaded. The main menu presents the player with four main options to select: play a DS game, use PictoChat, initiate DS Download Play, or play a Game Boy Advance game. The main menu also has some secondary options such as turning on or off the back light, the system settings, and an alarm.
+The firmware also features an alarm clock, several options for customization (such as boot priority for when games are inserted and GBA screen preference), and the ability to input user information and preferences (such as name, birthday, favorite color, etc.) that can be used in games.
+Hacking and homebrew[edit]
+Main article: Nintendo DS homebrew
+Since the release of the Nintendo DS, a great deal of hacking has occurred involving the DS's fully rewritable firmware, Wi-Fi connection, game cards that allow SD storage, and software use. There are now many emulators for the DS such as NES, SNES, Sega Master System, Sega Mega Drive, Neo-Geo Pocket, Neo-Geo MVS (arcade), as well as older handheld consoles like the Game Boy Color.
+There are a number of cards which either have built-in flash memory, or a slot which can accept an SD, or MicroSD (like the DSTT, R4 and ez-flash V/Vi) cards. These cards typically enable DS console gamers to use their console to play MP3s and videos, and other non-gaming functions traditionally reserved for separate devices.[62]
+In South Korea, many video game consumers exploit illegal copies of video games, including for the Nintendo DS. In 2007, 500,000 copies of DS games were sold, while the sales of the DS hardware units was 800,000.[63]
+Another modification device called Action Replay, manufactured by the company Datel, is a device which allows the user to input cheat codes that allows it to hack games, granting the player infinitehealth, power-ups, access to any part of the game, infinite in game currency, the ability to walk through walls, and various other things depending on the game and code used.
+See also[edit]
+* Nintendo portal
+* Nintendo DS line
+* List of Nintendo DS games
+* List of Nintendo DS Wi-Fi Connection games
+* Nintendo DS Game Card
+* Nintendo DS homebrew
+* Nintendo DSi
+* Nintendo DS and 3DS storage devices
+* Nintendo 3DS, the successor to Nintendo DS
+References[edit]
+1. Jump up^https://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1606.pdf
+2. Jump up^https://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1606.pdf
+3. ^ Jump up to:a b c d "Consolidated Sales Transition by Region" (PDF). Nintendo. April 27, 2016. Retrieved April 27, 2016.
+4. Jump up^ "ARM946E-S".
+5. Jump up^ "Sales Data — Top Selling Software Sales Units — Nintendo DS Software". Nintendo. March 31, 2015. Retrieved May 24,2014.
+6. Jump up^ Furber, Steve. ARM System-on-Chip Architecture. p. 344.ISBN 0201675196.
+7. Jump up^ "Nintendo DS Frequently Asked Questions". Nintendo. Retrieved July 8, 2014.
+8. Jump up^ Darkain (January 21, 2005). "Nintendo DS – WI-FI vs NI-FI". Archived from the original on February 17, 2005. Retrieved April 2, 2006.
+9. Jump up^ http://www.nintendojo.com/features/specials/a-pillar-too-many A Pillar Too Many
+10. Jump up^ As of March 31, 2016
+11. ^ Jump up to:a b Schreier, Jason. (January 4, 2011) Nintendo DS Line Outsells PlayStation 2, Nintendo Says | Game|Life. Wired.com. Retrieved on 2013-08-23.
+12. Jump up^ "Nintendo Going Back to the Basics. Full story about the company offering a new system in 2004.". IGN. November 13, 2003. Retrieved October 4, 2007.
+13. ^ Jump up to:a b c "Nintendo Announces Dual-Screened Portable Game System". January 20, 2004. Archived from the original on April 2, 2004. Retrieved July 10, 2007.
+14. Jump up^ Billy Berghammer (January 21, 2004). "GI Online Interviews NOA's Beth Llewelyn About The Nintendo DS". Archived fromthe original on June 12, 2007. Retrieved July 10, 2007.
+15. Jump up^ Glen Bayer (March 1, 2004). "Various Satoru Iwata comments regarding the Nintendo DS". N-sider.com. RetrievedOctober 4, 2007.
+16. Jump up^ Kavanagh, Rich (March 13, 2004). "More Nintendo DS (or Nitro?) specs leaked". Archived from the original on November 6, 2010. Retrieved July 13, 2007.
+17. Jump up^ Kent, Steve (May 5, 2004). "Nintendo unveiling new portable". USA Today. Retrieved July 13, 2007.
+18. Jump up^ "Nintendo keeps 'DS' codename, tweaks hardware". USA Today. July 28, 2004. Retrieved July 13, 2007.
+19. Jump up^ "Nikkei talks with Nintendo's Yamauchi and Iwata". GameScience. Archived from the original on January 27, 2006. Retrieved May 27, 2014. "If the DS succeeds, we will rise to heaven, but if it fails we will sink to hell." — Hiroshi Yamauchi
+20. Jump up^ Metts, Jonathan (February 13, 2004). "Iwata, Yamauchi Speak Out on Nintendo DS". Nintendo Worldwide Report. RetrievedMay 27, 2014.
+21. Jump up^ "Message from the President: To shareholders and investors". Investor Relations Information. Japan: Nintendo Co., Ltd. 2008. Archived from the original on December 21, 2008. Retrieved November 25, 2015.
+22. Jump up^ Harris, Craig (September 20, 2004). "Official Nintendo DS Launch Details". Retrieved August 13, 2007.
+23. Jump up^ "IGN: NDS Japanese Launch Details". RetrievedDecember 27, 2008.
+24. Jump up^ "PALGN: Australian DS Launch". Retrieved December 27,2008.
+25. Jump up^ "Nintendo claims most successful launch ever for DS in Australia". Retrieved December 27, 2008.
+26. Jump up^ Gantayat, Anoop (December 1, 2004). "NDS Launches in Japan". Retrieved July 16, 2007.
+27. Jump up^ Harris, Craig (January 27, 2007). "Europe DS Launch Title Details". IGN. Retrieved October 4, 2007.
+28. Jump up^ "Nintendo DS targets teens, young adults". November 15, 2004. Retrieved May 24, 2016.
+29. Jump up^ Rothman, Wilson (June 14, 2006). "Time Magazine: Gadget of the Week". Retrieved February 1, 2007.
+30. Jump up^ Frum, Larry. "Nintendo to unveil 3-D gaming console". CNN.com. Retrieved September 6, 2013.
+31. Jump up^ McWhertor, Michael (January 29, 2013). "Nintendo DS games coming to Wii U Virtual Console". Polygon. RetrievedJanuary 30, 2014.
+32. Jump up^ Phillips, Tom (June 4, 2014). "Nintendo's first DS title for Wii U now available in Japan". Eurogamer.net. Retrieved June 4,2014.
+33. Jump up^ "Dual-slot mode". Retrieved November 1, 2014.
+34. Jump up^ Vuijk, Rafael (October 11, 2006). "First Nintendo DS cartridge information". Dark Fader (Rafael Vuijk). RetrievedFebruary 10, 2010.
+35. Jump up^ "Nintendo: NDS Disassembly". GainGame's Blog. January 31, 2010. Retrieved February 10, 2010.[unreliable source?]
+36. Jump up^ Ni no Kuni: The Another World was the first DS game to use a 4-gigabit card "GoNintendo: Level 5's press conference – massive info roundup (Fantasy Life announced, Ninokuni's massive DS cart, and much more!)".
+37. Jump up^ Adam Riley (July 15, 2007). "E3 2007 News|Archaic Sealed Heat (Nintendo DS) RPG Details". Cubed3.com. RetrievedNovember 4, 2007.
+38. Jump up^ Sara Guinness (June 16, 2006). "MechAssault DS Developer Diary". IGN. Retrieved November 4, 2007.
+39. ^ Jump up to:a b http://problemkaputt.de/gbatek.htm#dstechnicaldata
+40. Jump up^ "DSi XL Was Once DS Lite XL". Retrieved January 2, 2010.
+41. ^ Jump up to:a b "Corporate Management Policy Briefing / Semi-annual Financial Results Briefing". Minami-ku, Kyoto: Nintendo. October 30, 2009. pp. 9–10. Retrieved November 9, 2009.
+42. Jump up^ Tor Thorsen (October 29, 2009). "DSi XL hits US & EU Q1 2010, DS sales top 113 million". GameSpot. San Francisco:CBS Interactive. Retrieved October 29, 2009.
+43. Jump up^ Christopher Dring (October 29, 2009). "Nintendo reveals DSi LL". Market for Home Computing and Video Games. United Kingdom: Intent Media. Retrieved November 9, 2009.
+44. Jump up^ "Nintendo DS and Nintendo DS Lite – Wireless Router Information". Nintendo – Customer Service.
+45. Jump up^ http://twvideo01.ubm-us.net/o1/vault/gdc07/slides/S3727i1.pdf
+46. Jump up^ "A guide to homebrew development for the Nintendo DS". Retrieved July 16, 2009.
+47. Jump up^ "Nintendo DS ni-fi protocol information". Web.archive.org. February 2, 2009. Archived from the original on February 2, 2009. Retrieved September 11, 2012.
+48. Jump up^ | Nintendo – Customer Service | Nintendo DS – Charging the Battery
+49. Jump up^ Pokémon Diamond and Pearl, Zoo Tycoon DS, SimCity DS,Tiger Woods PGA Tour, Digimon World Dawn, Mega Man Battle Network 5, or The Legendary Starfy
+50. Jump up^ "Nintendo DS Fitting Guides, NDSL Repair Guides". Consolewerks.co.uk. Retrieved September 11, 2012.
+51. Jump up^ "Nintendo Online Store". Retrieved April 2, 2006.
+52. Jump up^ "Giving gamers two windows to the Web: The Opera Browser for Nintendo DS" (Press release). Opera Software. February 15, 2006. Retrieved April 2, 2006.
+53. Jump up^ Berit Hanson (February 16, 2006). "Opera for Nintendo DS". Berit's Blog. Retrieved July 3, 2006.
+54. Jump up^ "Mark your calendars: Opera announces Nintendo DS browser release date in Japan" (Press release). Opera Software ASA. June 21, 2006. Retrieved June 21, 2006.
+55. Jump up^ Chris Playo. "Japan: Nintendo DS Press Conference". NintendoDS Advanced. Archived from the original on May 16, 2009. Retrieved April 2, 2006.
+56. Jump up^ Craig Harris (March 7, 2007). "GDC 2007: Nintendo DS Browser US Bound". IGN. Retrieved September 19, 2007.
+57. Jump up^ "Nintendo DSi Browser at Nintendo :: Games". Nintendo. Retrieved June 19, 2009.
+58. Jump up^ Brian Ekberg (April 14, 2008). "Guitar Hero: On Tour First Look". GameSpot. Retrieved May 26, 2008.
+59. Jump up^ "Mario Kart, Nintendo Wi-Fi Launch". IGN.com. November 15, 2005. Retrieved May 19, 2014.
+60. Jump up^ . Translation. "The Zen of Wi-Fi". Famitsu (in Japanese). March 2006. Retrieved November 13, 2015.
+61. Jump up^ "Nintendo Wi-Fi Connection service for Nintendo DS and Wii to end in May". Nintendo.com. February 26, 2014. RetrievedMay 20, 2014.
+62. Jump up^ "What Are Nintendo DS and DSi Cards?". Nintendo DS Cards. June 27, 2010. Archived from the original on February 3, 2011. Retrieved September 23, 2010.
+63. Jump up^ "??????DS???????????" (in Japanese).The Chosun Ilbo. December 11, 2007. Archived from the original on February 7, 2010. Retrieved September 10, 2008.
+

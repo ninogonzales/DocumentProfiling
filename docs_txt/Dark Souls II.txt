@@ -1,0 +1,123 @@
+Dark Souls II
+From Wikipedia, the free encyclopedia
+Dark Souls II
+Cover artDeveloper(s)FromSoftwarePublisher(s)Bandai Namco Games
+* JP: FromSoftwareDirector(s)Tomohiro Shibuya
+Yui TanimuraProducer(s)Masanori TakeuchiDesigner(s)Naotoshi ZinProgrammer(s)Yoshitaka SuzukiArtist(s)Keiichiro OgawaComposer(s)Motoi Sakuraba
+Yuka KitamuraSeriesSoulsPlatform(s)PlayStation 3, Xbox 360,Microsoft Windows,PlayStation 4, Xbox OneRelease date(s)March 11, 2014[show]Genre(s)Action role-playingMode(s)Single-player, multiplayerDark Souls II (??????II D?ku S?uru Ts??) is an action role-playing video game developed by FromSoftware and published by Bandai Namco Games. The third game in the Souls series, Dark Souls II was released for Microsoft Windows, PlayStation 3, and Xbox 360.
+Although both are set in the same universe, there is no direct story connection between Dark Souls and Dark Souls II.[4] The game uses dedicated multiplayer servers.[4] Taking place in the world of Drangleic, the game features both player versus environment (PvE) and player versus player (PvP) play, in addition to having some co-op components. As in the earlier games in the series, it again features challenging gameplay, but with a more powerful graphics engine and more advanced AI system.
+After some initial delays, the game was released worldwide in March 2014, with the Microsoft Windows version being released on April 24, 2014.[3][5] An updated version of the game, Dark Souls II: Scholar of the First Sin, was released in April 2015. The title is a compilation of the original game and itsdownloadable content, and also encompasses a remastered port of the game for PlayStation 4, Xbox One, and Windows with upgraded graphics, expanded online multiplayer capacity, and other various changes. A sequel, Dark Souls III, was released in 2016.
+Contents
+  [hide] 
+* 1Gameplay
+* 2Plot
+* 3Development and release
+o 3.1Scholar of the First Sin edition
+* 4Reception
+* 5Sequel
+* 6References
+* 7External links
+Gameplay[edit]
+
+Gameplay from Crown of the Ivory King (trailer)
+Dark Souls II retains similar mechanics from its predecessors in the Souls series. Being known for its unforgiving difficulty, both bosses and standard enemies have the potential to kill the player in only a few hits.[6] Unskillful play is punished severely by most enemies, opportunities for recovering health are limited, and as in Demon's Souls, each time upon death, the player's maximum health is reduced (to a certain lower limit) until the player expends a rare item to reverse it. The game uses a form of joint currency called "souls", which are used as both experience points for leveling up and as "money" for purchasing items from shops. Upon death, the player's entire collection of souls are dropped; the player can recover their dropped souls by returning to the spot where they died, but if they die before picking them up, the souls are permanently lost.
+Multiplayer in Dark Souls II is the same format as its predecessors; players have the choice between co-operative play in the form of being "summoned" into another player's game world, or player-versus-player through "invading" other worlds. Both forms of multiplayer occur pseudo-randomly, although matchmaking formulas are used to pair characters at similar levels together.
+Dark Souls II allows the game's difficulty to be adjusted by mechanics built into the game. The game designers placed powerful items early in the game allowing newer players higher basic damage and defense than they would normally have at that point. For more experienced players, the designers placed higher skill cap items early that do more damage if executed correctly.[6] Other penalties, such as the health reduction on death, can be significantly reduced with certain items. This allows the player to set the game's difficulty based on their experiences with the game, rather than through a menu option.[6]
+Similar to other games in the series, Dark Souls II features a New Game Plus mode. The initial replay is named "NG+", with subsequent replays named "NG++" and continuing until "NG+7" is reached. With each replay the player will retain their levels, souls, and most items.[7]
+Plot[edit]
+The story of Dark Souls II begins with a human who is to become a Hollow, a zombie-like being, after dying. To break this, the undead travels to the fallen kingdom of Drangleic and is tasked by the Emerald Herald with obtaining four Great Souls from other powerful undead. Once obtained, the Emerald Herald directs the undead to "Seek the King" in the capital. After fighting through the remains of the royal guards, the player encounters the Queen Nashandra, who reveals that the king failed in his duty and fled his kingdom long ago. She asks the protagonist to slay the king.
+Near the end of the Queen's quest, the player learns that the ruin of the kingdom was in fact caused by Nashandra. She came to the king and deceived him into launching an ill fated invasion across the sea into the lands of the Giants. She coveted their souls and sought to steal their power. Though the raid succeeded in stealing the Giant's unspecified power, the Giants retaliated. Invading Drangleic, the Giants eventually destroyed the kingdom. With his kingdom in ruins, the king discovered Nashandra's true purpose and locked himself inside the Undead Crypt.
+In order to confront Nashandra, the player character travels to the keep of Aldia, the King's brother, to obtain the Ashen Mist Heart, an artifact that allows a form of time travel, by accessing the "memories" of corpses. The player must enter the memories of a deceased Giant to defeat the Giant lord during the invasion and claim his power for their own. Confronting the Emerald Herald one final time, she also states that Nashandra is a fragment of Manus, who was the final boss in the Artorias of the Abyss expansion in Dark Souls. She then asks the protagonist to put Nashandra to rest and to link the fire.
+In Scholar of the First Sin, the base story changes slightly, notably with the addition of Aldia after the defeat of Nashandra. Aldia attempts to help the protagonist understand that there might be another way, a way out of the cycle of light and dark. The player is given a choice, they can either link the fire, restarting the Age of Fire, and repeating the cycle; or the player can abscond the throne, as they have now collected the four crowns from the downloadable content expansions, and can resist the effects of Hollowing, and follow their own, unknown path, beyond light or dark.
+Development and release[edit]
+
+Launch event in San Francisco
+Dark Souls II was announced at the Spike Video Game Awards on December 7, 2012.[8][9] Hidetaka Miyazaki, who served as director on the two earlier games in the series, Demon's Souls and Dark Souls,[10] acted as a supervisor, while the game was directed by Tomohiro Shibuya and Yui Tanimura.[10]
+Dark Souls II features gameplay mechanics similar to its predecessor; Shibuya stated that he had no intention of changing the controls. The game features a whole new world, with many weapons that are used to fight the monsters in the game.[11] Covenants, a feature in the original Dark Souls, that allowed the player to align with different factions, make a reappearance, though easier to understand and more accessible.[11] The game world is roughly the same size as in Dark Souls, though content density is much richer, and gives players more freedom in how to progress, with the beginning of the game more accessible to newcomers.[12] The game retains the challenging gameplay known to the original, as Tanimura explained: "We do not plan on having an Easy Mode since we are creating this game with a thought that challenge and difficulty are core elements of the game."[13]
+The development team utilized a more powerful graphics engine for the sequel.[14] New challenges, adding to the series' documented difficulty level, were also added.[14][15] The game features a more advanced AI system, that allows enemies to react to a wider range of actions by the player.[15]
+On September 19, 2013, an announcement regarding the delay of the PC version was made by Tanimura who said the delay was necessary to ensure an optimal version of Dark Souls II on PC.[16]
+Bandai Namco Games producer Takeshi Miyazoe originally stated in December 2013 that he did not expect there to be downloadable content (DLC) for Dark Souls II. Despite that, in an interview in January 2014, he said that there is definitely potential for DLC for the game and that fan feedback is key.[17] On June 4, 2014, FromSoftware announced a trilogy of DLC collectively known as "The Lost Crowns". The first of these, titled Crown of the Sunken King, was released on July 22, 2014.[18] The second, Crown of the Old Iron King, was released on August 26, 2014. The final DLC,Crown of the Ivory King, was slated to be released on September 24, 2014, but was delayed until September 30, 2014 due to unknown reasons. It was then released a day early (September 29) on PC, and a day later (October 1) on PS3.
+Scholar of the First Sin edition[edit]
+On November 25, 2014, Bandai Namco Games announced an updated version of the game, Dark Souls II: Scholar of the First Sin, which was released on April 1, 2015 for PC, PlayStation 3, and Xbox 360, along with PlayStation 4 and Xbox One. On all platforms, the game is a compilation of Dark Souls II and its three DLC campaigns. On PC, PlayStation 4 and Xbox One, Scholar of the First Sin also features remastered visuals with more advanced lighting effects, running at 1080p resolution at 60 frames per second. The re-release also makes changes to the game itself; enemy positions and behaviors have been revised, and the game also supports up to six players in multiplayer scenarios.[19] Its release coincided with patch version 1.10, which was also released for existing versions of the game on February 5, 2015, which included improvements to online play, the addition of the titular Scholar of the First Sin NPC, performance improvements, and adjustments to items and covenants among other changes,[20][21] but didn't fix a long-standing FPS dependent weapon degradation bug, which was fixed in a patch released in April 2015.[22][23]
+The existing PC version of Dark Souls II received the 1.10 patch at no charge; the remastered Scholar of the First Sin edition must be purchased separately, but is available at a discount to existingDark Souls II owners. The remastered version uses DirectX 11 instead of 9, and save data from the original version is incompatible with it.[20][24][25][26]
+Reception[edit]
+ReceptionAggregate scoreAggregatorScoreMetacriticPC: 91/100[56]
+PS3: 91/100[57]
+X360: 91/100[58]Review scoresPublicationScoreCVG10/10[27]Edge9/10[28]Eurogamer9/10 (Italy)[29]
+9/10 (Portugal)[30]
+10/10 (Spain)[31]
+9/10 (UK)[32]Famitsu37/40[33]Game Informer9.75/10[35]Game Revolution[34]GamesMaster96%[36]GameSpot9/10[37]GamesTM9/10[38]IGN9/10[39]Joystiq[40]OPM (UK)9/10[42]OPM (AU)9/10[41]Play90%[43]Polygon9/10[44]VideoGamer.com10/10[45]Digital Spy[46]Metro GameCentral9/10[47]The Escapist[48]AwardsPublicationAwardGolden Joystick Award,[49]
+4Players,[50] Empire,[51]
+Eurogamer,[52] Sky Magazine[53]Game of the YearGameTrailers[54]Best Role-Playing GameGolden Joystick Award[55]Best Gaming Moment (Nomination)Edit on wikidata Dark Souls II received critical acclaim. Aggregating review website Metacritic gave the Xbox 360 version 91/100 based on 30 reviews,[58] the PlayStation 3 version 91/100 based on 69 reviews[57] and the Microsoft Windows version 91/100 based on 36 reviews.[56] Reviews for Dark Souls IIpraised the increase in difficulty, atmosphere, and visuals in the game, seeing it as a large improvement over the first two installments in the series. German magazine M! Games gave it a 90% fresh rating, with their reviewer stating that it took him more than 60 hours to complete.[59] Famitsureviewed the game with four reviewers giving their opinions, who gave it 9/10/9/9, bringing the total score to 37/40.[33]
+IGN's critic Marty Silva gave the game a score of 9/10: "Dark Souls II is a smart, massive, and incredibly rewarding sequel. It’s crammed with deep systems, tense encounters, and enough clever multiplayer and New Game Plus elements to make me want to restart the second I saw the end credits. Not all of the tweaks and additions worked out for the best, the penalty for dying made the game almost unplayable but with such great enemies and levels to fight and explore, Dark Souls II made 60 hours of pain and agony so much fun they flew by in a heartbeat."[39] Daniel Tack of Game Informergave the game a 9.75 out of 10, stating: "Dark Souls II is an epic adventure from start to finish packed with wondrous environments, imaginative and terrifying foes, and the continual adrenaline-apprehension rush of passing through each fog gate make this title a must-play."[35] Polygon's Phil Kollar also gave it a 9/10, and similarly praised the ambition displayed by the team in creating such a vast RPG universe for the player to explore, the notorious difficulty, and the sense of triumph that comes with eventually defeating the game; he notes that his character died 235 times before completing it.[44]
+Despite the almost universal praise, the game was criticized by some reviewers for aspects relating to its unyielding difficulty. In an "alternative take" review, as a newcomer to the series Justin Haywald of GameSpot gave the game a 5/10, claiming that it "too often sacrifices fun, replaces it with tedium, and tries to defend that choice by calling it a challenge."[60] The game was also criticized by the veteran players of the series for being a step backwards from its predecessors. Eric Kain of Forbes described that the flaw of Dark Souls II is that it "fails in almost every way not only to live up to the games that came before it, but to find and establish its own identity".[61]
+As of March 2014, the game had shipped 1.2 million copies within the United States and Europe; and according to a 2014 Bandai Namco financial report, the game also sold very well in Brazil.[62][63] As of April 2015, the game has sold over 2.5 million copies worldwide.[64] At the 2014 Golden Joystick Awards, the largest video game award show with over nine million votes cast, Dark Souls II won the 2014 Game of the Year award.[49]
+Sequel[edit]
+A sequel, Dark Souls III, was released in Japan in March 2016, and worldwide in April 2016.
+References[edit]
+1. ^ Jump up to:a b c Hillier, Brenna (September 19, 2013). "Dark Souls 2 PS3, Xbox 360 release date set, PC to follow; special editions detailed". VG247. Retrieved October 8, 2013.
+2. Jump up^ Serrels, Mark (September 19, 2013). "Dark Souls II Has An Australian Release Date (And A New Trailer And A Collector's Edition...)". Kotaku. Retrieved October 8, 2013.
+3. ^ Jump up to:a b Karmali, Luke (2014-03-06). "Dark Souls 2 PC Release Date Announced". IGN. Retrieved 2016-03-11.
+4. ^ Jump up to:a b Gifford, Kevin (December 19, 2012). "Dark Souls 2 developer: If Dark Souls was set in the North Pole, this one would be in the South Pole". Polygon. RetrievedDecember 19, 2012.
+5. Jump up^ "'Titanfall' And 'Dark Souls II' Both Launch March 11th". Forbes. Archived from the original on May 24, 2014. Retrieved May 23, 2014.
+6. ^ Jump up to:a b c "Extra Credits - The True Genius of Dark Souls II - How to Approach Game Difficulty". YouTube. 2014-11-26. Retrieved 2016-03-11.
+7. Jump up^ Bedford, John (7 April 2014). "Dark Souls 2 - New Game Plus, preparation, differences, boss drops". Eurogamer. Retrieved25 February 2016. When you restart the game, you'll keep hold of all the levels you acquired in the first playthrough - as well as all of your items and souls - but you'll lose your keys and your Fragrant Branches of Yore
+8. Jump up^ Clements, Ryan (December 7, 2012). "Dark Souls II Announced". IGN. Retrieved December 9, 2012.
+9. Jump up^ Kain, Erik (December 8, 2012). "'Dark Souls 2' Announced At VGA 2012 - Coming To Xbox 360, PS3 And PC". Forbes. Retrieved December 9, 2012.
+10. ^ Jump up to:a b "Dark Souls 2 a direct sequel to first title, may not make 2013". VG247. December 15, 2012. Retrieved December 16,2012.
+11. ^ Jump up to:a b Edge Staff (January 29, 2013). "Dark Souls II: Shibuya on the gameworld, awkwardness and accessibility". Edge. Retrieved March 30, 2013.
+12. Jump up^ "Dark Souls 2 will be more accessible for series newcomers, may include vehicles".
+13. Jump up^ Kain, Erik. "No Easy Mode Allowed: An Interview With 'Dark Souls II' Director Yui Tanimura, Plus New Screenshots".Forbes.
+14. ^ Jump up to:a b "Dark Souls 2 Gameplay Reveal - 12 Minute Demo - IGN Video". Ign.com. 2013-04-10. Retrieved 2016-03-11.
+15. ^ Jump up to:a b Roberts, David (2014-09-11). "Official Xbox Magazine | GamesRadar". Oxm.co.uk. Retrieved 2016-03-11.
+16. Jump up^ Robinson, Martin (2013-09-19). "Dark Souls 2 out on March 14, PC version to follow •". Eurogamer.net. Retrieved2016-03-11.
+17. Jump up^ Houghton, David (2014-09-11). "Xbox Games, News & Reviews | GamesRadar". Totalxbox.com. Retrieved2016-03-11.
+18. Jump up^ "Dark Souls 2 could have DLC after all, depending on fan feedback". Joystiq.com. 2014-02-01. Retrieved 2016-03-11.
+19. Jump up^ "Dark Souls II: Scholar of the First Sin Brings "New Game Plus" to the Next Level". USGamer. Retrieved 22 April 2015.
+20. ^ Jump up to:a b "Massive Dark Souls 2 patch introduces the Scholar of the First Sin Feb. 5". Polygon. Retrieved 9 April 2015.
+21. Jump up^ "Dark Souls 2 next-gen will run at 60fps/1080p".Eurogamer. Retrieved 22 April 2015.
+22. Jump up^ Klepek, Patrick. "Annoying Dark Souls 2 Glitch Has Gone Unfixed For Nearly A Year". Kotaku. There’s no excuse for the durability bug to be part of Scholar of the First Sin. It’s not limited to the PC version, either. The PlayStation 4 and Xbox One versions run at 60 frames-per-second. FromSoftware and Bandai Namco have not yet responded to my request for comment. You might not be surprised to learn that fans have decided to rescue the game again, however. DS2fix removes the durability bug from the game, in addition to addressing a few other issues.
+23. Jump up^ J. "Upcoming Version and Calibrations Update (Durability) :: DARK SOULS™ II: Scholar of the First Sin General Discussions". steamcommunity.com. Retrieved 18 June 2016.
+24. Jump up^ "Dark Souls 2: Scholar of the First Sin is out". PC Gamer. Retrieved 9 April 2015.
+25. Jump up^ "Dark Souls II PC owners will have to buy again to get all of Scholar of the First Sin upgrades". MCV. Retrieved26 November 2014.
+26. Jump up^ "Dark Souls II Coming to Xbox One, PS4 Next Year". IGN. Retrieved 25 November 2014.
+27. Jump up^ "Dark Souls 2 review - CVG". Web.archive.org. 2014-11-28. Archived from the original on November 28, 2014. Retrieved2016-03-11.
+28. Jump up^ "Dark Souls II review | Edge Online". Web.archive.org. 2014-03-15. Archived from the original on March 15, 2014. Retrieved 2016-03-11.
+29. Jump up^ "Dark Souls II - review •". Eurogamer.it. 2014-03-11. Retrieved 2016-03-11.
+30. Jump up^ "Dark Souls 2 - An?lise • Página 1 •". Eurogamer.pt. 2012-01-20. Retrieved 2016-03-11.
+31. Jump up^ "Análisis de Dark Souls 2 •". Eurogamer.es. 2012-01-20. Retrieved 2016-03-11.
+32. Jump up^ Bramwell, Tom (2014-03-11). "Dark Souls 2 review •".Eurogamer.net. Retrieved 2016-03-11.
+33. ^ Jump up to:a b Antony Seeto, Damian (March 5, 2014). "Famitsu's Dark Souls 2 Review Scores Big". Just Push Start. RetrievedMarch 5, 2014.
+34. Jump up^ "Dark Souls II Review". Gamerevolution.com. 2014-04-24. Retrieved 2016-03-11.
+35. ^ Jump up to:a b Tack, Daniel (March 10, 2014). "Praise the Fun - Dark Souls II". Game Informer. Retrieved March 10, 2014.
+36. Jump up^ GamesMaster, May 2014, page 55
+37. Jump up^ by Kevin VanOrd on March 10, 2014 (2014-03-10). "Dark Souls II Review". GameSpot. Retrieved 2016-03-11.
+38. Jump up^ "Dark Souls 2 review | Videogames Magazine - gamesTM - Official Website". Web.archive.org. Archived from the original on March 15, 2014. Retrieved 2016-03-11.
+39. ^ Jump up to:a b Sliva, Marty (March 10, 2014). "Dark Souls 2 Review". IGN. Retrieved March 10, 2014.
+40. Jump up^ Kubba, Sinan (March 14, 2014). "Dark Souls 2 review: Death becomes you". Joystiq. Retrieved March 14, 2014.
+41. Jump up^ Playstation Official Magazine Australia, April 2014, page 74
+42. Jump up^ "Dark Souls 2 PS3 review - Things to do in Drangleic when you're undead - Page 2 of 2 | Official PlayStation Magazine".Web.archive.org. 2014-03-13. Archived from the original on March 13, 2014. Retrieved 2016-03-11.
+43. Jump up^ "Dark Souls 2 Review | PLAY Magazine". Play-mag.co.uk. Retrieved 2016-03-11.
+44. ^ Jump up to:a b Kollar, Philip (March 11, 2014). "Dark Souls 2 Review: Not the End". Polygon. Retrieved March 11, 2014.
+45. Jump up^ "Dark Souls 2 Review". VideoGamer.com. 2014-03-11. Retrieved 2016-03-11.
+46. Jump up^ Dransfield, Ian (2014-03-11). "Dark Souls 2 review (PS3): Hardcore, heart-pounding action". Digitalspy.co.uk. Retrieved2016-03-11.
+47. Jump up^ "Dark Souls II review – prepare to obsess | Metro News".Metro.co.uk. 2014-03-11. Retrieved 2016-03-11.
+48. Jump up^ "Dark Souls II Review - Dark Souls Refined | Reviews | The Escapist". Escapistmagazine.com. 2014-03-11. Retrieved2016-03-11.
+49. ^ Jump up to:a b "Golden Joystick Awards: Winners Announced". Future plc. 2014-10-28. Retrieved 2016-03-11.
+50. Jump up^ "Spiele des Jahres 2014". 4Players.de. Retrieved2016-03-11.
+51. Jump up^ James Dyer (2015-10-09). "The 10 Best Games Of The Year, Feature | Movies - Empire". Empireonline.com. us. Retrieved2016-03-11.
+52. Jump up^ "I migliori giochi del 2014, secondo la redazione - articolo •".Eurogamer.it. 2015-01-01. Retrieved 2016-03-11.
+53. Jump up^ "I migliori videogiochi del 2014". Archived from the original on July 28, 2015. Retrieved September 3, 2015.
+54. Jump up^ "Best Role-Playing | GameTrailers Best of 2014 Awards Video Gallery". GameTrailers.com. 2014-12-27. Retrieved2016-03-11.
+55. Jump up^ McDonald, James. "Golden Joystick 2014 Awards Nominee's Revealed". Lzygmrs.com. Retrieved 2016-03-11.
+56. ^ Jump up to:a b "Dark Souls II for PC Reviews". Metacritic. RetrievedApril 25, 2014.
+57. ^ Jump up to:a b "Dark Souls II for PlayStation 3 Reviews". Metacritic. Retrieved March 11, 2014.
+58. ^ Jump up to:a b "Dark Souls II for Xbox 360 Reviews". Metacritic. Retrieved March 11, 2014.
+59. Jump up^ Haas, Pete. "Dark Souls 2 Review Says It's The Hardest Action RPG In The World". Gaming Blend. RetrievedMarch 11, 2014.
+60. Jump up^ Haywald, Justin (2014-05-11). "Dark Souls II Review". GameSpot. Retrieved 2016-03-11.
+61. Jump up^ "'Dark Souls II' Final Review: The Trouble With Sequels". Forbes.com. 2014-04-26. Retrieved 2016-03-11.
+62. Jump up^ May 8, 2014, Financial Highlights for the Fiscal Year Ended March 2014, NAMCO BANDAI Holdings Inc.
+63. Jump up^ May 7, 2014, Dark Souls II Ships 1.2 Million In U.S. And Europe, Siliconera
+64. Jump up^ "Dark Souls II Sold Over 2.5 Million Units, Dragon Ball Xenoverse Breaks 2 Million". Siliconera. 2015-04-15. Retrieved 2016-03-11.
+External links[edit]
+

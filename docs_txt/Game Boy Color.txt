@@ -1,0 +1,131 @@
+Game Boy Color
+From Wikipedia, the free encyclopedia
+Game Boy Color
+Atomic Purple version of the Game Boy Color.ManufacturerNintendoProduct familyGame Boy lineTypeHandheld game consoleGenerationFifth generationRelease date* JP: October 21, 1998
+* NA: November 18, 1998
+* PAL: November 23, 1998
+* AUS: November 27, 1998DiscontinuedMay 30, 2003Units soldWorldwide: 118.69 million,[1]including Game Boy units[2]MediaROM cartridgeCPUSharp LR35902 core @ 4.19 MHzDisplayLCD 160 x 144 pixels, 2.32 inOnline servicesMobile System GB[3]Best-selling gamePokémon Gold and Silver, approximately 14.51 million combined (in Japan and the USA) (details).[4][5]Backward
+compatibilityGame BoyPredecessorGame Boy[6]SuccessorGame Boy Advance[6]The Game Boy Color (????????? G?mu B?i Kar??), referred to as GBC, is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan[7] and was released in November of the same year in international markets. It is the successor of the Game Boy.
+The Game Boy Color, as suggested by the name, features a color screen, but no backlight. It is slightly thicker and taller than the Game Boy Pocket, which is a redesigned Game Boy released in 1996. As with the original Game Boy, it has a custom 8-bit processor somewhat related to a Zilog Z80central processing unit (CPU).[8] The original name - with its American English spelling of "color" - remained unchanged even in markets where "colour" was the accepted English spelling.
+While mostly retaining the same hardware as the original Game Boy, the Game Boy Color's primary competitors were the much more advanced Neo Geo Pocket by SNK and the WonderSwan by Bandai (released in Japan only), though the Game Boy Color outsold these by a huge margin. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide.[1][2] It was discontinued in 2003, shortly after the release of the Game Boy Advance SP.
+Contents
+  [hide] 
+* 1History
+o 1.1Launch titles
+* 2Specifications
+o 2.1Summary
+* 2.1.1Hi-Color Mode
+* 2.1.2Color palettes used for original Game Boy games
+* 2.1.3Partial List of games with special palettes
+o 2.2Cartridges
+o 2.3Colors produced
+* 3Games
+* 4Sales
+* 5See also
+* 6References
+* 7External links
+History[edit]
+The Game Boy Color was a response to pressure from game developers for a more sophisticated handheld platform, as they felt that the Game Boy, even in its latest incarnation, the Game Boy Pocket, was insufficient.[citation needed] The resultant product was backward compatible, a first for a handheld system, and leveraged the large library of games and great installed base of the predecessor system. This became a major feature of theGame Boy line, since it allowed each new launch to begin with a significantly larger library than any of its competitors.
+Launch titles[edit]
+* Tetris DX
+* Wario Land II
+* Pocket Bomberman
+Specifications[edit]
+Main article: Comparison of Nintendo portable consoles
+Summary[edit]
+
+The Game Boy Color motherboard
+The technical details for the console are as follows:[9]
+* Main processor: Sharp Corporation LR35902 (based on the popular Zilog Z80, 8-bit)
+* Processor speed: 4.338 or 8.338 MHz (two processor modes)
+* Resolution: 160 x 144 pixels (same as the original Game Boy)
+* Palette colors available: 32,768 (15-bit)
+* Colors on screen: Supports 10, 32 or 56
+* Maximum sprites: 40 total, 10 per line, 4 colors per sprite (one of which being transparent)
+* Sprite size: 8x8 or 8x16
+* Tiles on screen: 512 (360~399 visible, the rest are drawn off screen as a scrolling buffer)
+* Audio: 2 square wave channels, 1 wave channel, 1 noise channel, mono speaker, stereo headphone jack
+* ROM: 8 MB maximum
+* RAM: 32 kB
+* VRAM: 16 kB
+* Cartridge RAM: 128 kB
+* Power:
+* internal: 2 AA batteries, 30+ hours of gameplay
+* external: 3V DC 0.6W (2.35mm x 0.75mm)
+* indicator: Red LED
+* Input:
+* 8-way D-pad
+* 4 buttons (A, B, Start, Select)
+* Volume potentiometer
+* Power switch
+* Serial I/O ("Link cable"): 512 kbit/s with up to 4 connections in serial
+* Infra-red I/O: Less than 2 m distance at 45°
+* Cartridge I/O
+* Dimensions:
+* Metric: 75 mm x 27 mm x 133 mm
+* Imperial: 2.95 in x 1.06 in x 5.24 in
+The processor, which is a Z80 workalike made by Sharp with a few extra (bit manipulation) instructions, has a clock speed of approximately 8 MHz, twice as fast as that of the original Game Boy. The Game Boy Color also has three times as much memory as the original (32 kilobytes system RAM, 16 kilobytes video RAM). The screen resolution was the same as the original Game Boy, which is 160x144 pixels.
+The Game Boy Color also featured an infrared communications port for wireless linking. The feature was only supported in a few games, so the infrared port was dropped from the Game Boy Advance line, to be later reintroduced with the Nintendo 3DS, though wireless linking (using Wi-Fi) would return in the Nintendo DS line. The console was capable of showing up to 56 different colors simultaneously on screen from its palette of 32,768 (8x4 color background palettes, 8x3+transparent sprite palettes), and could add basic four-, seven- or ten-color shading to games that had been developed for the original 4-shades-of-grey Game Boy. In the 7-color modes, the sprites and backgrounds were given separate color schemes, and in the 10-color modes the sprites were further split into two differently-colored groups; however, as flat black (or white) was a shared fourth color in all but one (7-color) palette, the overall effect was that of 4, 6 or 8 colors. This novel method of upgrading the color count did result in graphic artifacts in certain games; for example, sometimes a sprite that was supposed to meld into the background would be colored separately, making it easily noticeable.
+Hi-Color Mode[edit]
+A few games used a technical trick to increase the number of colors available on-screen. This "Hi-Color mode" is a mode used by the Italian company 7th Sense s.r.l. among others, and can display more than 2000 different colors on the screen. Some examples of games using this trick are The Fish Files, The New Addams Family Series and Alone in the Dark: The New Nightmare.[10][11]
+Color palettes used for original Game Boy games[edit]
+Directional padAction buttonNoneABUpBrownRedDark brownDownPastel mixOrangeYellowLeftBlueDark blueGrayscaleRightGreenDark greenInvertedWhen playing an original Game Boy game on a later system, the user can choose which color palette is used. This is achieved by pressing certain button combinations, namely either A or B (or neither) and a direction key while the Game Boy logo is displayed on the screen.
+These palettes each contain up to ten colors.[12] In most games, the four shades displayed on the original Game Boy would translate to different subsets of this 10-color palette, such as by displaying movable sprites in one subset and backgrounds, etc. in another. The grayscale (Left + B) palette produces an appearance essentially identical to that experienced on the original Game Boy, the inverted colors palette (Right + B) inverts the colors from the Game Boy Color's color palettes.
+
+Illustrated color-samples of the palettes for the different key-combinations. Any color crossed out will be present in palette RAM, but rendered as transparent.
+In addition, some Game Boy games have a special palette that is enabled when no buttons are pressed. Any game that does not have a special palette will default to the dark green (Right + A) palette. The default palettes are stored in a database within the internal boot ROM of the GBC, and not the game cartridge itself.[13]
+Titles that have color palettes on Super Game Boy will usually default to a similar palette when played on a Game Boy Color.
+Partial List of games with special palettes[edit]
+* Donkey Kong (Game Boy)
+* Kirby's Dream Land
+* Kirby's Dream Land 2
+* Kirby's Pinball Land
+* Looney Tunes
+* Metroid II: Return of Samus
+* Pokémon Red and Blue
+* Pitfall!
+* Super Mario Land
+* Super Mario Land 2: 6 Golden Coins
+* Tetris (Game Boy)
+* Wario Land: Super Mario Land 3
+* Golf (Game Boy)
+* Pokémon Yellow
+Cartridges[edit]
+Games that are designed specifically for the Game Boy Color are housed in clear-colored cartridges and are shaped slightly different from original Game Boy games. These games would display a warning message and refuse to play if used in older Game Boy models. Games that are designed for the Game Boy Color, but which also include backwards-compatibility with the previous Game Boy systems, are shaped like original Game Boy games, but usually have black colored cartridges. Pokémon Gold and Silver are also examples of Game Boy Color games that work on an original Game Boy system. The clear-colored Game Boy Color cartridges will function correctly only when used in a Game Boy Color or a later model (a Game Boy Advance, Game Boy Advance SP, or Game Boy Player).
+Colors produced[edit]
+See also: List of Game Boy colors and styles § Game Boy Color
+
+The Atomic Purple Game Boy Color system has a purple tinted transparent case. It is a standard color.
+The logo for Game Boy Color spelled out the word "COLOR" in the five original colors in which the unit was manufactured. They were named:
+* Berry (C)
+* Grape (O)
+* Kiwi (L)
+* Dandelion (O)
+* Teal (R)
+Another color released at the same time was "Atomic Purple", made of a transparent purple plastic that was also used on the color-respective Nintendo 64controller.
+Other colors were sold as limited editions or in specific countries.
+Games[edit]
+Main article: List of Game Boy Color games
+The last Game Boy Color game released in Japan that was also compatible with the Game Boy and Super Game Boy was From TV Animation – One Piece: Maboroshi no Grand Line Boukenhen!(July 2002). The last Game Boy and Super Game Boy compatible game released there was Dragon Warrior Monsters 2 (September 2001). The last North American Game Boy Color-exclusive game, however, was Harry Potter and the Chamber of Secrets. Although it was released on different consoles, the Game Boy Color featured an exclusive version.
+With the release of the Nintendo 3DS the Virtual Console service is also available for the 3DS and it allows players to play games from the Game Boy and Game Boy Color. More games for both systems have also been planned for release on the 3DS.
+Sales[edit]
+Combined, the Game Boy and Game Boy Color were both commercially successful, with 32.47 million units in Japan, 44.06 million in the Americas, and 42.16 million in other regions.[1][2]
+See also[edit]
+* Nintendo portal
+* List of Player's Choice games
+* List of Game Boy accessories
+References[edit]
+1. ^ Jump up to:a b c "Consolidated Sales Transition by Region". Nintendo. 2016-04-26. Archived from the original (PDF) on 2016-05-01. Retrieved 2016-10-23.
+2. ^ Jump up to:a b c "A Brief History of Game Console Warfare: Game Boy". BusinessWeek. McGraw-Hill. Retrieved 2008-03-28.
+3. Jump up^ "??????????". Nintendo (in Japanese). Retrieved 23 September 2015.
+4. Jump up^ "Japan Platinum Game Chart". The Magic Box. Retrieved 2007-09-27.
+5. Jump up^ "US Platinum Videogame Chart". The Magic Box. Retrieved 2007-09-27.
+6. ^ Jump up to:a b Umezu; Sugino. "Nintendo 3DS (Volume 3 – Nintendo 3DS Hardware Concept)" (Transcript).Iwata Asks (Interview). Interview with Satoru Iwata. Nintendo. Retrieved 2011-03-07.
+7. Jump up^ Nintendo.co.JP - Game Boy Color
+8. Jump up^ "GBC Hardware Info". The Internet. Retrieved 2007-09-27.
+9. Jump up^ "Nintendo GameBoy Color Console Information – Console Database". ConsoleDatabase.com. Retrieved 2011-02-19.
+10. Jump up^ "First Alone in the Dark Screenshots for Game Boy Color". IGN. 4 August 2000. Retrieved24 March 2015.
+11. Jump up^ Albatross, Zen. "Game Boy Games That Pushed The Limits of Graphics & Sound". Racketboy. Retrieved 24 March 2015.
+12. Jump up^ "Changing the Color Palette on Game Boy Advance Systems". Customer Service. Nintendo. Retrieved 2009-01-04.
+13. Jump up^ Disassembling the GBC Boot ROM
+

@@ -1,0 +1,218 @@
+PlayStation (console)
+From Wikipedia, the free encyclopedia
+For the Play Station, a canceled game console prototype designed by Sony and Nintendo in the early 1990s, see SNES-CD. For other uses, see PlayStation (disambiguation).
+Not to be confused with the PSX console, a PlayStation 2-based digital video recorder.
+PlayStation
+ 
+Top: The "coloured" PlayStation logo
+Middle: The original model with the DualShock controller
+Bottom: The smaller and redesigned PSoneunitDeveloperSony Computer EntertainmentManufacturerSonyProduct familyPlayStationTypeHome video game consoleGenerationFifth generationRelease datePlayStation
+* JP: 3 December 1994[1]
+* NA: 9 September 1995[2]
+* EU: 29 September 1995[3]
+* AUS: 15 November 1995[4]
+* KOR: February 1997
+PSone
+* JP: 7 July 2000
+* NA: 19 September 2000
+* EU: 29 September 2000Retail availability1994–2005Discontinued31 March 2005[5]Units sold102.49 million[5]MediaCD-ROMCPUR3000 @ 33.8688 MHzMemory2 MB RAM, 1 MB VRAMStorageMemory cardSound4-bit, 24 channel ADPCMController inputPlayStation Controller, Dual Analog Controller, DualShockConnectivityPlayStation Link CableBest-selling gameGran Turismo, 10.85 million shipped[6][7]SuccessorPlayStation 2The PlayStation (Japanese: ????????? Hepburn: Pureisut?shon?) (officially abbreviated to PS, and commonly known as the PS1 or PSX) is a home video game console developed and marketed by Sony Computer Entertainment. The console was released on 3 December 1994 in Japan,[1] 9 September 1995 in North America, 29 September 1995 in Europe, 15 November 1995 in Australia, and for Korea in 1996. The console was the first of the PlayStation lineup of home video game consoles. It primarily competed with the Nintendo 64 and the Sega Saturn as part of the fifth generation of video game consoles.
+The PlayStation is the first "computer entertainment platform" to ship 100 million units, which it had reached 9 years and 6 months after its initial launch.[8] In 2000, a redesigned, slim version called the PSone was released, replacing the original grey console and named appropriately to avoid confusion with its successor, the PlayStation 2.
+In 1999, Sony announced the successor to the PlayStation, the PlayStation 2, which is backwards compatible with the PlayStation's DualShockcontroller and games, and launched the console in 2000. The last PSone units were sold in winter 2004 before it was officially discontinued in March 2005, for a total of 102 million units shipped since its launch 10 years earlier. Games for the PlayStation continued to sell until Sony ceased production of PlayStation games on 23 March 2006 – over 11 years after it had been released, and less than a year before the debut of the PlayStation 3.[9]
+Contents
+  [hide] 
+* 1History
+o 1.1Development
+o 1.2Launch
+o 1.3Market success
+* 2Functionality
+* 3Software library
+o 3.1Regional variants
+* 4Hardware
+o 4.1Hardware problems
+o 4.2Copy protection
+o 4.3Controller
+o 4.4Peripherals
+* 5Models
+o 5.1PSone
+o 5.2Technical specifications
+* 6Successors
+* 7Legacy
+o 7.1CD format
+* 8See also
+* 9References
+History[edit]
+Development[edit]
+
+An original PlayStation Controller. This model was later replaced by theDual Analog in 1997, and then theDualShock in 1997/1998.
+The inception of what would become the released PlayStation dates back to 1986 with a joint venture between Nintendo and Sony.[10] Nintendo had already produced floppy disk technology to complement cartridges, in the form of the Family Computer Disk System, and wanted to continue this complementary storage strategy for the Super Famicom.[11][12] Nintendo approached Sony to develop a CD-ROM add-on, tentatively titled the "Play Station" or "SNES-CD".[13] A contract was signed, and work began.[11] Nintendo's choice of Sony was due to a prior dealing: Ken Kutaragi, the person who would later be dubbed "The Father of the PlayStation",[14] was the individual who had sold Nintendo on using the Sony SPC-700 processor for use as the eight-channel ADPCM sound set in the Super Famicom/SNES console through an impressive demonstration of the processor's capabilities.[15]
+Kutaragi was nearly fired by Sony because he was originally working with Nintendo on the side without Sony's knowledge (while still employed by Sony).[16] It was then-CEO, Norio Ohga, who recognized the potential in Kutaragi's chip, and in working with Nintendo on the project. Ohga kept Kutaragi on at Sony, and it was not until Nintendo cancelled the project that Sony decided to develop its own console.[17]
+Sony also planned to develop a Super NES-compatible, Sony-branded console, but one which would be more of a home entertainment system playing both Super NES cartridges and a new CD format which Sony would design. This was also to be the format used in SNES-CDs, giving a large degree of control to Sony despite Nintendo's leading position in the video gaming market.[18][19]
+
+The DualShock controller.
+The product, dubbed the "Play Station" was to be announced at the May 1991 Consumer Electronics Show (CES).[20] However, when Nintendo's Hiroshi Yamauchi read the original 1988 contract between Sony and Nintendo, he realized that the earlier agreement essentially handed Sony complete control over any and all titles written on the SNES CD-ROM format. Yamauchi decided that the contract was totally unacceptable and he secretly cancelled all plans for the joint Nintendo-Sony SNES CD attachment.[20] Instead of announcing a partnership between Sony and Nintendo, at 9 am the day of the CES, Nintendo chairman Howard Lincoln stepped onto the stage and revealed that Nintendo was now allied with Philips, and Nintendo was planning on abandoning all the previous work Nintendo and Sony had accomplished. Lincoln and Minoru Arakawa had, unbeknownst to Sony, flown to Philips's global headquarters in theNetherlands and formed an alliance of a decidedly different nature—one that would give Nintendo total control over its licenses on Philips machines.[21]
+After the collapse of the joint-Nintendo project, Sony briefly considered allying itself with Sega to produce a stand-alone console. The Sega CEO at the time, Tom Kalinske, took the proposal to Sega's Board of Directors in Tokyo, who promptly vetoed the idea. Kalinske, in a 2013 interview recalled them saying "that’s a stupid idea, Sony doesn't know how to make hardware. They don’t know how to make software either. Why would we want to do this?".[22] This prompted Sony into halting their research, but ultimately the company decided to use what they had developed so far with both Nintendo and Sega to make it into a complete console based upon the Super Famicom.[22] As a result, Nintendo filed a lawsuit claiming breach of contract and attempted, in US federal court, to obtain an injunction against the release of what was originally christened the "Play Station", on the grounds that Nintendo owned the name.[21] The federal judge presiding over the case denied the injunction and, in October 1991, the first incarnation of the aforementioned brand new game system was revealed. However, it is theorized that only 200 or so of these machines were ever produced.[23]
+
+PlayStation Memory Card.
+By the end of 1992, Sony and Nintendo reached a deal whereby the "Play Station" would still have a port for SNES games, but Nintendo would own the rights and receive the bulk of the profits from the games, and the SNES would continue to use the Sony-designed audio chip. However, Sony decided in early 1993 to begin reworking the "Play Station" concept to target a new generation of hardware and software. As part of this process the SNES cartridge port was dropped and the space between the names "Play Station" was removed becoming "PlayStation", thereby ending Nintendo's involvement with the project.[21] Sony's North American division, known as Sony Computer Entertainment America (SCEA),[24] originally planned to market the new console under the alternative branding "PSX" following the negative feedback regarding "PlayStation" in focus group studies. Early advertising prior to the console's launch in North America referenced PSX, but the term was scrapped before launch.[25]
+According to SCE's producer Ryoji Akagawa and chairman Shigeo Maruyama, there was uncertainty over whether the console should primarily focus on 2Dsprite graphics or 3D polygon graphics. It was only after witnessing the success of Sega's Virtua Fighter in Japanese arcades that "the direction of the PlayStation became instantly clear" and 3D polygon graphics became the console's primary focus.[26]
+Industry hype for the console spread quickly, and in early 1994 GamePro reported that "many video game companies [feel] that in the near future, the video game platforms to contend with will be from Nintendo, Sega... and Sony." [emphasis in original][27]
+Launch[edit]
+The PlayStation was launched in Japan on 3 December 1994,[28] North America on 9 September 1995,[2] Europe on 29 September 1995,[3] and Oceania on 15 November 1995.[4] The console was an immediate success in Japan, selling over 2 million units within its first six months on the market.[29] The launch price in the American market was US$299[2] and Sony enjoyed a very successful launch with titles of almost every genre, including Battle Arena Toshinden, Warhawk, Air Combat, Philosoma, Ridge Racer and Rayman. Almost all of Sony's and Namco's launch titles went on to spawn numerous sequels.[30][31] Unlike the vast majority of gaming consoles of the time, the PlayStation did not include a pack-in game at launch.[32]
+Then Microsoft chairman, Bill Gates, preferred Sony's console to the competition from Sega, saying "Our game designer likes the Sony machine."[33] Microsoft would later compete with Sony with itsXbox console. In a special Game Machine Cross Review in May 1995, Famicom Ts?shin would score the PlayStation console a 19 out of 40.[34] Next Generation reviewed the PlayStation a few weeks after its North American launch. They commented that while the CPU is "fairly average", the supplementary custom hardware such as the GPU and sound processor is stunningly powerful. They particularly praised its focus on 3D, and also remarked positively on the comfort of the controller and the convenience of the memory cards. Giving the system 4 1/2 out of 5 stars, they concluded, "To succeed in this extremely cut-throat market, you need a combination of great hardware, great games, and great marketing. Whether by skill, luck, or just deep pockets, Sony has scored three out of three in the first salvo of this war."[28] An advertisement slogan used in marketing the console was, "Live in your world. Play in ours." It is stylised as, "LIVE IN YUR WRLD. PLY IN URS." Another briefly used advertising campaign was titled "You Are Not Ready" or "U R NOT E"
+Market success[edit]
+One of the key factors in the PlayStation's success was Sony's approach to third party developers. Whereas Sega and Nintendo took an isolationist approach, focusing on first party development while generally leaving third party developers to their own devices, Sony took efforts to streamline game production by providing a range of programming libraries which were constantly updated online, organizing third party technical support teams, and in some cases giving direct development support to third party companies.[35]
+Functionality[edit]
+In addition to playing games, select PlayStation models have the ability to play audio CDs; further, Asian model SCPH-5903 can also play Video CDs.[36] The CD player has the ability to shuffle the playback order, play the songs in a programmed order, and repeat one song or the entire disc. Later PlayStation models can utilize a music visualization function called SoundScope.[37] This function, as well as a memory card manager, can be accessed by starting the console either without inserting a game or keeping the CD tray open, thereby accessing a GUI for the PlayStation BIOS.[18][38]
+The actual GUI for both PSone and PlayStation differ graphically depending on firmware versions: the original PlayStation GUI had a dark blue background with rainbow graffiti used as buttons; the early PAL PlayStation and PSone GUI had a grey blocked background with 2 icons in the middle,[39] different on each version. If the CD lid is closed with a game inside at any time while at the menu, the game will immediately start.[37][38]
+Software library[edit]
+See also: List of PlayStation games
+As of 30 June 2007, a total of 7,918 software titles have been released worldwide (counting games released in multiple regions as separate titles).[40] As of 31 March 2007, the cumulative software shipment was at 962 million units.[41] The last game for the system released in the United States was FIFA Football 2005. However, several reprinted and remastered editions were released in later years. Metal Gear Solid: The Essential Collection was released on 26 July 2007, which contained Metal Gear Solid in the original PlayStation format. In 2011, Capcom released the Resident Evil 15th Anniversary Collection, and in 2012, Square Enix released the Final Fantasy 25th Anniversary Ultimate Box in Japan containing all of the Final Fantasy titles, a majority of which were also in the original PlayStation format.[42][43]
+Regional variants[edit]
+The OK and Cancel buttons on most of the Japanese PlayStation games are reversed in their North American and European releases. In Japan, the  button (maru, right) is used as the OK button, while the  button (batsu, wrong) is used as Cancel. North American and European releases have the  button or the  buttons as the OK button, while either the  or the  button is used as Cancel (some titles like Xenogears used the  button for cancelling actions and selections, along with the PlayStation 2 system browser and the XrossMedia Bar on the PlayStation 3 and the PSP).[21] However, a few games, such as Square's Vagrant Story, Final Fantasy VII (which used the  button as cancel) and Final Fantasy Tactics, Namco's Ridge Racer Type 4, and Konami'sMetal Gear Solid, use the Japanese button layout worldwide. Some other games, like the Japanese version of Gran Turismo, had used different controls that are similar to North American games. These Japanese button layouts still apply to other PlayStation consoles. This is because in the early years Sony America (SCEA),[44] Sony Europe (SCEE), and Sony Japan (SCEJ) had different development and testing documents (TRCs) for their respective territories.[45]
+Hardware[edit]
+Hardware designer Ken Kutaragi stated, "The technology came from an original idea to create a synthesizer for graphics, something that takes a basic graphic and then adds various effects to it quickly and easily."[46]
+Hardware problems[edit]
+With the early units, particularly the early 1000 models, many gamers experience skipping full-motion video or physical "ticking" noises coming from their PlayStation units. The problem appears to have come from poorly placed vents leading to overheating in some environments—the plastic moldings inside the console can warp very slightly and create knock-on effects with the laser assembly. The solution is to ensure that the console sits on a surface which dissipates heat efficiently in a well vented area, or raise the unit up slightly from its resting surface.[47]
+
+Comparison of old and new pick-ups
+The first batch of PlayStations used a KSM-440AAM laser unit whose case and all movable parts were completely made out of plastic. Over time, friction causes the plastic lens sled rail to wear out—usually unevenly. The placement of the laser unit close to the power supply accelerated wear because of the additional heat, which makes the plastic even more vulnerable to friction. Eventually, one side of the lens sled can become so worn that the laser can tilt, no longer pointing directly at the CD. This would cause data read errors and games would no longer load. One common fix is to turn the PlayStation upside down, making the lens sled rest on the unworn top rails. Sony eventually fixed the problem by making the sled out of die-cast metal and placing the laser unit slightly farther away from the power supply on later models of the PlayStation.[47][48]
+Due to an engineering oversight, the PlayStation does not produce a proper signal on several older models of televisions, causing the display to flicker or bounce around the screen. Since only a small percentage of PlayStation owners used such televisions, Sony decided not to change the console design, and instead gave consumers the option of sending their PlayStation unit to a Sony service center to have an official modchip installed, which would allow it to play on older televisions.[49]
+Copy protection[edit]
+Prior to the PlayStation, the reproduction of copyrighted material for gaming consoles was restricted to either enthusiasts with exceptional technical ability, or others that had access to CD manufacturers. However, the increased availability of cheap CD burners at this time led Sony to introduce a special wobble pressed into PlayStation formatted discs. As a result, any discs that did not contain the wobble such as CD-R copies or standard pirated discs could not boot on the console.[50][51]
+The installation of an unofficial modchip allowed the PlayStation to play games recorded on a regular CD-R. It also allowed the console's capabilities to be expanded in other ways, such as playing games from other regions. By the end of the system's life cycle almost anyone with minimal soldering experience was able to perform these modifications. This created a wave of games developed without official approval using free, unofficial tools, as well as the reproduction of original discs.[50] With the introduction of such devices the console became very attractive to programmers and illegal copiers alike, as well as those who merely wished to protect the lifespan of their lawful, original discs.[52]
+Some companies (notably Datel) did manage to produce discs that booted on unmodified retail units while using special equipment.[53]
+Controller[edit]
+Main article: PlayStation Controller
+Instead of a D-pad, which is used for directional movement in nearly every other console then on the market, the PlayStation controller uses four directional buttons.[54]
+Peripherals[edit]
+Peripherals released for the PlayStation include memory cards, the PlayStation Mouse,[55] the PlayStation Analog Joystick,[56] the GunCon (a light gun), and the Glasstron (a monoscopic head-mounted display).[57]
+Models[edit]
+Main article: PlayStation models
+
+A comparison of the SCPH-1001 (bottom), SCPH-5001 (middle) and SCPH-9001 (top) models. The SCPH-900x revision saw the removal of the Parallel I/O port while the RCA jacks were removed in the SCPH-500x revision.
+The PlayStation went through a number of variants during its production run. From an external perspective, the most notable change between variants was the reduction in the number of connectors. The RCA jacks were removed in the first revision, and the Parallel I/O port was removed in the final revision.[58]
+In 1997, Sony marketed a development kit for hobbyists and developers also known as the Net Yaroze. Sold only through an ordering service. The development console came with the necessary documentation and software to program PlayStation games and applications.[59]
+PSone[edit]
+Main article: PSone
+On 7 July 2000, Sony released the PSone,[60] a smaller, redesigned version of the original PlayStation.[60][61] It was the highest-selling console through the end of the year, even going on to outsell all other consoles throughout the remainder of the year - including Sony's own PlayStation 2.[61] A total of 28.15 million PSOne units had been sold by the time it was discontinued in March 2005.[5] A version of the PSone included a 5-inch (130 mm) LCD screen, referred to as the "Combo pack".[62]
+Technical specifications[edit]
+Main article: PlayStation technical specifications
+* CPU: 32-bit RISC MIPS R3000A-compatible MIPS R3051 (33.8688 MHz)[63]
+* MDEC (motion decoder) for FMV playback[64]
+* RAM: 2 MB main, 1 MB video[65]
+* Graphics: GPU and Geometry Transformation Engine (GTE),[66][67] with 2D rotation, scaling (2.5D), transparency and fading, and 3D texture mapping and shading[63]
+* Colors: 16.7 million (True Color)[68]
+* Sprites: 4,000[63]
+* Polygons: 180,000 per second (textured), 360,000 per second (flat-shaded)
+* Resolution: 256×224 to 640×480 pixels (480i)[63]
+* Sound: 4-bit, 24 channel ADPCM[38]
+Successors[edit]
+Main article: PlayStation 2
+Sony's successor to the PlayStation is the PlayStation 2, which is backwards compatible with its predecessor in that it can play almost every original PlayStation game. The third generation of the PlayStation, the PlayStation 3, was launched on 11 November 2006 in Japan, 17 November 2006 in North America, and 23 March 2007 in Europe. The backward compatibility of the PlayStation 3 differs by model. The newer PlayStation 3 models, like the Slim are only backwards compatible with original PlayStation games, however the older 60 GB model (the first PS3 model released), will play PlayStation and PlayStation 2 games through either having the Emotion Engine and/or Reality Synthesizer and emulating one or the other.[69][70] While PlayStation 3 games are not region-locked, PlayStation and PlayStation 2 games are only playable on PlayStation 3 consoles from the same region. A third successor, the PlayStation 4, was announced by Sony on 20 February 2013 and was released in the US on 15 November, Europe on 29 November 2013, and Japan and Asia on 22 February 2014.[71] However, it is backwards compatible with select PS3 Games through a download service dubbed PlayStation Now.[72][73]
+The PlayStation Portable, or PSP, is a handheld game console first released in late 2004. The PSP is capable of playing PlayStation games downloaded via Sony's online store, and can also play any PlayStation game by using the PlayStation 3's remote play feature while the disc is in the PlayStation 3. Sony hopes to release nearly all PlayStation games on a gradual basis.[74] It is also possible to convert original PlayStation disc images into executable binaries using freely available software. These games are then playable on PSPs that have been modified to run unsigned code.[75][76]
+The successor to the PSP, the PlayStation Vita, was introduced as a part of the 8th generation of video game consoles, and was backwards compatible with original PSP as well as original PlayStation games downloaded from the PlayStation Store.[77][78]
+Legacy[edit]
+Sony Computer Entertainment was an upstart in the video game industry in 1994, as the early 1990s were dominated by Nintendo and Sega. Nintendo had been the clear leader in the video game industry since the introduction of the NES in 1985 and the Nintendo 64 was initially expected to maintain this position for Nintendo. The PlayStation's target audience included 15- to 17-year-olds who were not being courted by Nintendo, and 18- to 29-year-olds,[79] who represented the first generation to grow up playing video games. Their tagline "U R Not E" (The "E", coloured red, was meant to be read as "Ready"), was meant to suggest games that appealed to an older demographic. Sony's focus on older players sidestepped the competition between Nintendo and Sega, which each commanded a sizable chunk of the 10- to 14-year-olds market. By the late 1990s, Sony became a highly regarded console brand due to the PlayStation, with a significant lead over second-place Nintendo, while Sega was relegated to a distant third.[80][81]
+The PlayStation's lead in installed base and developer support paved the way for the success of the next-generation PlayStation 2,[80] which overcame an early launch from the Sega Dreamcastand then fended off competition from the Microsoft Xbox and Nintendo GameCube.[82][83][84]
+CD format[edit]
+The success of the PlayStation is widely believed to have influenced the demise of the cartridge-based home console. While not the first system to utilize an optical disc format, it is the first success story, and ended up going head-to-head with the last major home console to rely on proprietary cartridges—the Nintendo 64.[81][83]
+Nintendo was very public about its skepticism toward using CDs and DVDs to store games, citing longer load times and durability issues.[85] It was widely speculated that the company was even more concerned with the proprietary cartridge format's ability to help enforce copy protection, given its substantial reliance on licensing and exclusive titles for its revenue.[86] Piracy was rampant on the PlayStation due to the relative ease of the installation of a modchip, allowing the PlayStation to play games region free and/or recorded on a regular CD-R, making the console very attractive to programmers and illegal copiers alike.[38]
+The increasing complexity of games (in content, graphics, and sound) pushed cartridges to their storage limits and this gradually turned off some third-party developers. Part of the CD format's appeal to publishers was that they could be produced at a significantly lower cost and offered more production flexibility to meet demand.[83] As a result, some third-party developers switched to the PlayStation, such as Squaresoft, whose Final Fantasy VII, and Enix (later merged with Squaresoft to create Square Enix), whose Dragon Quest VII titles were initially pre-planned for the N64;[87]while some who remained released fewer games to the Nintendo 64 (Konami, releasing only thirteen N64 games but over fifty on the PlayStation). While new games were coming out rapidly for the PlayStation, new Nintendo 64 game releases were unusual and that system's biggest successes were developed by either Nintendo itself or by second-parties, such as Rare.[86]
+For more details on game console storage issues and alternatives, see Nintendo 64 Game Pak and 64DD § Hardware.
+See also[edit]
+* Japan portal
+* Sony PlayStation portal
+* 1990s portal
+* 2000s portal
+* List of PlayStation games
+* PlayStation Demo Discs
+* PlayStation Sound Format
+References[edit]
+1. ^ Jump up to:a b "Business Development/Japan". Sony Computer Entertainment Inc. Retrieved 19 December 2007.
+2. ^ Jump up to:a b c "Business Development/North America". Sony Computer Entertainment Inc. Archived from the original on 27 February 2012. Retrieved 16 November 2015.
+3. ^ Jump up to:a b "Business Development/Europe". Sony Computer Entertainment. Retrieved 19 December 2007.
+4. ^ Jump up to:a b "SCEE 1995—Key Facts and Figures". Sony Computer Entertainment. Archived from the original on 12 August 2009. Retrieved 16 November 2015.
+5. ^ Jump up to:a b c "PlayStation Cumulative Production Shipments of Hardware". Sony Computer Entertainment. Archived from the original on 22 July 2011. Retrieved 12 December 2012.
+6. Jump up^ "Gran Turismo Series Shipment Exceeds 50 Million Units Worldwide" (Press release). Sony Computer Entertainment. 9 May 2008. Retrieved 3 June 2008.
+7. Jump up^ "'Gran Turismo' Series Software Title List". Polyphony Digital. March 2010. Retrieved 24 October 2010.
+8. Jump up^ "PlayStation 2 Breaks Record as the Fastest Computer Entertainment Platform to Reach Cumulative Shipment of 100 Million Units" (PDF) (Press release). Sony Computer Entertainment. 30 November 2005. Retrieved 8 June 2008.
+9. Jump up^ Sinclair, Brendan (24 March 2006). "Sony stops making original PS". GameSpot. Retrieved 2 October 2015.
+10. Jump up^ "Evolution of the PlayStation console". Pocket-lint. Pocket Lint. Retrieved 19 August 2014.
+11. ^ Jump up to:a b Fahey, Rob (27 April 2007). "Farewell, Father".Eurogamer.net. Retrieved 8 March 2012.
+12. Jump up^ Cowan, Danny (25 April 2006). "CDi: The Ugly Duckling".1UP.com. Retrieved 8 March 2012.
+13. Jump up^ Nutt, Christian. "Birthday Memories: Sony PlayStation Turns 15". Gamasutra. Retrieved 8 March 2012.
+14. Jump up^ Blake Snow (4 May 2007). "The 10 Worst-Selling Consoles of All Time". GamePro.com. Archived from the original on 8 May 2007. Retrieved 25 November 2007.
+15. Jump up^ "Game Over", by David Scheff
+16. Jump up^ "Sony's Ken Kutaragi leaving". Engadget. Engadget. Retrieved 19 August 2014.
+17. Jump up^ Swearingen, Jake (17 June 2008). "Great Intrapreneurs in Business History". CBS. Retrieved 16 November 2015.
+18. ^ Jump up to:a b Edge staff (24 April 2009). "The Making Of: PlayStation".Edge. Future Publishing. Retrieved 7 March 2012.
+19. Jump up^ IGN staff (27 August 1998). "History of the PlayStation". IGN. Retrieved 8 March 2012.
+20. ^ Jump up to:a b "The Nintendo PlayStation You Never Got To See".Kotaku.com. Kotaku. Retrieved 20 August 2014.
+21. ^ Jump up to:a b c d "History of the PlayStation". IGN. IGN. Retrieved18 August 2014.
+22. ^ Jump up to:a b Williams, Mike. "Sega and Sony Almost Teamed Up on a Console". US Gamer. US Gamer. Retrieved 28 August 2014.
+23. Jump up^ "Original Nintendo/Sony PlayStation Prototype". Joystiq. Joystiq. Retrieved 18 August 2014.
+24. Jump up^ Maru-Chang. "SCPH". MiragePalace. Retrieved 30 June2010. It's the second type of controller for PlayStation. The cable became long, and the noise filter was added. Other functions are the same as SCPH-1010. April 2, 1996 for ¥2500.
+25. Jump up^ "The Making Of: PlayStation". Edge. Future Publishing. 24 April 2009. p. 5. Retrieved 27 September 2009.
+26. Jump up^ "How Virtua Fighter Saved PlayStation's Bacon". WIRED. 5 September 2012. Retrieved 16 November 2015.
+27. Jump up^ "No Business Like Show Business". GamePro (57). IDG. April 1994. p. 8.
+28. ^ Jump up to:a b "Which Game System is the Best!?". Next Generation.Imagine Media (12): 36–85. December 1995.
+29. Jump up^ "Sega and Sony Go to War". GamePro. IDG (84): 138. September 1995.
+30. Jump up^ "Namco Museum Volume 1 - PS1". PlayStation. PlayStation US. Retrieved 19 August 2014.
+31. Jump up^ "Namco Vol. 1 Reviews". Gamefaqs. Gamefaqs. Retrieved19 August 2014.
+32. Jump up^ "But It'll Sure Look Pretty on the Shelf...". Electronic Gaming Monthly. Ziff Davis (75): 16. October 1995.
+33. Jump up^ Brandt, Richard L. "Nintendo Battles for its Life." Upside 7.10 (1995): 50-. ABI/INFORM Global. Web. 24 May 2012.
+34. Jump up^ Game Machine Cross Review: ?????????. Weekly Famicom Ts?shin. No.335. Pg.166. 12–19 May 1995.
+35. Jump up^ "Digital Disciples: Sony's PlayStation Game Plan". Next Generation. Imagine Media (6): 44–48. June 1995.
+36. Jump up^ "PlayStation Systems - The Official PlayStation Museum". Retrieved 13 December 2013.
+37. ^ Jump up to:a b "Sony PlayStation 1 CD Player". Stereophile. Stereophile. Retrieved 19 August 2014.
+38. ^ Jump up to:a b c d "Sony PlayStation Specs". Cyberiapc. Cyberiapc. Retrieved 18 August 2014.
+39. Jump up^ "An interview with Ken Kutaragi", Next Generation, Burlingame, California: Imagine Publishing, 1 (6), p. 53, June 1995, ISSN 1078-9693
+40. Jump up^ "Cumulative Software Titles". Sony Computer Entertainment Inc. Archived from the original on 21 September 2008. Retrieved 19 September 2014.
+41. Jump up^ "Cumulative Production Shipments of Software Titles". Sony Computer Entertainment. 31 March 2007. Archived fromthe original on 23 September 2008. Retrieved 19 September2014.
+42. Jump up^ Search: (18 March 2008). "Gamefaqs Product page". Gamefaqs.com. Retrieved 11 November 2010.
+43. Jump up^ Leo, John (31 August 2012). "Final Fantasy 25th anniversary Ultimate Box collection announced". GameSpot.com. Retrieved 5 March 2014.
+44. Jump up^ "Sony latest to toss hat in vid game arena". The Hollywood Reporter. Hollywood Reporter, Inc. 19 May 1994.
+45. Jump up^ "Sony Computer Entertainment Announces Changes in Corporate Officers" (PDF) (Press release). Tokyo: Sony Computer Entertainment. 1 July 2002. Retrieved 23 March2010.
+46. Jump up^ "75 Power Players: Back at the Lab...". Next Generation.Imagine Media (11): 73. November 1995.
+47. ^ Jump up to:a b "Sony PlayStation 1st-gen specs difficulties". engadget. Engadget. Retrieved 18 August 2014.
+48. Jump up^ "Official PlayStation website: PlayStation Vita, PS Vita; Specifications for PlayStationVita". Retrieved 7 March 2011.
+49. Jump up^ "Sony PS Handles TV Woes". Electronic Gaming Monthly. Ziff Davis (79): 20. February 1996.
+50. ^ Jump up to:a b "PSX Copy Protection". ConsoleCopyWorld. Console Copy World. Retrieved 18 August 2014.
+51. Jump up^ Green, Garo; Kaufman, James (eds.). Video Games and Creativity. p. 255. Retrieved 20 April 2016.
+52. Jump up^ "PSX protected games". ConsoleCopyWorld. Console Copy World. Retrieved 18 August 2014.
+53. Jump up^ "About Datel (PSX)". Datel. Datel UK. Retrieved 18 August2014.
+54. Jump up^ "The Sony PlayStation Plays For Keeps". GamePro (68). IDG. March 1995. p. 36.
+55. Jump up^ "Review Crew: Horned Owl". Electronic Gaming Monthly. Ziff Davis (84): 28. July 1996.
+56. Jump up^ "Soar and Descend". GamePro. IDG (91): 24. April 1996.
+57. Jump up^ "Reality Check". Electronic Gaming Monthly. Ziff Davis (85): 14–16. August 1996.
+58. Jump up^ "PlayStation 1: The audiophile's dream?". Destructoid. Audiophile. Retrieved 19 August 2014.
+59. Jump up^ "Net Yaroze". IGN. Retrieved 28 February 2014.
+60. ^ Jump up to:a b "SCEE 2000—Key Facts and Figures". Sony Computer Entertainment Europe. Retrieved 25 November 2006.
+61. ^ Jump up to:a b Smith, Tony (6 June 2000). "Sony PS One sales rocket as PS Two famine continues". theregister.co.uk. Retrieved22 August 2008.
+62. Jump up^ "PsOne LCD Screen". Bit-Tech. Bit-Tech. Retrieved19 August 2014.
+63. ^ Jump up to:a b c d "Sony's PlayStation Debuts in Japan!". Electronic Gaming Monthly. Ziff Davis (65): 70. December 1994.
+64. Jump up^ "Tech Specs: Sony PlayStation". Next Generation. Imagine Media (12): 40. December 1995.
+65. Jump up^ "Inside the PlayStation". Next Generation. Imagine Media (6): 51. June 1995.
+66. Jump up^ "Nocash PSX Specifications". Retrieved 16 November2015.
+67. Jump up^http://www.raphnet.net/electronique/psx_adaptor/Playstation.txt
+68. Jump up^ "PlayStation Vs. Saturn: Battle of the Polygon Monsters".Electronic Gaming Monthly. Ziff Davis (67): 94–95. February 1995.
+69. Jump up^ Robertson. "ps3 backward compatibility". me.
+70. Jump up^ List of PlayStation 3 backward compatible PlayStation 2 and PlayStation games
+71. Jump up^ Dave James and James Rivington. "Sony PS4 review".TechRadar. Retrieved 16 November 2015.
+72. Jump up^ Whitehead, Dan (1 February 2009). "Dreamcast: A Forensic Retrospective Article • Page • Articles • Retro •". Eurogamer.net. Retrieved 21 October 2012.
+73. Jump up^ "PlayStation 2 Timeline". GameSpy. p. 3. Retrieved19 August 2008.
+74. Jump up^ Gantayat, Anoop (15 March 2006). "Sony Outlines PSP Future". IGN. Retrieved 10 July 2008.
+75. Jump up^ "User's Guide – Remote Play". Sony Computer Entertainment. Retrieved 12 March 2008.
+76. Jump up^ "Support – PSP – Connecting to the Internet". Sony Computer Entertainment. Archived from the original on 13 March 2008. Retrieved 3 December 2008.
+77. Jump up^ 2013-09-09, PS Vita TV Remade Into A Console For $95, Plays Vita And PSP Games On Your TV, Siliconera
+78. Jump up^ 2013-09-09, SONY COMPUTER ENTERTAINMENT INTRODUCES PLAYSTATION(R) VITA TV (Corporate Release), Sony Computer Entertainment
+79. Jump up^ Goodfellow, Kris (25 May 1998). "Sony Comes On Strong in Video-Game War". New York Times.
+80. ^ Jump up to:a b "Sony PlayStation vs Nintendo 64". DigitalSpy. Digital Spy. Retrieved 19 August 2014.
+81. ^ Jump up to:a b "PlayStation vs Nintendo 64 vs Sega Saturn".GameSpot. GameSpot. Retrieved 19 August 2014.
+82. Jump up^ "PlayStation is number 7". IGN. Retrieved 27 October 2012.
+83. ^ Jump up to:a b c McKinley Noble, GamePro (31 August 2009). "5 Biggest Game Console Battles". PCWorld. Retrieved 27 October2012.
+84. Jump up^ "Sega vs. Sony: Pow! Biff! Whack!". Businessweek.com. 18 December 2000. Retrieved 27 October 2012.
+85. Jump up^ Nintendo Power August, 1994 - Pak Watch. Nintendo. 1994. p. 108.
+86. ^ Jump up to:a b "The Game: PlayStation vs N64". Forbes. Forbes. Retrieved 18 August 2014.
+87. Jump up^ "Elusions: Final Fantasy 64". Retrieved 19 January 2009.
+

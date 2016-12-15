@@ -1,0 +1,328 @@
+Bill Gates
+From Wikipedia, the free encyclopedia
+For other people named Bill Gates, see Bill Gates (disambiguation).
+Bill Gates
+Gates in June 2015BornWilliam Henry Gates III
+October 28, 1955 (age 61)
+Seattle, Washington, U.S.ResidenceMedina, Washington, U.S.NationalityAmericanAlma materHarvard UniversityYears active1975–presentNet worthUS$81.7 billion (September 2016)[1]TitleTechnology Advisor of Microsoft
+Co-Chairman of the Bill & Melinda Gates Foundation
+CEO of Cascade Investment
+Chairman of Corbis
+Chairman of the TerraPowerBoard member ofMicrosoft
+Berkshire HathawaySpouse(s)Melinda Gates (m. 1994)Children3Parent(s)* William H. Gates, Sr.
+* Mary Maxwell GatesWebsitegatesnotes.comSignatureWilliam Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, investor, author and philanthropist.[2][3] In 1975, Gates andPaul Allen co-founded Microsoft, which became the world's largest PC software company. During his career at Microsoft, Gates held the positions of chairman, CEO and chief software architect, and was the largest individual shareholder until May 2014.[4][a] Gates has authored and co-authored several books.
+Starting in 1987, Gates was included in the Forbes list of the world's wealthiest people[7] and was the wealthiest from 1995 to 2007, again in 2009, and has been since 2014.[8] Between 2009 and 2014, his wealth doubled from US$40 billion to more than US$82 billion.[9] Between 2013 and 2014, his wealth increased by US$15 billion.[10] Gates is currently the wealthiest person in the world with an estimated net worth of US$81.7 billion as of October 2016.[11]
+Gates is one of the best-known entrepreneurs of the personal computer revolution. Gates has been criticized for his business tactics, which have been considered anti-competitive, an opinion that has in some cases been upheld by numerous court rulings.[12] Later in his career Gates pursued a number of philanthropic endeavors, donating large amounts of money to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation, established in 2000.
+Gates stepped down as chief executive officer of Microsoft in January 2000. He remained as chairman and created the position of chief software architect for himself.[13] In June 2006, Gates announced that he would be transitioning from full-time work at Microsoft to part-time work, and full-time work at the Bill & Melinda Gates Foundation.[14] He gradually transferred his duties to Ray Ozzie (chief software architect) and Craig Mundie (chief research and strategy officer).[15] Ozzie later left the company. Gates' last full-time day at Microsoft was June 27, 2008.[15] He stepped down as chairman of Microsoft, in February 2014, taking on a new post as technology adviser to support newly appointed CEO Satya Nadella.[16]
+Contents
+  [hide] 
+* 1Early life
+* 2Microsoft
+o 2.1BASIC
+o 2.2IBM partnership
+o 2.3Windows
+o 2.4Management style
+o 2.5Antitrust litigation
+o 2.6Appearance in ads
+* 3Post-Microsoft
+* 4Personal life
+o 4.1Philanthropy
+* 4.1.1Bill and Melinda Gates Foundation
+* 4.1.2Personal
+* 4.1.3Criticism
+o 4.2Recognition
+o 4.3External business ventures and investments
+* 5Books, films, social media and radio
+o 5.1Books
+o 5.2Documentaries
+o 5.3Feature films
+o 5.4Social media
+o 5.5Video and film clips
+o 5.6Radio
+* 6See also
+* 7Notes
+* 8References
+o 8.1Citations
+o 8.2Bibliography
+* 9Further reading
+* 10External links
+Early life
+Gates was born in Seattle, Washington on October 28, 1955. He is the son of William H. Gates, Sr.[b] and Mary Maxwell Gates. Gates' ancestral origin includes English, German, and Irish, Scots-Irish.[17][18] His father was a prominent lawyer, and his mother served on the board of directors for First Interstate BancSystem and the United Way. Gates' maternal grandfather was JW Maxwell, anational bank president. Gates has one elder sister, Kristi (Kristianne), and one younger sister, Libby. He was the fourth of his name in his family, but was known as William Gates III or "Trey" because his father had the "II" suffix.[19] Early on in his life, Gates' parents had a law career in mind for him.[20] When Gates was young, his family regularly attended a church of the Congregational Christian Churches, a Protestant Reformed denomination.[21][22][23] The family encouraged competition; one visitor reported that "it didn't matter whether it was hearts or pickleball or swimming to the dock ... there was always a reward for winning and there was always a penalty for losing".[24]
+At 13, he enrolled in the Lakeside School, a private preparatory school.[25] When he was in the eighth grade, the Mothers Club at the school used proceeds from Lakeside School's rummage sale to buy a Teletype Model 33 ASR terminal and a block of computer time on a General Electric (GE) computer for the school's students.[26] Gates took an interest in programming the GE system inBASIC, and was excused from math classes to pursue his interest. He wrote his first computer program on this machine: an implementation of tic-tac-toe that allowed users to play games against the computer. Gates was fascinated by the machine and how it would always execute software code perfectly. When he reflected back on that moment, he said, "There was just something neat about the machine."[27] After the Mothers Club donation was exhausted, he and other students sought time on systems including DEC PDP minicomputers. One of these systems was a PDP-10belonging to Computer Center Corporation (CCC), which banned four Lakeside students – Gates, Paul Allen, Ric Weiland, and Kent Evans – for the summer after it caught them exploiting bugs in the operating system to obtain free computer time.[28][29]
+At the end of the ban, the four students offered to find bugs in CCC's software in exchange for computer time. Rather than use the system via Teletype, Gates went to CCC's offices and studiedsource code for various programs that ran on the system, including programs in Fortran, Lisp, and machine language. The arrangement with CCC continued until 1970, when the company went out of business. The following year, Information Sciences, Inc. hired the four Lakeside students to write a payroll program in Cobol, providing them computer time and royalties. After his administrators became aware of his programming abilities, Gates wrote the school's computer program to schedule students in classes. He modified the code so that he was placed in classes with "a disproportionate number of interesting girls."[30] He later stated that "it was hard to tear myself away from a machine at which I could so unambiguously demonstrate success."[27] At age 17, Gates formed a venture with Allen, called Traf-O-Data, to make traffic counters based on the Intel 8008 processor.[31] In early 1973, Bill Gates served as a congressional page in the U.S. House of Representatives.[32]
+Gates graduated from Lakeside School in 1973, and was a National Merit Scholar.[33] He scored 1590 out of 1600 on the SAT[34] and enrolled at Harvard College in the autumn of 1973.[35] While at Harvard, he met Steve Ballmer, who would later succeed Gates as CEO of Microsoft.[36]
+
+The Poker Room in Currier Houseat Harvard College
+In his second year, Gates devised an algorithm for pancake sorting as a solution to one of a series of unsolved problems[37] presented in a combinatoricsclass by Harry Lewis, one of his professors. Gates' solution held the record as the fastest version for over thirty years;[37][38] its successor is faster by only one percent.[37] His solution was later formalized in a published paper in collaboration with Harvard computer scientist Christos Papadimitriou.[39]
+Gates did not have a definite study plan while a student at Harvard[40] and spent a lot of time using the school's computers. Gates remained in contact with Paul Allen, and he joined him at Honeywell during the summer of 1974.[41] The following year saw the release of the MITS Altair 8800 based on the Intel 8080 CPU, and Gates and Allen saw this as the opportunity to start their own computer software company.[42] Gates dropped out of Harvard at this time. He had talked this decision over with his parents, who were supportive of him after seeing how much Gates wanted to start a company.[40]
+Microsoft
+Main articles: History of Microsoft and Microsoft
+BASIC
+
+MITS Altair 8800 Computer with 8-inch (200 mm) floppy disk system
+After reading the January 1975 issue of Popular Electronics that demonstrated the Altair 8800, Gates contacted Micro Instrumentation and Telemetry Systems (MITS), the creators of the new microcomputer, to inform them that he and others were working on a BASIC interpreter for the platform.[43] In reality, Gates and Allen did not have an Altair and had not written code for it; they merely wanted to gauge MITS's interest. MITS president Ed Roberts agreed to meet them for a demo, and over the course of a few weeks they developed an Altair emulator that ran on a minicomputer, and then the BASIC interpreter. The demonstration, held at MITS's offices in Albuquerque, was a success and resulted in a deal with MITS to distribute the interpreter as Altair BASIC. Paul Allen was hired into MITS,[44] and Gates took a leave of absence from Harvard to work with Allen at MITS in Albuquerque in November 1975. They named their partnership "Micro-Soft" and had their first office located in Albuquerque.[44] Within a year, the hyphen was dropped, and on November 26, 1976, the trade name "Microsoft" was registered with the Office of the Secretary of the State of New Mexico.[44] Gates never returned to Harvard to complete his studies.
+Microsoft's Altair BASIC was popular with computer hobbyists, but Gates discovered that a pre-market copy had leaked into the community and was being widely copied and distributed. In February 1976, Gates wrote an Open Letter to Hobbyists in the MITS newsletter in which he asserted that more than 90% of the users of Microsoft Altair BASIC had not paid Microsoft for it and by doing so the Altair "hobby market" was in danger of eliminating the incentive for any professional developers to produce, distribute, and maintain high-quality software.[45] This letter was unpopular with many computer hobbyists, but Gates persisted in his belief that software developers should be able to demand payment. Microsoft became independent of MITS in late 1976, and it continued to develop programming language software for various systems.[44] The company moved from Albuquerque to its new home in Bellevue, Washington, on January 1, 1979.[43]
+During Microsoft's early years, all employees had broad responsibility for the company's business. Gates oversaw the business details, but continued to write code as well. In the first five years, Gates personally reviewed every line of code the company shipped, and often rewrote parts of it as he saw fit.[46]
+IBM partnership
+IBM approached Microsoft in July 1980, regarding its upcoming personal computer, the IBM PC.[47] The computer company first proposed that Microsoft write the BASIC interpreter. When IBM's representatives mentioned that they needed an operating system, Gates referred them to Digital Research (DRI), makers of the widely used CP/M operating system.[48] IBM's discussions with Digital Research went poorly, and they did not reach a licensing agreement. IBM representative Jack Sams mentioned the licensing difficulties during a subsequent meeting with Gates and told him to get an acceptable operating system. A few weeks later, Gates proposed using 86-DOS (QDOS), an operating system similar to CP/M that Tim Paterson of Seattle Computer Products (SCP) had made for hardware similar to the PC. Microsoft made a deal with SCP to become the exclusive licensing agent, and later the full owner, of 86-DOS. After adapting the operating system for the PC, Microsoft delivered it to IBM as PC DOS in exchange for a one-time fee of $50,000.[49]
+Gates did not offer to transfer the copyright on the operating system, because he believed that other hardware vendors would clone IBM's system.[49] They did, and the sales of MS-DOS made Microsoft a major player in the industry.[50] Despite IBM's name on the operating system the press quickly identified Microsoft as being very influential on the new computer. PC Magazine asked if Gates were "the man behind the machine?",[47] and InfoWorld quoted an expert as stating "it's Gates' computer".[51] Gates oversaw Microsoft's company restructuring on June 25, 1981, which re-incorporated the company in Washington state and made Gates the president of Microsoft and its board chairman.[43]
+Windows
+Microsoft launched its first retail version of Microsoft Windows on November 20, 1985, and in August, the company struck a deal with IBM to develop a separate operating system called OS/2. Although the two companies successfully developed the first version of the new system, mounting creative differences caused the partnership to deteriorate.[52]
+Management style
+
+Bill Gates in January 2008
+From Microsoft's founding in 1975 until 2006, Gates had primary responsibility for the company's product strategy. He aggressively broadened the company's range of products, and wherever Microsoft achieved a dominant position he vigorously defended it.[citation needed] He gained a reputation for being distant to others; as early as 1981 an industry executive complained in public that "Gates is notorious for not being reachable by phone and for not returning phone calls."[53] Another executive recalled that after he showed Gates a game and defeated him 35 of 37 times, when they met again a month later Gates "won or tied every game. He had studied the game until he solved it. That is a competitor."[54]
+As an executive, Gates met regularly with Microsoft's senior managers and program managers. Firsthand accounts of these meetings describe him as verbally combative, berating managers for perceived holes in their business strategies or proposals that placed the company's long-term interests at risk.[55][56] He interrupted presentations with such comments "That's the stupidest thing I've ever heard!"[57] and "Why don't you just give up your options and join the Peace Corps?"[58] The target of his outburst then had to defend the proposal in detail until, hopefully, Gates was fully convinced.[57] When subordinates appeared to be procrastinating, he was known to remark sarcastically, "I'll do it over the weekend."[59][60][61]
+Gates was an active software developer in Microsoft's early history, particularly on the company's programming language products, but his role most of its history was primarily as management and executive. Gates has not officially been on a development team since working on the TRS-80 Model 100,[62] but wrote code as late as 1989 that shipped in the company's products.[60] He remained interested in technical details; Jerry Pournelle wrote in 1985 that when watching Gates announcing Microsoft Excel, "Something else impressed me. Bill Gates likes the program, not because it's going to make him a lot of money (although I'm sure it will do that), but because it's a neat hack."[63] On June 15, 2006, Gates announced that he would transition out of his day-to-day role over the next two years to dedicate more time to philanthropy. He divided his responsibilities between two successors, placing Ray Ozzie in charge of day-to-day management and Craig Mundie in charge of long-term product strategy.[64]
+Antitrust litigation
+Further information: United States Microsoft antitrust case and European Union Microsoft competition case
+
+Gates giving his deposition at Microsoft on August 27, 1998
+Many decisions that led to antitrust litigation over Microsoft's business practices have had Gates' approval. In the 1998 United States v. Microsoft case, Gates gave deposition testimony that several journalists characterized as evasive. He argued with examiner David Boies over the contextual meaning of words such as, "compete", "concerned", and "we". The judge and other observers in the court room were seen laughing at various points during the deposition.[65] BusinessWeek reported:
+Early rounds of his deposition show him offering obfuscatory answers and saying 'I don't recall,' so many times that even the presiding judge had to chuckle. Worse, many of the technology chief's denials and pleas of ignorance were directly refuted by prosecutors with snippets of e-mail that Gates both sent and received.[66]
+Gates later said he had simply resisted attempts by Boies to mischaracterize his words and actions. As to his demeanor during the deposition, he said, "Did I fence with Boies? ... I plead guilty. Whatever that penalty is should be levied against me: rudeness to Boies in the first degree."[67] Despite Gates' denials, the judge ruled that Microsoft had committed monopolization and tying, and blocking competition, both in violation of the Sherman Antitrust Act.[67]
+Appearance in ads
+
+Gates mugshot of his 1977 arrest inAlbuquerque, New Mexico
+Gates appeared in a series of ads to promote Microsoft in 2008. The first commercial, co-starring Jerry Seinfeld, is a 90-second talk between strangers as Seinfeld walks up on a discount shoe store (Shoe Circus) in a mall and notices Gates buying shoes inside. The salesman is trying to sell Mr. Gates shoes that are a size too big. As Gates is buying the shoes, he holds up his discount card, which uses a slightly altered version of his own mugshot of his arrest inNew Mexico in 1977, for a traffic violation.[68] As they are walking out of the mall, Seinfeld asks Gates if he has melded his mind to other developers, after getting a "Yes", he then asks if they are working on a way to make computers edible, again getting a "Yes". Some say that this is an homage to Seinfeld's own show about "nothing" (Seinfeld).[69] In a second commercial in the series, Gates and Seinfeld are at the home of an average family trying to fit in with normal people.[70]
+Post-Microsoft
+Since leaving day-to-day operations at Microsoft, Gates continues his philanthropy and works on other projects.
+According to the Bloomberg Billionaires Index, Gates was the world's highest-earning billionaire in 2013, as his fortune increased by US$15.8 billion to US$78.5 billion. As of January 2014, most of Gates' assets are held in Cascade Investment LLC, an entity through which he owns stakes in numerous businesses, including Four Seasons Hotels and Resorts, and Corbis Corp.[71] On February 4, 2014, Gates stepped down as chairman of Microsoft to become Technology Advisor alongside Satya Nadella.[16][72]
+In a substantial interview with Rolling Stone magazine, published in March 27, 2014 issue, Gates provided his perspective on a range of issues, such as climate change, his charitable activities, various tech companies and people involved in them, and the state of America. In response to a question about his greatest fear when he looks 50 years into the future, Gates stated: "... there'll be some really bad things that'll happen in the next 50 or 100 years, but hopefully none of them on the scale of, say, a million people that you didn't expect to die from a pandemic, or nuclear or bioterrorism." Gates also identified innovation as the "real driver of progress" and pronounced that "America's way better today than it's ever been."[73] Gate's days are planned for him, similar to theUS President's schedule, on a minute-by-minute basis.[74]
+Personal life
+
+Bill and Melinda Gates (June 2009)
+After being named one of Good Housekeeping's "50 Most Eligible Bachelors" in 1985,[75] Gates married Melinda French in Hawaii on January 1, 1994. They have three children: Jennifer Katharine (born 1996), Rory John (born 1999), and Phoebe Adele (born 2002). The family resides in the Gates' home, an earth-sheltered house in the side of a hill overlooking Lake Washington in Medina near Seattle in the state of Washington, United States. According to 2007 King County public records, the total assessed value of the property (land and house) is $125 million, and the annual property tax is $991,000. The 66,000 sq ft (6,100 m2) estate has a 60-foot (18 m) swimming pool with an underwater music system, as well as a 2,500 sq ft (230 m2) gym and a 1,000 sq ft (93 m2) dining room.[76]
+In an interview with Rolling Stone, Gates stated in regard to his faith:
+The moral systems of religion, I think, are super important. We've raised our kids in a religious way; they've gone to the Catholic church that Melinda goes to and I participate in. I've been very lucky, and therefore I owe it to try and reduce the inequity in the world. And that's kind of a religious belief. I mean, it's at least a moral belief.[77]
+In the same interview, Gates said: "I agree with people like Richard Dawkins that mankind felt the need for creation myths. Before we really began to understand disease and the weather and things like that, we sought false explanations for them. Now science has filled in some of the realm – not all – that religion used to fill. But the mystery and the beauty of the world is overwhelmingly amazing, and there's no scientific explanation of how it came about. To say that it was generated by random numbers, that does seem, you know, sort of an uncharitable view [laughs]. I think it makes sense to believe in God, but exactly what decision in your life you make differently because of it, I don't know."[77]
+Among Gates' private acquisitions is the Codex Leicester, a collection of writings by Leonardo da Vinci, which Gates bought for $30.8 million at an auction in 1994.[78] Gates is also known as an avid reader, and the ceiling of his large home library is engraved with a quotation from The Great Gatsby.[79] He also enjoys playing bridge, tennis, and golf.[80][81]
+Gates was number one on the Forbes 400 list from 1993 through to 2007, and number one on Forbes list of The World's Richest People from 1995 to 2007 and 2009. In 1999, his wealth briefly surpassed $101 billion, causing the media to call Gates a "centibillionaire".[82] Despite his wealth and extensive business travel Gates usually flew coach until 1997, when he bought a private jet.[83]Since 2000, the nominal value of his Microsoft holdings has declined due to a fall in Microsoft's stock price after the dot-com bubble burst and the multibillion-dollar donations he has made to his charitable foundations. In a May 2006 interview, Gates commented that he wished that he were not the richest man in the world because he disliked the attention it brought.[84] In March 2010, Gates was the second wealthiest person behind Carlos Slim, but regained the top position in 2013, according to the Bloomberg Billionaires List.[85][86] Carlos Slim retook the position again in June 2014[87][88] (but then lost the top position back to Gates).
+Gates has several investments outside Microsoft, which in 2006 paid him a salary of $616,667 and $350,000 bonus totalling $966,667.[89] He founded Corbis, a digital imaging company, in 1989. In 2004, he became a director of Berkshire Hathaway, the investment company headed by long-time friend Warren Buffett.[90] In 2016 he revealed that he was color-blind when discussing his gaming habits.[91]
+Philanthropy
+
+Gates with Bono, Queen Rania of Jordan, former British Prime MinisterGordon Brown, President Umaru Yar'Adua of Nigeria and others during the Annual Meeting 2008 of the World Economic Forum in Switzerland
+Bill and Melinda Gates Foundation
+Main article: Bill & Melinda Gates Foundation
+Gates studied the work of Andrew Carnegie and John D. Rockefeller, and in 1994, sold some of his Microsoft stock to create the "William H. Gates Foundation." In 2000, Gates and his wife combined three family foundations to create the charitable Bill & Melinda Gates Foundation, which was identified by the Funds for NGOs company in 2013, as the world's wealthiest charitable foundation, with assets reportedly valued at more than $34.6 billion.[92][93] The Foundation allows benefactors to access information that shows how its money is being spent, unlike other major charitable organizations such as theWellcome Trust.[94][95]
+The foundation is organized into four program areas: Global Development Division, Global Health Division, United States Division, and Global Policy & Advocacy Division.[96]
+Gates has credited the generosity and extensive philanthropy of David Rockefeller as a major influence. Gates and his father met with Rockefeller several times, and their charity work is partly modeled on the Rockefeller family's philanthropic focus, whereby they are interested in tackling the global problems that are ignored by governments and other organizations.[97] As of 2007, Bill and Melinda Gates were the second-most generous philanthropists in America, having given over $28 billion to charity;[98] the couple plan to eventually donate 95 percent of their wealth to charity.[99]
+The Bill and Melinda Gates Foundation supports the use of genetically modified organisms in agricultural development. Specifically, the foundation is supporting the International Rice Research Institute in developing Golden Rice, a genetically modified rice variant used to combat Vitamin A deficiency.[100]
+Personal
+Gates' wife suggested people should emulate the philanthropic efforts of the Salwen family, which had sold its home and given away half of its value, as detailed in The Power of Half.[101] Gates and his wife invited Joan Salwen to Seattle to speak about what the family had done, and on December 9, 2010, Gates, investor Warren Buffett, and Facebook founder and CEO Mark Zuckerbergsigned a commitment they called the "Gates-Buffet Giving Pledge." The pledge is a commitment by all three to donate at least half of their wealth over the course of time to charity.[102][103][104]
+Gates has recently expressed concern about the existential threats of superintelligence; in a Reddit "ask me anything", he stated that
+First the machines will do a lot of jobs for us and not be super intelligent. That should be positive if we manage it well. A few decades after that though the intelligence is strong enough to be a concern. I agree with Elon Musk and some others on this and don't understand why some people are not concerned.[105][106][107][108]
+In a March 2015 interview, with Baidu's CEO, Robin Li, Gates claimed he would "highly recommend" Nick Bostrom's recent work, Superintelligence: Paths, Dangers, Strategies.[109]
+Gates has also provided personal donations to educational institutions. In 1999, Gates donated $20 million to the Massachusetts Institute of Technology (MIT) for the construction of a computer laboratory named the "William H. Gates Building" that was designed by architect Frank O. Gehry. While Microsoft had previously given financial support to the institution, this was the first personal donation received from Gates.[110]
+The Maxwell Dworkin Laboratory of the Harvard John A. Paulson School of Engineering and Applied Sciences is named after the mothers of both Gates and Microsoft President Steven A. Ballmer, both of whom were students (Ballmer was a member of the School's graduating class of 1977, while Gates left his studies for Microsoft), and donated funds for the laboratory's construction.[111]Gates also donated $6 million to the construction of the Gates Computer Science Building, completed in January 1996, on the campus of Stanford University. The building contains the Computer Science Department (CSD) and the Computer Systems Laboratory (CSL) of Stanford's Engineering department.[112]
+On August 15, 2014, Bill Gates posted a video of himself dumping a bucket of ice water on his head, after Facebook founder Mark Zuckerberg challenged him to do so, in order to raise awareness for the disease ALS (amyotrophic lateral sclerosis).[113]
+Bill Gates and his foundation are taking an interest in solving global sanitation problems since about 2005, for example by announcing the "Reinvent the Toilet Challenge" which has received considerable media interest.[114] To raise awareness for the topic of sanitation and possible solutions, Bill Gates drank water which was "produced from human feces" in 2014 – in fact it was produced from a sewage sludge treatment process called the Omni-processor.[115][116] In early 2015, he also appeared with Jimmy Fallon on The Tonight Show and challenged him to see if he could taste the difference between this reclaimed water or bottled water.[117]
+Bill and Melinda Gates have said that they intend to leave their three children $10 million each as their inheritance. With only $30 million kept in the family, they appear to be on a course to give away about 99.96 percent of their wealth.[118]
+Criticism
+In 2007, the Los Angeles Times criticized the foundation for investing its assets in companies which have been accused of worsening poverty, polluting heavily, and pharmaceutical companies that do not sell into the developing world.[119] In response to press criticism, the foundation announced a review of its investments to assess social responsibility.[120] It subsequently canceled the review and stood by its policy of investing for maximum return, while using voting rights to influence company practices.[121] The Gates Millennium Scholars program has been criticized by Ernest W. Lefever for its exclusion of Caucasian students.[122] The scholarship program is administered by the United Negro College Fund.[123] In 2014, Bill Gates sparked a protest in Vancouver when he decided to donate 50 million dollars to UNAIDS through the Bill & Melinda Gates Foundation for the purpose of mass circumcision in Zambia and Swaziland.[124][125]
+Recognition
+
+Gates and Steve Jobs at the fifthD: All Things Digital conference (D5) in 2007
+In 1987, Gates was listed as a billionaire in Forbes magazine's 400 Richest People in America issue, just days before his 32nd birthday. As the world's youngest self-made billionaire, he was worth $1.25 billion, over $900 million more than he'd been worth the year before, when he'd debuted on the list.[126]
+Time magazine named Gates one of the 100 people who most influenced the 20th century, as well as one of the 100 most influential people of 2004, 2005, and 2006. Time also collectively named Gates, his wife Melinda and U2's lead singer Bono as the 2005 Persons of the Year for their humanitarian efforts.[127]In 2006, he was voted eighth in the list of "Heroes of our time".[128] Gates was listed in the Sunday Times power list in 1999, named CEO of the year byChief Executive Officers magazine in 1994, ranked number one in the "Top 50 Cyber Elite" by Time in 1998, ranked number two in the Upside Elite 100 in 1999, and was included in The Guardian as one of the "Top 100 influential people in media" in 2001.[129]
+According to Forbes, Gates was ranked as the fourth most powerful person in the world in 2012,[130] up from fifth in 2011.[131]
+In 1994, he was honored as the twentieth Distinguished Fellow of the British Computer Society. In 1999, Gates received New York Institute of Technology's President's Medal.[132] Gates has received honorary doctorates from Nyenrode Business Universiteit, Breukelen, The Netherlands, in 2000;[133] KTH Royal Institute of Technology, Stockholm, Sweden, in 2002;[134] Waseda University, Tokyo, Japan, in 2005; Tsinghua University, Beijing, China, in April 2007;[135] Harvard University in June 2007;[136]Karolinska Institutet, Stockholm, in 2007,[137] and Cambridge University in June 2009.[138] He was also made an honorary trustee of Peking University in 2007.[139]
+Gates was made an honorary Knight Commander of the Order of the British Empire (KBE) by Queen Elizabeth II in 2005.[140] In November 2006, he was awarded the Placard of the Order of the Aztec Eagle, together with his wife Melinda who was awarded the Insignia of the same order, both for their philanthropic work around the world in the areas of health and education, particularly in Mexico, and specifically in the program "Un país de lectores".[141] Gates received the 2010 Bower Award for Business Leadership from The Franklin Institute for his achievements at Microsoft and his philanthropic work.[142] Also in 2010, he was honored with the Silver Buffalo Award by the Boy Scouts of America, its highest award for adults, for his service to youth.[143]
+Entomologists named Bill Gates' flower fly, Eristalis gatesi, in his honor in 1997.[144]
+In 2002, Bill and Melinda Gates received the Jefferson Award for Greatest Public Service Benefiting the Disadvantaged.[145]
+In 2006, Gates received the James C. Morgan Global Humanitarian Award from The Tech Awards.[146]
+In 2015, Gates, along with his wife Melinda, received the Padma Bhushan, India's third-highest civilian award for their social work in the country.[147][148]
+External business ventures and investments
+* Cascade Investments LLC, a private investment and holding company, incorporated in United States, is controlled by Bill Gates, and is headquartered in the city of Kirkland, Washington.
+* bgC3, a new think-tank company founded by Bill Gates.
+* Corbis, a digital image licensing and rights services company.
+* TerraPower, a nuclear reactor design company.
+* ResearchGate, a social networking site for scientists. Gates participated in a $35 million round of financing along with other investors.[149]
+Books, films, social media and radio
+Books
+To date, Bill Gates has authored two books:
+* The Road Ahead, written with Microsoft executive Nathan Myhrvold and journalist Peter Rinearson, was published in November 1995. It summarized the implications of the personal computing revolution and described a future profoundly changed by the arrival of a global information superhighway.
+* Business @ the Speed of Thought was published in 1999, and discusses how business and technology are integrated, and shows how digital infrastructures and information networks can help getting an edge on the competition.
+Documentaries
+External video The Machine That Changed The World; Interview with Bill Gates, 1990 (raw video), 44:03, Open Vault WGBH[150]* The Machine That Changed the World (TV miniseries) (1990)
+* Triumph of the Nerds (1996)
+* Nerds 2.0.1 (1998)
+* Waiting for "Superman" (2010)[151]
+* The Virtual Revolution (2010)
+Feature films
+* 1999: Pirates of Silicon Valley, a film which chronicles the rise of Apple and Microsoft from the early 1970s to 1997. Gates is portrayed by Anthony Michael Hall.
+* 2002: Nothing So Strange, a mocumentary featuring Gates as the subject of a modern assassination. Gates briefly appears at the start, played by Steve Sires.
+* 2010: The Social Network, a film which chronicles the development of Facebook. Gates is portrayed by Steve Sires.[152]
+* 2015: Steve Jobs vs. Bill Gates: The Competition to Control the Personal Computer, 1974–1999: Original film from the National Geographic Channel for the American Genius series.[153]
+Social media
+In 2013, Gates became a LinkedIn Influencer.[154]
+Video and film clips
+* 1983: Steve Jobs hosts Bill Gates in the Macintosh dating game at the Macintosh pre-launch event (with Steve Jobs and Mitch Kapor, references the television show, The Dating Game)
+* 2007: Steve Jobs and Bill Gates Together at D5 Conference
+Radio
+Gates was the guest on BBC Radio 4's Desert Island Discs on January 31, 2016, in which he talks about his relationships with his father and Steve Jobs, meeting his then future wife Melinda Ann French, the start of Microsoft and some of his habits (for example reading The Economist "from cover to cover every week"). His choice of things to take on a desert island were, for music: "Blue Skies" by Willie Nelson; book: The Better Angels of Our Nature by Steven Pinker; and luxury item: a DVD Collection of Lectures from The Teaching Company.[155]
+See also
+* Big History – academic discipline advocated by Bill Gates
+* List of richest Americans in history
+* List of wealthiest historical figures
+Notes
+1. Jump up^ Gates regularly documents his share ownership through public U.S. Securities and Exchange Commission form 4 filings.[5][6]
+2. Jump up^ While his father was named William H. Gates II, he is now generally known as William H. Gates, Sr to avoid confusion with his son.
+References
+Citations
+1. Jump up^ "Bill Gates Profile". Forbes. Retrieved September 28, 2016.
+2. Jump up^ Manes 1994, p. 11.
+3. Jump up^ "Bill Gates (American computer programmer, businessman, and philanthropist)". Retrieved March 20, 2013.
+4. Jump up^ Sheridan, Patrick (May 2, 2014). "Bill Gates no longer Microsoft's biggest shareholder". CNN Money. RetrievedAugust 22, 2014.
+5. Jump up^ MSFT (Holdings), NASDAQ, retrieved April 10, 2016
+6. Jump up^ MSFT (Symbol), NASDAQ, retrieved April 10, 2016
+7. Jump up^ Wahba, Phil (September 17, 2008). "Bill Gates tops US wealth list 15 years continuously". Reuters. Archived from the original on September 16, 2012. Retrieved November 6,2008.
+8. Jump up^ "William 'Bill' Gates", Forbes (profile), retrievedDecember 1, 2014
+9. Jump up^ "The World's Billionaires". Forbes. Retrieved November 30,2014.
+10. Jump up^ "Iceland". International Monetary Fund. RetrievedOctober 1, 2014.
+11. Jump up^ "Bill Gates profile". forbes. 2016. Retrieved October 1,2016.
+12. Jump up^ Lesinski 2006, p. 96; Manes 1994, p. 459.
+13. Jump up^ Einstein, David (January 13, 2000). "Gates steps down as Microsoft CEO". Forbes. Retrieved January 21, 2016.
+14. Jump up^ "Microsoft Chairman Gates to leave day-to-day role. – Jun. 16, 2006". money.cnn.com. Retrieved January 21, 2016.
+15. ^ Jump up to:a b "Bill Gates | Development of Information and Knowledge Management". www.tlu.ee. Retrieved January 21, 2016.
+16. ^ Jump up to:a b "Bill Gates steps down as chairman, will assist new CEO as 'technology advisor'". The Verge. Retrieved February 4,2014.
+17. Jump up^ "Ancestry of Bill Gates". Wargs. Archived from the original on September 16, 2012. Retrieved June 9, 2010.
+18. Jump up^ "Scottish Americans". Alba West. Archived from the original on July 18, 2012. Retrieved April 29, 2009.
+19. Jump up^ Manes 1994, p. 15.
+20. Jump up^ Manes 1994, p. 47.
+21. Jump up^ Lesinski, Jeanne M (September 1, 2008). Bill Gates: Entrepreneur and Philanthropist. Twenty First Century Books.ISBN 978-1-58013-570-2. Retrieved March 10, 2011. The Gates family regularly went to services at the University Congregational Church.
+22. Jump up^ Lowe, Janet (January 5, 2001). Bill Gates Speaks: Insight from the World's Greatest Entrepreneur. Wiley. ISBN 978-0-471-40169-8. Retrieved March 10, 2011. The Gates family attended the University Congregational Church, where the Reverend Dale Turner was pastor.
+23. Jump up^ Berkowitz, Edward D (2006). Something Happened: A Political and Cultural Overview of the Seventies. Columbia University Press. ISBN 978-0-231-12494-2. RetrievedMarch 10, 2011. Bill Gates was a member of the baby boom, born in 1955 into an upper-middle-class family near Seattle." He attended the Congregational Church, participated in the Boy Scouts, and went to a fancy private school.
+24. Jump up^ Cringely, Robert X. (June 1996). "Part II". Triumph of the Nerds: The Rise of Accidental Empires. Season 1. PBS.
+25. Jump up^ Manes 1994, p. 24.
+26. Jump up^ Manes 1994, p. 27.
+27. ^ Jump up to:a b Gates 1996, p. 12.
+28. Jump up^ Manes 1994, p. 34.
+29. Jump up^ Paul Allen spills the beans on Gates' criminal past, UK, V3
+30. Jump up^ "Remarks by Bill Gates, co-chair", Bill & Melinda Gates Foundation – Press Room, Speeches, retrieved July 13, 2013
+31. Jump up^ Gates 1996, p. 14.
+32. Jump up^ Congressional Page History, The United States House Page Association of America, archived from the original on May 1, 2015, The Page Program has produced many politicians, Members of Congress, as well as other famous men and women. Some of these include: the Honorable John Dingell, the longest serving Member of Congress, Bill Gates, founder and CEO of the Microsoft Corporation, and Donnald K. Anderson, former Clerk of the House.
+33. Jump up^ "National Merit Scholarship Corporation – Scholars You May Know". nationalmerit.org. Retrieved October 25, 2015.
+34. Jump up^ "The new—and improved?—SAT". The Week Magazine. Archived from the original on May 10, 2006. RetrievedMay 23, 2006.
+35. Jump up^ Gates 1996, p. 15.
+36. Jump up^ Michael Hitt; R. Duane Ireland; Robert Hoskisson. Strategic Management: Concepts and Cases: Competitiveness and Globalization. p. 263. ISBN 978-1-111-82587-4. RetrievedOctober 25, 2015.
+37. ^ Jump up to:a b c Kestenbaum, David (July 4, 2008). "Before Microsoft, Gates Solved A Pancake Problem". National Public Radio. Archived from the original on September 16, 2012.
+38. Jump up^ "UT Dallas Team Bests Young Bill Gates With Improved Answer to So-Called Pancake Problem in Mathematics".University of Texas at Dallas. September 17, 2008. Archived from the original on August 5, 2012.
+39. Jump up^ Gates, William; Papadimitriou, Christos (1979). "Bounds for sorting by prefix reversal". Discrete Mathematics. 27: 47–57.doi:10.1016/0012-365X(79)90068-2.
+40. ^ Jump up to:a b Gates 1996, p. 19.
+41. Jump up^ Wallace 1993, p. 59.
+42. Jump up^ Gates 1996, p. 18.
+43. ^ Jump up to:a b c "Microsoft Visitor Center Student Information: Key Events in Microsoft History" (.DOC). Microsoft. Archived from the original on February 26, 2008. Retrieved February 18, 2008.
+44. ^ Jump up to:a b c d "Microsoft history". The History of Computing Project. Archived from the original on May 23, 2012. RetrievedMarch 31, 2008.
+45. Jump up^ Manes 1994, p. 81.
+46. Jump up^ Gates, William 'Bill' (October 13, 2005). Remarks (Speech). Waterloo, ON. Archived from the original on April 6, 2008. Retrieved March 31, 2008.
+47. ^ Jump up to:a b Bunnell, David (Feb–Mar 1982). "The Man Behind The Machine?". PC Magazine (interview). p. 16. RetrievedFebruary 17, 2012.
+48. Jump up^ Maiello, John Steele Gordon Michael (December 23, 2002)."Pioneers Die Broke". Forbes. Archived from the original on September 16, 2012. Retrieved March 31, 2008.
+49. ^ Jump up to:a b Gates 1996, p. 54.
+50. Jump up^ Manes 1994, p. 193.
+51. Jump up^ Freiberger, Paul (August 23, 1982). "Bill Gates, Microsoft and the IBM Personal Computer". InfoWorld. p. 22. RetrievedJanuary 29, 2015.
+52. Jump up^ "Challenges and Strategy" (PDF). Groklaw. RetrievedNovember 17, 2011.
+53. Jump up^ Freiberger, Paul (August 31, 1981). "Bugs in Radio Shack TRS-80 Model III: How Bad Are They?". InfoWorld. p. 49. Retrieved February 28, 2011.
+54. Jump up^ Thorlin, Fred (April 2000). "Fred Thorlin: The Big Boss at Atari Program Exchange" (Interview). Interview with Kevin Savetz. Atari archives. Retrieved December 6, 2012.
+55. Jump up^ Rensin, David (1994). "The Bill Gates Interview". Playboy.
+56. Jump up^ Ballmer, Steve (October 9, 1997). "Steve Ballmer Speech Transcript – Church Hill Club". Microsoft. Archived from the original on September 16, 2012. Retrieved March 31, 2008.
+57. ^ Jump up to:a b Isaacson, Walter (January 13, 1997). "The Gates Operating System". Time. Archived from the original on June 19, 2000. Retrieved March 31, 2008.
+58. Jump up^ Bank, David (February 1, 1999). "Breaking Windows". The Wall Street Journal. Archived from the original on July 29, 2012. Retrieved March 31, 2008.[dead link]
+59. Jump up^ Chapman, Glenn (June 27, 2008). "Bill Gates Signs Off". Agence France-Presse. Archived from the original on September 16, 2012.[dead link]
+60. ^ Jump up to:a b Gates, Bill (September 26, 1997). Remarks by Bill Gates(Speech). San Diego. Archived from the original on April 20, 2008. Retrieved March 31, 2008.
+61. Jump up^ Herbold, Robert (2004). The Fiefdom Syndrome: The Turf Battles That Undermine Careers and Companies – And How to Overcome Them. ISBN 0-385-51067-5.
+62. Jump up^ Gates, Bill. "Bill Gates Interview". Transcript of a Video History Interview / Computer History Collection (Interview). Interview with David Allison. National Museum of American History, Smithsonian Institution. Retrieved April 10, 2013.
+63. Jump up^ Pournelle, Jerry (September 1985). "PCs, Peripherals, Programs, and People". BYTE. p. 347. Retrieved March 20,2016.
+64. Jump up^ "Microsoft Announces Plans for July 2008 Transition for Bill Gates". Microsoft. June 15, 2006. Archived from the original on May 23, 2012.[dead link]
+65. Jump up^ Wasserman, Elizabeth (November 17, 1998). "Gates deposition makes judge laugh in court". CNN. RetrievedApril 10, 2013.
+66. Jump up^ "Microsoft's Teflon Bill". BusinessWeek. November 30, 1998. Archived from the original on May 24, 2012. RetrievedMarch 30, 2008.[dead link]
+67. ^ Jump up to:a b Heilemann, John (November 1, 2000). "The Truth, The Whole Truth, and Nothing But The Truth". Wired (8.11). Archived from the original on May 29, 2012. RetrievedMarch 31, 2008.[dead link]
+68. Jump up^ "Mugshots". The Smoking Gun. Archived from the original on September 16, 2012. Retrieved June 9, 2010.
+69. Jump up^ "Adblog". MSNBC. September 8, 2008. Retrieved May 23,2014.
+70. Jump up^ Ina Fried (September 11, 2008). "Seinfeld and Gates Hit the Road for Vista". CNET. Retrieved July 26, 2015.
+71. Jump up^ Matthew G. Miller; Peter Newcomb (January 2, 2014)."Billionaires Worth $3.7 Trillion Surge as Gates Wins 2013".Bloomberg Businessweek. Retrieved January 3, 2014.
+72. Jump up^ "Microsoft names Satya Nadella to replace Steve Ballmer". BBC News. February 4, 2014. Retrieved February 4, 2014.
+73. Jump up^ Jeff Goodell (March 13, 2014). "Bill Gates: The Rolling Stone Interview". Rolling Stone. Jann S. Wenner. RetrievedMarch 28, 2014.
+74. Jump up^ Mary Riddell (October 21, 2016). "Bill Gates: He eats Big Macs for lunch and schedules every minute of his day - meet the man worth $80 billion". The Telegraph. RetrievedOctober 24, 2016.
+75. Jump up^ Langdell, James (May 14, 1985). "Top-Bachelor Gates: Is He Compatible?". PC Magazine. p. 51. Retrieved October 28,2013.
+76. Jump up^ "coverage of the Gates' Medina, Washington estate".Forbes. May 22, 2002. Archived from the original on September 6, 2012. Retrieved June 9, 2010.
+77. ^ Jump up to:a b Goodell, Jeff (March 27, 2014). "Bill Gates: The Rolling Stone Interview". Rolling Stone. Retrieved April 14, 2014.
+78. Jump up^ (Lesinski 2006, p. 74)
+79. Jump up^ Paterson, Thane (June 13, 2000). ""He had come a long way to this blue lawn and his dream must have seemed so close he could hardly fail to grasp it"-FSF (Advice for Bill Gates: A Little Culture Wouldn't Hurt)". Business Week. Archived from the original on May 1, 2008. Retrieved April 28, 2008.
+80. Jump up^ "Bill Gates: Chairman". Microsoft Corporation. 2008. Archived from the original on May 23, 2012.[dead link]
+81. Jump up^ "Profile: Bill Gates". BBC news. January 26, 2004. Archived from the original on July 21, 2012. Retrieved January 1, 2010.
+82. Jump up^ (Fridson 2001, p. 113)
+83. Jump up^ Zuckerman, Laurence (October 27, 1997). "New Jet Eases Travel Hassles For Bill Gates". The New York Times. Archived from the original on September 16, 2012. RetrievedSeptember 2, 2012.
+84. Jump up^ Bolger, Joe (May 5, 2006). "I wish I was not the richest man in the world, says Bill Gates". The Times. UK. Archived from the original on July 10, 2012. Retrieved March 31, 2008.
+85. Jump up^ Cuadros, Alex; Harrison, Crayton (May 17, 2013). "Bill Gates Retakes World's Richest Title From Carlos Slim". Forbes. Retrieved May 30, 2013.
+86. Jump up^ "Bill Gates regains world's richest man title: Forbes". The Times of India. March 3, 2014.
+87. Jump up^ "Forbes Billionaires list". Archived from the original on May 25, 2012.
+88. Jump up^ Estevez, Dolia (June 7, 2014). "Mexico's Carlos Slim Reclaims World's Richest Man Title From Bill Gates". Forbes. Retrieved September 1, 2014.
+89. Jump up^ "Microsoft 2006 Proxy Statement". Microsoft. October 6, 2007. Archived from the original on May 30, 2012. RetrievedFebruary 14, 2008.
+90. Jump up^ Fried, Ina (December 14, 2004). "Gates joins board of Buffett's Berkshire Hathaway". CNET. Archived from the original on September 8, 2012. Retrieved March 31, 2008.
+91. Jump up^ Alex Osborn (February 18, 2016). "This Was Bill Gates' Favorite XBLA Game". IGN. Ziff Davis.
+92. Jump up^ "Gates foundation". Archived from the original on May 23, 2012.[dead link]
+93. Jump up^ Robin Toal (September 16, 2013). "The Top Ten US Charitable Foundations". Funds For NGOs. Funds For NGOs, LLC. Retrieved April 6, 2014.
+94. Jump up^ Cronin, Jon (January 25, 2005). "Bill Gates: billionaire philanthropist". BBC News. Archived from the original on July 31, 2012. Retrieved April 1, 2008.
+95. Jump up^ "Our Approach to Giving". Bill & Melinda Gates Foundation. Archived from the original on April 4, 2008. Retrieved April 1,2008.
+96. Jump up^ "What We Do". Bill and Melinda Gates Foundation. Bill and Melinda Gates Foundation. 2014. Retrieved April 6, 2014.
+97. Jump up^ "2005 Annual Report" (PDF). Rockefeller Brothers Fund. January 1, 2006. Archived (PDF) from the original on February 16, 2008. Retrieved February 14, 2008.
+98. Jump up^ "The 50 most generous Americans". Archived from the original on February 22, 2012.
+99. Jump up^ "Bill and Melinda Gates give 95% of wealth to charity". BBC News. October 18, 2010. Archived from the original on July 19, 2012.
+100. Jump up^ "Agricultural Development Golden Rice". RetrievedFebruary 3, 2016.
+101. Jump up^ Bina Abraham (October 1, 2010). "They half it in them".Gulf News. Archived from the original on July 8, 2012. Retrieved March 17, 2011.
+102. Jump up^ Moss, Rosabeth (December 14, 2010). "Four Strategic Generosity Lessons". Business Week. Archived from the original on July 24, 2012. Retrieved March 9, 2011.[dead link]
+103. Jump up^ "40 billionaires pledge to give away half of wealth". Archived from the original on September 7, 2012. RetrievedAugust 8, 2010.
+104. Jump up^ Robyn Griggs Lawrence (February 22, 2011). "A Rich Gift: Homemade Jelly for Bill and Melinda Gates". Mother Earth News. Archived from the original on September 16, 2012. Retrieved March 10, 2011.
+105. Jump up^ "Forbes". Forbes. Retrieved February 19, 2015.
+106. Jump up^ "The Fiscal Times". The Fiscal Times. RetrievedFebruary 19, 2015.
+107. Jump up^ Holley, Peter (March 24, 2015). "Apple co-founder on artificial intelligence: 'The future is scary and very bad for people'". The Washington Post. Retrieved April 8, 2015.
+108. Jump up^ "Permalink to an answer from "Hi Reddit, I'm Bill Gates and I'm back for my third AMA. Ask me anything. • /r/IAmA"".reddit. Retrieved June 10, 2015.
+109. Jump up^ "Baidu CEO Robin Li interviews Bill Gates and Elon Musk at the Boao Forum, March 29, 2015". YouTube. RetrievedApril 8, 2015.
+110. Jump up^ Matthew G.H. Chun (April 14, 1999). "Bill Gates Donates $20 million to MIT". The Harvard Crimson. The Harvard Crimson, Inc. Retrieved April 6, 2014.
+111. Jump up^ "Our Campus TEACHING, RESEARCH, AND ADMINISTRATIVE SPACES". Harvard School of Engineering and Applied Sciences. President and Fellows of Harvard College. 2014. Retrieved April 6, 2014.
+112. Jump up^ "Gates Computer Science Building". Stanford Engineering. Stanford University. 2014. Archived from the original on April 1, 2014. Retrieved April 6, 2014.
+113. Jump up^ "Bill Gates". Facebook. Retrieved August 15, 2014.
+114. Jump up^ Kass, Jason (November 18, 2013). "Bill Gates Can't Build a Toilet". New York Times Opinion Pages. New York Times. Retrieved March 24, 2015.
+115. Jump up^ "BBC news article "Bill Gates drinks water distilled from human faeces"". Retrieved January 11, 2015.
+116. Jump up^ "From poop to portable, This Ingenious Machine Turns Feces into Drinking Water". gatesnotes, The Blog of Bill Gates. January 5, 2015. Retrieved January 13, 2015.
+117. Jump up^ "Bill Gates and Jimmy Drink Poop Water". Youtube Channel of The Tonight Show Starring Jimmy Fallon. January 22, 2015.
+118. Jump up^ "Briefly Noted | Excellence in Philanthropy | The Philanthropy Roundtable". www.philanthropyroundtable.org. RetrievedMarch 10, 2016.
+119. Jump up^ "Dark butt over good works of Gates Foundation". Los Angeles Times. January 7, 2007. Archived from the originalon September 16, 2012., Los Angeles Times, January 7, 2006.
+120. Jump up^ Heim, Kristi (January 10, 2007). "Gates Foundation to review investments". The Seattle Times. Archived from the originalon July 16, 2012.[dead link], The Seattle Times, January 10, 2007.
+121. Jump up^ Gates Foundation to maintain its investment plan[dead link],The Austin Statesman, January 14, 2007.[dead link]
+122. Jump up^ "Lefever, Ernest W. (November 1, 1999). "Bill Gates' 'Diversity' Subverts Merit". Los Angeles Times. Archived from the original on July 10, 2012.", Los Angeles Times, November 1, 1999
+123. Jump up^ ""The Gates Millennium Scholars program". Archived fromthe original on August 3, 2012.[dead link]"
+124. Jump up^ "Bill Gates faces circumcision protest". Vancouver 24 hrs. Retrieved March 29, 2016.
+125. Jump up^ Andy Coghlan. "Bill Gates helps fund mass circumcision programme". New Scientist. Retrieved March 29, 2016.
+126. Jump up^ Thibault, Marie (January 19, 2010). "The Next Bill Gates".Forbes. Archived from the original on July 31, 2012. Retrieved December 20, 2010.
+127. Jump up^ (Lesinski 2006, p. 102)
+128. Jump up^ Cowley, Jason (June 22, 2006). "Heroes of our time – the top 50". New Statesman. UK. Archived from the original on December 31, 2007. Retrieved February 17, 2008.
+129. Jump up^ "Gates 'second only to Blair'". BBC News. September 26, 1999. Archived from the original on July 11, 2012. RetrievedMarch 30, 2008.
+130. Jump up^ "The World's Most Powerful People". Forbes. December 5, 2012. Archived from the original on December 30, 2012. Retrieved June 30, 2013.
+131. Jump up^ "The World's Most Powerful People". Forbes. November 2, 2011. Archived from the original on December 4, 2011. Retrieved June 30, 2013.
+132. Jump up^ "Bill Gates Speaks of Opportunities and Challenges Facing "Generation I"". News Center. Microsoft. RetrievedOctober 25, 2015.
+133. Jump up^ "Eredoctoraat Universiteit Nyenrode voor Wim Kok" (Press release) (in Dutch). Nyenrode Business Universiteit. August 13, 2003. Archived from the original on February 18, 2008. Retrieved February 18, 2008.
+134. Jump up^ "Honorary doctors at KTH". About KTH. Stockholm: KTH Royal Institute of Technology. Retrieved January 19, 2015.
+135. Jump up^ "Bill Gates Awarded Honorary Doctorate of Tsinghua". Tsinghua University. April 19, 2007. Archived from the originalon July 12, 2012. Retrieved June 9, 2010.[dead link]
+136. Jump up^ Hughes, Gina (June 8, 2007). "Bill Gates Gets Degree After 30 Years". Yahoo!. Archived from the original on July 17, 2012. Retrieved February 18, 2008.
+137. Jump up^ "Karolinska Institutet Medicine hedersdoktorer 1910?2013"(PDF). Karolinska Institutet – Honorary Doctors at Karolinska Institutet (in Swedish). Karolinska Institutet. May 22, 2013. Retrieved January 19, 2015.
+138. Jump up^ University of Cambridge (June 12, 2009). "The Chancellor in Cambridge to confer Honorary Degrees". University of Cambridge. Archived from the original on July 17, 2012. Retrieved August 20, 2009.
+139. Jump up^ Blakely, Rhys (July 18, 2007). "Gates how piracy worked for me in China". The Times. London. Archived from the original on July 7, 2012. Retrieved April 26, 2010.
+140. Jump up^ "Knighthood for Microsoft's Gates". BBC News. March 2, 2005. Archived from the original on July 11, 2012. RetrievedFebruary 18, 2008.
+141. Jump up^ "Proclamation of the Award". Diario Oficial de la Federación. Archived from the original on July 7, 2012. Retrieved March 30, 2008.
+142. Jump up^ "Bower Award for Business Leadership". The Franklin Institute. 2010. Retrieved June 30, 2013.
+143. Jump up^ "2010 Silver Buffalo Recipients". Scouting: 39. September–October 2010.
+144. Jump up^ Thompson, F. Christian (August 19, 1999). "Bill Gates' Flower Fly Eristalis gatesi Thompson". The Diptera Site. Archived from the original on August 5, 2012. Retrieved February 18,2008.
+145. Jump up^ National Winners | public service awards. Jefferson Awards.org. Retrieved on September 4, 2013.
+146. Jump up^ "The 2006 James C. Morgan Global Humanitarian Award". The Tech Museum of Innovation. Retrieved April 2, 2014.
+147. Jump up^ "Padma Awards – Press Information Board of India". Ministry of Home Affairs, India.
+148. Jump up^ "Padma awards 2015 announced: Advani, Amitabh among 104 awardees". Zee News.
+149. Jump up^ Levy, Jared Ari (June 4, 2013). "Bill Gates Joins $35 Million Funding in Startup ResearchGate". Bloomberg. RetrievedJanuary 28, 2015.
+150. Jump up^ "Machine That Changed The World, The; Interview with Bill Gates, 1990 (raw video)". WGBH Open Vault. 1990. Retrieved September 19, 2016.
+151. Jump up^ "Bill Gates Goes to Sundance, Offers an Education". ABC News. January 23, 2010. Archived from the original on July 1, 2012.
+152. Jump up^ "'Bogus Bill' has a blast playing billionaire in 'The Social Network'". KVAL 13. Archived from the original on July 30, 2015. Retrieved October 25, 2015.
+153. Jump up^ "American Genius". American Genius. RetrievedSeptember 10, 2015.
+154. Jump up^ Wills, Amanda. "Bill Gates Joins LinkedIn", Mashable, New York, June 13, 2013. Retrieved on July 30, 2013.
+155. Jump up^ "BBC Radio 4 – Desert Island Discs, Bill Gates". BBC. Retrieved March 29, 2016.
+
